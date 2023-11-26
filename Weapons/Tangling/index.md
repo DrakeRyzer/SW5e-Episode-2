@@ -1,8 +1,6 @@
 ---
 title: Tangling
 parent: Weapons
-
-nav_order: 10
 ---
 
 # Tangling Weapons

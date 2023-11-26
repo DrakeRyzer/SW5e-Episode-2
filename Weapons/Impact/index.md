@@ -1,8 +1,6 @@
 ---
 title: Impact
 parent: Weapons
-
-nav_order: 8
 ---
 
 # Impact Weapons

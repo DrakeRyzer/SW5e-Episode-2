@@ -1,7 +1,6 @@
 ---
 title: Crossbows
 parent: Weapons
-nav_order: 6
 ---
 
 # Crossbows

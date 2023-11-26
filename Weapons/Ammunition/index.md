@@ -1,7 +1,6 @@
 ---
 title: Ammunition
 parent: Weapons
-nav_order: 12
 ---
 
 # Ammunition

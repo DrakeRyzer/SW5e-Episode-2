@@ -1,8 +1,6 @@
 ---
 title: Unarmed
 parent: Weapons
-
-nav_order: 11
 ---
 
 # Unarmed Weapons

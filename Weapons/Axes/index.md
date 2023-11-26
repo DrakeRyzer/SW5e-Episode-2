@@ -1,7 +1,6 @@
 ---
 title: Axes
 parent: Weapons
-nav_order: 3
 ---
 
 # Axes

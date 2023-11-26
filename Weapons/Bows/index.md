@@ -1,7 +1,6 @@
 ---
 title: Bows
 parent: Weapons
-nav_order: 5
 ---
 
 # Bows

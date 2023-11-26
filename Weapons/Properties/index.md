@@ -1,8 +1,6 @@
 ---
 title: Glossary
 parent: Weapons
-
-nav_order: 13
 ---
 
 # Weapon Table Glossary

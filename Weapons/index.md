@@ -43,10 +43,10 @@ If you Multiclass, each Class gives Proficency in additional Weapon Groups accor
 
 | Class | Weapon Groups | Class | Weapon Groups |
 |:---:|:---:|:---:|:---:|
-| Artificer | 1  | Paladin   | 3  |
-| Barbarian | 3  | Ranger    | 3  |
-| Bard      | 2  | Rogue     | 1  |
-| Cleric    | 2  | Sorcerer  | 0  |
-| Druid     | 1  | Warlock   | 0  |
-| Fighter   | 4  | Wizard    | 0  |
-| Monk      | 2  |||
+| Artificer | +1  | Paladin   | +3  |
+| Barbarian | +3  | Ranger    | +3  |
+| Bard      | +2  | Rogue     | +1  |
+| Cleric    | +2  | Sorcerer  | +0  |
+| Druid     | +1  | Warlock   | +0  |
+| Fighter   | +4  | Wizard    | +0  |
+| Monk      | +2  |||

@@ -1,7 +1,6 @@
 ---
 title: Blades
 parent: Weapons
-nav_order: 4
 ---
 
 # Blades

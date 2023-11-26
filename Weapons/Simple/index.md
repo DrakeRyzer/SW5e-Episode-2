@@ -1,8 +1,6 @@
 ---
 title: Simple Weapons
 parent: Weapons
-
-nav_order: 2
 ---
 
 # Simple Weapons

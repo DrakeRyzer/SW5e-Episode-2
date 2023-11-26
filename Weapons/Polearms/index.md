@@ -1,8 +1,6 @@
 ---
 title: Polearms
 parent: Weapons
-
-nav_order: 9
 ---
 
 # Polearms
