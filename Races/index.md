@@ -1,5 +1,5 @@
 ---
-title: Classes
+title: Races
 ---
 
 # Classes
