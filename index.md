@@ -3,7 +3,7 @@ title: SW5e Episode 2
 nav_exclude: true
 ---
 
-# <img src='Images/sw5e-logo.png' style= 'float:; width:200px;'> Episode 2
+# <img src='zz Images/sw5e-logo.png' style= 'float:; width:200px;'> Episode 2
 
 Home of future updates for the Star Wars 5th Edition system.
 
