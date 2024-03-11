@@ -44,7 +44,7 @@ Droids are typically called by their designation, given to them when they are cr
 
 **Designations (Names).** CO-34 (See-Oh Three Four), FX-9 (Effex), PK-4 (Pook), SAE-B13 (Sable)
 
-\columnbreak
+
 
 <div style='margin-top:158px'></div>
 

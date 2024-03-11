@@ -42,7 +42,7 @@ Droids are typically called by their designation, given to them when they are cr
 
 **Designations (Names).** K-2SO (Kay-Tuesso), PZ-99 (Peezee-Ninety-Nine), VL-44 (Vee-El Forty-Four)
 
-\columnbreak
+
 
 <div style='margin-top:189px'></div>
 

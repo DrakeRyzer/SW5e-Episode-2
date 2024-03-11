@@ -46,7 +46,7 @@ Droids are typically called by their designation, given to them when they are cr
 
 **Designations (Names).** K-OHN (Kone), I-5YQ (I-Five), O-MR1 (Omri), TC-14 (Teesee Fourteen)
 
-\columnbreak
+
 
 <div style='margin-top:234px'></div>
 
