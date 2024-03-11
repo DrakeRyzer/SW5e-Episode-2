@@ -4,4 +4,4 @@ has_children: true
 nav_order: 4
 ---
 
-# Expanded Contents
+# <img src='zz Images/sw5e-logo.png' style= 'float:; width:200px;'> Expanded Contents
