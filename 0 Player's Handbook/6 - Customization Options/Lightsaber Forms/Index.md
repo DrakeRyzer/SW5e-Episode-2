@@ -4,7 +4,7 @@ parent: Customization Options
 grand_parent: Player's Handbook
 ---
 
-<img src='../../Images/lukeandvader.png' style='float:right; width:400px;'>
+<img src='..\..\..\zz Images\lukeandvader.png' style='float:right; width:400px;'>
 
 # Lightsaber Forms
 
