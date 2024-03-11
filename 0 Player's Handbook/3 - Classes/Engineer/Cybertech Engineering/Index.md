@@ -9,7 +9,7 @@ has_children: true
 
 # Cybertech Engineering
 
-<img src='../../../../Images/Classes/Cybertech.png' style='float:right; width:300px;'>
+<img src='../../../../zzImages/Classes/Cybertech.png' style='float:right; width:300px;'>
 
 Those engineers who choose the Cybertech Engineering discipline focus on the ability to enhance their primary wristpad in order to augment and empower their techcasting abilities.
 
