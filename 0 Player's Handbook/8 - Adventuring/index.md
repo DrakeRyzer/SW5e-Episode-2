@@ -1,8 +1,8 @@
 ---
-title: Combat
+title: Adventuring
 parent: Player's Handbook
 has_children: true
-nav_order: 9
+nav_order: 8
 ---
 
-## Combat
+# Equipment

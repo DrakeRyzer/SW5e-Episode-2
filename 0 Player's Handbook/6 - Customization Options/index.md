@@ -2,6 +2,7 @@
 title: Customization Options
 parent: Player's Handbook
 has_children: true
+nav_order: 6
 ---
 
 # Customization Options
