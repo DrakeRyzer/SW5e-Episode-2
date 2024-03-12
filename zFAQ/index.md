@@ -91,8 +91,9 @@ It's a Big Kriffin' Gun.
 Image needed
 
 ## I'm a new GM. Where should I go to get tips.
-Dungeon Jedi Masters is the "official" reference for videos, tutorials, and the like. 
-https://dungeonjedimasters.com/ 
+Check out [this document](https://www.gmbinder.com/share/-NX7gyk7HJo7o7EdODBY) for guidance on how to delve into SW5e rules and content, common pitfalls for new SW5e GMs, and other important information.
+
+[Dungeon Jedi Masters](https://dungeonjedimasters.com/) is the "official" reference for videos, tutorials, and the like. 
 
 ## Can droids benefit from Forcecasting Secrets features that treat force powers as tech powers, like Inquisitor scout and Artificer engineer?
 Yes. Creatures with the Force-Insensitive special trait can benefit from these features, because they aren't learning the chosen force powers as force powers. Instead, they treat those powers entirely as tech powers, which means they could not cast them as force powers if they later gained the ability to do so. The same is true for creatures with the Tech-Impaired special trait and the Techcasting Secrets feature.
