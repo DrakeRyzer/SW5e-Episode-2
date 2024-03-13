@@ -34,18 +34,18 @@ As you advance in levels, you might primarily remain a member of your original c
 To qualify for a new class, you must meet the ability score prerequisites for both your current class and your new one, as shown in the Multiclassing Prerequisites table. For example, a berserker who decides to multiclass into the engineer class must have both Strength and Intelligence scores of 13 or higher. Without the full training that a beginning character receives, you must be a quick study in your new class, having a natural aptitude that is reflected by higher-than-average ability scores.
 
 ##### Multiclassing Prerequisites
-|Class|&nbsp;&nbsp;|Ability Score Minimum|
-|:--|:--:|:--|
-|Berserker||Strength 13|
-|Consular||Wisdom or Charisma 13|
-|Engineer||Intelligence 13|
-|Fighter||Strength or Dexterity 13|
-|Guardian||Constitution 13, Wisdom or Charisma 13|
-|Monk||Dexterity 13, Wisdom or Charisma 13|
-|Operative||Dexterity 13|
-|Scholar||Intelligence 13|
-|Scout||Strength or Dexterity 13, Intelligence 13|
-|Sentinel||Dexterity 13, Wisdom or Charisma 13|
+|Class|Ability Score Minimum|
+|:--|:--|
+|Berserker|Strength 13|
+|Consular|Wisdom or Charisma 13|
+|Engineer|Intelligence 13|
+|Fighter|Strength or Dexterity 13|
+|Guardian|Constitution 13, Wisdom or Charisma 13|
+|Monk|Dexterity 13, Wisdom or Charisma 13|
+|Operative|Dexterity 13|
+|Scholar|Intelligence 13|
+|Scout|Strength or Dexterity 13, Intelligence 13|
+|Sentinel|Dexterity 13, Wisdom or Charisma 13|
 
 ### Experience Points
 The experience point cost to gain a level is always based on your total character level, as shown in the Character Advancement table in chapter 1, not your level in a particular class. So, if you are a consular 6/fighter 1, you must gain enough XP to reach 8th level before you can take your second level as a fighter or your seventh level as a consular.
