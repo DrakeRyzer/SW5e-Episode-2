@@ -68,18 +68,20 @@ ___
 > - **Armor Class** 16 (weave armor)
 > - **Hit Points** 33 (6d8+6)
 > - **Speed** 30ft
->___
+> ___
 >
-> | STR | DEX | CON | INT | WIS | CHA | <br>
+> | STR | DEX | CON | INT | WIS | CHA |
+> |:---:|:---:|:---:|:---:|:---:|:---:|
 > |12 (+1)|16 (+3)|12 (+1)|12 (+1)|14 (+2)|11 (+0)|
->___
+>
+> ___
 > - **Saving Throws** Dexterity +5
 > - **Skills** Perception +4, Survival +4
 > - **Senses** darkvision 60 ft, passive Perception 14, <br>(Adv, sight and hearing)
 > - **Languages** Galactic Basic, Mando'a
 > - **Challenge** 2 (450 XP) 
 > - **Proficiency Bonus** +2
->___
+> ___
 >
 > ***Mandalorian Tech.*** Weapons deal 2x dice of damage.
 >
