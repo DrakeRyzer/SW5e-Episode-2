@@ -8,6 +8,7 @@ nav_order: 11
 # Force Powers
 
 ## AT-WILL
+
 | Name | Casting Time | Range | Duration | Concentration | Additional |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 |Affect Mind|||||Universal|
