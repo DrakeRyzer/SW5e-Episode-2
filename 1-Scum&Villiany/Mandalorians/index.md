@@ -70,11 +70,16 @@ ___
 > - **Speed** 30ft
 >___
 > 
-> 
-> ### Ability Scores
-> | **STR:** 14 (+2) | **DEX:** 17 (+3) | **CON:** 11 (+0) | <br>
-> | **INT:** 10 (+0) | **WIS:** 16 (+3) | **CHA:** 10 (+0) |
-> 
+
+### Ability Scores
+| **STR:** 12 (+1) | **DEX:** 16 (+3) | **CON:** 12 (+1) | <br>
+| **INT:** 12 (+1) | **WIS:** 14 (+2) | **CHA:** 10 (+0) |
+
+
+
+
+> | STR | DEX | CON | INT | WIS | CHA | <br>
+> |12 (+1)|16 (+3)|12 (+1)|12 (+1)|14 (+2)|11 (+0)|
 >___
 > - **Saving Throws** Dexterity +5
 > - **Skills** Perception +4, Survival +4
