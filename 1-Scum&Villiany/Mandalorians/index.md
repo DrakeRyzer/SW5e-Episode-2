@@ -57,8 +57,6 @@ The mandalorian throws a grenade at a point it can see within 30ft + (Str mod * 
 #### Wrist Launcher
 ***Wrist Flamer.*** Each creature in a 15-foot cone or 5-foot wide line from the mandalorian must make a DC 13 Dexterity saving throw, taking 4 (1d8) fire damage or half as much on a successful one. <br> The fire spreads around corners and ignites flammable objects in the area that aren’t being worn or carried.
 
-<img src='https://www.gmbinder.com/images/sUgcrr4.png' style='position:absolute; bottom:-5px; left:-304px; width:400px; transform: scaleX(-1); z-index:1000;'>
-
 ***Wrist Missile.***
 
 ***Whistling Birds.***
@@ -72,9 +70,11 @@ ___
 > - **Speed** 30ft
 >___
 > 
-> |STR|DEX|CON|INT|WIS|CHA|
-> |:---:|:---:|:---:|:---:|:---:|:---:|
-> |12 (+1)|16 (+3)|12 (+1)|12 (+1)|14 (+2)|11 (+0)|
+> 
+> ### Ability Scores
+> | **STR:** 14 (+2) | **DEX:** 17 (+3) | **CON:** 11 (+0) | <br>
+> | **INT:** 10 (+0) | **WIS:** 16 (+3) | **CHA:** 10 (+0) |
+> 
 >___
 > - **Saving Throws** Dexterity +5
 > - **Skills** Perception +4, Survival +4
