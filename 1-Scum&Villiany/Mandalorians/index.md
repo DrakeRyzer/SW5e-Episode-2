@@ -68,26 +68,31 @@ ___
 > - **Armor Class** 16 (weave armor)
 > - **Hit Points** 33 (6d8+6)
 > - **Speed** 30ft
-> ___
+> ---
 >
 > | STR | DEX | CON | INT | WIS | CHA |
 > |:---:|:---:|:---:|:---:|:---:|:---:|
 > |12 (+1)|16 (+3)|12 (+1)|12 (+1)|14 (+2)|11 (+0)|
 >
-> ___
+> ***
 > - **Saving Throws** Dexterity +5
 > - **Skills** Perception +4, Survival +4
 > - **Senses** darkvision 60 ft, passive Perception 14, <br>(Adv, sight and hearing)
 > - **Languages** Galactic Basic, Mando'a
 > - **Challenge** 2 (450 XP) 
 > - **Proficiency Bonus** +2
+>
 > ___
 >
 > ***Mandalorian Tech.*** Weapons deal 2x dice of damage.
 >
+> ***
+> 
 > ### Actions
 > ***Multiattack.*** The mandalorian makes two weapon attacks.
 >
+> ---
+> 
 > ***Blaster Carbine.*** *Ranged Weapon Attack:* (105/420 ft.), **+5, 2d6+3 (10)** energy.
 >
 > ***Techblade.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 2d6+3 (10) kinetic damage.
@@ -97,9 +102,9 @@ ___
 > ***Aggressive.*** The mandalorian moves up to its speed toward a hostile creature that it can see.
 >
 > *Credit: Drake Ryzer*
-___
 
 ___
+
 > ## Mandalorian Trooper
 >*Medium humanoid, Lawful Neutral*
 > ___
