@@ -1,6 +1,6 @@
 ---
 title: Mandalorians
-parent: 1-Scum&Villiany
+parent: Scum & Villiany
 has_children: true
 ---
 

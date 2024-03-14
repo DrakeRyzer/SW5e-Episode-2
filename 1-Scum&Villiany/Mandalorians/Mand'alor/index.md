@@ -1,7 +1,7 @@
 ---
 title: Mand'alor
 parent: Mandalorians
-grand_parent: 1-Scum&Villiany
+grand_parent: Scum & Villiany
 has_children: true
 ---
 
