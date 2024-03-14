@@ -64,17 +64,20 @@ The mandalorian throws a grenade at a point it can see within 30ft + (Str mod * 
 ___
 > ## Mandalorian Initiate
 > *Medium humanoid, lawful neutral* <br>
+>
 > ___
+>
 > - **Armor Class** 16 (weave armor)
 > - **Hit Points** 33 (6d8+6)
 > - **Speed** 30ft
-> ---
 >
-> | STR | DEX | CON | INT | WIS | CHA |
-> |:---:|:---:|:---:|:---:|:---:|:---:|
-> |12 (+1)|16 (+3)|12 (+1)|12 (+1)|14 (+2)|11 (+0)|
+> ___
 >
-> ***
+> **STR:** 12 (+1), **DEX:** 16 (+3), **CON:** 12 (+1)<br>
+> **INT:** 12 (+1), **WIS:** 14 (+2), **CHA:** 10 (+0)
+>
+> ___
+>
 > - **Saving Throws** Dexterity +5
 > - **Skills** Perception +4, Survival +4
 > - **Senses** darkvision 60 ft, passive Perception 14, <br>(Adv, sight and hearing)
@@ -86,13 +89,13 @@ ___
 >
 > ***Mandalorian Tech.*** Weapons deal 2x dice of damage.
 >
-> ***
-> 
+> ___
+>
 > ### Actions
 > ***Multiattack.*** The mandalorian makes two weapon attacks.
 >
-> ---
-> 
+> ___
+>
 > ***Blaster Carbine.*** *Ranged Weapon Attack:* (105/420 ft.), **+5, 2d6+3 (10)** energy.
 >
 > ***Techblade.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 2d6+3 (10) kinetic damage.
