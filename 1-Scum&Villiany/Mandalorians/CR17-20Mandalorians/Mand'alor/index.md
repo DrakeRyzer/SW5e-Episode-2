@@ -1,8 +1,7 @@
 ---
 title: Mand'alor
-parent: Mandalorians
-grand_parent: Scum & Villiany
-has_children: true
+parent: Challenge Rating 17-20 Mandalorians
+grand_parent: Mandalorians
 ---
 
 # Mand'alor
