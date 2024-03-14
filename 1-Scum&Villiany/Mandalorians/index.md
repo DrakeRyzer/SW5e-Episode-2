@@ -69,15 +69,7 @@ ___
 > - **Hit Points** 33 (6d8+6)
 > - **Speed** 30ft
 >___
-> 
-
-### Ability Scores
-| **STR:** 12 (+1) | **DEX:** 16 (+3) | **CON:** 12 (+1) | <br>
-| **INT:** 12 (+1) | **WIS:** 14 (+2) | **CHA:** 10 (+0) |
-
-
-
-
+>
 > | STR | DEX | CON | INT | WIS | CHA | <br>
 > |12 (+1)|16 (+3)|12 (+1)|12 (+1)|14 (+2)|11 (+0)|
 >___
@@ -85,7 +77,8 @@ ___
 > - **Skills** Perception +4, Survival +4
 > - **Senses** darkvision 60 ft, passive Perception 14, <br>(Adv, sight and hearing)
 > - **Languages** Galactic Basic, Mando'a
-> - **Challenge** 2 (450 XP) <p style="text-align:right"> Proficiency Bonus +2 </p>
+> - **Challenge** 2 (450 XP) 
+> - **Proficiency Bonus** +2
 >___
 >
 > ***Mandalorian Tech.*** Weapons deal 2x dice of damage.
