@@ -10,9 +10,9 @@ nav_order: 11
 ## AT-WILL
 
 | Name | Casting Time | Range | Duration | Concentration | Additional |
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-|Affect Mind|||||Universal|
-|||||||
+|:-----------|:-----------|:-----------|:-----------|:-----------|:-----------|
+| Affect Mind | Universal |  |  |  |  |
+|  |  |  |  |  |  |
 
 Battle Insight
 Burst
