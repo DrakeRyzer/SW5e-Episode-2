@@ -937,3 +937,6 @@ You can prime and throw grenades and set mines with your bonus action,
 CAUSE AND EFFECT
 Demolitions Specialist Fighter
 You can prime and throw grenades and set mines with your bonus action,
+
+DEXTERITY
+A weapon with this property requires more skill to control. While wielding it, you have disadvantage on attack rolls unless you meet the Dexterity requirement.
