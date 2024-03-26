@@ -121,8 +121,10 @@ As a berserker, you gain the follow class features.
 - **Hit Points at Higher Levels:** 1d12 (or 7) + your Constitution modifier per berserker level after 1st
 
 #### Proficiencies
+
 - **Armor:** Light armor, medium armor
-- **Weapons:** All vibroweapons, simple blasters<br>
+- **Weapons:** All vibroweapons, simple blasters
+
 - **Tools:** None
 - **Saving Throws:** Strength, Constitution
 - **Skills:** Choose two from Animal Handling, Athletics, Intimidation, Nature, Perception, Survival
