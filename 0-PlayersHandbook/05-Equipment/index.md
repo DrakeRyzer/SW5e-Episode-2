@@ -178,18 +178,18 @@ Heavy shields are much larger and more cumbersome, but they offer more protectio
 
 |Name&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|Cost&nbsp;&nbsp;|Armor|Weight&nbsp;&nbsp;|Properties&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| 
 |:---|---:|:---|-:|:---|
-|_Light Armor_	||||||
+|_Light Armor_	||||
 | &emsp;Combat suit      		|	 100 cr&nbsp;&nbsp;|	11 + Dex modifier|10.00 lb&nbsp;&nbsp;|-|
 | &emsp;Fiber armor		        |	 450 cr&nbsp;&nbsp;|	12 + Dex modifier|13.00 lb&nbsp;&nbsp;|-|
-|_Medium Armor_	||||||
+|_Medium Armor_	||||
 | &emsp;Mesh armor		        |	 500 cr&nbsp;&nbsp;|	13 + Dex modifier (max 2)|20 lb&nbsp;&nbsp;|-|
 | &emsp;Weave armor			    |  1,000 cr&nbsp;&nbsp;|	14 + Dex modifier (max 2)|25 lb&nbsp;&nbsp;|-|
 | &emsp;Composite armor	        |  2,500 cr&nbsp;&nbsp;|	15 + Dex modifier (max 2)|45 lb&nbsp;&nbsp;|Bulky|
-|_Heavy Armor_	||||||
+|_Heavy Armor_	||||
 | &emsp;Battle armor			    |    750 cr&nbsp;&nbsp;|	16	|55 lb&nbsp;&nbsp;|Bulky, strength 13|
 | &emsp;Assault armor	        |  2,000 cr&nbsp;&nbsp;|	17	|60 lb&nbsp;&nbsp;|Bulky, strength 15|
 | &emsp;Heavy exoskeleton   	    |  9,000 cr&nbsp;&nbsp;|	18	|65 lb&nbsp;&nbsp;|Bulky, strength 17|
-|_Shield_		||||||
+|_Shield_		||||
 | &emsp;Light physical shield    |     50 cr&nbsp;&nbsp;|	+1	| 6.00 lb&nbsp;&nbsp;|-|
 | &emsp;Light shield generator	|    125 cr&nbsp;&nbsp;|	+1	| 2.00 lb&nbsp;&nbsp;|-|
 | &emsp;Medium physical shield   |	 150 cr&nbsp;&nbsp;|	+2	|18.00 lb&nbsp;&nbsp;|Strength 13|
