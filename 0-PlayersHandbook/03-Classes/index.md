@@ -122,8 +122,7 @@ As a berserker, you gain the follow class features.
 
 #### Proficiencies
 - **Armor:** Light armor, medium armor
-- **Weapons:** All vibroweapons, simple blasters
-
+- **Weapons:** All vibroweapons, simple blasters<br>
 - **Tools:** None
 - **Saving Throws:** Strength, Constitution
 - **Skills:** Choose two from Animal Handling, Athletics, Intimidation, Nature, Perception, Survival
