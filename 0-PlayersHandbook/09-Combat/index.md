@@ -104,11 +104,11 @@ The "Special Types of Movement" section in Chapter 8 gives the particulars for j
 #### Actions That Grant Movement
 If an action, bonus action, or reaction allows you to move as part of its effects, this additional movement does not count towards your speed. If it does not require an action, however, it does count towards your speed.  
 
-### ing Up Your Move
-You can  up your movement on your turn, using some of your speed before and after your action. For example, if you have a speed of 30 feet, you can move 10 feet, take your action, and then move 20 feet.
+### Breaking Up Your Move
+You can break up your movement on your turn, using some of your speed before and after your action. For example, if you have a speed of 30 feet, you can move 10 feet, take your action, and then move 20 feet.
 
 #### Moving Between Attacks
-If you take an action that includes more than one weapon attack, you can  up your movement even further by moving between those attacks. For example, a fighter with the Extra Attack feature who has a speed of 25 feet could move 10 feet, attack, move 15 feet, and then attack again.
+If you take an action that includes more than one weapon attack, you can break up your movement even further by moving between those attacks. For example, a fighter with the Extra Attack feature who has a speed of 25 feet could move 10 feet, attack, move 15 feet, and then attack again.
 
 #### Using Different Speeds
 If you have more than one speed, such as your walking speed and a flying speed, you can switch back and forth between your speeds during your move. Whenever you switch, subtract the distance you've already moved from the new speed. The result determines how much farther you can move. If the result is 0 or less, you can't use the new speed during the current move.
@@ -217,7 +217,7 @@ Alternatively, you can aid an ally in attacking a creature within 5 feet of you.
 When you take the Hide action, you make a Dexterity (Stealth) check in an attempt to hide, following the rules in chapter 7 for hiding. If you succeed, you gain certain benefits, as described in the "Unseen Attackers and Targets" section later in this chapter.
 
 > #### Improvising an Action
-> Your character can do things not covered by the actions in this chapter, such as ing down doors, intimidating enemies, sensing weaknesses in defenses, or calling for a parley with a foe. The only limits to the actions you can attempt are your imagination and your character's ability scores. See the descriptions of the ability scores in chapter 7 for inspiration as you improvise.
+> Your character can do things not covered by the actions in this chapter, such as breaking down doors, intimidating enemies, sensing weaknesses in defenses, or calling for a parley with a foe. The only limits to the actions you can attempt are your imagination and your character's ability scores. See the descriptions of the ability scores in chapter 7 for inspiration as you improvise.
 > 
 > When you describe an action not detailed elsewhere in the rules, the GM tells you whether that action is possible and what kind of roll you need to make, if any, to determine success or failure.
 
@@ -251,7 +251,7 @@ When you make an attack, your attack roll determines whether the attack hits or 
 #### Modifiers to the Roll
 When a character makes an attack roll, the two most common modifiers to the roll are an ability modifier and the character's proficiency bonus. When a creature makes an attack roll, it uses whatever modifier is provided in its stat block.
 
-***Ability Modifier.*** The ability modifier used for a melee weapon attack is Strength, and the ability modifier used for a ranged weapon attack is Dexterity. Weapons that have the finesse or thrown property  this rule. 
+***Ability Modifier.*** The ability modifier used for a melee weapon attack is Strength, and the ability modifier used for a ranged weapon attack is Dexterity. Weapons that have the finesse or thrown property break this rule. 
 
 Some powers also require an attack roll. The ability modifier used for a power attack depends on the force- or tech-casting ability of the force- or tech-caster, as explained in chapter 10.
 
