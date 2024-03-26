@@ -47,7 +47,6 @@ By virtue of your species, your character can speak, read, and write certain lan
 ___
 > ## Bith
 > 
-> 
 > #### Visual Characteristics
 > 
 > |:--|:--|
@@ -64,7 +63,7 @@ ___
 > 
 > #### Sociocultural Characteristics
 > 
-> |:--|:--|:--|
+> |:--|:--|
 > |***Homeworld***|Clak'dor VII|
 > |***Language***|Bith|
 
@@ -116,26 +115,26 @@ As a bith, you have the following special traits.
 
 ___
 > ## Bothan
-> ___
+> 
 > #### Visual Characteristics
-> ||||
-> |:--|:--|:--|
-> |***Skin Color***|&nbsp;&nbsp;|Brown|
-> |***Hair Color***|&nbsp;&nbsp;|Black, brown, or gray (with age)|
-> |***Eye Color***|&nbsp;&nbsp;|Brown or green|
-> |***Distinctions***|&nbsp;&nbsp;|Diminutive stature, mood-sensitive fur|
+> 
+> |:--|:--|
+> |***Skin Color***|Brown|
+> |***Hair Color***|Black, brown, or gray (with age)|
+> |***Eye Color***|Brown or green|
+> |***Distinctions***|Diminutive stature, mood-sensitive fur|
 > ___
 > #### Physical Characteristics
-> |||||
-> |:--|:--|:--:|:--:|
-> |***Height***|&nbsp;&nbsp;|4'3"|+2d4"|
-> |***Weight***|&nbsp;&nbsp;|60 lb.|x(2d4) lb.|
+> |||
+> |:--|:--|:--:|
+> |***Height***|4'3"|+2d4"|
+> |***Weight***|60 lb.|x(2d4) lb.|
 > ___
 > #### Sociocultural Characteristics
-> ||||
-> |:--|:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Bothawui|
-> |***Language***|&nbsp;&nbsp;|Bothese|
+> 
+> |:--|:--|
+> |***Homeworld***|Bothawui|
+> |***Language***|Bothese|
 
 ### Biology and Appearance
 Bothans are a short species of furry humanoids. Bothans are covered in fur which shifted in response to their emotional state by way of gentle ripplings. It is this trait, named Wrendui, that betrays them when members of their kind intend to be duplicitous in their dealings with others. They possess tapered pointed ears, and both males and females were known to sport beards. 
@@ -187,22 +186,22 @@ ___
 > #### Visual Characteristics
 > ||||
 > |:--|:--|:--|
-> |***Skin Color***|&nbsp;&nbsp;|Gold to yellow-brown with dark stripes|
-> |***Hair Color***|&nbsp;&nbsp;|Brown, black, or grey|
-> |***Eye Color***|&nbsp;&nbsp;|Yellow or brown|
-> |***Distinctions***|&nbsp;&nbsp;|Lion-like features|
+> |***Skin Color***|Gold to yellow-brown with dark stripes|
+> |***Hair Color***|Brown, black, or grey|
+> |***Eye Color***|Yellow or brown|
+> |***Distinctions***|Lion-like features|
 > ___
 > #### Physical Characteristics
 > |||||
 > |:--|:--|:--:|:--:|
-> |***Height***|&nbsp;&nbsp;|4'9"|+2d12"|
-> |***Weight***|&nbsp;&nbsp;|130 lb.|x(2d4) lb.|
+> |***Height***|4'9"|+2d12"|
+> |***Weight***|130 lb.|x(2d4) lb.|
 > ___
 > #### Sociocultural Characteristics
 > ||||
 > |:--|:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Cathar|
-> |***Language***|&nbsp;&nbsp;|Catharese|
+> |***Homeworld***|Cathar|
+> |***Language***|Catharese|
 
 ### Biology and Appearance
 The Cathar have fur-covered bodies with thick manes as well as prominent, retractable claws that can deliver powerful killing attacks on foes and prey. Their bodies also possess rapid healing abilities. These traits make them the perfect hand-to-hand specialists.
@@ -254,22 +253,22 @@ ___
 > #### Visual Characteristics
 > ||||
 > |:--|:--|:--|
-> |***Skin Color***|&nbsp;&nbsp;|Light tones|
-> |***Hair Color***|&nbsp;&nbsp;|Blond, brown, or white (usually with age)|
-> |***Eye Color***|&nbsp;&nbsp;|Yellow|
-> |***Distinctions***|&nbsp;&nbsp;|Cone-like skull, binary brain|
+> |***Skin Color***|Light tones|
+> |***Hair Color***|Blond, brown, or white (usually with age)|
+> |***Eye Color***|Yellow|
+> |***Distinctions***|Cone-like skull, binary brain|
 > ___
 > #### Physical Characteristics
 > |||||
 > |:--|:--|:--:|:--:|
-> |***Height***|&nbsp;&nbsp;|5'8"|+2d8"|
-> |***Weight***|&nbsp;&nbsp;|120 lb.|x(2d4) lb.|
+> |***Height***|5'8"|+2d8"|
+> |***Weight***|120 lb.|x(2d4) lb.|
 > ___
 > #### Sociocultural Characteristics
 > ||||
 > |:--|:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Cerea|
-> |***Language***|&nbsp;&nbsp;|Cerean|
+> |***Homeworld***|Cerea|
+> |***Language***|Cerean|
 
 ### Biology and Appearance
 The Cereans' enlarged skulls, extending above their foreheads, house complex binary brains, provided with sufficient blood by an extra heart in their heads. The binary structure of Cerean thinking helps them to ponder two sides of an issue at once. It also enables them to process information and solve problems rapidly and provides a highly advanced capacity for concentration and meditation. Because of their thoughtful nature, they tend to be calm, rational and analytical, preferring peaceful philosophies and a lifestyle which works in harmony with nature. Though the quick-thinking Cereans have equally quick reflexes, they are commonly not as well coordinated as humans. 
@@ -319,22 +318,22 @@ ___
 > #### Visual Characteristics
 > ||||
 > |:--|:--|:--|
-> |***Skin Color***|&nbsp;&nbsp;|Blue or silver|
-> |***Hair Color***|&nbsp;&nbsp;|Black, blue, or silver|
-> |***Eye Color***|&nbsp;&nbsp;|Red|
-> |***Distinctions***|&nbsp;&nbsp;|Glowing red eyes, above-average night vision|
+> |***Skin Color***|Blue or silver|
+> |***Hair Color***|Black, blue, or silver|
+> |***Eye Color***|Red|
+> |***Distinctions***|Glowing red eyes, above-average night vision|
 > ___
 > #### Physical Characteristics
 > |||||
 > |:--|:--|:--:|:--:|
-> |***Height***|&nbsp;&nbsp;|4'11"|+2d10"|
-> |***Weight***|&nbsp;&nbsp;|110 lb.|x(2d4) lb.|
+> |***Height***|4'11"|+2d10"|
+> |***Weight***|110 lb.|x(2d4) lb.|
 > ___
 > #### Sociocultural Characteristics
 > ||||
 > |:--|:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Csilla|
-> |***Language***|&nbsp;&nbsp;|Cheunh|
+> |***Homeworld***|Csilla|
+> |***Language***|Cheunh|
 
 ### Biology and Appearance
 The chiss are a near-human species distinguished by their blue skin and glowing red eyes. Genetic analysis indicate that they are an offshoot of humanity, and it is believed that moving underground led to a divergence between them and baseline Humans. Their blue skin, jet black hair and red eyes generally command attention; these features make them physically striking and instantly recognizable.
@@ -378,22 +377,22 @@ ___
 > #### Visual Characteristics
 > ||||
 > |:--|:--|:--|
-> |***Skin Color***|&nbsp;&nbsp;|Red, pink, brown, or white|
-> |***Hair Color***|&nbsp;&nbsp;|Brown, black, or white|
-> |***Eye Color***|&nbsp;&nbsp;|Black|
-> |***Distinctions***|&nbsp;&nbsp;|Horns or horn spots, long pointed ears|
+> |***Skin Color***|Red, pink, brown, or white|
+> |***Hair Color***|Brown, black, or white|
+> |***Eye Color***|Black|
+> |***Distinctions***|Horns or horn spots, long pointed ears|
 > ___
 > #### Physical Characteristics
 > |||||
 > |:--|:--|:--:|:--:|
-> |***Height***|&nbsp;&nbsp;|4'10"|+2d8"|
-> |***Weight***|&nbsp;&nbsp;|120 lb.|x(2d4) lb.|
+> |***Height***|4'10"|+2d8"|
+> |***Weight***|120 lb.|x(2d4) lb.|
 > ___
 > #### Sociocultural Characteristics
 > ||||
 > |:--|:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Devaron|
-> |***Language***|&nbsp;&nbsp;|Devaronese|
+> |***Homeworld***|Devaron|
+> |***Language***|Devaronese|
 
 ### Biology and Appearance
 A bipedal mammalian species, Devaronians evolved in the dense jungles of Devaron as a hunter-gather species. Their bodies are denser than most humanoids' and as a result they were heavier than their<br> appearance would tend to indicate. Devaronians have<br> silver-based blood, which appears thick and black<br> when exposed. They possess a unique blood filtration<br> and cleansing system which processes through two<br> livers. Because their bodies are constantly cleansed of<br> toxins and carcinogens, the species is highly resistant<br> to poison. To this end, sulfur is used as a stimulant on<br> Devaron to enhance speed and strength, because<br> inhaling it causes the substance to enter the<br> bloodstream rapidly. Their livers struggle to eliminate<br> sulfur from their system, meaning that long-term use<br> can be dangerous.
@@ -521,14 +520,14 @@ ___
 > #### Visual Characteristics
 > ||||
 > |:--|:--|:--|
-> |***Color Scheme***|&nbsp;&nbsp;|Varies|
-> |***Distinctions***&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;|Retractible arms, integrated tools, diminutive size|
+> |***Color Scheme***|Varies|
+> |***Distinctions***&nbsp;Retractible arms, integrated tools, diminutive size|
 > ___
 > #### Physical Characteristics
 > |||||
 > |:--|:--|:--:|:--:|
-> |***Height***|&nbsp;&nbsp;|2'5"|+2d8"|
-> |***Weight***|&nbsp;&nbsp;|60 lb.|x1 lb.|
+> |***Height***|2'5"|+2d8"|
+> |***Weight***|60 lb.|x1 lb.|
 > ___
 > #### Creation Characteristics
 > |||
@@ -601,14 +600,14 @@ ___
 > #### Visual Characteristics
 > ||||
 > |:--|:--|:--|
-> |***Color Scheme***|&nbsp;&nbsp;|Typically metallic|
-> |***Distinctions***&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;|Human-like size, shuffling gait, typically talkative|
+> |***Color Scheme***|Typically metallic|
+> |***Distinctions***&nbsp;Human-like size, shuffling gait, typically talkative|
 > ___
 > #### Physical Characteristics
 > |||||
 > |:--|:--|:--:|:--:|
-> |***Height***|&nbsp;&nbsp;|5'6"|+2d4"|
-> |***Weight***|&nbsp;&nbsp;|120 lb.|x(2d6) lb.|
+> |***Height***|5'6"|+2d4"|
+> |***Weight***|120 lb.|x(2d6) lb.|
 > ___
 > #### Creation Characteristics
 > |||
@@ -678,14 +677,14 @@ ___
 > #### Visual Characteristics
 > ||||
 > |:--|:--|:--|
-> |***Color Scheme***|&nbsp;&nbsp;|Varies|
-> |***Distinctions***&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;|Variable size, combat-designed nature, often humanoid|
+> |***Color Scheme***|Varies|
+> |***Distinctions***&nbsp;Variable size, combat-designed nature, often humanoid|
 > ___
 > #### Physical Characteristics
 > |||||
 > |:--|:--|:--:|:--:|
-> |***Height***|&nbsp;&nbsp;|5'2"|+2d8"|
-> |***Weight***|&nbsp;&nbsp;|110 lb.|x(2d4) lb.|
+> |***Height***|5'2"|+2d8"|
+> |***Weight***|110 lb.|x(2d4) lb.|
 > ___
 > #### Creation Characteristics
 > |||
@@ -830,22 +829,22 @@ ___
 > #### Visual Characteristics
 > ||||
 > |:--|:--|:--|
-> |***Skin Color***|&nbsp;&nbsp;|Blue, green|
-> |***Hair Color***|&nbsp;&nbsp;|None|
-> |***Eye Color***|&nbsp;&nbsp;|Red|
-> |***Distinctions***|&nbsp;&nbsp;|Noseless, large red eyes, affinity for space travel|
+> |***Skin Color***|Blue, green|
+> |***Hair Color***|None|
+> |***Eye Color***|Red|
+> |***Distinctions***|Noseless, large red eyes, affinity for space travel|
 > ___
 > #### Physical Characteristics
 > |||||
 > |:--|:--|:--:|:--:|
-> |***Height***|&nbsp;&nbsp;|5'5"|+2d10"|
-> |***Weight***|&nbsp;&nbsp;|115 lb.|x(2d4) lb.|
+> |***Height***|5'5"|+2d10"|
+> |***Weight***|115 lb.|x(2d4) lb.|
 > ___
 > #### Sociocultural Characteristics
 > ||||
 > |:--|:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Duro|
-> |***Language***|&nbsp;&nbsp;|Durese|
+> |***Homeworld***|Duro|
+> |***Language***|Durese|
 
 ### Biology and Appearence
 The duros are humanoids with smooth blue-green skin, red eyes, lipless mouths, long thin noseless faces and green blood. Olfactory organs beneath their eyes are responsible for their sense of smell. Both females and males are bald, though both genders are easily distinguished. Their large red goggle-like eyes have slit pupils. Duros females lay eggs as they are descended from ancient reptiles, and they are born in a larval grub stage. Unlike similar species, the duros take care of their offspring from birth.
@@ -899,22 +898,22 @@ ___
 > #### Visual Characteristics
 > ||||
 > |:--|:--|:--|
-> |***Skin Color***|&nbsp;&nbsp;|Brown|
-> |***Hair Color***|&nbsp;&nbsp;|Shades of white, brown, red, and black|
-> |***Eye Color***|&nbsp;&nbsp;|Black|
-> |***Distinctions***|&nbsp;&nbsp;|Furry, short stature, acute sense of smell|
+> |***Skin Color***|Brown|
+> |***Hair Color***|Shades of white, brown, red, and black|
+> |***Eye Color***|Black|
+> |***Distinctions***|Furry, short stature, acute sense of smell|
 > ___
 > #### Physical Characteristics
 > |||||
 > |:--|:--|:--:|:--:|
-> |***Height***|&nbsp;&nbsp;|2'9"|+2d6"|
-> |***Weight***|&nbsp;&nbsp;|40 lb.|x1 lb.|
+> |***Height***|2'9"|+2d6"|
+> |***Weight***|40 lb.|x1 lb.|
 > ___
 > #### Sociocultural Characteristics
 > ||||
 > |:--|:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Forest Moon of Endor|
-> |***Language***|&nbsp;&nbsp;|Ewokese|
+> |***Homeworld***|Forest Moon of Endor|
+> |***Language***|Ewokese|
 
 ### Biology and Appearance
 Ewoks are sentient humanoid mammals, averaging about one meter in height, which can provide an advantage when trying to hide. They are covered in fur from head to toe, with brown and black the most common colors. Other Ewoks have near-white or reddish fur, but red fur is supposedly the rarest shade an Ewok can get. Most Ewoks have solid-colored fur, though a few sport stripes. Ewoks have large, bright eyes, small humanoid noses, and hands that possess two fingers and an opposable thumb. Despite their small size, Ewoks are physically strong enough to overpower combat-trained Humans. Their appearance has been likened to "little bears," though they are sometimes referred to as "mini Wookiees."
@@ -970,22 +969,22 @@ ___
 > #### Visual Characteristics
 > ||||
 > |:--|:--|:--|
-> |***Skin Color***|&nbsp;&nbsp;|Black, brown, green, pink, or yellow|
-> |***Hair Color***|&nbsp;&nbsp;|None|
-> |***Eye Color***|&nbsp;&nbsp;|Blue, black, brown, or gold|
-> |***Distinctions***|&nbsp;&nbsp;|Porcine humanoids with tusks and<br> horns|
+> |***Skin Color***|Black, brown, green, pink, or yellow|
+> |***Hair Color***|None|
+> |***Eye Color***|Blue, black, brown, or gold|
+> |***Distinctions***|Porcine humanoids with tusks and<br> horns|
 > ___
 > #### Physical Characteristics
 > |||||
 > |:--|:--|:--:|:--:|
-> |***Height***|&nbsp;&nbsp;|4'10"|+2d8"|
-> |***Weight***|&nbsp;&nbsp;|150 lb.|x(2d6) lb.|
+> |***Height***|4'10"|+2d8"|
+> |***Weight***|150 lb.|x(2d6) lb.|
 > ___
 > #### Sociocultural Characteristics
 > ||||
 > |:--|:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Gamorr|
-> |***Language***|&nbsp;&nbsp;|Gamorrese|
+> |***Homeworld***|Gamorr|
+> |***Language***|Gamorrese|
 
 ### Biology and Appearance
 Although a typical gamorrean is squat, green, and heavily built, not all shared these characteristics. Most gamorreans have a dark greenish coloration over a large portion of their bodies; however skin coloration does vary, particularly among females, with light skinned and two-toned pigmentation not uncommon. Black, brown, pinkish yellow, and even a rare white pigmentation are possible. Males tended to have less skin variation and had a greater tendency towards dark green skin perhaps because of their higher exposure to the radiation of the Gamorr Star. Eye coloration varied evenly between gold-yellow, blue, black and brown. The gamorreans generally put no importance on skin or eye coloration although there were some superstitions linked to certain markings.
@@ -1031,22 +1030,22 @@ ___
 > #### Visual Characteristics
 > ||||
 > |:--|:--|:--|
-> |***Skin Color***|&nbsp;&nbsp;|Blue, brown, or green|
-> |***Hair Color***|&nbsp;&nbsp;|None|
-> |***Eye Color***|&nbsp;&nbsp;|Light colors|
-> |***Distinctions***|&nbsp;&nbsp;|Extendable tongues, long ears, eye stalks, three toes, aquatic species|
+> |***Skin Color***|Blue, brown, or green|
+> |***Hair Color***|None|
+> |***Eye Color***|Light colors|
+> |***Distinctions***|Extendable tongues, long ears, eye stalks, three toes, aquatic species|
 > ___
 > #### Physical Characteristics
 > |||||
 > |:--|:--|:--:|:--:|
-> |***Height***|&nbsp;&nbsp;|5'5"|+2d10"|
-> |***Weight***|&nbsp;&nbsp;|115 lb.|x(2d4) lb.|
+> |***Height***|5'5"|+2d10"|
+> |***Weight***|115 lb.|x(2d4) lb.|
 > ___
 > #### Sociocultural Characteristics
 > ||||
 > |:--|:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Naboo|
-> |***Language***|&nbsp;&nbsp;|Gungan|
+> |***Homeworld***|Naboo|
+> |***Language***|Gungan|
 
 ### Biology and Appearance
 Starting life as tadpoles, Gungans develop into tall beings with extremely flexible cartilaginous skeletons. Strong leg muscles allow for powerful and quick frog-kick style swimming through water as well as a remarkable jumping ability while on land. Fin-like ears (called haillu) also aid them in swimming, as well as expressing emotions like aggression, friendship, and fear. They have partially retractable eyestalks with nictitating membranes when underwater. Green eyes are unusual amongst Gungans.
@@ -1102,22 +1101,22 @@ ___
 > #### Visual Characteristics
 > ||||
 > |:--|:--|:--|
-> |***Skin Color***|&nbsp;&nbsp;|Light to dark tones|
-> |***Hair Color***|&nbsp;&nbsp;|Black, blond, orange, brown, gray to white (usually with age)|
-> |***Eye Color***|&nbsp;&nbsp;|Amber, blue, brown, gray, green, hazel, purple, or red|
-> |***Distinctions***|&nbsp;&nbsp;|Biped with bilateral symmetry, opposable thumbs|
+> |***Skin Color***|Light to dark tones|
+> |***Hair Color***|Black, blond, orange, brown, gray to white (usually with age)|
+> |***Eye Color***|Amber, blue, brown, gray, green, hazel, purple, or red|
+> |***Distinctions***|Biped with bilateral symmetry, opposable thumbs|
 > ___
 > #### Physical Characteristics
 > |||||
 > |:--|:--|:--:|:--:|
-> |***Height***|&nbsp;&nbsp;|4'8"|+2d10"|
-> |***Weight***|&nbsp;&nbsp;|110 lb.|x(2d4) lb.|
+> |***Height***|4'8"|+2d10"|
+> |***Weight***|110 lb.|x(2d4) lb.|
 > ___
 > #### Sociocultural Characteristics
 > ||||
 > |:--|:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Coruscant|
-> |***Language***|&nbsp;&nbsp;|Galactic Basic|
+> |***Homeworld***|Coruscant|
+> |***Language***|Galactic Basic|
 
 
 ### Biology and Appearance
@@ -1162,22 +1161,22 @@ ___
 > #### Visual Characteristics
 > ||||
 > |:--|:--|:--|
-> |***Skin Color***|&nbsp;&nbsp;|Brown, dark red or green|
-> |***Hair Color***|&nbsp;&nbsp;|Brown, gray, or white|
-> |***Eye Color***|&nbsp;&nbsp;|Black or blue|
-> |***Distinctions***|&nbsp;&nbsp;|Curved neck, two mouths, aural flaps, locomotion tubes, throat sack|
+> |***Skin Color***|Brown, dark red or green|
+> |***Hair Color***|Brown, gray, or white|
+> |***Eye Color***|Black or blue|
+> |***Distinctions***|Curved neck, two mouths, aural flaps, locomotion tubes, throat sack|
 > ___
 > #### Physical Characteristics
 > |||||
 > |:--|:--|:--:|:--:|
-> |***Height***|&nbsp;&nbsp;|5'9"|+2d12"|
-> |***Weight***|&nbsp;&nbsp;|135 lb.|x(2d4) lb.|
+> |***Height***|5'9"|+2d12"|
+> |***Weight***|135 lb.|x(2d4) lb.|
 > ___
 > #### Sociocultural Characteristics
 > ||||
 > |:--|:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Ithor|
-> |***Language***|&nbsp;&nbsp;|Ithorese|
+> |***Homeworld***|Ithor|
+> |***Language***|Ithorese|
 
 
 ### Biology and Appearance
@@ -1232,22 +1231,22 @@ ___
 > #### Visual Characteristics
 > ||||
 > |:--|:--|:--|
-> |***Skin Color***|&nbsp;&nbsp;|Black|
-> |***Hair Color***|&nbsp;&nbsp;|Black|
-> |***Eye Color***|&nbsp;&nbsp;|Yellow|
-> |***Distinctions***|&nbsp;&nbsp;|Diminutive stature, mechanical aptitude, thieving nature|
+> |***Skin Color***|Black|
+> |***Hair Color***|Black|
+> |***Eye Color***|Yellow|
+> |***Distinctions***|Diminutive stature, mechanical aptitude, thieving nature|
 > ___
 > #### Physical Characteristics
 > |||||
 > |:--|:--|:--:|:--:|
-> |***Height***|&nbsp;&nbsp;|2'9"|+2d4"|
-> |***Weight***|&nbsp;&nbsp;|35 lb.|x1 lb.|
+> |***Height***|2'9"|+2d4"|
+> |***Weight***|35 lb.|x1 lb.|
 > ___
 > #### Sociocultural Characteristics
 > ||||
 > |:--|:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Tatooine|
-> |***Language***|&nbsp;&nbsp;|Jawaese|
+> |***Homeworld***|Tatooine|
+> |***Language***|Jawaese|
 
 
 
@@ -1311,22 +1310,22 @@ ___
 > #### Visual Characteristics
 > ||||
 > |:--|:--|:--|
-> |***Skin Color***|&nbsp;&nbsp;|Orange, red|
-> |***Hair Color***|&nbsp;&nbsp;|None|
-> |***Eye Color***|&nbsp;&nbsp;|Black, silver|
-> |***Distinctions***|&nbsp;&nbsp;|Rebreathers to survive in oxygen environments|
+> |***Skin Color***|Orange, red|
+> |***Hair Color***|None|
+> |***Eye Color***|Black, silver|
+> |***Distinctions***|Rebreathers to survive in oxygen environments|
 > ___
 > #### Physical Characteristics
 > |||||
 > |:--|:--|:--:|:--:|
-> |***Height***|&nbsp;&nbsp;|4'6"|+2d12"|
-> |***Weight***|&nbsp;&nbsp;|80 lb.|x(2d4) lb.|
+> |***Height***|4'6"|+2d12"|
+> |***Weight***|80 lb.|x(2d4) lb.|
 > ___
 > #### Sociocultural Characteristics
 > ||||
 > |:--|:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Dorin|
-> |***Language***|&nbsp;&nbsp;|Kel Dor|
+> |***Homeworld***|Dorin|
+> |***Language***|Kel Dor|
 
 
 
@@ -1388,22 +1387,22 @@ ___
 > #### Visual Characteristics
 > ||||
 > |:--|:--|:--|
-> |***Skin Color***|&nbsp;&nbsp;|Reddish brown, brown, red, cyan, mottle, salmon, gold, blue, grey, or white|
-> |***Hair Color***|&nbsp;&nbsp;|None|
-> |***Eye Color***|&nbsp;&nbsp;|Yellow, orange, blue, or gray|
-> |***Distinctions***|&nbsp;&nbsp;|Large, goggle-like eyes, high-domed heads, webbed hands|
+> |***Skin Color***|Reddish brown, brown, red, cyan, mottle, salmon, gold, blue, grey, or white|
+> |***Hair Color***|None|
+> |***Eye Color***|Yellow, orange, blue, or gray|
+> |***Distinctions***|Large, goggle-like eyes, high-domed heads, webbed hands|
 > ___
 > #### Physical Characteristics
 > |||||
 > |:--|:--|:--:|:--:|
-> |***Height***|&nbsp;&nbsp;|4'9"|+2d8"|
-> |***Weight***|&nbsp;&nbsp;|100 lb.|x(2d4) lb.|
+> |***Height***|4'9"|+2d8"|
+> |***Weight***|100 lb.|x(2d4) lb.|
 > ___
 > #### Sociocultural Characteristics
 > ||||
 > |:--|:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Mon Cala|
-> |***Language***|&nbsp;&nbsp;|Mon Cal|
+> |***Homeworld***|Mon Cala|
+> |***Language***|Mon Cal|
 
 
 ### Biology and Appearence
@@ -1461,22 +1460,22 @@ ___
 > #### Visual Characteristics
 > ||||
 > |:--|:--|:--|
-> |***Skin Color***|&nbsp;&nbsp;|Blue, brown, green, purple, or grey|
-> |***Hair Color***|&nbsp;&nbsp;|None|
-> |***Eye Color***|&nbsp;&nbsp;|Black, brown, or red|
-> |***Distinctions***|&nbsp;&nbsp;|Extrasensory head tentacles capable of detecting chemicals|
+> |***Skin Color***|Blue, brown, green, purple, or grey|
+> |***Hair Color***|None|
+> |***Eye Color***|Black, brown, or red|
+> |***Distinctions***|Extrasensory head tentacles capable of detecting chemicals|
 > ___
 > #### Physical Characteristics
 > |||||
 > |:--|:--|:--:|:--:|
-> |***Height***|&nbsp;&nbsp;|5'1"|+2d8"|
-> |***Weight***|&nbsp;&nbsp;|120 lb.|x(2d4) lb.|
+> |***Height***|5'1"|+2d8"|
+> |***Weight***|120 lb.|x(2d4) lb.|
 > ___
 > #### Sociocultural Characteristics
 > ||||
 > |:--|:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Glee Anselm|
-> |***Language***|&nbsp;&nbsp;|Nautila|
+> |***Homeworld***|Glee Anselm|
+> |***Language***|Nautila|
 
 
 
@@ -1540,22 +1539,22 @@ ___
 > #### Visual Characteristics
 > ||||
 > |:--|:--|:--|
-> |***Skin Color***|&nbsp;&nbsp;|Blue, green, purple, turquoise, or yellow|
-> |***Hair Color***|&nbsp;&nbsp;|None|
-> |***Eye Color***|&nbsp;&nbsp;|Blue, black, green, purple, or red|
-> |***Distinctions***|&nbsp;&nbsp;|Large and round pupil-less eyes, snouts, pointed ears, antennae, scaled and usually green skin|
+> |***Skin Color***|Blue, green, purple, turquoise, or yellow|
+> |***Hair Color***|None|
+> |***Eye Color***|Blue, black, green, purple, or red|
+> |***Distinctions***|Large and round pupil-less eyes, snouts, pointed ears, antennae, scaled and usually green skin|
 > ___
 > #### Physical Characteristics
 > |||||
 > |:--|:--|:--:|:--:|
-> |***Height***|&nbsp;&nbsp;|4'9"|+2d10"|
-> |***Weight***|&nbsp;&nbsp;|115 lb.|x(2d4) lb.|
+> |***Height***|4'9"|+2d10"|
+> |***Weight***|115 lb.|x(2d4) lb.|
 > ___
 > #### Sociocultural Characteristics
 > ||||
 > |:--|:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Rodia|
-> |***Language***|&nbsp;&nbsp;|Rodese|
+> |***Homeworld***|Rodia|
+> |***Language***|Rodese|
 
 
 
@@ -1613,22 +1612,22 @@ ___
 > #### Visual Characteristics
 > ||||
 > |:--|:--|:--|
-> |***Skin Color***|&nbsp;&nbsp;|Black or red|
-> |***Hair Color***|&nbsp;&nbsp;|Black, brown, gray, red, or white|
-> |***Eye Color***|&nbsp;&nbsp;|Orange, red, or yellow|
-> |***Distinctions***|&nbsp;&nbsp;|Tentacle facial appendages, often wear jewelry or have tattoos, bone spurs|
+> |***Skin Color***|Black or red|
+> |***Hair Color***|Black, brown, gray, red, or white|
+> |***Eye Color***|Orange, red, or yellow|
+> |***Distinctions***|Tentacle facial appendages, often wear jewelry or have tattoos, bone spurs|
 > ___
 > #### Physical Characteristics
 > |||||
 > |:--|:--|:--:|:--:|
-> |***Height***|&nbsp;&nbsp;|4'8"|+2d10"|
-> |***Weight***|&nbsp;&nbsp;|110 lb.|x(2d4) lb.|
+> |***Height***|4'8"|+2d10"|
+> |***Weight***|110 lb.|x(2d4) lb.|
 > ___
 > #### Sociocultural Characteristics
 > ||||
 > |:--|:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Korriban|
-> |***Language***|&nbsp;&nbsp;|Sith|
+> |***Homeworld***|Korriban|
+> |***Language***|Sith|
 
 
 
@@ -1686,22 +1685,22 @@ ___
 > #### Visual Characteristics
 > ||||
 > |:--|:--|:--|
-> |***Skin Color***|&nbsp;&nbsp;|Blue, green, orange, purple, red, white, or yellow|
-> |***Hair Color***|&nbsp;&nbsp;|None|
-> |***Eye Color***|&nbsp;&nbsp;|Black, blue, green, orange, purple, yellow, or red|
-> |***Distinctions***|&nbsp;&nbsp;|Sharp canine teeth, two montrals, three or four head-tails|
+> |***Skin Color***|Blue, green, orange, purple, red, white, or yellow|
+> |***Hair Color***|None|
+> |***Eye Color***|Black, blue, green, orange, purple, yellow, or red|
+> |***Distinctions***|Sharp canine teeth, two montrals, three or four head-tails|
 > ___
 > #### Physical Characteristics
 > |||||
 > |:--|:--|:--:|:--:|
-> |***Height***|&nbsp;&nbsp;|4'9"|+2d8"|
-> |***Weight***|&nbsp;&nbsp;|115 lb.|x(2d4) lb.|
+> |***Height***|4'9"|+2d8"|
+> |***Weight***|115 lb.|x(2d4) lb.|
 > ___
 > #### Sociocultural Characteristics
 > ||||
 > |:--|:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Shili|
-> |***Language***|&nbsp;&nbsp;|Togruti|
+> |***Homeworld***|Shili|
+> |***Language***|Togruti|
 
 
 
@@ -1759,22 +1758,22 @@ ___
 > #### Visual Characteristics
 > ||||
 > |:--|:--|:--|
-> |***Skin Color***|&nbsp;&nbsp;|Green, yellow, brown, orange, red|
-> |***Hair Color***|&nbsp;&nbsp;|None|
-> |***Eye Color***|&nbsp;&nbsp;|Yellow, orange|
-> |***Distinctions***|&nbsp;&nbsp;|Reptilian, scaly skin, regenerative properties|
+> |***Skin Color***|Green, yellow, brown, orange, red|
+> |***Hair Color***|None|
+> |***Eye Color***|Yellow, orange|
+> |***Distinctions***|Reptilian, scaly skin, regenerative properties|
 > ___
 > #### Physical Characteristics
 > |||||
 > |:--|:--|:--:|:--:|
-> |***Height***|&nbsp;&nbsp;|5'5"|+2d12"|
-> |***Weight***|&nbsp;&nbsp;|130 lb.|x(2d6) lb.|
+> |***Height***|5'5"|+2d12"|
+> |***Weight***|130 lb.|x(2d6) lb.|
 > ___
 > #### Sociocultural Characteristics
 > ||||
 > |:--|:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Trandosha|
-> |***Language***|&nbsp;&nbsp;|Dosh|
+> |***Homeworld***|Trandosha|
+> |***Language***|Dosh|
 
 
 
@@ -1834,22 +1833,22 @@ ___
 > #### Visual Characteristics
 > ||||
 > |:--|:--|:--|
-> |***Skin Color***|&nbsp;&nbsp;|Brown, gray, or tan|
-> |***Hair Color***|&nbsp;&nbsp;|Black|
-> |***Eye Color***|&nbsp;&nbsp;|Pale gray or black|
-> |***Distinctions***|&nbsp;&nbsp;|Full-body wrappings, goggles, mouth filter|
+> |***Skin Color***|Brown, gray, or tan|
+> |***Hair Color***|Black|
+> |***Eye Color***|Pale gray or black|
+> |***Distinctions***|Full-body wrappings, goggles, mouth filter|
 > ___
 > #### Physical Characteristics
 > |||||
 > |:--|:--|:--:|:--:|
-> |***Height***|&nbsp;&nbsp;|4'9"|+2d8"|
-> |***Weight***|&nbsp;&nbsp;|110 lb.|x(2d4) lb.|
+> |***Height***|4'9"|+2d8"|
+> |***Weight***|110 lb.|x(2d4) lb.|
 > ___
 > #### Sociocultural Characteristics
 > ||||
 > |:--|:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Tatooine|
-> |***Language***|&nbsp;&nbsp;|Tusken|
+> |***Homeworld***|Tatooine|
+> |***Language***|Tusken|
 
 
 
@@ -1913,22 +1912,22 @@ ___
 > #### Visual Characteristics
 > ||||
 > |:--|:--|:--|
-> |***Skin Color***|&nbsp;&nbsp;|Blue, brown, dark grey, green, orange, pink, purple, red, tan, teal, white, yellow, or striped|
-> |***Hair Color***|&nbsp;&nbsp;|None|
-> |***Eye Color***|&nbsp;&nbsp;|Black, blue, brown, green, hazel, orange, pink, purple, or yellow|
-> |***Distinctions***|&nbsp;&nbsp;|Lekku, sharp claw-like nails, males often file their teeth to points|
+> |***Skin Color***|Blue, brown, dark grey, green, orange, pink, purple, red, tan, teal, white, yellow, or striped|
+> |***Hair Color***|None|
+> |***Eye Color***|Black, blue, brown, green, hazel, orange, pink, purple, or yellow|
+> |***Distinctions***|Lekku, sharp claw-like nails, males often file their teeth to points|
 > ___
 > #### Physical Characteristics
 > |||||
 > |:--|:--|:--:|:--:|
-> |***Height***|&nbsp;&nbsp;|5'3"|+2d12"|
-> |***Weight***|&nbsp;&nbsp;|125 lb.|x(2d4) lb.|
+> |***Height***|5'3"|+2d12"|
+> |***Weight***|125 lb.|x(2d4) lb.|
 > ___
 > #### Sociocultural Characteristics
 > ||||
 > |:--|:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Ryloth|
-> |***Language***|&nbsp;&nbsp;|Twi'leki|
+> |***Homeworld***|Ryloth|
+> |***Language***|Twi'leki|
 
 
 
@@ -1986,22 +1985,22 @@ ___
 > #### Visual Characteristics
 > ||||
 > |:--|:--|:--|
-> |***Skin Color***|&nbsp;&nbsp;|Brown, gray, red, or yellow|
-> |***Hair Color***|&nbsp;&nbsp;|Black or blond|
-> |***Eye Color***|&nbsp;&nbsp;|Black, gold, or gray|
-> |***Distinctions***|&nbsp;&nbsp;|Tough, leathery skin that provided resistance to blasterfire|
+> |***Skin Color***|Brown, gray, red, or yellow|
+> |***Hair Color***|Black or blond|
+> |***Eye Color***|Black, gold, or gray|
+> |***Distinctions***|Tough, leathery skin that provided resistance to blasterfire|
 > ___
 > #### Physical Characteristics
 > |||||
 > |:--|:--|:--:|:--:|
-> |***Height***|&nbsp;&nbsp;|5'5"|+2d8"|
-> |***Weight***|&nbsp;&nbsp;|120 lb.|x(2d4) lb.|
+> |***Height***|5'5"|+2d8"|
+> |***Weight***|120 lb.|x(2d4) lb.|
 > ___
 > #### Sociocultural Characteristics
 > ||||
 > |:--|:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Sriluur|
-> |***Language***|&nbsp;&nbsp;|Sriluurian|
+> |***Homeworld***|Sriluur|
+> |***Language***|Sriluurian|
 
 
 
@@ -2061,22 +2060,22 @@ ___
 > #### Visual Characteristics
 > ||||
 > |:--|:--|:--|
-> |***Skin Color***|&nbsp;&nbsp;|Gray|
-> |***Hair Color***|&nbsp;&nbsp;|Different shades of black, brown, and white in varying combinations|
-> |***Eye Color***|&nbsp;&nbsp;|Blue, green, yellow, golden, brown, or red|
-> |***Distinctions***|&nbsp;&nbsp;|Tall, hair covered, retractable climbing claws, long life spans|
+> |***Skin Color***|Gray|
+> |***Hair Color***|Different shades of black, brown, and white in varying combinations|
+> |***Eye Color***|Blue, green, yellow, golden, brown, or red|
+> |***Distinctions***|Tall, hair covered, retractable climbing claws, long life spans|
 > ___
 > #### Physical Characteristics
 > |||||
 > |:--|:--|:--:|:--:|
-> |***Height***|&nbsp;&nbsp;|6'3"|+2d12"|
-> |***Weight***|&nbsp;&nbsp;|190 lb.|x(2d6) lb.|
+> |***Height***|6'3"|+2d12"|
+> |***Weight***|190 lb.|x(2d6) lb.|
 > ___
 > #### Sociocultural Characteristics
 > ||||
 > |:--|:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Kashyyyk|
-> |***Language***|&nbsp;&nbsp;|Shyriiwook|
+> |***Homeworld***|Kashyyyk|
+> |***Language***|Shyriiwook|
 
 
 
@@ -2136,22 +2135,22 @@ ___
 > #### Visual Characteristics
 > ||||
 > |:--|:--|:--|
-> |***Skin Color***|&nbsp;&nbsp;|Pale to dark brown, red, orange and yellow|
-> |***Hair Color***|&nbsp;&nbsp;|Black, blonde, brown, red, or purple|
-> |***Eye Color***|&nbsp;&nbsp;|Yellow, green, orange, brown, blue, red, or purple|
-> |***Distinctions***|&nbsp;&nbsp;|Horns, two hearts, facial tattoos|
+> |***Skin Color***|Pale to dark brown, red, orange and yellow|
+> |***Hair Color***|Black, blonde, brown, red, or purple|
+> |***Eye Color***|Yellow, green, orange, brown, blue, red, or purple|
+> |***Distinctions***|Horns, two hearts, facial tattoos|
 > ___
 > #### Physical Characteristics
 > |||||
 > |:--|:--|:--:|:--:|
-> |***Height***|&nbsp;&nbsp;|5'1"|+2d12"|
-> |***Weight***|&nbsp;&nbsp;|120 lb.|x(2d4) lb.|
+> |***Height***|5'1"|+2d12"|
+> |***Weight***|120 lb.|x(2d4) lb.|
 > ___
 > #### Sociocultural Characteristics
 > ||||
 > |:--|:--|:--|
-> |***Homeworlds***|&nbsp;&nbsp;|Iridonia, Dathomir|
-> |***Language***|&nbsp;&nbsp;|Zabraki|
+> |***Homeworlds***|Iridonia, Dathomir|
+> |***Language***|Zabraki|
 
 
 
