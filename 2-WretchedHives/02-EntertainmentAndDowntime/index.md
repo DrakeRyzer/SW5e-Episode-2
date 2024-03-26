@@ -1,3 +1,10 @@
+---
+title: Entertainment and Downtime
+parent: Wretched Hives
+has_children: true
+nav_order: 2
+---
+
 
 # Chapter 2: Entertainment and Downtime
 
