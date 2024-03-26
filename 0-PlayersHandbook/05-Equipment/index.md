@@ -176,26 +176,26 @@ Heavy shields are much larger and more cumbersome, but they offer more protectio
 
 ##### Armor and Shields
 
-|Name&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|Cost&nbsp;&nbsp;|Armor|Weight&nbsp;&nbsp;|Properties&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| 
+|Name|CostArmor|Weight|Properties| 
 |:---|---:|:---|-:|:---|
 |_Light Armor_	||||
-| &emsp;Combat suit      		|	 100 cr&nbsp;&nbsp;|	11 + Dex modifier|10.00 lb&nbsp;&nbsp;|-|
-| &emsp;Fiber armor		        |	 450 cr&nbsp;&nbsp;|	12 + Dex modifier|13.00 lb&nbsp;&nbsp;|-|
+|Combat suit      		|	 100 cr|	11 + Dex modifier|10.00 lb|-|
+|Fiber armor		        |	 450 cr|	12 + Dex modifier|13.00 lb|-|
 |_Medium Armor_	||||
-| &emsp;Mesh armor		        |	 500 cr&nbsp;&nbsp;|	13 + Dex modifier (max 2)|20 lb&nbsp;&nbsp;|-|
-| &emsp;Weave armor			    |  1,000 cr&nbsp;&nbsp;|	14 + Dex modifier (max 2)|25 lb&nbsp;&nbsp;|-|
-| &emsp;Composite armor	        |  2,500 cr&nbsp;&nbsp;|	15 + Dex modifier (max 2)|45 lb&nbsp;&nbsp;|Bulky|
+|Mesh armor		        |	 500 cr|	13 + Dex modifier (max 2)|20 lb|-|
+|Weave armor			    |  1,000 cr|	14 + Dex modifier (max 2)|25 lb|-|
+|Composite armor	        |  2,500 cr|	15 + Dex modifier (max 2)|45 lb|Bulky|
 |_Heavy Armor_	||||
-| &emsp;Battle armor			    |    750 cr&nbsp;&nbsp;|	16	|55 lb&nbsp;&nbsp;|Bulky, strength 13|
-| &emsp;Assault armor	        |  2,000 cr&nbsp;&nbsp;|	17	|60 lb&nbsp;&nbsp;|Bulky, strength 15|
-| &emsp;Heavy exoskeleton   	    |  9,000 cr&nbsp;&nbsp;|	18	|65 lb&nbsp;&nbsp;|Bulky, strength 17|
+|Battle armor			    |    750 cr|	16	|55 lb|Bulky, strength 13|
+|Assault armor	        |  2,000 cr|	17	|60 lb|Bulky, strength 15|
+|Heavy exoskeleton   	    |  9,000 cr|	18	|65 lb|Bulky, strength 17|
 |_Shield_		||||
-| &emsp;Light physical shield    |     50 cr&nbsp;&nbsp;|	+1	| 6.00 lb&nbsp;&nbsp;|-|
-| &emsp;Light shield generator	|    125 cr&nbsp;&nbsp;|	+1	| 2.00 lb&nbsp;&nbsp;|-|
-| &emsp;Medium physical shield   |	 150 cr&nbsp;&nbsp;|	+2	|18.00 lb&nbsp;&nbsp;|Strength 13|
-| &emsp;Medium shield generator	|	 375 cr&nbsp;&nbsp;|	+2	| 6.00 lb&nbsp;&nbsp;|-|
-| &emsp;Heavy physical shield	|	 500 cr&nbsp;&nbsp;|	+3	|36.00 lb&nbsp;&nbsp;|Obtrusive, strength 15|
-| &emsp;Heavy shield generator	|  1,250 cr&nbsp;&nbsp;|	+3	|12.00 lb&nbsp;&nbsp;|-|
+|Light physical shield    |     50 cr|	+1	| 6.00 lb|-|
+|Light shield generator	|    125 cr|	+1	| 2.00 lb|-|
+|Medium physical shield   |	 150 cr|	+2	|18.00 lb|Strength 13|
+|Medium shield generator	|	 375 cr|	+2	| 6.00 lb|-|
+|Heavy physical shield	|	 500 cr|	+3	|36.00 lb|Obtrusive, strength 15|
+|Heavy shield generator	|  1,250 cr|	+3	|12.00 lb|-|
 
 ### Getting Into and Out of Armor
 The time it takes to don or doff armor depends on the armor's category. If you have help, you can reduce the time it takes to don or doff armor by half.
