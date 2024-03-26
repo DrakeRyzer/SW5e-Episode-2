@@ -27,6 +27,8 @@ The description of each species includes special traits that are common to membe
 #### Ability Score Increase
 Every species increases one or more of a character's ability scores.
 
+<!--- Can we put the Tasha's Custom Origin Variant Rule here? --->
+
 #### Age
 The age entry notes the age when a member of the species is considered an adult, as well as the species' expected lifespan. This information can help you decide how old your character is at the start of the game. You can choose any age for your character, which could provide an explanation for some of your ability scores. For example, if you play a young or very old character, your age could explain a particularly low Strength or Constitution score, while advanced age could account for a high Intelligence or Wisdom.
 
@@ -182,24 +184,24 @@ As a bothan, you have the following special traits.
 
 ___
 > ## Cathar
-> ___
+> 
 > #### Visual Characteristics
-> ||||
-> |:--|:--|:--|
+> 
+> |:--|:--|
 > |***Skin Color***|Gold to yellow-brown with dark stripes|
 > |***Hair Color***|Brown, black, or grey|
 > |***Eye Color***|Yellow or brown|
 > |***Distinctions***|Lion-like features|
-> ___
+> 
 > #### Physical Characteristics
-> |||||
-> |:--|:--|:--:|:--:|
+> 
+> |:--|:--|:--:|
 > |***Height***|4'9"|+2d12"|
 > |***Weight***|130 lb.|x(2d4) lb.|
-> ___
+> 
 > #### Sociocultural Characteristics
-> ||||
-> |:--|:--|:--|
+> 
+> |:--|:--|
 > |***Homeworld***|Cathar|
 > |***Language***|Catharese|
 
@@ -249,24 +251,24 @@ As a cathar, you have the following special traits.
 
 ___
 > ## Cerean
-> ___
+> 
 > #### Visual Characteristics
-> ||||
-> |:--|:--|:--|
+> 
+> |:--|:--|
 > |***Skin Color***|Light tones|
 > |***Hair Color***|Blond, brown, or white (usually with age)|
 > |***Eye Color***|Yellow|
 > |***Distinctions***|Cone-like skull, binary brain|
-> ___
+> 
 > #### Physical Characteristics
-> |||||
-> |:--|:--|:--:|:--:|
+> 
+> |:--|:--|:--:|
 > |***Height***|5'8"|+2d8"|
 > |***Weight***|120 lb.|x(2d4) lb.|
-> ___
+> 
 > #### Sociocultural Characteristics
-> ||||
-> |:--|:--|:--|
+> 
+> |:--|:--|
 > |***Homeworld***|Cerea|
 > |***Language***|Cerean|
 
@@ -314,24 +316,24 @@ As a cerean, you have the following special traits.
 
 ___
 > ## Chiss
-> ___
+> 
 > #### Visual Characteristics
-> ||||
-> |:--|:--|:--|
+> 
+> |:--|:--|
 > |***Skin Color***|Blue or silver|
 > |***Hair Color***|Black, blue, or silver|
 > |***Eye Color***|Red|
 > |***Distinctions***|Glowing red eyes, above-average night vision|
-> ___
+> 
 > #### Physical Characteristics
-> |||||
-> |:--|:--|:--:|:--:|
+> 
+> |:--|:--|:--:|
 > |***Height***|4'11"|+2d10"|
 > |***Weight***|110 lb.|x(2d4) lb.|
-> ___
+> 
 > #### Sociocultural Characteristics
-> ||||
-> |:--|:--|:--|
+> 
+> |:--|:--|
 > |***Homeworld***|Csilla|
 > |***Language***|Cheunh|
 
@@ -373,24 +375,24 @@ As a chiss, you have the following special traits.
 
 ___
 > ## Devaronian
-> ___
+> 
 > #### Visual Characteristics
-> ||||
-> |:--|:--|:--|
+> 
+> |:--|:--|
 > |***Skin Color***|Red, pink, brown, or white|
 > |***Hair Color***|Brown, black, or white|
 > |***Eye Color***|Black|
 > |***Distinctions***|Horns or horn spots, long pointed ears|
-> ___
+> 
 > #### Physical Characteristics
-> |||||
-> |:--|:--|:--:|:--:|
+> 
+> |:--|:--|:--:|
 > |***Height***|4'10"|+2d8"|
 > |***Weight***|120 lb.|x(2d4) lb.|
-> ___
+> 
 > #### Sociocultural Characteristics
-> ||||
-> |:--|:--|:--|
+> 
+> |:--|:--|
 > |***Homeworld***|Devaron|
 > |***Language***|Devaronese|
 
@@ -440,23 +442,23 @@ As a devaronian, you have the following special traits.
 
 ___
 > ## Droid, Class I
-> ___
+> 
 > #### Visual Characteristics
-> ||||
-> |:--|:--|:--|
-> |***Color Scheme***|  |Typically metallic|
-> |***Distinctions***   |  |Human-like size, slow speed, specialized knowledge|
-> ___
-> #### Physical Characteristics
-> |||||
-> |:--|:--|:--:|:--:|
-> |***Height***|  |4'5|+2d10"|
-> |***Weight***|  |115 lb.|x(2d4) lb.|
-> ___
-> #### Creation Characteristics
-> |||
+> 
 > |:--|:--|
-> |***Manufacturer***|Cybot Galactica, <br>Industrial Automaton|
+> |***Color Scheme***|  | Typically metallic|
+> |***Distinctions***   | Human-like size, slow speed, specialized knowledge|
+> 
+> #### Physical Characteristics
+> 
+> |:--|:--|:--:|
+> |***Height***|  4'5|+2d10"|
+> |***Weight***|  115 lb.|x(2d4) lb.|
+> 
+> #### Creation Characteristics
+> 
+> |:--|:--|
+> |***Manufacturer***|Cybot Galactica, Industrial Automaton|
 > |***Primary Language***|Varies based on location|
 
 > #### Players as Droids
@@ -516,23 +518,23 @@ As a class I droid, you have the following special traits.
 
 ___
 > ## Droid, Class II
-> ___
+> 
 > #### Visual Characteristics
-> ||||
-> |:--|:--|:--|
+> 
+> |:--|:--|
 > |***Color Scheme***|Varies|
-> |***Distinctions***&nbsp;Retractible arms, integrated tools, diminutive size|
+> |***Distinctions*** | Retractible arms, integrated tools, diminutive size|
 > ___
 > #### Physical Characteristics
-> |||||
-> |:--|:--|:--:|:--:|
+> 
+> |:--|:--|:--:|
 > |***Height***|2'5"|+2d8"|
 > |***Weight***|60 lb.|x1 lb.|
-> ___
+> 
 > #### Creation Characteristics
-> |||
+> 
 > |:--|:--|
-> |***Manufacturer***|Aratech Repulsor Company, <br>Industrial Automaton|
+> |***Manufacturer***|Aratech Repulsor Company, Industrial Automaton|
 > |***Primary Language***|Binary|
 
 > #### Players as Droids
@@ -596,23 +598,23 @@ As a class II droid, you have the following special traits.
 
 ___
 > ## Droid, Class III
-> ___
+> 
 > #### Visual Characteristics
-> ||||
-> |:--|:--|:--|
+> 
+> |:--|:--|
 > |***Color Scheme***|Typically metallic|
-> |***Distinctions***&nbsp;Human-like size, shuffling gait, typically talkative|
-> ___
+> |***Distinctions*** | Human-like size, shuffling gait, typically talkative|
+> 
 > #### Physical Characteristics
-> |||||
-> |:--|:--|:--:|:--:|
+> 
+> |:--|:--|:--:|
 > |***Height***|5'6"|+2d4"|
 > |***Weight***|120 lb.|x(2d6) lb.|
-> ___
+> 
 > #### Creation Characteristics
-> |||
+> 
 > |:--|:--|
-> |***Manufacturer***|Cybot Galactica, <br>Industrial Automaton|
+> |***Manufacturer***|Cybot Galactica, Industrial Automaton|
 > |***Primary Language***|Varies based on location|
 
 > #### Players as Droids
@@ -673,23 +675,23 @@ As a class III droid, you have the following special traits.
 
 ___
 > ## Droid, Class IV
-> ___
+> 
 > #### Visual Characteristics
-> ||||
-> |:--|:--|:--|
+> 
+> |:--|:--|
 > |***Color Scheme***|Varies|
-> |***Distinctions***&nbsp;Variable size, combat-designed nature, often humanoid|
-> ___
+> |***Distinctions*** | Variable size, combat-designed nature, often humanoid|
+> 
 > #### Physical Characteristics
-> |||||
-> |:--|:--|:--:|:--:|
+> 
+> |:--|:--|:--:|
 > |***Height***|5'2"|+2d8"|
 > |***Weight***|110 lb.|x(2d4) lb.|
-> ___
+> 
 > #### Creation Characteristics
-> |||
+> 
 > |:--|:--|
-> |***Manufacturer***|Holowan Mechanicals, <br>Uxiol Droid Manufacturing|
+> |***Manufacturer***|Holowan Mechanicals, Uxiol Droid Manufacturing|
 > |***Primary Language***|Galactic Basic|
 
 > #### Players as Droids
@@ -747,21 +749,21 @@ As a class IV droid, you have the following special traits.
 
 ___
 > ## Droid, Class V
-> ___
+> 
 > #### Visual Characteristics
-> ||||
-> |:--|:--|:--|
-> |***Color Scheme***|  |Typically metallic|
-> |***Distinctions***   |  |Vaguely human-like size and shape, typically quiet|
-> ___
+> 
+> |:--|:--|
+> |***Color Scheme***|  Typically metallic|
+> |***Distinctions***   |  Vaguely human-like size and shape, typically quiet|
+> 
 > #### Physical Characteristics
-> |||||
-> |:--|:--|:--:|:--:|
-> |***Height***|  |5'2"|+2d12"|
-> |***Weight***|  |140 lb.|x(2d8) lb.|
-> ___
+> 
+> |:--|:--|:--:|
+> |***Height***|5'2"|+2d12"|
+> |***Weight***|140 lb.|x(2d8) lb.|
+> 
 > #### Creation Characteristics
-> |||
+> 
 > |:--|:--|
 > |***Manufacturer***|Cybot Galactica, <br>Industrial Automaton|
 > |***Primary Language***|Binary|
@@ -825,24 +827,24 @@ As a class V droid, you have the following special traits.
 
 ___
 > ## Duros
-> ___
+> 
 > #### Visual Characteristics
-> ||||
-> |:--|:--|:--|
+> 
+> |:--|:--|
 > |***Skin Color***|Blue, green|
 > |***Hair Color***|None|
 > |***Eye Color***|Red|
 > |***Distinctions***|Noseless, large red eyes, affinity for space travel|
-> ___
+> 
 > #### Physical Characteristics
-> |||||
-> |:--|:--|:--:|:--:|
+> 
+> |:--|:--|:--:|
 > |***Height***|5'5"|+2d10"|
 > |***Weight***|115 lb.|x(2d4) lb.|
-> ___
+> 
 > #### Sociocultural Characteristics
-> ||||
-> |:--|:--|:--|
+> 
+> |:--|:--|
 > |***Homeworld***|Duro|
 > |***Language***|Durese|
 
@@ -894,24 +896,24 @@ As a duros, you have the following special traits.
 
 ___
 > ## Ewok
-> ___
+> 
 > #### Visual Characteristics
-> ||||
-> |:--|:--|:--|
+> 
+> |:--|:--|
 > |***Skin Color***|Brown|
 > |***Hair Color***|Shades of white, brown, red, and black|
 > |***Eye Color***|Black|
 > |***Distinctions***|Furry, short stature, acute sense of smell|
-> ___
+> 
 > #### Physical Characteristics
-> |||||
-> |:--|:--|:--:|:--:|
+> 
+> |:--|:--|:--:|
 > |***Height***|2'9"|+2d6"|
 > |***Weight***|40 lb.|x1 lb.|
-> ___
+> 
 > #### Sociocultural Characteristics
-> ||||
-> |:--|:--|:--|
+> 
+> |:--|:--|
 > |***Homeworld***|Forest Moon of Endor|
 > |***Language***|Ewokese|
 
@@ -965,24 +967,24 @@ As an Ewok, you have the following special traits.
 
 ___
 > ## Gamorrean 
-> ___
+> 
 > #### Visual Characteristics
-> ||||
-> |:--|:--|:--|
+> 
+> |:--|:--|
 > |***Skin Color***|Black, brown, green, pink, or yellow|
 > |***Hair Color***|None|
 > |***Eye Color***|Blue, black, brown, or gold|
 > |***Distinctions***|Porcine humanoids with tusks and<br> horns|
-> ___
+> 
 > #### Physical Characteristics
-> |||||
-> |:--|:--|:--:|:--:|
+> 
+> |:--|:--|:--:|
 > |***Height***|4'10"|+2d8"|
 > |***Weight***|150 lb.|x(2d6) lb.|
-> ___
+> 
 > #### Sociocultural Characteristics
-> ||||
-> |:--|:--|:--|
+> 
+> |:--|:--|
 > |***Homeworld***|Gamorr|
 > |***Language***|Gamorrese|
 
@@ -1026,24 +1028,24 @@ As a gamorrean, you have the following special traits.
 
 ___
 > ## Gungan
-> ___
+> 
 > #### Visual Characteristics
-> ||||
-> |:--|:--|:--|
+> 
+> |:--|:--|
 > |***Skin Color***|Blue, brown, or green|
 > |***Hair Color***|None|
 > |***Eye Color***|Light colors|
 > |***Distinctions***|Extendable tongues, long ears, eye stalks, three toes, aquatic species|
-> ___
+> 
 > #### Physical Characteristics
-> |||||
-> |:--|:--|:--:|:--:|
+> 
+> |:--|:--|:--:|
 > |***Height***|5'5"|+2d10"|
 > |***Weight***|115 lb.|x(2d4) lb.|
-> ___
+> 
 > #### Sociocultural Characteristics
-> ||||
-> |:--|:--|:--|
+> 
+> |:--|:--|
 > |***Homeworld***|Naboo|
 > |***Language***|Gungan|
 
@@ -1097,24 +1099,24 @@ As a Gungan, you have the following special traits.
 
 ___
 > ## Human
-> ___
+> 
 > #### Visual Characteristics
-> ||||
-> |:--|:--|:--|
+> 
+> |:--|:--|
 > |***Skin Color***|Light to dark tones|
 > |***Hair Color***|Black, blond, orange, brown, gray to white (usually with age)|
 > |***Eye Color***|Amber, blue, brown, gray, green, hazel, purple, or red|
 > |***Distinctions***|Biped with bilateral symmetry, opposable thumbs|
-> ___
+> 
 > #### Physical Characteristics
-> |||||
-> |:--|:--|:--:|:--:|
+> 
+> |:--|:--|:--:|
 > |***Height***|4'8"|+2d10"|
 > |***Weight***|110 lb.|x(2d4) lb.|
-> ___
+> 
 > #### Sociocultural Characteristics
-> ||||
-> |:--|:--|:--|
+> 
+> |:--|:--|
 > |***Homeworld***|Coruscant|
 > |***Language***|Galactic Basic|
 
@@ -1157,24 +1159,24 @@ As a human, you have the following special traits.
 
 ___
 > ## Ithorian
-> ___
+> 
 > #### Visual Characteristics
-> ||||
-> |:--|:--|:--|
+> 
+> |:--|:--|
 > |***Skin Color***|Brown, dark red or green|
 > |***Hair Color***|Brown, gray, or white|
 > |***Eye Color***|Black or blue|
 > |***Distinctions***|Curved neck, two mouths, aural flaps, locomotion tubes, throat sack|
-> ___
+> 
 > #### Physical Characteristics
-> |||||
-> |:--|:--|:--:|:--:|
+> 
+> |:--|:--|:--:|
 > |***Height***|5'9"|+2d12"|
 > |***Weight***|135 lb.|x(2d4) lb.|
-> ___
+> 
 > #### Sociocultural Characteristics
-> ||||
-> |:--|:--|:--|
+> 
+> |:--|:--|
 > |***Homeworld***|Ithor|
 > |***Language***|Ithorese|
 
@@ -1227,24 +1229,24 @@ As an Ithorian, you have the following special traits.
 
 ___
 > ## Jawa
-> ___
+> 
 > #### Visual Characteristics
-> ||||
-> |:--|:--|:--|
+> 
+> |:--|:--|
 > |***Skin Color***|Black|
 > |***Hair Color***|Black|
 > |***Eye Color***|Yellow|
 > |***Distinctions***|Diminutive stature, mechanical aptitude, thieving nature|
-> ___
+> 
 > #### Physical Characteristics
-> |||||
-> |:--|:--|:--:|:--:|
+> 
+> |:--|:--|:--:|
 > |***Height***|2'9"|+2d4"|
 > |***Weight***|35 lb.|x1 lb.|
-> ___
+> 
 > #### Sociocultural Characteristics
-> ||||
-> |:--|:--|:--|
+> 
+> |:--|:--|
 > |***Homeworld***|Tatooine|
 > |***Language***|Jawaese|
 
@@ -1306,24 +1308,24 @@ As a jawa, you have the following special traits.
 
 ___
 > ## Kel Dor
-> ___
+> 
 > #### Visual Characteristics
-> ||||
-> |:--|:--|:--|
+> 
+> |:--|:--|
 > |***Skin Color***|Orange, red|
 > |***Hair Color***|None|
 > |***Eye Color***|Black, silver|
 > |***Distinctions***|Rebreathers to survive in oxygen environments|
-> ___
+> 
 > #### Physical Characteristics
-> |||||
-> |:--|:--|:--:|:--:|
+> 
+> |:--|:--|:--:|
 > |***Height***|4'6"|+2d12"|
 > |***Weight***|80 lb.|x(2d4) lb.|
 > ___
 > #### Sociocultural Characteristics
-> ||||
-> |:--|:--|:--|
+> 
+> |:--|:--|
 > |***Homeworld***|Dorin|
 > |***Language***|Kel Dor|
 
@@ -1383,24 +1385,24 @@ As a kel dor, you have the following special traits.
 
 ___
 > ## Mon Calamari
-> ___
+> 
 > #### Visual Characteristics
-> ||||
-> |:--|:--|:--|
+> 
+> |:--|:--|
 > |***Skin Color***|Reddish brown, brown, red, cyan, mottle, salmon, gold, blue, grey, or white|
 > |***Hair Color***|None|
 > |***Eye Color***|Yellow, orange, blue, or gray|
 > |***Distinctions***|Large, goggle-like eyes, high-domed heads, webbed hands|
-> ___
+> 
 > #### Physical Characteristics
-> |||||
-> |:--|:--|:--:|:--:|
+> 
+> |:--|:--|:--:|
 > |***Height***|4'9"|+2d8"|
 > |***Weight***|100 lb.|x(2d4) lb.|
-> ___
+> 
 > #### Sociocultural Characteristics
-> ||||
-> |:--|:--|:--|
+> 
+> |:--|:--|
 > |***Homeworld***|Mon Cala|
 > |***Language***|Mon Cal|
 
@@ -1456,24 +1458,24 @@ As a mon calamari, you have the following special traits.
 
 ___
 > ## Nautolan
-> ___
+> 
 > #### Visual Characteristics
-> ||||
-> |:--|:--|:--|
+> 
+> |:--|:--|
 > |***Skin Color***|Blue, brown, green, purple, or grey|
 > |***Hair Color***|None|
 > |***Eye Color***|Black, brown, or red|
 > |***Distinctions***|Extrasensory head tentacles capable of detecting chemicals|
-> ___
+> 
 > #### Physical Characteristics
-> |||||
-> |:--|:--|:--:|:--:|
+> 
+> |:--|:--|:--:|
 > |***Height***|5'1"|+2d8"|
 > |***Weight***|120 lb.|x(2d4) lb.|
-> ___
+> 
 > #### Sociocultural Characteristics
-> ||||
-> |:--|:--|:--|
+> 
+> |:--|:--|
 > |***Homeworld***|Glee Anselm|
 > |***Language***|Nautila|
 
@@ -1535,24 +1537,24 @@ As a Nautolan, you have the following special traits.
 
 ___
 > ## Rodian
-> ___
+> 
 > #### Visual Characteristics
-> ||||
-> |:--|:--|:--|
+> 
+> |:--|:--|
 > |***Skin Color***|Blue, green, purple, turquoise, or yellow|
 > |***Hair Color***|None|
 > |***Eye Color***|Blue, black, green, purple, or red|
 > |***Distinctions***|Large and round pupil-less eyes, snouts, pointed ears, antennae, scaled and usually green skin|
-> ___
+> 
 > #### Physical Characteristics
-> |||||
+> 
 > |:--|:--|:--:|:--:|
 > |***Height***|4'9"|+2d10"|
 > |***Weight***|115 lb.|x(2d4) lb.|
-> ___
+> 
 > #### Sociocultural Characteristics
-> ||||
-> |:--|:--|:--|
+> 
+> |:--|:--|
 > |***Homeworld***|Rodia|
 > |***Language***|Rodese|
 
@@ -1610,22 +1612,22 @@ ___
 > ## Sith Pureblood
 > ___
 > #### Visual Characteristics
-> ||||
-> |:--|:--|:--|
+> 
+> |:--|:--|
 > |***Skin Color***|Black or red|
 > |***Hair Color***|Black, brown, gray, red, or white|
 > |***Eye Color***|Orange, red, or yellow|
 > |***Distinctions***|Tentacle facial appendages, often wear jewelry or have tattoos, bone spurs|
-> ___
+> 
 > #### Physical Characteristics
-> |||||
-> |:--|:--|:--:|:--:|
+> 
+> |:--|:--|:--:|
 > |***Height***|4'8"|+2d10"|
 > |***Weight***|110 lb.|x(2d4) lb.|
-> ___
+> 
 > #### Sociocultural Characteristics
-> ||||
-> |:--|:--|:--|
+> 
+> |:--|:--|
 > |***Homeworld***|Korriban|
 > |***Language***|Sith|
 
@@ -1681,24 +1683,24 @@ As a sith pureblood, you have the following special traits.
 
 ___
 > ## Togruta
-> ___
+> 
 > #### Visual Characteristics
-> ||||
-> |:--|:--|:--|
+> 
+> |:--|:--|
 > |***Skin Color***|Blue, green, orange, purple, red, white, or yellow|
 > |***Hair Color***|None|
 > |***Eye Color***|Black, blue, green, orange, purple, yellow, or red|
 > |***Distinctions***|Sharp canine teeth, two montrals, three or four head-tails|
-> ___
+> 
 > #### Physical Characteristics
-> |||||
-> |:--|:--|:--:|:--:|
+> 
+> |:--|:--|:--:|
 > |***Height***|4'9"|+2d8"|
 > |***Weight***|115 lb.|x(2d4) lb.|
-> ___
+> 
 > #### Sociocultural Characteristics
-> ||||
-> |:--|:--|:--|
+> 
+> |:--|:--|
 > |***Homeworld***|Shili|
 > |***Language***|Togruti|
 
@@ -1754,24 +1756,24 @@ As a togruta, you have the following special traits.
 
 ___
 > ## Trandoshan
-> ___
+> 
 > #### Visual Characteristics
-> ||||
-> |:--|:--|:--|
+> 
+> |:--|:--|
 > |***Skin Color***|Green, yellow, brown, orange, red|
 > |***Hair Color***|None|
 > |***Eye Color***|Yellow, orange|
 > |***Distinctions***|Reptilian, scaly skin, regenerative properties|
-> ___
+> 
 > #### Physical Characteristics
-> |||||
-> |:--|:--|:--:|:--:|
+> 
+> |:--|:--|:--:|
 > |***Height***|5'5"|+2d12"|
 > |***Weight***|130 lb.|x(2d6) lb.|
-> ___
+> 
 > #### Sociocultural Characteristics
-> ||||
-> |:--|:--|:--|
+> 
+> |:--|:--|
 > |***Homeworld***|Trandosha|
 > |***Language***|Dosh|
 
@@ -1829,24 +1831,24 @@ As a trandoshan, you have the following special traits.
 
 ___
 > ## Tusken
-> ___
+> 
 > #### Visual Characteristics
-> ||||
-> |:--|:--|:--|
+> 
+> |:--|:--|
 > |***Skin Color***|Brown, gray, or tan|
 > |***Hair Color***|Black|
 > |***Eye Color***|Pale gray or black|
 > |***Distinctions***|Full-body wrappings, goggles, mouth filter|
-> ___
+> 
 > #### Physical Characteristics
-> |||||
-> |:--|:--|:--:|:--:|
+> 
+> |:--|:--|:--:|
 > |***Height***|4'9"|+2d8"|
 > |***Weight***|110 lb.|x(2d4) lb.|
-> ___
+> 
 > #### Sociocultural Characteristics
-> ||||
-> |:--|:--|:--|
+> 
+> |:--|:--|
 > |***Homeworld***|Tatooine|
 > |***Language***|Tusken|
 
@@ -1908,24 +1910,24 @@ As a Tusken, you have the following special traits.
 
 ___
 > ## Twi'lek
-> ___
+> 
 > #### Visual Characteristics
-> ||||
-> |:--|:--|:--|
+> 
+> |:--|:--|
 > |***Skin Color***|Blue, brown, dark grey, green, orange, pink, purple, red, tan, teal, white, yellow, or striped|
 > |***Hair Color***|None|
 > |***Eye Color***|Black, blue, brown, green, hazel, orange, pink, purple, or yellow|
 > |***Distinctions***|Lekku, sharp claw-like nails, males often file their teeth to points|
-> ___
+> 
 > #### Physical Characteristics
-> |||||
-> |:--|:--|:--:|:--:|
+> 
+> |:--|:--|:--:|
 > |***Height***|5'3"|+2d12"|
 > |***Weight***|125 lb.|x(2d4) lb.|
-> ___
+> 
 > #### Sociocultural Characteristics
-> ||||
-> |:--|:--|:--|
+> 
+> |:--|:--|
 > |***Homeworld***|Ryloth|
 > |***Language***|Twi'leki|
 
@@ -1981,24 +1983,24 @@ As a twi'lek, you have the following special traits.
 
 ___
 > ## Weequay
-> ___
+> 
 > #### Visual Characteristics
-> ||||
-> |:--|:--|:--|
+> 
+> |:--|:--|
 > |***Skin Color***|Brown, gray, red, or yellow|
 > |***Hair Color***|Black or blond|
 > |***Eye Color***|Black, gold, or gray|
 > |***Distinctions***|Tough, leathery skin that provided resistance to blasterfire|
-> ___
+> 
 > #### Physical Characteristics
-> |||||
-> |:--|:--|:--:|:--:|
+> 
+> |:--|:--|:--:|
 > |***Height***|5'5"|+2d8"|
 > |***Weight***|120 lb.|x(2d4) lb.|
-> ___
+> 
 > #### Sociocultural Characteristics
-> ||||
-> |:--|:--|:--|
+> 
+> |:--|:--|
 > |***Homeworld***|Sriluur|
 > |***Language***|Sriluurian|
 
@@ -2056,24 +2058,24 @@ As a weequay, you have the following special traits.
 
 ___
 > ## Wookiee
-> ___
+> 
 > #### Visual Characteristics
-> ||||
-> |:--|:--|:--|
+> 
+> |:--|:--|
 > |***Skin Color***|Gray|
 > |***Hair Color***|Different shades of black, brown, and white in varying combinations|
 > |***Eye Color***|Blue, green, yellow, golden, brown, or red|
 > |***Distinctions***|Tall, hair covered, retractable climbing claws, long life spans|
-> ___
+> 
 > #### Physical Characteristics
-> |||||
-> |:--|:--|:--:|:--:|
+> 
+> |:--|:--|:--:|
 > |***Height***|6'3"|+2d12"|
 > |***Weight***|190 lb.|x(2d6) lb.|
-> ___
+> 
 > #### Sociocultural Characteristics
-> ||||
-> |:--|:--|:--|
+> 
+> |:--|:--|
 > |***Homeworld***|Kashyyyk|
 > |***Language***|Shyriiwook|
 
@@ -2131,24 +2133,24 @@ As a wookiee, you have the following special traits.
 
 ___
 > ## Zabrak
-> ___
+> 
 > #### Visual Characteristics
-> ||||
-> |:--|:--|:--|
+> 
+> |:--|:--|
 > |***Skin Color***|Pale to dark brown, red, orange and yellow|
 > |***Hair Color***|Black, blonde, brown, red, or purple|
 > |***Eye Color***|Yellow, green, orange, brown, blue, red, or purple|
 > |***Distinctions***|Horns, two hearts, facial tattoos|
-> ___
+> 
 > #### Physical Characteristics
-> |||||
-> |:--|:--|:--:|:--:|
+> 
+> |:--|:--|:--:|
 > |***Height***|5'1"|+2d12"|
 > |***Weight***|120 lb.|x(2d4) lb.|
-> ___
+> 
 > #### Sociocultural Characteristics
-> ||||
-> |:--|:--|:--|
+> 
+> |:--|:--|
 > |***Homeworlds***|Iridonia, Dathomir|
 > |***Language***|Zabraki|
 
