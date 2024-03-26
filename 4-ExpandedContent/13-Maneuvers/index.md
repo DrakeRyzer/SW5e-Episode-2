@@ -1,6 +1,6 @@
 ---
 title: Maneuvers
-parent: 13-Maneuvers
+parent: Expanded Content
 has_children: true
 nav_order: 13
 ---
