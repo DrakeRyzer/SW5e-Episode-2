@@ -50,7 +50,7 @@ ___
 > 
 > #### Visual Characteristics
 > 
-> ||||
+> |||
 > |:--|:--|
 > |***Skin Color***|Green, pink, white, or yellow|
 > |***Hair Color***|None|
@@ -59,14 +59,14 @@ ___
 > 
 > #### Physical Characteristics
 > 
-> |||||
+> ||||
 > |:--|:--|:--:|
 > |***Height***|4'9"|+2d6"|
 > |***Weight***|100 lb.|x(2d4) lb.|
 > 
 > #### Sociocultural Characteristics
 > 
-> ||||
+> |||
 > |:--|:--|:--|
 > |***Homeworld***|Clak'dor VII|
 > |***Language***|Bith|
