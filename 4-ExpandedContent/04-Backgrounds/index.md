@@ -1,8 +1,8 @@
 ---
 title: Backgrounds
-parent: 04-ExpandedContent
+parent: Expanded Content
 has_children: true
-nav_order: 3
+nav_order: 4
 ---
 
 
