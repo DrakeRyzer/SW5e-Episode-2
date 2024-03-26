@@ -120,7 +120,7 @@ While wielding a shield with this property, you have disadvantage on Dexterity (
 #### Strength
 While wearing armor or wielding a shield with this property, your speed is reduced by 10 unless your Strength score meets or exceeds the strength number. 
 
-<img src='https://www.gmbinder.com/images/KulkaIH.png' style='position:absolute;bottom:15px;left:-254px;width:810px;z-index:1000;' />
+<!--- <img src='https://www.gmbinder.com/images/KulkaIH.png' style='position:absolute;bottom:15px;left:-254px;width:810px;z-index:1000;' /> --->
 
 ### Light Armor
 Made from supple and thin materials, light armor favors agile adventurers since it offers some protection without sacrificing mobility. If you wear light armor, you add your Dexterity modifier to the base number from your armor type to determine your Armor Class.
@@ -213,7 +213,7 @@ The time it takes to don or doff armor depends on the armor's category. If you h
 |Medium shield| 1 bonus action| 1 bonus action|
 |Heavy shield| 1 action | 1 action |
 
-<img src='https://www.gmbinder.com/images/yOuRSWV.png' style='position:absolute;bottom:0px;left:0px;width:840px;transform:scaleX(-1);z-index:1000;' />
+<!--- <img src='https://www.gmbinder.com/images/yOuRSWV.png' style='position:absolute;bottom:0px;left:0px;width:840px;transform:scaleX(-1);z-index:1000;' /> --->
 
 ## Weapons
 Your class grants proficiency in certain weapons, reflecting both the class's focus and the tools you are most likely to use. Whether you favor a vibroweapon or a blaster, your weapon and your ability to wield it effectively can mean the difference between life and death while adventuring. The Weapons tables show the most common weapons used in the worlds of *Star Wars*, their price and weight, the damage they deal when they hit, and any special properties they possess. Every weapon is classified as a blaster, lightweapon, or vibroweapon. A vibroweapon or lightweapon is used to attack a target within 5 feet of you, whereas a blaster is used to attack a target at a distance. Lightweapons are generally used in melee, but due to their nature require separate proficiency.
@@ -468,7 +468,7 @@ When triggered, this wrist launcher ammunition produces a burst of flame in a li
 #### Slug Cartridge
 Slug cartridges are ammunition for blaster weapons that deal kinetic damage. When you reload a weapon that uses cartridges, you can reload any number of cartridges up to the weapon's reload number as a part of the same action.
 
-<img src='https://www.gmbinder.com/images/yainsZs.png' style='position:absolute;top:467px;right:355px;width:320px;transform:scaleX(-1)' />
+<!--- <img src='https://www.gmbinder.com/images/yainsZs.png' style='position:absolute;top:467px;right:355px;width:320px;transform:scaleX(-1)' /> --->
 
 
 
@@ -539,7 +539,7 @@ A stylus pen is designed to write on both solid surfaces and touch screen interf
 #### Wristpad
 A wristpad is a harness with an integrated datapad and holoprojector interface that fits on the forearm and includes self-charging battery packs.
 
-<img src='https://www.gmbinder.com/images/NIczKet.png' style='position:absolute;top:590px;left:470px;width:255px' />
+<!--- <img src='https://www.gmbinder.com/images/NIczKet.png' style='position:absolute;top:590px;left:470px;width:255px' /> --->
 
 
 ### Explosives
@@ -586,7 +586,7 @@ When a creature enters the fire or starts its turn there, it creature must make 
 #### Thermal Detonator
 Thermal detonators are unique in that can only be turned off by whoever turned them on. They can be set to detonate on impact or with a timer that causes them to explode on initiative count 20 (losing all initiative ties). As an action, you can prime and throw a grenade at a point you can see within 30 feet + your Strength modifier x 5. Each creature within 20 feet must make a DC 14 Dexterity saving throw. A creature takes 2d6 fire and 2d10 kinetic damage on a failed save, or half as much as on a successful one. Additionally, on a failed save, the creature is knocked prone. 
 
-<img src='https://www.gmbinder.com/images/m2QdjNv.png' style='position:absolute;top:290px;right:70px;width:150px;z-index:1000' />
+<!--- <img src='https://www.gmbinder.com/images/m2QdjNv.png' style='position:absolute;top:290px;right:70px;width:150px;z-index:1000' /> --->
 
 ### Life Support
 
@@ -661,7 +661,7 @@ A pitcher stores 1 gallon of liquid.
 #### Pouch
 A pouch stores 6.00 lb., not exceeding 1/5 cubic foot. 
 
-<img src='https://www.gmbinder.com/images/GVHpzCM.png' style='position:absolute;bottom:543px;right:170px;width:140px;z-index:1000' />
+<!--- <img src='https://www.gmbinder.com/images/GVHpzCM.png' style='position:absolute;bottom:543px;right:170px;width:140px;z-index:1000' /> --->
 
 ### Utilities
 
@@ -768,11 +768,11 @@ A utility vest is a sleeveless item of clothing that includes several evenly-dis
 #### Tripod
 A tripod is a device mounted to a two-handed blaster that lacks the fixed property to offer increased stability. Over the course of 1 minute, you can deploy or collapse the tripod. While deployed, you ignore the Strength requirement on the attached blaster with the strength property, and your speed is reduced to 0. Additionally, while deployed, you have a +10 bonus to ability checks and saving throws to avoid being disarmed of the weapon.
 
-<img src='https://www.gmbinder.com/images/cgGUzvl.png' style='position:absolute;top:405px;left:80px;width:320px;transform:scaleX(-1)' />
+<!--- <img src='https://www.gmbinder.com/images/cgGUzvl.png' style='position:absolute;top:405px;left:80px;width:320px;transform:scaleX(-1)' />
 
 <img src='https://www.gmbinder.com/images/TW0FhNf.png' style='position:absolute;bottom:30px;left:180px;width:265px;' />
 
-<img src='https://www.gmbinder.com/images/VVpqaIT.png' style='position:absolute;bottom:18px;right:-12px;width:270px;transform:scaleX(-1);z-index:1000' />
+<img src='https://www.gmbinder.com/images/VVpqaIT.png' style='position:absolute;bottom:18px;right:-12px;width:270px;transform:scaleX(-1);z-index:1000' /> --->
 
 ##### Adventuring Gear
 
