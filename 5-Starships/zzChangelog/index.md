@@ -1,5 +1,5 @@
 ---
-title: Conditions
+title: Changelog
 parent: Starships of the Galaxy
 has_children: true
 nav_order: 12
