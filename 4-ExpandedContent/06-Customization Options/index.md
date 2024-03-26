@@ -1,6 +1,6 @@
 ---
 title: Customization Options
-parent: 06-Customization Options
+parent: Expanded Content
 has_children: true
 nav_order: 6
 ---
