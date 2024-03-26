@@ -1,3 +1,9 @@
+---
+title: Enhanced Items
+parent: Wretched Hives
+has_children: true
+nav_order: 7
+---
 
 # Chapter 7: Enhanced Items
 
