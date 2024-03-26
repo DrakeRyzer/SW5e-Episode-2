@@ -116,17 +116,13 @@ You can make a berserker quickly by following these suggestions. First, put your
 As a berserker, you gain the follow class features.
 
 #### Hit Points
-___
 - **Hit Dice:** 1d12 per berserker level
 - **Hit Points at 1st Level:** 12 + your Constitution modifier
 - **Hit Points at Higher Levels:** 1d12 (or 7) + your Constitution modifier per berserker level after 1st
 
 #### Proficiencies
-___
 - **Armor:** Light armor, medium armor
 - **Weapons:** All vibroweapons, simple blasters
-  
-<br>
 
 - **Tools:** None
 - **Saving Throws:** Strength, Constitution
