@@ -121,10 +121,8 @@ As a berserker, you gain the follow class features.
 - **Hit Points at Higher Levels:** 1d12 (or 7) + your Constitution modifier per berserker level after 1st
 
 #### Proficiencies
-
 - **Armor:** Light armor, medium armor
 - **Weapons:** All vibroweapons, simple blasters
-
 - **Tools:** None
 - **Saving Throws:** Strength, Constitution
 - **Skills:** Choose two from Animal Handling, Athletics, Intimidation, Nature, Perception, Survival
@@ -513,19 +511,14 @@ You can make a consular quickly by following these suggestions. First, make Wisd
 As a consular, you gain the following class features.
 
 #### Hit Points
-___
 - **Hit Dice:** 1d6 per consular level
 - **Hit Points at 1st Level:** 6 + your Constitution modifier
 - **Hit Points at Higher Level:** 1d6 (or 4) + your Constitution modifier per consular level after 1st
 
 #### Proficiencies
-___
 - **Armor:** None
 - **Weapons:** Simple lightweapons, simple vibroweapons
 - **Tools:** None
-
-<br>
-
 - **Saving Throws:** Wisdom, Charisma
 - **Skills:** Choose two from Deception, Insight, Intimidation, Investigation, Lore, Medicine, and Persuasion
 
@@ -863,19 +856,14 @@ As an engineer, you gain the following class features.
 
 
 #### Hit Points
-___
 - **Hit Dice:** 1d8 per engineer level
 - **Hit Points at 1st Level:** 8 + your Constitution modifier
 - **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per engineer level after 1st
 
 #### Proficiencies
-___
 - **Armor:** Light armor
 - **Weapons:** Simple blasters, simple vibroweapons
 - **Tools:** Tinker's implements and one of your choice
-
-<br>
-
 - **Saving Throws:** Constitution, Intelligence
 - **Skills:** Choose three from Investigation, Lore, Medicine, Nature, Piloting, and Technology
 
@@ -1677,19 +1665,14 @@ You can make a fighter quickly by following these suggestions. First, make Stren
 As a fighter, you gain the following class features.
 
 #### Hit Points
-___
 - **Hit Dice:** 1d10 per fighter level
 - **Hit Points at 1st Level:** 10 + your Constitution modifier
 - **Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution modifier per fighter level after 1st
 
 #### Proficiencies
-___
 - **Armor:** All armor
 - **Weapons:** All blasters, all vibroweapons
 - **Tools:** None
-
-<br>
-
 - **Saving Throws:** Strength, Constitution
 - **Skills:** Choose two skills from Acrobatics, Animal Handling, Athletics, Lore, Insight, Intimidation, Perception, and Survival
 
@@ -2119,19 +2102,14 @@ You can make a guardian quickly by following these suggestions. First, make Stre
 As a guardian, you gain the following class features.
 
 #### Hit Points
-___
 - **Hit Dice:** 1d10 per guardian level
 - **Hit Points at 1st Level:** 10 + your Constitution modifier
 - **Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution modifier per guardian level after 1st.
 
 #### Proficiencies
-___
 - **Armor:** Light armor, medium armor
 - **Weapons:** All lightweapons, all vibroweapons
 - **Tools:** None
-
-<br>
-
 - **Saving Throws:** Constitution, Charisma
 - **Skills:** Choose two from Acrobatics, Athletics, Deception, Insight, Intimidation, Lore, Perception, Persuasion, and Piloting
 
@@ -2508,19 +2486,14 @@ You can make a monk quickly by following these suggestions. First, make Dexterit
 As a monk, you gain the following class features.
 
 #### Hit Points
-___
 - **Hit Dice:** 1d8 per monk level
 - **Hit Points at 1st Level:** 8 + your Constitution modifier
 - **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per monk level after 1st
 
 #### Proficiencies
-___
 - **Armor:** None
 - **Weapons:** Simple blasters, simple vibroweapons, martial vibroweapons that lack the dexterity, heavy, special, and two-handed properties
 - **Tools:** None
-
-<br>
-
 - **Saving Throws:** Strength, Dexterity
 - **Skills:** Choose two from Acrobatics, Athletics, Insight, Lore, Perception, and Stealth
 
@@ -2899,19 +2872,14 @@ You can make an operative quickly by following these suggestions. First, make De
 As an operative, you have the following class features.
 
 #### Hit Points
-___
 - **Hit Dice:** 1d8 per operative level
 - **Hit Points at 1st Level:** 8 + your Constitution modifier
 - **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per operative level after 1st
 
 #### Proficiencies
-___
 - **Armor:** Light armor
 - **Weapons:** Simple blasters, simple vibroweapons, martial blasters that lack the auto, special, strength, and two-handed properties, martial vibroweapons with the finesse property
 - **Tools:** One specialist's kit of your choice
-
-<br>
-
 - **Saving Throws:** Dexterity, Intelligence
 - **Skills:** Choose any four
 
@@ -3399,19 +3367,14 @@ You can make a scholar quickly by following these suggestions. First, make Intel
 As a scholar, you gain the following class features.
 
 #### Hit Points
-___
 - **Hit Dice:** 1d8 per scholar level
 - **Hit Points at 1st Level:** 8 + your Constitution modifier
 - **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per scholar level after 1st
 
 #### Proficiencies
-___
 - **Armor:** Light armor
 - **Weapons:** Simple blasters, simple vibroweapons, martial vibroweapons with the finesse property
 - **Tools:** Any one
-
-<br>
-
 - **Saving Throws:** Intelligence, Wisdom
 - **Skills:** Choose three from Deception, Insight, Intimidation, Investigation, Lore, Medicine, Nature, Persuasion, and Survival
 
@@ -3971,19 +3934,14 @@ You can make a scout quickly by following these suggestions. First, make Strengt
 As a scout, you gain the following class features.
 
 #### Hit Points
-___
 - **Hit Dice:** 1d10 per scout level
 - **Hit Points at 1st Level:** 10 + your Constitution modifier
 - **Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution modifier per scout level after 1st
 
 #### Proficiencies
-___
 - **Armor:** Light armor, medium armor
 - **Weapons:** All blasters, all vibroweapons
 - **Tools:** None
-
-<br>
-
 - **Saving Throws:** Strength, Dexterity
 - **Skills:** Choose three from Animal Handling, Athletics, Insight, Investigation, Perception, Piloting, Stealth, Survival, and Technology
 
@@ -4362,19 +4320,14 @@ You can make a sentinel quickly by following these suggestions. First, make Dext
 As a sentinel, you gain the following class features.
 
 #### Hit Points
-___
 - **Hit Dice:** 1d8 per sentinel level
 - **Hit Points at 1st Level:** 8 + your Constitution modifier
 - **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per sentinel level after 1st
 
 #### Proficiencies
-___
 - **Armor:** Light armor
 - **Weapons:** Simple lightweapons, simple vibroweapons, martial lightweapons with the finesse property, martial vibroweapons with the finesse property
 - **Tools:** One specialist's kit of your choice
-
-<br>
-
 - **Saving Throws:** Dexterity, Charisma
 - **Skills:** Choose three from Acrobatics, Animal Handling, Insight, Intimidation, Perception, Persuasion, Piloting, Stealth, and Technology
 
