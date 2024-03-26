@@ -111,7 +111,7 @@ As a bith, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic, Bith, and one more language of your choice.
 
-<img src='https://www.gmbinder.com/images/0VxWnHw.png' style='position:absolute;top:58px;right:150px;width:192px;transform:scaleX(-1);z-index:1000' />
+<!--- <img src='https://www.gmbinder.com/images/0VxWnHw.png' style='position:absolute;top:58px;right:150px;width:192px;transform:scaleX(-1);z-index:1000' /> --->
 
 ___
 > ## Bothan
@@ -178,7 +178,7 @@ As a bothan, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Bothese. Bothese had a great influence on the forming of Galactic Basic; the two languages share many cognates.
 
-<img src='https://www.gmbinder.com/images/TF9SWRh.png' style='position:absolute;top:14px;right:110px;width:217px;transform:scaleX(-1);z-index:1000' />
+<!--- <img src='https://www.gmbinder.com/images/TF9SWRh.png' style='position:absolute;top:14px;right:110px;width:217px;transform:scaleX(-1);z-index:1000' /> --->
 
 ___
 > ## Cathar
@@ -245,7 +245,7 @@ As a cathar, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Catharese.
 
-<img src='https://www.gmbinder.com/images/n6K5gK6.png' style='position:absolute;top:48px;right:25px;width:388px;z-index:1000' />
+<!--- <img src='https://www.gmbinder.com/images/n6K5gK6.png' style='position:absolute;top:48px;right:25px;width:388px;z-index:1000' /> --->
 
 ___
 > ## Cerean
@@ -310,7 +310,7 @@ As a cerean, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Cerean. Cerean is characterized by its gravelly sounds.
 
-<img src='https://www.gmbinder.com/images/cauLVLM.png' style='position:absolute;top:52px;right:78px;width:318px;z-index:1000' />
+<!--- <img src='https://www.gmbinder.com/images/cauLVLM.png' style='position:absolute;top:52px;right:78px;width:318px;z-index:1000' /> --->
 
 ___
 > ## Chiss
@@ -369,7 +369,7 @@ As a chiss, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic, Cheunh, and your choice of Minnisiat or Sy Bisti. Cheunh is a complex language that is difficult for non-chiss to learn. Chiss take pride in this difficulty. Communications with outsiders are conducted through local trade-languages like Minnisiat or Sy Bisti.
 
-<img src='https://www.gmbinder.com/images/rzXZHkJ.png' style='position:absolute;top:57px;right:90px;width:409px;z-index:1000' />
+<!--- <img src='https://www.gmbinder.com/images/rzXZHkJ.png' style='position:absolute;top:57px;right:90px;width:409px;z-index:1000' /> --->
 
 ___
 > ## Devaronian
@@ -436,7 +436,7 @@ As a devaronian, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Devaronese. Devaronese is characterized by grunts and grumbles. It is rare to hear a Devaronian speak it anywhere other than their homeworld of Devaron.
 
-<img src='https://www.gmbinder.com/images/6JPkpel.png' style='position:absolute;top:55px;right:92px;width:291px;z-index:1000' />
+<!-- <img src='https://www.gmbinder.com/images/6JPkpel.png' style='position:absolute;top:55px;right:92px;width:291px;z-index:1000' /> --->
 
 ___
 > ## Droid, Class I
@@ -508,11 +508,11 @@ As a class I droid, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and one language of your choice. You can understand spoken and written Binary, but you can not speak it.
 
-<img src='https://www.gmbinder.com/images/Zey39J2.png' style='position:absolute;top:34px;right:245px;width:121px;transform:scalex(-1)' />
+<!--- <img src='https://www.gmbinder.com/images/Zey39J2.png' style='position:absolute;top:34px;right:245px;width:121px;transform:scalex(-1)' />
 
 <img src='https://www.gmbinder.com/images/UREBv14.png' style='position:absolute;top:28px;right:65px;width:100px;transform:scalex(-1);z-index:1000' />
 
-<img src='https://www.gmbinder.com/images/BhiNZdX.png' style='position:absolute;top:37px;right:160px;width:97px;transform:scalex(-1)' />
+<img src='https://www.gmbinder.com/images/BhiNZdX.png' style='position:absolute;top:37px;right:160px;width:97px;transform:scalex(-1)' /> --->
 
 ___
 > ## Droid, Class II
@@ -588,9 +588,9 @@ As a class II droid, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Binary. You can understand spoken and written Galactic Basic and one language of your choice, but you can not speak them.
 
-<img src='https://www.gmbinder.com/images/lMZ4tex.png' style='position:absolute;top:28px;right:147px;width:64px;z-index:1000' />
+<!--- <img src='https://www.gmbinder.com/images/lMZ4tex.png' style='position:absolute;top:28px;right:147px;width:64px;z-index:1000' />
 
-<img src='https://www.gmbinder.com/images/CufHu1B.png' style='position:absolute;top:41px;right:272px;width:46px;z-index:1000' />
+<img src='https://www.gmbinder.com/images/CufHu1B.png' style='position:absolute;top:41px;right:272px;width:46px;z-index:1000' /> --->
 
 
 
@@ -667,9 +667,9 @@ As a class III droid, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write all registered languages.
 
-<img src='https://www.gmbinder.com/images/Odqa22U.png' style='position:absolute;top:27px;right:41px;width:145px;z-index:1000' />
+<!--- <img src='https://www.gmbinder.com/images/Odqa22U.png' style='position:absolute;top:27px;right:41px;width:145px;z-index:1000' />
 
-<img src='https://www.gmbinder.com/images/V02q0aa.png' style='position:absolute;top:36px;right:145px;width:253px;z-index:1000' />
+<img src='https://www.gmbinder.com/images/V02q0aa.png' style='position:absolute;top:36px;right:145px;width:253px;z-index:1000' /> --->
 
 ___
 > ## Droid, Class IV
@@ -739,11 +739,11 @@ As a class IV droid, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and one language of your choice. You can understand spoken and written Binary, but you can not speak it.
 
-<img src='https://www.gmbinder.com/images/bodo2nf.png' style='position:absolute;top:32px;right:249px;width:118px;transform:scaleX(-1);z-index:1000' />
+<!--- <img src='https://www.gmbinder.com/images/bodo2nf.png' style='position:absolute;top:32px;right:249px;width:118px;transform:scaleX(-1);z-index:1000' />
 
 <img src='https://www.gmbinder.com/images/KlA0JZ7.png' style='position:absolute;top:32px;right:62px;width:95px;z-index:1000' />
 
-<img src='https://www.gmbinder.com/images/7ydbiHP.png' style='position:absolute;top:12px;right:159px;width:90px;z-index:1000' />
+<img src='https://www.gmbinder.com/images/7ydbiHP.png' style='position:absolute;top:12px;right:159px;width:90px;z-index:1000' /> --->
 
 ___
 > ## Droid, Class V
@@ -817,11 +817,11 @@ As a class V droid, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Binary. You can understand spoken and written Galactic Basic and one language of your choice, but you can not speak it.
 
-<img src='https://www.gmbinder.com/images/lEEiyee.png' style='position:absolute;top:47px;right:265px;width:118px;' />
+<!--- <img src='https://www.gmbinder.com/images/lEEiyee.png' style='position:absolute;top:47px;right:265px;width:118px;' />
 
 <img src='https://www.gmbinder.com/images/edKQlhv.png' style='position:absolute;top:37px;right:65px;width:106px' />
 
-<img src='https://www.gmbinder.com/images/kaVdLRJ.png' style='position:absolute;top:43px;right:143px;width:160px;;' />
+<img src='https://www.gmbinder.com/images/kaVdLRJ.png' style='position:absolute;top:43px;right:143px;width:160px;;' /> --->
 
 ___
 > ## Duros
@@ -890,7 +890,7 @@ As a duros, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Durese. Durese is a common interstellar tongue used by prominent spacers and traders.
 
-<img src='https://www.gmbinder.com/images/5uXbzwI.png' style='position:absolute;top:49px;right:100px;width:300px;z-index:1000' />
+<!--- <img src='https://www.gmbinder.com/images/5uXbzwI.png' style='position:absolute;top:49px;right:100px;width:300px;z-index:1000' /> --->
 
 ___
 > ## Ewok
@@ -961,7 +961,7 @@ As an Ewok, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Ewokese. You can understand spoken and written Galactic Basic, but your vocal cords do not allow you to speak it.
 
-<img src='https://www.gmbinder.com/images/HpBHzBQ.png' style='position:absolute;top:22px;right:18px;width:425px' />
+<!--- <img src='https://www.gmbinder.com/images/HpBHzBQ.png' style='position:absolute;top:22px;right:18px;width:425px' /> --->
 
 ___
 > ## Gamorrean 
@@ -1022,7 +1022,7 @@ As a gamorrean, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Gamorrese. You can understand spoken and written Galactic Basic, but your vocal cords do not allow you to speak it. Gamorrese is characterized by its grunts and squeals, and its writing is a crude, pictographic style.
 
-<img src='https://www.gmbinder.com/images/OXUDgmU.png' style='position:absolute;top:27px;right:57px;width:350px;z-index:1000' />
+<!-- <img src='https://www.gmbinder.com/images/OXUDgmU.png' style='position:absolute;top:27px;right:57px;width:350px;z-index:1000' /> --->
 
 ___
 > ## Gungan
@@ -1093,7 +1093,7 @@ As a Gungan, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Gungan. When speaking Galactic Basic, you often have trouble with word tenses and infinitives; this usually has a comical effect.
 
-<img src='https://www.gmbinder.com/images/Z4hnjr8.png' style='position:absolute;top:16px;right:57px;width:341px;mix-blend-mode:darken' />
+<!--- <img src='https://www.gmbinder.com/images/Z4hnjr8.png' style='position:absolute;top:16px;right:57px;width:341px;mix-blend-mode:darken' /> --->
 
 ___
 > ## Human
@@ -1219,7 +1219,7 @@ As an Ithorian, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Ithorese. You can understand spoken and written Galactic Basic, but your vocal cords do not allow you to speak it.
 
-<img src='https://www.gmbinder.com/images/ApMoII2.png' style='position:absolute;top:48px;right:0px;width:303px;z-index:1000' />
+<!--- <img src='https://www.gmbinder.com/images/ApMoII2.png' style='position:absolute;top:48px;right:0px;width:303px;z-index:1000' /> --->
 
 
 
@@ -1375,7 +1375,7 @@ As a kel dor, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Kel Dor. 
 
-<img src='https://www.gmbinder.com/images/gtOV7V4.png' style='position:absolute;top:35px;right:70px;width:322px' />
+<!--- <img src='https://www.gmbinder.com/images/gtOV7V4.png' style='position:absolute;top:35px;right:70px;width:322px' /> --->
 
 
 
@@ -1448,7 +1448,7 @@ As a mon calamari, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic, Mon Cal, and one language of your choice.
 
-<img src='https://www.gmbinder.com/images/60ZHWYy.png' style='position:absolute;top:51px;right:110px;width:181px;z-index:1000' />
+<!--- <img src='https://www.gmbinder.com/images/60ZHWYy.png' style='position:absolute;top:51px;right:110px;width:181px;z-index:1000' /> -->
 
 
 
@@ -1527,7 +1527,7 @@ As a Nautolan, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Nautila. Nautila is unique in that it can only be properly pronounced underwater due to its use of pheromones in addition to spoken sounds. In any other environment, the language loses a great amount of detail; that nautolans find this annoying.
 
-<img src='https://www.gmbinder.com/images/dpFVpaX.jpg' style='position:absolute;top:47px;right:60px;width:330px;mix-blend-mode:darken' />
+<!--- <img src='https://www.gmbinder.com/images/dpFVpaX.jpg' style='position:absolute;top:47px;right:60px;width:330px;mix-blend-mode:darken' /> --->
 
 
 
@@ -1600,7 +1600,7 @@ As a rodian, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Rodese. Rodians can communicate with each other using pheromones. Force-sensitives can detect this communication, though they can’t understand it.
 
-<img src='https://www.gmbinder.com/images/ALqyUgO.png' style='position:absolute;top:57px;right:85px;width:246px' />
+<!--- <img src='https://www.gmbinder.com/images/ALqyUgO.png' style='position:absolute;top:57px;right:85px;width:246px' /> --->
 
 
 
@@ -1673,7 +1673,7 @@ As a sith pureblood, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Sith. Sith is an agglutinative language, in which words or even phrases were made up of linears sequences of distinct meaningful units.
 
-<img src='https://www.gmbinder.com/images/Tm49Jbq.png' style='position:absolute;top:51px;right:25px;width:402px' />
+<!--- <img src='https://www.gmbinder.com/images/Tm49Jbq.png' style='position:absolute;top:51px;right:25px;width:402px' /> --->
 
 
 
@@ -1746,7 +1746,7 @@ As a togruta, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Togruti. Togruti is an ornate language characterized by trills and long vowel sounds which are modified by subtle tremors in the togruta’s head-tails. This language is heavily influenced by Basic, but also incorporates some native idioms, which cause Basic-speaking togruta to use seemingly strange expressions.
 
-<img src='https://www.gmbinder.com/images/odpeG7I.png' style='position:absolute;top:50px;right:110px;width:276px;z-index:1000' />
+<!--- <img src='https://www.gmbinder.com/images/odpeG7I.png' style='position:absolute;top:50px;right:110px;width:276px;z-index:1000' /> --->
 
 
 
@@ -1821,7 +1821,7 @@ As a trandoshan, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Dosh. Dosh is characterized by its harsh grunts, hisses and growls, and its written form that used alphabetic glyphs.
 
-<img src='https://www.gmbinder.com/images/MgUhioa.png' style='position:absolute;top:52px;right:90px;width:269px;z-index:1000' />
+<!--- <img src='https://www.gmbinder.com/images/MgUhioa.png' style='position:absolute;top:52px;right:90px;width:269px;z-index:1000' /> --->
 
 
 
@@ -1900,7 +1900,7 @@ As a Tusken, you have the following special traits.
 
 ***Languages.*** You can speak Tusken, and speak, read, and write Galactic Basic. Tusken is a guttural language characterized by its barks, growls, and roars. While Tuskens typically understand Galactic Basic, it is rare to hear them speak anything but Tusken. Tusken has no written form. Tuskens also know a complex sign language used to communicate with other tuskens silently.
 
-<img src='https://www.gmbinder.com/images/BjLMMtq.png' style='position:absolute;top:-38px;right:0px;width:280px;transform:scaleX(-1)' />
+<!--- <img src='https://www.gmbinder.com/images/BjLMMtq.png' style='position:absolute;top:-38px;right:0px;width:280px;transform:scaleX(-1)' /> --->
 
 
 
@@ -1973,7 +1973,7 @@ As a twi'lek, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Twi’leki. You can communicate non-verbally with other twi’leks through a complex language of subtle head-tail motions.
 
-<img src='https://www.gmbinder.com/images/B5LmpQ6.png' style='position:absolute;top:-20px;right:80px;width:239.5px' />
+<!--- <img src='https://www.gmbinder.com/images/B5LmpQ6.png' style='position:absolute;top:-20px;right:80px;width:239.5px' /> --->
 
 
 
@@ -2048,7 +2048,7 @@ As a weequay, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Sriluurian. You can communicate with other Weequay within 30 feet without speaking through use of pheromones. Force attuned individuals can detect the communication but can’t understand it.
 
-<img src='https://www.gmbinder.com/images/rULowc8.png' style='position:absolute;top:22px;right:62px;width:319px;z-index:1000' />
+<!--- <img src='https://www.gmbinder.com/images/rULowc8.png' style='position:absolute;top:22px;right:62px;width:319px;z-index:1000' /> --->
 
 
 
@@ -2123,7 +2123,7 @@ As a wookiee, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Shyriiwook. You can understand spoken and written Galactic Basic, but your vocal cords do not allow you to speak it.
 
-<img src='https://www.gmbinder.com/images/ZUQ5ISz.png' style='position:absolute;top:25px;right:69px;width:262px;transform:scaleX(-1);z-index:1000' />
+<!--- <img src='https://www.gmbinder.com/images/ZUQ5ISz.png' style='position:absolute;top:25px;right:69px;width:262px;transform:scaleX(-1);z-index:1000' /> --->
 
 
 
@@ -2200,10 +2200,10 @@ As a zabrak, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Zabraki.
 
-<img src='https://www.gmbinder.com/images/TXlLpKD.png' style='position:absolute;top:53px;right:15px;width:465px;z-index:1000' />
+<!--- <img src='https://www.gmbinder.com/images/TXlLpKD.png' style='position:absolute;top:53px;right:15px;width:465px;z-index:1000' /> --->
 
 
 
-<img src='https://www.gmbinder.com/images/2ETxkMF.png' style="position:absolute; right:-400px; bottom:0px; width:2600px;" />
+<!--- <img src='https://www.gmbinder.com/images/2ETxkMF.png' style="position:absolute; right:-400px; bottom:0px; width:2600px;" /> --->
 
-\pagebreak
+
