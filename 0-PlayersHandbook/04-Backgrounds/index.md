@@ -93,9 +93,6 @@ A list of the most commonly spoken languages of *Star Wars* can be found below i
 |   Gamorrese   |
 |   Gungan  |
 |	Huttese	|
-
-
-|:--:|
 |   Ithorese    |
 |	Jawaese	|
 |	Kel Dor	|
@@ -280,7 +277,9 @@ Agents are shaped by their experience in their faction's communities. Their stud
 Before you became an adventurer, your life was already full of conflict and excitement, because you made a living tracking down people for pay. Unlike some people who collect bounties, though, you aren't a savage who follows quarry into or through the wilderness. You're involved in a lucrative trade, in the place where you live, that routinely tests your skills and survival instincts. What's more, you aren't alone, as a bounty hunter in the wild would be: you routinely interact with both the criminal subculture and other bounty hunters, maintaining contacts in both areas to help you succeed.
 
 You might be a cunning thief-catcher, prowling the rooftops to catch one of the myriad burglars of the city. Perhaps you are someone who has your ear to the street, aware of the doings of street gangs. You might be a "velvet mask" bounty hunter, one who blends in with high society and noble circles in order to catch the criminals that prey on the rich, whether pickpockets or con artists. As a member of an adventuring party, you might find it more difficult to pursue a personal agenda that doesn't fit with the group's objectives - but on the other hand, you can take down much more formidable targets with the help of your companions.
+
 ___
+
 - **Skill Proficiencies:** Choose two from Deception, Insight, Persuasion, and Stealth
 - **Tool Proficiencies:** Your choice of demolitions kit, security kit, or slicer's kit
 - **Languages:** One of your choice
@@ -358,7 +357,9 @@ Your bond might involve other bounty hunters or the organizations or individuals
 
 ## Criminal
 You are an experienced criminal with a history of breaking the law. You have spent a lot of time among other criminals and still have contacts within the criminal underworld. You're far closer than most people to the world of murder, theft, and violence that pervades the underbelly of civilization, and you have survived up to this point by flouting the rules and regulations of society.
+
 ___
+
 - **Skill Proficiencies:** Choose two from Deception, Intimidation, Sleight of Hand, and Stealth
 - **Tool Proficiencies:** One type of gaming set, your choice of demolitions kit, security kit, or slicer's kit
 - **Equipment:** A set of common clothes with a hood, a gaming set (one of your choice), and a belt pouch containing 150 cr
@@ -453,7 +454,9 @@ Criminals might seem like villains on the surface, and many of them are villaino
 
 ## Entertainer
 You thrive in front of an audience, knowing how to entrance them, entertain them, and even inspire them. Your poetics can stir the hearts of those who hear you, awakening grief or joy, laughter or anger. Your music raises their spirits or captures their sorrow. Your dance steps captivate, your humor cuts to the quick. Whatever techniques you use, your art is your life.
+
 ___
+
 - **Skill Proficiencies:** Choose two from Acrobatics, Insight, Performance, and Sleight of Hand
 - **Tool Proficiencies:** Disguise kit, one type of musical instrument
 - **Equipment:** A musical instrument (one of your choice), the favor of an admirer (love letter, lock of hair, or trinket), a costume, and a belt pouch containing 150 cr
@@ -552,6 +555,7 @@ Successful entertainers have to be able to capture and hold an audience's attent
 You are keenly attuned to the flow of the mysterious energy field known as the Force.  With proper training, you could learn to consciously sense and manipulate that energy further.  As it is, you may appear to have heightened senses, extremely quick reflexes, an intuitive understanding of others, or an uncanny ability to persuade people to your way of thinking. Your powers may have lain dormant for a long time, perhaps you felt something inside of you but never knew what it was. Perhaps your abilities were awoken by a strong encounter with another force-sensitive with the powers of the Force, or an object associated with the Force, such as a lightsaber.
 
 ___
+
 - **Skill Proficiencies:** Choose two from Deception, Insight, Perception, and Persuasion
 - **Tool Proficiencies:** Two of your choice of artisan's implements, gaming sets, or musical instruments
 - **Equipment:** A set of common clothes, a sturdy knife, and a belt pouch containing 150 cr
@@ -628,7 +632,9 @@ Force adepts can come from all walks of life and have varied life experiences.  
 
 ## Gambler
 You are a skilled gambler who spends most of your time in casinos, bar rooms, and gambling dens. Are your activities legal, or do you break the law? Have you ever cheated in a game, or do you play by the rules? No matter what, your life has been one of excitement, chance, and danger.
+
 ___
+
 - **Skill Proficiencies:** Choose two from Deception, Insight, Intimidation, and Sleight of Hand
 - **Tool Proficiencies:** Two types of gaming sets
 - **Equipment:** A set of common clothes, a set of dice, a deck of playing cards, a lucky charm, and a belt pouch containing 100 cr.
@@ -705,7 +711,9 @@ Gambling is your passion, for better or for worse. Most gamblers see their vices
 
 ## Investigator
 Rarer than watch or patrol members are a community's investigators, who are responsible for solving crimes after the fact. Though such folk are seldom found in rural areas, nearly every settlement of decent size has at least one or two watch members who have the skill to investigate crime scenes and track down criminals.
+
 ___
+
 - **Skill Proficiencies:** Choose two from Insight, Investigation, Perception, and Survival
 - **Languages:** Two of your choice
 - **Equipment:** A uniform in the style of your unit and indicative of your rank, a horn with which to summon help, a set of binders, and a pouch containing 100 cr
@@ -795,6 +803,7 @@ There is no death, there is the Force."*
 
 
 ___
+
 - **Skill Proficiencies:** Choose two from Insight, Investigation, Lore, and Persuasion
 - **Tool Proficiencies:** Artificer's tools
 - **Languages:** One of your choice
@@ -874,7 +883,9 @@ Jedi are shaped by their experience in their temple. Their study of the history 
 
 ## Mandalorian
 You are a child of Mandalore. As a member of the most renowned warrior culture in history, your people are known for being strong and hardy. Mandalorian culture is built around the honor and glory that come from victory in battle.
+
 ___
+
 - **Skill Proficiencies:** Choose two from Athletics, Intimidation, Piloting, and Survival
 - **Tool Proficiencies:** One set of artisan's implements
 - **Languages:** Mando'a 
@@ -973,7 +984,9 @@ Mandalorians are a meritocracy where birthplace, rank, status, and citizenship m
 As a sell-sword who fought battles for coin, you're well acquainted with risking life and limb for a chance at a share of treasure. Now, you look forward to fighting foes and reaping even greater rewards as an adventurer. Your experience makes you familiar with the ins and outs of mercenary life, and you likely have harrowing stories of events on the battlefield. You might have served with a large outfit or a smaller band of sell-swords, maybe even more than one. 
 
 Now you're looking for something else, perhaps greater reward for the risks you take, or the freedom to choose your own activities. For whatever reason, you're leaving behind the life of a soldier for hire, but your skills are undeniably suited for battle, so now you fight on in a different way.
+
 ___
+
 - **Skill Proficiencies:** Choose two from Athletics, Investigation, Persuasion, and Piloting
 - **Tool Proficiencies:** One type of gaming set
 - **Languages:** One of your choice
@@ -1139,7 +1152,9 @@ Nobles are born and raised to a very different lifestyle than most people ever e
 
 ## Nomad
 You grew up in the wilds, far from civilization and the comforts of town and technology. You've witnessed the migration of herds larger than forests, survived weather more extreme than any city-dweller could comprehend, and enjoyed the solitude of being the only thinking creature for miles in any direction. The wilds are in your blood, whether you were a nomad, an explorer, a recluse, a hunter-gatherer, or even a marauder. Even in places where you don't know the specific features of the terrain, you know the ways of the wild.
+
 ___
+
 - **Skill Proficiencies:** Choose two from Animal Handling, Athletics, Medicine, and Survival
 - **Tool Proficiencies:** One type of musical instrument
 - **Languages:** One of your choice
@@ -1217,7 +1232,9 @@ Often considered rude and uncouth among civilized folk, nomads have little respe
 
 ## Outlaw
 You are a notorious free adventurer who, due to unfortunate circumstances, has lost favor with the law. However, being of the common people, they protect you due to your just nature. A protector of the people, a thorn in the side of authorities.
+
 ___
+
 - **Skill Proficiencies:** Choose two from Acrobatics, Athletics, Insight, and Survival
 - **Tool Proficiencies:** Disguise kit
 - **Languages:** One of your choice
@@ -1311,7 +1328,9 @@ An outlaw is a hero for the common people who takes pride in his humble origins 
 
 ## Pirate
 You are an experienced pirate. Banditry and raiding are common in the Outer Rim, and little negative stigma is given to pirates.  Those that prey on the Empire are sometimes even held in high regard as bold warriors. However, you still have contacts within the criminal underworld and you're far closer than most people to the world of murder, theft, and violence that pervades the underbelly of civilization, and you have survived up to this point by flouting the rules and regulations of finer society.
+
 ___
+
 - **Skill Proficiencies:** Choose two from Athletics, Deception, Intimidation, and Piloting
 - **Tool Proficiencies:** One type of gaming set, your choice of demolitions kit, security kit, or slicer's kit
 - **Equipment:** One set of traveler's clothes, a gaming set you are proficient with, poorly wrought maps of Outer Rim worlds in your territory, a small piece of jewelry worth 100 cr from some exotic planet, and a pouch containing 50 cr
@@ -1392,6 +1411,7 @@ Nothing excites you more than pushing the boundaries of scientific knowledge. Mo
 What is your scientific field of interest? Is it your insatiable curiousity, or a personal goal that drives you? Did you leave your lab voluntarily, or were you kicked out? One thing is for sure - there are too many interesting research ideas, and too little time.
 
 ___
+
 - **Skill Proficiencies:** Choose two from Lore, Medicine, Nature, and Technology
 - **Tool Proficiencies:** One of your choice
 - **Languages:** One of your choice
@@ -1593,6 +1613,7 @@ The Force shall free me."*
 
 
 ___
+
 - **Skill Proficiencies:** Choose two from Deception, Insight, Intimidation, and Lore
 - **Tool Proficiencies:** Artificer's tools
 - **Languages:** One of your choice
@@ -1670,7 +1691,9 @@ Sith are shaped by their training. They study the Sith code and use it to oppres
 
 ## Smuggler
 You have spent your life hiding in the darkness, making shady deals behind closed doors. What led you to engage in a life of crime? Do you crave the thrill of lawbreaking, or did you enter the profession to pay off a debt, risking your hide on behalf of a less than honorable noble? A smuggler is an individual trained in the art of acquisition, a professional thug who can deliver anything... for a price. Smugglers tend to be bolder criminals than most, preferring bribery or distraction over subterfuge and stealth.
+
 ___
+
 - **Skill Proficiencies:** Choose two from Deception, Piloting, Sleight of Hand, and Stealth
 - **Tool Proficiencies:** One type of gaming set and your choice of demolitions kit, security kit, or slicer's kit
 - **Equipment:** A fusion cutter, a set of dark common clothes including a hood, and a belt pouch containing 150 cr
@@ -1847,7 +1870,9 @@ The horrors of war combined with the rigid discipline of military service leave 
 
 ## Spacer
 Aboard a star ship in the cold vacuum of space is where you feel most at home. You've spent the majority of your life travelling the stars. Life aboard ships has given you a good understanding of their inner workings. You might be especially skilled as a ship mechanic, a pilot, or support staff.
+
 ___
+
 - **Skill Proficiencies:** Choose two from Insight, Investigation, Piloting, and Technology
 - **Tool Proficiencies:** Your choice of chef's kit, mechanic's kit, or one type of gaming set
 - **Languages:** One of your choice
