@@ -1,6 +1,6 @@
 ---
 title: Equipment
-parent: 05-Equipment
+parent: Expanded Content
 has_children: true
 nav_order: 5
 ---
