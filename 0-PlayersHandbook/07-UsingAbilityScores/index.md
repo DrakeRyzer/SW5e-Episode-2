@@ -40,6 +40,7 @@ Because ability modifiers affect almost every attack roll, ability check, and sa
 Sometimes a special ability or power tells you that you have advantage or disadvantage on an ability check, a saving throw, or an attack roll. When that happens, you roll a second d20 when you make the roll. Use the higher of the two rolls if you have advantage, and use the lower roll if you have disadvantage. For example, if you have disadvantage and roll a 17 and a 5, you use the 5. If you instead have advantage and roll those numbers, you use the 17.
 
 #### Ability Scores and Modifiers Table
+
 | Score   | Modifier |
 | :--------: | :-------: |
 | 1     | -5  |
@@ -119,6 +120,7 @@ Both participants in a contest make ability checks appropriate to their efforts.
 If the contest results in a tie, the situation remains the same as it was before the contest. Thus, one contestant might win the contest by default. If two characters tie in a contest to snatch a ring off the floor, neither character grabs it. In a contest between a monster trying to open a door and an adventurer trying to keep the door closed, a tie means that the door remains shut.
 
 #### Ability Check DCs
+
 | Task Difficulty |	DC |
 | :--- | :---: |
 | Very easy | 5 |
