@@ -175,6 +175,7 @@ A medium shield is a common defensive technology that protects the user from bla
 Heavy shields are much larger and more cumbersome, but they offer more protection than their smaller counterparts. Their unwieldy size, however, requires the use of a one-handed weapon with the light property in the other hand.
 
 ##### Armor and Shields
+
 |Name&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|Cost&nbsp;&nbsp;|Armor|Weight&nbsp;&nbsp;|Properties&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| 
 |:---|---:|:---|-:|:---|
 |_Light Armor_	||||||
@@ -204,6 +205,7 @@ The time it takes to don or doff armor depends on the armor's category. If you h
 ***Doff.*** This is the time it takes to remove armor or store your shield. 
 
 ### Donning and Doffing Armor
+
 |Category| Don| Doff|
 |:--|:--:|:--:|
 |Light armor| 1 minute| 1 minute|
@@ -231,6 +233,7 @@ In many cases, an improvised weapon is similar to an actual weapon and can be tr
 An object that bears no resemblance to a weapon deals 1d4 kinetic damage. If a character uses a ranged weapon to make a melee attack, or throws a melee weapon that does not have the thrown property, it also deals 1d4 damage. An improvised thrown weapon has a normal range of 20 feet and a long range of 60 feet.
 
 ##### Blasters
+
 |Name&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;Cost&nbsp;&nbsp;|Damage&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Weight&nbsp;|Properties| 
 |:---|---:|:---|-:|:---|
 |	_Simple Blasters_	|||||
