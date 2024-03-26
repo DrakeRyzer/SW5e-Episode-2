@@ -1,3 +1,10 @@
+---
+title: Variant Rules
+parent: Expanded Content
+has_children: true
+nav_order: 14
+---
+
 <!--- I want to add a variant rule for allowing species ASIs to be placed in any ability, like in Tasha's "Customize Your Origin." --->
 <!--- If we don't put these in indidivual documents, we should alphabetize these --->
 
