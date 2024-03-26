@@ -1,8 +1,8 @@
 ---
 title: Tech Powers
-parent: 12-TechPowers
+parent: Expanded Content
 has_children: true
-nav_order: 3
+nav_order: 12
 ---
 
 # Tech Powers
