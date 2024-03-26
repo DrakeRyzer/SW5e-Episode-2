@@ -1,3 +1,9 @@
+---
+title: Equipment
+parent: Wretched Hives
+has_children: true
+nav_order: 5
+---
 
 # Chapter 5: Equipment
 
