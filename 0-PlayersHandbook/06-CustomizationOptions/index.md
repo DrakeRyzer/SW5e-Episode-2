@@ -34,6 +34,7 @@ As you advance in levels, you might primarily remain a member of your original c
 To qualify for a new class, you must meet the ability score prerequisites for both your current class and your new one, as shown in the Multiclassing Prerequisites table. For example, a berserker who decides to multiclass into the engineer class must have both Strength and Intelligence scores of 13 or higher. Without the full training that a beginning character receives, you must be a quick study in your new class, having a natural aptitude that is reflected by higher-than-average ability scores.
 
 ##### Multiclassing Prerequisites
+
 |Class|Ability Score Minimum|
 |:--|:--|
 |Berserker|Strength 13|
@@ -64,6 +65,7 @@ If a feature or feat allows you to forgo your proficiency bonus, you may only do
 When you gain a level in a class other than your first, you gain only some of that class's starting proficiencies, as shown in the Multiclassing Proficiencies table.
 
 ##### Multiclassing Proficiencies
+
 |Class|&nbsp;&nbsp;|Proficiencies Gained|
 |:--|:--:|:--|
 |Berserker||Light armor, all vibroweapons||
@@ -113,6 +115,7 @@ For instance, if you have four levels in Marauder Approach berserker (1.77) and 
 If you have both force- and tech-casting, you determine your Max Power Levels separately, and they can only be used to cast force or tech powers, respectively.
 
 ##### Multiclass Max Power Level
+
 |Caster Level|Slot Level|
 |:---:|:--:|
 | 1st|1st|
