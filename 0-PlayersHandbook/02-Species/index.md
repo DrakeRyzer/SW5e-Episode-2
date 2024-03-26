@@ -51,25 +51,25 @@ ___
 > #### Visual Characteristics
 > 
 > ||||
-> |:--|:--|:--|
-> |***Skin Color***|&nbsp;&nbsp;|Green, pink, white, or yellow|
-> |***Hair Color***|&nbsp;&nbsp;|None|
-> |***Eye Color***|&nbsp;&nbsp;|Black|
-> |***Distinctions***|&nbsp;&nbsp;|Large cranium, acute senses of smell and hearing|
+> |:--|:--|
+> |***Skin Color***|Green, pink, white, or yellow|
+> |***Hair Color***|None|
+> |***Eye Color***|Black|
+> |***Distinctions***|Large cranium, acute senses of smell and hearing|
 > 
 > #### Physical Characteristics
 > 
 > |||||
-> |:--|:--|:--:|:--:|
-> |***Height***|&nbsp;&nbsp;|4'9"|+2d6"|
-> |***Weight***|&nbsp;&nbsp;|100 lb.|x(2d4) lb.|
+> |:--|:--|:--:|
+> |***Height***|4'9"|+2d6"|
+> |***Weight***|100 lb.|x(2d4) lb.|
 > 
 > #### Sociocultural Characteristics
 > 
 > ||||
 > |:--|:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Clak'dor VII|
-> |***Language***|&nbsp;&nbsp;|Bith|
+> |***Homeworld***|Clak'dor VII|
+> |***Language***|Bith|
 
 ### Biology and Appearance
 Bith are craniopods with pale pink, yellow, or green skin, large heads, large lidless eyes, toeless feet, and long fingers. Their thumb and small finger were both fully opposable. The bith's internal systems are different from most humanoids, as the bith have only one lung, and exhale through their skin. Bith also lack a proper nose, instead having highly sensitive olfactory organs hidden in the skin-flaps of their cheeks.
