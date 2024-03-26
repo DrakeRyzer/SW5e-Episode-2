@@ -1,8 +1,8 @@
 ---
 title: Force Powers
-parent: 11-Force Powers
+parent: Expanded Content
 has_children: true
-nav_order: 3
+nav_order: 11
 ---
 
 # Force Powers
