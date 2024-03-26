@@ -40,6 +40,7 @@ For each corroded level a creature has, it takes 1 additional damage from weapon
 Some special abilities and environmental hazards, and the long-term effects of freezing or scorching temperatures, can lead to a special condition called exhaustion. Exhaustion is measured in six levels. An effect can give a creature one or more levels of exhaustion, as specified in the effect's description.
 
 ##### Exhaustion Level
+
 |Level|Effect|
 |:--:|:--|
 |1|Disadvantage on ability checks|
@@ -118,6 +119,7 @@ Finishing a long rest reduces a creature's exhaustion level by 1, provided that 
 Some abilities, effects, and hazards can lead to a special condition called slowed. Slowed is measured in four levels. An effect can give a creature one or more levels of slowed, as specified in the effect's description.
 
 ##### Slowed Level
+
 |Level|Effect|
 |:--:|:--|
 |1|Speed reduced by 15 feet|
