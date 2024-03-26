@@ -277,13 +277,13 @@ An object that bears no resemblance to a weapon deals 1d4 kinetic damage. If a c
 
 |Name|Cost|Damage|Weight|Properties|
 |:---|---:|:---|-:|:---|
-|	_Simple Lightweapons_	|||||||
+|	_Simple Lightweapons_	|||||
 | &emsp;Lightblade         |375 cr   |1d6 energy   |1.50 lb|Finesse, hidden, luminous|
 | &emsp;Lightclub			|1,300 cr |1d10 energy	|3.75 lb|Dexterity 11, heavy, luminous, two-handed|
 | &emsp;Lightdagger		|425 cr   |1d4 energy	|1.00 lb|Finesse, hidden, light, luminous, thrown (range 20/60)|
 | &emsp;Lightsaber			|450 cr   |1d6 energy	|2.25 lb|Hidden, luminous, versatile (2d4)|
 | &emsp;Lightstaff	        |1,275 cr |2d4 energy	|4.25 lb|Dexterity 11, luminous, reach, two-handed|
-|	_Martial Lightweapons_	|||||||
+|	_Martial Lightweapons_	|||||
 | &emsp;Doublesaber		|725 cr   |1d8 energy   |2.25 lb|Double (1d8 energy), finesse, luminous|
 | &emsp;Doubleshoto		|700 cr   |1d6 energy   |1.75 lb|Double (1d6 energy), finesse, light, luminous|
 | &emsp;Great-saber			|1,725 cr |2d6 energy   |3.25 lb|Dexterity 11, luminous, two-handed|
@@ -297,30 +297,31 @@ An object that bears no resemblance to a weapon deals 1d4 kinetic damage. If a c
 | &emsp;Splitshoto         |1,150 cr |1d8 energy   |2.00 lb|Double (1d8 energy), interlocking, light, luminous|
 
 ##### Vibroweapons
-|Name&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|Cost&nbsp;&nbsp;|Damage&emsp;&nbsp;&nbsp;|Weight&nbsp;&nbsp;|Properties&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|
+
+|Name|Cost|Damage|Weight|Properties|
 |:---|---:|:---|-:|:---|
 |	_Simple Vibroweapons_	|||||
-| &emsp;Techaxe			|75 cr&nbsp;&nbsp;   |1d6 kinetic   |1.00 lb&nbsp;&nbsp;|Light, thrown (range 25/75)	|
-| &emsp;Vibrodagger		|50 cr&nbsp;&nbsp;   |1d4 kinetic   |0.50 lb&nbsp;&nbsp;|Finesse, light, thrown (range 20/60)|
-| &emsp;Vibrodart			|5 cr&nbsp;&nbsp;    |1d4 kinetic   |0.50 lb&nbsp;&nbsp;|Finesse, special, thrown (range 20/60)	|
-| &emsp;Vibroknuckler		|75 cr&nbsp;&nbsp;   |1d6 kinetic   |1.25 lb&nbsp;&nbsp;|Hidden, light|
-| &emsp;Vibromace			|700 cr&nbsp;&nbsp;  |1d10 kinetic  |7.00 lb&nbsp;&nbsp;|Dexterity 11, heavy, two-handed|
-| &emsp;Vibrospear			|125 cr&nbsp;&nbsp;  |1d6 kinetic   |4.00 lb&nbsp;&nbsp;|Thrown (range 25/75), versatile (2d4)|
-| &emsp;Vibrostaff			|100 cr&nbsp;&nbsp;  |1d6 kinetic   |4.00 lb&nbsp;&nbsp;|Versatile (2d4)|
+| &emsp;Techaxe			|75 cr   |1d6 kinetic   |1.00 lb|Light, thrown (range 25/75)	|
+| &emsp;Vibrodagger		|50 cr   |1d4 kinetic   |0.50 lb|Finesse, light, thrown (range 20/60)|
+| &emsp;Vibrodart			|5 cr    |1d4 kinetic   |0.50 lb|Finesse, special, thrown (range 20/60)	|
+| &emsp;Vibroknuckler		|75 cr   |1d6 kinetic   |1.25 lb|Hidden, light|
+| &emsp;Vibromace			|700 cr  |1d10 kinetic  |7.00 lb|Dexterity 11, heavy, two-handed|
+| &emsp;Vibrospear			|125 cr  |1d6 kinetic   |4.00 lb|Thrown (range 25/75), versatile (2d4)|
+| &emsp;Vibrostaff			|100 cr  |1d6 kinetic   |4.00 lb|Versatile (2d4)|
 |	_Martial Vibroweapons_	|||||
-| &emsp;Chakram				|175 cr&nbsp;&nbsp;  |1d6 kinetic   |3.00 lb&nbsp;&nbsp;|Finesse, returning, thrown (range 30/90)	|
-| &emsp;Doubleblade      	|400 cr&nbsp;&nbsp;  |1d6 kinetic	|3.50 lb&nbsp;&nbsp;|Double (1d6 kinetic), finesse, light|
-| &emsp;Doublesword      	|450 cr&nbsp;&nbsp;  |1d8 kinetic	|5.50 lb&nbsp;&nbsp;|Double (1d8 kinetic), finesse |
-| &emsp;Hidden blade		|75 cr&nbsp;&nbsp;   |1d4 kinetic	|1.00 lb&nbsp;&nbsp;|Finesse, fixed, hidden, light	|
-| &emsp;Net					|300 cr&nbsp;&nbsp;  |- 		    |3.00 lb&nbsp;&nbsp;|Light, finesse, special, thrown (range 15)|
-| &emsp;Techblade			|100 cr&nbsp;&nbsp;  |1d6 kinetic	|1.50 lb&nbsp;&nbsp;|Finesse, light|
-| &emsp;Techstaff    	    |650 cr&nbsp;&nbsp;  |2d4 kinetic	|5.25 lb&nbsp;&nbsp;|Dexterity 11, double (2d4 kinetic), light|
-| &emsp;Vibroaxe			|950 cr&nbsp;&nbsp;  |1d12 kinetic	|9.25 lb&nbsp;&nbsp;|Dexterity 11, heavy, two-handed|
-| &emsp;Vibroblade			|200 cr&nbsp;&nbsp;  |1d8 kinetic	|5.00 lb&nbsp;&nbsp;|Versatile (1d10)|
-| &emsp;Vibropike			|950 cr&nbsp;&nbsp;  |1d10 kinetic	|9.25 lb&nbsp;&nbsp;|Dexterity 11, reach, two-handed|
-| &emsp;Vibrorapier		|150 cr&nbsp;&nbsp;  |1d8 kinetic	|3.50 lb&nbsp;&nbsp;|Finesse|
-| &emsp;Vibrosword			|1,150 cr&nbsp;&nbsp;|2d6 kinetic	|9.25 lb&nbsp;&nbsp;|Dexterity 11, two-handed|
-| &emsp;Vibrowhip			|275 cr&nbsp;&nbsp;  |1d4 kinetic	|3.50 lb&nbsp;&nbsp;|Finesse, reach|
+| &emsp;Chakram				|175 cr  |1d6 kinetic   |3.00 lb|Finesse, returning, thrown (range 30/90)	|
+| &emsp;Doubleblade      	|400 cr  |1d6 kinetic	|3.50 lb|Double (1d6 kinetic), finesse, light|
+| &emsp;Doublesword      	|450 cr  |1d8 kinetic	|5.50 lb|Double (1d8 kinetic), finesse |
+| &emsp;Hidden blade		|75 cr   |1d4 kinetic	|1.00 lb|Finesse, fixed, hidden, light	|
+| &emsp;Net					|300 cr  |- 		    |3.00 lb|Light, finesse, special, thrown (range 15)|
+| &emsp;Techblade			|100 cr  |1d6 kinetic	|1.50 lb|Finesse, light|
+| &emsp;Techstaff    	    |650 cr  |2d4 kinetic	|5.25 lb|Dexterity 11, double (2d4 kinetic), light|
+| &emsp;Vibroaxe			|950 cr  |1d12 kinetic	|9.25 lb|Dexterity 11, heavy, two-handed|
+| &emsp;Vibroblade			|200 cr  |1d8 kinetic	|5.00 lb|Versatile (1d10)|
+| &emsp;Vibropike			|950 cr  |1d10 kinetic	|9.25 lb|Dexterity 11, reach, two-handed|
+| &emsp;Vibrorapier		|150 cr  |1d8 kinetic	|3.50 lb|Finesse|
+| &emsp;Vibrosword			|1,150 cr|2d6 kinetic	|9.25 lb|Dexterity 11, two-handed|
+| &emsp;Vibrowhip			|275 cr  |1d4 kinetic	|3.50 lb|Finesse, reach|
 
 ### Weapon Properties
 Many weapons have special properties related to their use, as shown in the Weapons table.
