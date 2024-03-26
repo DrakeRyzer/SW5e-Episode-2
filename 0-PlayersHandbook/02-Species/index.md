@@ -93,7 +93,7 @@ As a bith, you have the following special traits.
 
 ***Age.*** Bith reach adulthood in their late teens and live less than a century.
 
-***Alignment.*** Biths' benevolent nature causes them to tend toward the light side, though there are<br> exceptions.
+***Alignment.*** Biths' benevolent nature causes them to tend toward the light side, though there are exceptions.
 
 ***Size.*** Bith typically stand 5 to 6 feet tall and generally weigh about 120 lbs. Regardless of your position in that range, your size is Medium.
 
@@ -397,7 +397,7 @@ ___
 > |***Language***|Devaronese|
 
 ### Biology and Appearance
-A bipedal mammalian species, Devaronians evolved in the dense jungles of Devaron as a hunter-gather species. Their bodies are denser than most humanoids' and as a result they were heavier than their<br> appearance would tend to indicate. Devaronians have<br> silver-based blood, which appears thick and black<br> when exposed. They possess a unique blood filtration<br> and cleansing system which processes through two<br> livers. Because their bodies are constantly cleansed of<br> toxins and carcinogens, the species is highly resistant<br> to poison. To this end, sulfur is used as a stimulant on<br> Devaron to enhance speed and strength, because<br> inhaling it causes the substance to enter the<br> bloodstream rapidly. Their livers struggle to eliminate<br> sulfur from their system, meaning that long-term use<br> can be dangerous.
+A bipedal mammalian species, Devaronians evolved in the dense jungles of Devaron as a hunter-gather species. Their bodies are denser than most humanoids' and as a result they were heavier than their appearance would tend to indicate. Devaronians have silver-based blood, which appears thick and black when exposed. They possess a unique blood filtration and cleansing system which processes through two livers. Because their bodies are constantly cleansed of toxins and carcinogens, the species is highly resistant to poison. To this end, sulfur is used as a stimulant on Devaron to enhance speed and strength, because inhaling it causes the substance to enter the bloodstream rapidly. Their livers struggle to eliminate sulfur from their system, meaning that long-term use can be dangerous.
 
 ### Society and Culture
 Devaronian males are driven by an urge to wander, usually taking the first opportunity to move on from one place to another; they are often found traveling the galaxy as tramp freighter captains and scouts. Female Devaronians, on the other hand, are content to remain in a single location, raising the young and running the government of Devaron. The males send money back to their homeworld to support their families, but otherwise hardly ever return. The females are content with this arrangement, as they tend to view the restless males as disruptive to home life. 
@@ -414,11 +414,11 @@ Devaronian names are dark, complex and often guttural, with some harsher tones m
 ### Devaronian Traits
 As a devaronian, you have the following special traits.
 
-***Ability Score Increase.*** Your Constitution score increases by 2, and your Charisma score increases by<br> 1.
+***Ability Score Increase.*** Your Constitution score increases by 2, and your Charisma score increases by 1.
 
 ***Age.*** Devaronians reach adulthood in their late teens and live less than a century.
 
-***Alignment.*** Devaronians' greediness causes them to tend toward chaotic balanced, though there are<br> exceptions.
+***Alignment.*** Devaronians' greediness causes them to tend toward chaotic balanced, though there are exceptions.
 
 ***Size.*** Devaronians typically stand between 5 and 6 feet tall and weigh about 160 lbs. Regardless of your position in that range, your size is Medium.
 
@@ -446,7 +446,8 @@ ___
 > #### Visual Characteristics
 > 
 > |:--|:--|
-> |***Color Scheme***|  | Typically metallic|
+> |***Color Scheme***
+>   | Typically metallic|
 > |***Distinctions***   | Human-like size, slow speed, specialized knowledge|
 > 
 > #### Physical Characteristics
@@ -524,7 +525,7 @@ ___
 > |:--|:--|
 > |***Color Scheme***|Varies|
 > |***Distinctions*** | Retractible arms, integrated tools, diminutive size|
-> ___
+> 
 > #### Physical Characteristics
 > 
 > |:--|:--|:--:|
@@ -765,7 +766,7 @@ ___
 > #### Creation Characteristics
 > 
 > |:--|:--|
-> |***Manufacturer***|Cybot Galactica, <br>Industrial Automaton|
+> |***Manufacturer***|Cybot Galactica, Industrial Automaton|
 > |***Primary Language***|Binary|
 
 > #### Players as Droids
@@ -974,7 +975,7 @@ ___
 > |***Skin Color***|Black, brown, green, pink, or yellow|
 > |***Hair Color***|None|
 > |***Eye Color***|Blue, black, brown, or gold|
-> |***Distinctions***|Porcine humanoids with tusks and<br> horns|
+> |***Distinctions***|Porcine humanoids with tusks and horns|
 > 
 > #### Physical Characteristics
 > 
@@ -1006,7 +1007,7 @@ Gamorrean names are very gutteral and rough. Male names are typically one syllab
 ### Gamorrean Traits
 As a gamorrean, you have the following special traits.
 
-***Ability Score Increase.***  Your Strength score increases by 2, and your Constitution score increases<br> by 1.
+***Ability Score Increase.***  Your Strength score increases by 2, and your Constitution score increases by 1.
 
 ***Age.*** Gamorreans reach adulthood in their early teens and live no more than 70 years.
 
@@ -1322,7 +1323,7 @@ ___
 > |:--|:--|:--:|
 > |***Height***|4'6"|+2d12"|
 > |***Weight***|80 lb.|x(2d4) lb.|
-> ___
+> 
 > #### Sociocultural Characteristics
 > 
 > |:--|:--|
@@ -1361,7 +1362,7 @@ As a kel dor, you have the following special traits.
 
 ***Age.*** Kel dor reach adulthood in their late teens and live less than a century.
 
-***Alignment.*** Kel dors' structured nature causes them to tend toward lawful balanced, though there are<br> exceptions.
+***Alignment.*** Kel dors' structured nature causes them to tend toward lawful balanced, though there are exceptions.
 
 ***Size.*** Kel dor typically stand around 6 feet tall and weigh about 160 lbs. Regardless of your position in that range, your size is Medium.
 
@@ -1411,7 +1412,7 @@ ___
 The mon calamari are a bipedal, amphibious species with high-domed heads, webbed hands and large, goggle-like eyes. In addition to being webbed, the mon calamari hand presents three suction-cup like holes on its palm, and featured five claw-tipped fingers: one opposable thumb, two long middle fingers, and two very short outer fingers. Although they are shaped like flippers, their feet can nevertheless fit into boots designed for human-like feet. The females are distinguished from the males by their more prominent chest areas.
 
 ### Society and Culture
-The mon calamari have developed a very advanced<br> and civilized culture. Their art, music, literature, and<br> science show a creativity surpassed by few in the<br> galaxy. Mon calamari literature depicts stars as islands<br> in a galactic sea, showing a passionate longing to<br> explore space and discover other civilizations. Mon<br> Calamari are both soft-spoken and gentle, slow to<br> anger, and have the remarkable ability to maintain<br> their concentration without being distracted by<br> emotional responses. They are both inquisitive and<br> creative, and have a near-legendary quality of being<br> both determined and dedicated; once a mon calamari<br> decides on a course of action, they are not easily<br> swayed from that decision. They often fixate<br> themselves on "lost causes." 
+The mon calamari have developed a very advanced and civilized culture. Their art, music, literature, and science show a creativity surpassed by few in the galaxy. Mon calamari literature depicts stars as islands in a galactic sea, showing a passionate longing to explore space and discover other civilizations. Mon Calamari are both soft-spoken and gentle, slow to anger, and have the remarkable ability to maintain their concentration without being distracted by emotional responses. They are both inquisitive and creative, and have a near-legendary quality of being both determined and dedicated; once a mon calamari decides on a course of action, they are not easily swayed from that decision. They often fixate themselves on "lost causes." 
 
 ### Names
 Mon calamari names generally have a melodic feel.
