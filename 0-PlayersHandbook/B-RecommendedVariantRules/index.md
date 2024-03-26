@@ -1,3 +1,9 @@
+---
+title: Recommended Variant Rules
+parent: Player's Handbook
+has_children: true
+nav_order: 15
+---
 
 # Appendix B: Recommended Variant Rules
 
