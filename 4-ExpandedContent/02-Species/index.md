@@ -2052,7 +2052,7 @@ ___
 > |***Homeworld***|  |Af'El|
 > |***Language***|  |Defel|
 
-<div style='margin-top:130px'></div>
+
 
 ### Biology and Appearance
 While defel appear to be visually similar to the shistavanen, they are very different on a biological level. Defel have the ability to bend waves of light in such a manner that it renders them practically invisible to the human eye. Despite this ability, they could be still be spotted by force-users and keen-eyed individuals.
@@ -2077,7 +2077,6 @@ Defel names tend to sound dark and mysterious, and are mostly composed of multip
 
 
 
-<div style='margin-top:234px'></div>
 
 ### Defel Traits
 As a defel, you have the following special traits.
@@ -2110,7 +2109,7 @@ As a defel, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Defel. Most defel refuse to speak Galactic Basic while on their home planet of Af'El unless they have a specific need for it.
 
-<img src='https://www.gmbinder.com/images/xKjvN6h.png' style='position:absolute;top:40px;right:140px;width:160px;transform:scaleX(1);z-index:1000' />
+<!-- <img src='https://www.gmbinder.com/images/xKjvN6h.png' style='position:absolute;top:40px;right:140px;width:160px;transform:scaleX(1);z-index:1000' /> --->
 
 
 
@@ -2187,7 +2186,7 @@ As a diathim, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and one extra language of your choice.
 
-<img src='https://www.gmbinder.com/images/p62j6QK.png' style='position:absolute;top:45px;right:100px;width:183px;transform:scaleX(1)' />
+<!--- <img src='https://www.gmbinder.com/images/p62j6QK.png' style='position:absolute;top:45px;right:100px;width:183px;transform:scaleX(1)' /> --->
 
 
 
@@ -2216,7 +2215,7 @@ ___
 > |***Homeworld***|  |Dowut|
 > |***Language***|  |Dowuta|
 
-<div style='margin-top:33px'></div>
+
 
 ### Biology and Appearance
 The Dowutin species evolved from a type of omnivorous herd animal on the planet Dowut. They were large, aggressive-looking humanoids with chin horns, sharp claws, thick skin, and had poor eyesight but superior senses of hearing and smell. Dowutin are massive humanoids who can live for centuries, and dying of old age is unheard of for them. While most other species become frail as they age, Dowutin never stop growing and getting stronger. As teenagers, Dowutin resemble Wookiees in size and strength, but by their fifth century, they are a mountain of muscle weighing a metric ton, with loud footsteps and voices warning other species away.
@@ -2231,7 +2230,7 @@ Dowutin names are harsh and guttural, and roll off the tongue like a rock slide.
 
 
 
-<div style='margin-top:381px'></div>
+
 
 ### Dowutin Traits
 As a dowutin, you have the following special traits.
@@ -2258,7 +2257,7 @@ As a dowutin, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Dowuta. Dowuta consists of deep, booming vocalizations and is considered difficult for members of other species to emulate. 
 
-<img src='https://www.gmbinder.com/images/MEaHybL.png' style='position:absolute;top:40px;right:105px;width:276.5px;transform:scaleX(-1)' />
+<!--- <img src='https://www.gmbinder.com/images/MEaHybL.png' style='position:absolute;top:40px;right:105px;width:276.5px;transform:scaleX(-1)' /> --->
 
 
 
@@ -2287,7 +2286,6 @@ ___
 > |***Homeworld***|  |Draethos|
 > |***Language***|  |Draethos|
 
-<div style='margin-top:80px'></div>
 
 ### Biology and Appearance
 Draethos possess large teeth, which grow outside of their mouths. Coupled with their lack of lips, this leads to the appearance of an overbite. Their scaly skin ranged in color from blue to purple to black. Their hands retain an interstitial web between the fingers. Their fingers end in narrow tips which resemble claws. They possess low-light vision, springing from their cave-dwelling ancestors.
@@ -2308,7 +2306,7 @@ Due to their lack of lips, Draethos names typically lack hard consonants. Surnam
 
 
 
-<div style='margin-top:561px'></div>
+
 
 ### Draethos Traits
 As a draethos, you have the following special traits.
@@ -2331,7 +2329,7 @@ As a draethos, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Draethos. Draethos is characterized by its flurry of cacophonous sighs and clicks.
 
-<img src='https://www.gmbinder.com/images/UL6Kig1.png' style='position:absolute;top:57px;right:51px;width:290px;z-index:1000' />
+<!--- <img src='https://www.gmbinder.com/images/UL6Kig1.png' style='position:absolute;top:57px;right:51px;width:290px;z-index:1000' /> --->
 
 
 
@@ -2360,7 +2358,7 @@ ___
 > |***Homeworld***|&nbsp;&nbsp;|Malastare|
 > |***Language***|&nbsp;&nbsp;|Dug|
 
-<div style='margin-top:84px'></div>
+
 
 ### Biology and Appearance
 Dugs are slender, powerfully built beings with a somewhat humanoid build and a unique method of walking that hailed from the high gravity world Malastare. Their primary means of locomotion is their strong arms, and their lower limbs and feet were used for grappling and other fine motor manipulation. They hardly ever walk on their lower limbs. Although most Dugs may walk on all four limbs, others like to use their strong arms as legs and their feet as hands like they would normally do.
@@ -2381,7 +2379,7 @@ Dug names are often 3 syllables long, mostly through big sounds rather than hars
 
 
 
-<div style='margin-top:354px'></div>
+
 
 ### Dug Traits
 As a dug, you have the following special traits.
@@ -2412,7 +2410,7 @@ As a dug, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Dug.
 
-<img src='https://www.gmbinder.com/images/EC4z4yc.jpg' style='position:absolute;top:42px;right:120px;width:205px;mix-blend-mode:darken' />
+<!--- <img src='https://www.gmbinder.com/images/EC4z4yc.jpg' style='position:absolute;top:42px;right:120px;width:205px;mix-blend-mode:darken' /> --->
 
 
 
@@ -2441,7 +2439,7 @@ ___
 > |***Homeworld***|  |Eshan|
 > |***Language***|  |Galactic Basic|
 
-<div style='margin-top:85px'></div>
+
 
 ### Biology and Appearance
 Echani are characterized by their white skin, hair, and eyes, and their remarkable tendency to look very much alike one another to outside observers, particularly amongst family members. It is thought that their origins stem from Arkanian experimentation on the human genome, a hypothesis that could explain their physical conformity.
@@ -2462,7 +2460,7 @@ Echani names tend to lack hard consonants, but are otherwise as variable as huma
 
 
 
-<div style='margin-top:340px'></div>
+
 
 ### Echani Traits
 As an Echani, you have the following special traits.
@@ -2489,7 +2487,7 @@ As an Echani, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and one extra language of your choice.
 
-<img src='https://www.gmbinder.com/images/vJMdYRf.png' style='position:absolute; top:20px; right:-30px; width:400px;z-index:1000' />
+<!--- <img src='https://www.gmbinder.com/images/vJMdYRf.png' style='position:absolute; top:20px; right:-30px; width:400px;z-index:1000' /> --->
 
 
 
@@ -2518,7 +2516,7 @@ ___
 > |***Homeworld***|  |Unknown, Belsavis (adopted)|
 > |***Language***|  |Kharan|
 
-<div style='margin-top:40px'></div>
+
 
 ### Biology and Appearance
 Esh-kha are a gray-skinned humanoid species with equine features, including muzzles and digitigrade legs. They also have small black eyes. 
@@ -2533,7 +2531,6 @@ Whilst their kind are individuals, esh-kha are not named at birth but instead ea
 
 
 
-<div style='margin-top:370px'></div>
 
 ### Esh-kha Traits
 As an esh-kha, you have the following special traits.
@@ -2562,9 +2559,8 @@ As an esh-kha, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Kharan. Kharan contains many metaphorical expressions when translated to Galactic Basic. The language has many comparisons to music and singing, such as a galactic government being compared to a chorus. 
 
-<img src='https://www.gmbinder.com/images/jeAlzJN.png' style='position:absolute;top:45px;right:105px;width:207px;transform:scaleX(1)' />
+<!--- <img src='https://www.gmbinder.com/images/jeAlzJN.png' style='position:absolute;top:45px;right:105px;width:207px;transform:scaleX(1)' /> --->
 
-<div class='footnote'>Written by Absolute Heresy</div>
 
 
 
@@ -2591,8 +2587,6 @@ ___
 > |***Homeworld***|  |Falleen|
 > |***Language***|  |Falleen|
 
-<div style='margin-top:48px'></div>
-
 ### Biology and Appearance
 The Falleen are distinguished by their mottled green or red skin, ridged skulls, and their long, black hair which they typically wear in ponytails. The sleek symmetry of their features, calculating and cold demeanors, their exotic looks, and their ability to alter their skin pigmentation make the Falleen often considered to be among the most aesthetically pleasing beings in the galaxy. In addition to their strikingly beautiful appearance, the Falleen exude pheromones which makes them all but irresistible to both sexes.
 
@@ -2614,7 +2608,6 @@ Falleen favor names with Z and X sounds. They are usually accompanied by a surna
 
 
 
-<div style='margin-top:456px'></div>
 
 ### Falleen Traits
 As a Falleen, you have the following special traits.
@@ -2639,7 +2632,7 @@ As a Falleen, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Falleen. Falleen is characterized by its common use of the Z and X sounds, of which the Falleen are fond.
 
-<img src='https://www.gmbinder.com/images/XkxqmhZ.png' style='position:absolute;top:48px;right:140px;width:165px;z-index:1000' />
+<!--- <img src='https://www.gmbinder.com/images/XkxqmhZ.png' style='position:absolute;top:48px;right:140px;width:165px;z-index:1000' /> --->
 
 
 
@@ -2668,7 +2661,6 @@ ___
 > |***Homeworld***|  |Felucia|
 > |***Language***|  |Felucianese|
 
-<div style='margin-top:64px'></div>
 
 ### Biology and Appearance
 Felucians are a tall, bipedal species. Both their arms and legs end in four, large webbed digits with suction-cup fingertips. Springing from the underside of each forearm is a second short arm, ending in three large and agile fingers. A Felucian's head is a thick mass of long flexible tendrils featuring illuminated tips. The eyes and mouth appear as black holes or openings within this mass.
@@ -2691,7 +2683,7 @@ Felucian names are usually two syllables and full of hard consonants. Surnames a
 
 
 
-<div style='margin-top:516px'></div>
+
 
 ### Felucian Traits
 As a Felucian, you have the following special traits.
@@ -2716,7 +2708,7 @@ As a Felucian, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic, Felucianese, and one more language of your choice. Felucianese is characterized by guttural, whisper-like vowels, interspersed with hard clicks.
 
-<img src='https://www.gmbinder.com/images/Owb4UPk.png' style='position:absolute;top:16px;right:32px;width:409px;z-index:1000;transform:scaleX(-1)' />
+<!--- <img src='https://www.gmbinder.com/images/Owb4UPk.png' style='position:absolute;top:16px;right:32px;width:409px;z-index:1000;transform:scaleX(-1)' /> --->
 
 
 
@@ -2745,7 +2737,7 @@ ___
 > |***Homeworld***|  |Tython|
 > |***Language***|  |Rakata|
 
-<div style='margin-top:69px'></div>
+
 
 ### Biology and Appearance
 Flesh raiders are a more primitive, and more physically imposing subspecies of rakata that mutated prior to the end of the Infinite Empire. A life above ground and in caves has led the flesh raiders to lose their more amphibian traits, and are now more humanoid in their biological needs, though they seem to only be able to digest meats and flesh.
@@ -2768,7 +2760,6 @@ Flesh  raider names tend to be short and concise, embodying strength and virilit
 
 
 
-<div style='margin-top:310px' ></div>
 
 ### Flesh Raider Traits
 As a flesh raider, you have the following special traits.
@@ -2797,7 +2788,7 @@ As a flesh raider, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Rakata. Rakata is characterized by its deep tones and simplistic nature, using mainly consonants and long vowels. It's script seems to be a very ancient form of Galactic Basic.
 
-<img src= 'https://www.gmbinder.com/images/K3ME2Po.png' style='position:absolute;top:45px;right:110px;width:225px;transform:scaleX(-1);z-index:1000' />
+<!--- <img src= 'https://www.gmbinder.com/images/K3ME2Po.png' style='position:absolute;top:45px;right:110px;width:225px;transform:scaleX(-1);z-index:1000' /> --->
 
 
 
@@ -2826,7 +2817,7 @@ ___
 > |***Homeworld***|&nbsp;&nbsp;|Gand|
 > |***Language***|&nbsp;&nbsp;|Gand|
 
-<div style='margin-top:36px'></div>
+
 
 ### Biology and Appearance
 Gand are sentient, stocky humanoids whose insectoid bodies are covered in a chitinous exoskeleton. The natural armor allow the Gand to shrug off injuries that would cripple most other species. The exoskeleton provides extra protection in the clavicle region, which prevented most nerve or pressure-point strikes to the neck and shoulders. In addition, Gands have the remarkable ability to regrow lost limbs. If a Gand is dismembered, it can regrow a lost limb in a few days. 
@@ -2843,7 +2834,7 @@ Until a Gand has earned the use of a name, they go simply by the term "Gand." Ga
 
 
 
-<div style='margin-top:486px'></div>
+
 
 ### Gand Traits
 As a Gand, you have the following special traits.
@@ -2868,7 +2859,7 @@ As a Gand, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Gand. The Gand language does not use pronouns as Gand refer to themselves in the third person, so often Gand who speak Galactic Basic are difficult to understand.
 
-<img src='https://www.gmbinder.com/images/4owYOQK.png' style='position:absolute;top:57px;right:27px;width:400px' />
+<!--- <img src='https://www.gmbinder.com/images/4owYOQK.png' style='position:absolute;top:57px;right:27px;width:400px' /> --->
 
 
 
@@ -2897,7 +2888,7 @@ ___
 > |***Homeworld***|  |Nar Shaddaa (possibly)|
 > |***Language***|  |Gank|
 
-<div style='margin-top:48px'></div>
+
 
 ### Biology and Appearance
 The ganks are a species of fur-covered carnivores. The typical member of the species has a face that is squared-off and yellow in color, the expression trapped in a perpetual snarl that non-ganks find unattractive. Small, mean-looking eyes peer from above the maw, their head sitting atop a thick neck between broad, strong shoulders. These cap two thickset, powerful arms, which terminate in hands with five fingers each. Their heavy build affords ganks great strength, yet they are also spry runners. They augment their bodies with cybernetics, making them a species of cyborgs.
@@ -2914,7 +2905,7 @@ Gank names do not differentiate between genders, and instead of surnames, they g
 
 
 
-<div style='margin-top:472px'></div>
+
 
 ### Gank Traits
 As a gank, you have the following special traits.
@@ -2939,7 +2930,7 @@ As a gank, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Gank. You can communicate with other ganks within 30 feet without speaking through use of cybernetic implants. Tech casters can detect the communication but can’t understand it.
 
-<img src='https://www.gmbinder.com/images/mqZHiwg.png' style='position:absolute;top:45px;right:100px;width:325px;transform:scaleX(-1)' />
+<!--- <img src='https://www.gmbinder.com/images/mqZHiwg.png' style='position:absolute;top:45px;right:100px;width:325px;transform:scaleX(-1)' /> --->
 
 
 
@@ -2968,7 +2959,7 @@ ___
 > |***Homeworld***|&nbsp;&nbsp;|Geonosis|
 > |***Language***|&nbsp;&nbsp;|Geonosian|
 
-<div style='margin-top:24px'></div>
+
 
 ### Biology and Appearance
 Geonosians have a hard chitin exoskeleton that provided protection from physical impacts and bouts of radiation that occasionally shower their world. Geonosians are strong despite their thin builds, and are capable of constructing massive hives and factories in concert. The head of a Geonosian is elongated and large with their skulls ridged on the top and by the side where they have bulbous, thick-lidded eyes. Both are physically strong and covered with bony ridges which protected their arms, legs, and vital organs. 
@@ -2987,7 +2978,6 @@ Geonosian names are usually harsh sounding. Lower castes don't get surnames. Upp
 
 
 
-<div style='margin-top:506px'></div>
 
 ### Geonosian Traits
 As a geonosian, you have the following special traits.
@@ -3012,7 +3002,7 @@ As a geonosian, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Geonosian. The Geonosian language consists of click consonants through use of a Geonosians' dual mandibles. This makes it difficult for other species to learn to speak it.
 
-<img src='https://www.gmbinder.com/images/1crsxzt.png' style='position:absolute;top:-79px;right:-13px;width:584px;z-index:1000' />
+<!--- <img src='https://www.gmbinder.com/images/1crsxzt.png' style='position:absolute;top:-79px;right:-13px;width:584px;z-index:1000' /> --->
 
 
 
@@ -3041,7 +3031,7 @@ ___
 > |***Homeworld***|Yag'Dhul|
 > |***Language***|Givin|
 
-<div style='margin-top:65px'></div>
+
 
 ### Biology and Appearance
 The Givin are a species of white-skinned, hairless humanoids who are quite frequently likened to animated skeletons. Their facial features include many sharp downward angles, large triangular eye sockets, and sloped-up brows that meet together in the middle, lending them an appearance of permanent anguish. Because of the harsh environment of their homeworld, the Givins' organs are sealed against atmospheric exposure; thanks to this complex system, they can survive for about a day in a vacuum.
@@ -3060,7 +3050,7 @@ Givin names are often derived by parents from favored mathematical equations. Ma
 
 
 
-<div style='margin-top:486px'></div>
+
 
 ### Givin Traits
 As a Givin, you have the following special traits.
@@ -3085,7 +3075,7 @@ As a Givin, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Givin. Givin is characterized by its use of mathematical jargon and symbols, making it nigh incomprehensible to the less mathematically inclined.
 
-<img src='https://www.gmbinder.com/images/8TM7t8q.png' style='position:absolute;top:49px;right:122px;width:202px;z-index:1000' />
+<!--- <img src='https://www.gmbinder.com/images/8TM7t8q.png' style='position:absolute;top:49px;right:122px;width:202px;z-index:1000' /> --->
 
 
 
@@ -3114,7 +3104,6 @@ ___
 > |***Homeworld***|  |Voss|
 > |***Language***|  |Gormak|
 
-<div style='margin-top:31px'></div>
 
 ### Biology and Appearance
 The gormak are green humanoids with flat, noseless faces adorned with frills, collecting in whorls on the sides of their heads. They have clawed, three-fingered, frilled hands, and tend to possess a muscular build. Females are slightly shorter than males and lacked a whorl located above their nose. 
@@ -3133,7 +3122,7 @@ Gormak are commonly named after heroes of their history by local shamans. Surnam
 
 
 
-<div style='margin-top:366px'></div>
+
 
 ### Gormak Traits
 As a gormak, you have the following special traits.
@@ -3158,7 +3147,7 @@ As a gormak, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Gormak. Gormak is primitive and gruff, often lacking definitions for things found outside of their homeworld. 
 
-<img src='https://www.gmbinder.com/images/ThmU0PQ.jpg' style='position:absolute;top:20px;right:20px;width:422px;transform:scaleX(-1);mix-blend-mode:darken' />
+<!--- <img src='https://www.gmbinder.com/images/ThmU0PQ.jpg' style='position:absolute;top:20px;right:20px;width:422px;transform:scaleX(-1);mix-blend-mode:darken' /> --->
 
 
 
@@ -3187,7 +3176,7 @@ ___
 > |***Homeworld***|  |Antar 4|
 > |***Language***|  |Antarian|
 
-<div style='margin-top:35px'></div>
+
 
 ### Biology and Appearance
 Gotals possess cranial horns as receptors to sense electromagnetism and other energy emissions. These nerve-ending filled cones can sense the natural electromagnetic fields produced by Antar 4's<br> magnetite-rich crust, allowing the species to operate<br> even in total darkness. Their senses also pick up the<br> electromagnetic auras from other life forms. When<br> close to their hunting targets, they can ascertain<br> information on its mood, awareness, and state of<br> mind. Electronic devices can also be sensed by Gotals;<br> in fact, most droids give off enough electromagnetic<br> emissions to at least annoy a Gotal, and at worst to<br> seriously disorient the horned beings, making them<br> notoriously distrustful of droids. Gotals rely heavily on<br> their cones, with their eyesight and hearing being<br> quite weak, and their sense of smell almost completely<br> absent. 
@@ -3204,7 +3193,7 @@ Gotal names are quite guttural, though there are also many harsher tones within 
 
 
 
-<div style='margin-top:516px'></div>
+
 
 ### Gotal Traits
 As a Gotal, you have the following special traits.
@@ -3227,7 +3216,7 @@ As a Gotal, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Antarian. The Antarian language is characterized by growls and clicking noises at various volumes. 
 
-<img src='https://www.gmbinder.com/images/v8Y9W1o.png' style='position:absolute;top:22px;right:37px;width:380px;transform:scaleX(1)' />
+<!--- <img src='https://www.gmbinder.com/images/v8Y9W1o.png' style='position:absolute;top:22px;right:37px;width:380px;transform:scaleX(1)' /> --->
 
 
 
@@ -3256,7 +3245,6 @@ ___
 > |***Homeworld***|  |Kinyen|
 > |***Language***|  |Gran|
 
-<div style='margin-top:34px'></div>
 
 ### Biology and Appearance
 Gran can easily be identified by their three eyes and their goat-like snout. Female Gran also have three breasts. They have excellent vision, able to resolve more colors than most species, and even able to see into the infrared, thus they are able to sense one another's emotions and disposition by noting subtle changes in body heat and skin color. Gran have two stomachs, having evolved from herbivorous grazing animals who lived in herds on the mountains and highlands of Kinyen. A single meal can take almost an entire day to finish, after that a Gran does not often need to eat for several days.
@@ -3277,7 +3265,6 @@ Gran names typically are monosyllabic and accompanied by a surname, which is fam
 
 
 
-<div style='margin-top:531px'></div>
 
 ### Gran Traits
 As a Gran, you have the following special traits.
@@ -3302,7 +3289,7 @@ As a Gran, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Gran. It is rare to hear Gran spoken on any world other than Kinyen.
 
-<img src='https://www.gmbinder.com/images/a6Bb4kH.png' style='position:absolute;top:21px;right:47px;width:360px' />
+<!--- <img src='https://www.gmbinder.com/images/a6Bb4kH.png' style='position:absolute;top:21px;right:47px;width:360px' /> --->
 
 
 
@@ -3357,9 +3344,6 @@ ___
 > |Gank|Aggressive|
 > |Geonosian|Geonosian Weaponry|
 > |Givin|Vacuum Sealed|
-> 
-> |||
-> |:--:|:--:|
 > |Gormak|Adaptive Resilience|
 > |Gotal|Natural Empathy|
 > |Gran|Keen Sight|
@@ -3402,9 +3386,6 @@ ___
 > |Quarren|Keen Hearing|
 > |Pa'lowick|Hold Breath<br> Snout|
 > |Pantoran|Cold Adaptation|
-> 
-> |||
-> |:--:|:--:|
 > |Patrolian|Darkvision|
 > |Pau'an|Darkvision|
 > |Pyke|Mercantile<br> Notorious Slavers|
@@ -3446,14 +3427,7 @@ ___
 > |Zabrak|Darkvision|
 > |Zeltron|Two Livered|
 > |Zygerrian|Darkvision|
-> 
-> </div>
 
-
-
-
-
-<div style='margin-top:445px'></div>
 
 ### Biology and Appearance
 The appearance and biological features of half-humans vary drastically by each species, but tend to fall somewhere in the middle. A common side-effect of a species interbreeding with humans is the loss of darkvision and tails.
@@ -3466,10 +3440,6 @@ Half-humans are subjects of two separate cultures, but belong in neither. A half
 
 ### Names
 Half-human names might follow human conventions, or that of the other half. Often, they blend the two in some fashion, perhaps taking a human surname, with a special name.
-
-
-
-<div style='margin-top:445px'></div>
 
 ### Half-human Traits
 As a half-human, you have the following special traits.
@@ -3488,7 +3458,7 @@ As a half-human, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic, regardless of whether or not the non-human half can speak it, and the language(s) associated with your non-human half.
 
-<img src='https://www.gmbinder.com/images/onwG74Q.png' style='position:absolute;top:35px;right:180px;width:501px;z-index:1000' />
+<!--- <img src='https://www.gmbinder.com/images/onwG74Q.png' style='position:absolute;top:35px;right:180px;width:501px;z-index:1000' /> --->
 
 
 
@@ -3517,7 +3487,7 @@ ___
 > |***Homeworld***|  |Secundus Ando|
 > |***Language***|  |Harchese|
 
-<div style='margin-top:95px'></div>
+
 
 ### Biology and Appearance
 The Harch possess a large-fanged mouth between two prominent chelicerae, above which they have six red eyes arranged in a semicircle. The two lowest eyes are larger and roughly twice the size of the four smaller eyes. Harch walk on two legs and have six arms, with the second and third set of arm protruding from behind the first pair rather than directly above or below them. These arms are covered in thick hair and end in three-fingered hands.
@@ -3536,7 +3506,7 @@ Harch names are not gender-specific. Harch do not use surnames.
 
 
 
-<div style='margin-top:320px'></div>
+
 
 ### Harch Traits
 As a Harch, you have the following special traits:
@@ -3561,7 +3531,7 @@ As a Harch, you have the following special traits:
 
 **Languages.** You can speak, read, and write Galactic Basic and Harchese. Harchese is discernible from other insectoid languages by a noticeable emphasis on consonants, especially the "ch" sound.
 
-<img src='https://www.gmbinder.com/images/fgdUWW0.png' style='position:absolute;top:33px;right:112px;width:240px;z-index:1000' />
+<!--- <img src='https://www.gmbinder.com/images/fgdUWW0.png' style='position:absolute;top:33px;right:112px;width:240px;z-index:1000' /> --->
 
 
 
@@ -3590,7 +3560,6 @@ ___
 > |***Homeworld***| Giju|
 > |***Language***| Herglese|
 
-<div style='margin-top:64px'></div>
 
 ### Biology and Appearance
 The herglic are a massive race of creatures descended<br> from aquatic mammals, breathing though a blowhole<br> on top of their heads. They are tall and wide, and have<br> smooth, hairless skin that ranged in color from pale<br> blue to black, though some rare individuals may<br> appear pink or have white markings on their sides.<br> Their girth tends to leave them feeling out of place among smaller species; herglic tend to take up two chairs or fill the entire doorway of any establishment they enter that does not cater to beings their size.
@@ -3609,7 +3578,7 @@ Male names are typically harsher sounding than female names. Herglics rarely use
 
 
 
-<div style='margin-top:530px'></div>
+
 
 ### Herglic Traits
 As a herglic, you have the following special traits:
@@ -3636,7 +3605,7 @@ As a herglic, you have the following special traits:
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Herglese. Herglese has a clear and commanding cadence, drawing the attention of those who hear it.
 
-<img src='https://www.gmbinder.com/images/d03mAPr.png' style='position:absolute;top:42px;right:12px;width:470px;z-index:1000' />
+<!--- <img src='https://www.gmbinder.com/images/d03mAPr.png' style='position:absolute;top:42px;right:12px;width:470px;z-index:1000' /> --->
 
 
 
@@ -3684,7 +3653,7 @@ Ho'din names are quite diverse. Some names look complicated and difficult to pro
 
 
 
-<div style='margin-top:354px'></div>
+
 
 ### Ho'Din Traits
 As a ho'din, you have the following special traits.
@@ -3717,7 +3686,7 @@ As a ho'din, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic, and Ho'Din. Ho'Din consists of croaks and hisses. Its written form includes characters derived from the shapes of Moltok flora. The Ho'Din lexicon includes a great amount of plant-based idioms and metaphors.
 
-<img src='https://www.gmbinder.com/images/jxHayK4.png' style='position:absolute;top:45px;right:130px;width:231px;transform:scaleX(-1);z-index:1000' />
+<!--- <img src='https://www.gmbinder.com/images/jxHayK4.png' style='position:absolute;top:45px;right:130px;width:231px;transform:scaleX(-1);z-index:1000' /> --->
 
 
 
@@ -3746,7 +3715,6 @@ ___
 > |***Homeworld***|  |Lijuter|
 > |***Language***|  |Houkese|
 
-<div style='margin-top:25px'></div>
 
 ### Biology and Appearance
 Houk are hulking bipeds with thick skin, hairless heads marked with bony ridges and a pronounced brow, flabby jowls, beady yellow eyes, and no visible ears or nose. They are very powerful due to their large bulk of pure muscle. 
@@ -3763,7 +3731,7 @@ Houk names are gruff and primitive in nature, and don't vary by gender.
 
 
 
-<div style='margin-top:491px'></div>
+
 
 ### Houk Traits
 As a houk, you have the following special traits.
@@ -3788,7 +3756,7 @@ As a houk, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Houkese. Houkese is mainly formed by grunts, with subtle tonal inflections to differentiate words that would otherwise sound the same. Written Houkese uses primitive ideograms with one letter to represent each simple verb, and complex pictograms to represent nouns. 
 
-<img src='https://www.gmbinder.com/images/GZHx6ZJ.png' style='position:absolute;top:45px;right:90px;width:296px;transform:scaleX(-1);z-Index:1000' />
+<!--- <img src='https://www.gmbinder.com/images/GZHx6ZJ.png' style='position:absolute;top:45px;right:90px;width:296px;transform:scaleX(-1);z-Index:1000' /> --->
 
 
 
@@ -3817,7 +3785,7 @@ ___
 > |***Homeworld***|  | Nal Hutta|
 > |***Language***|  |Huttese|
 
-<div style='margin-top:41px'></div>
+
 
 ### Biology and Appearance
 Hutts are a massive slug-like species who have large mouths and stubby arms. They have three lungs and thick leathery skin, which is wrinkled and slimy. Hutts often have watery eyes and lack facial expressions.  Their tails are supported by a skeletal spine.  Despite their legendary size, hutts start out as tiny huttlets less than half a foot in height, and continually grow over the long lives.
@@ -3836,7 +3804,6 @@ Hutt names with a suffix title as "the Hutt" are usually reserved for noteworthy
 
 
 
-<div style='margin-top:234px'></div>
 
 ### Hutt Traits
 As a hutt you have the following special traits.
@@ -3867,7 +3834,7 @@ As a hutt you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Huttese. Hutts rarely speak Galactic Basic, even though they are perfectly able; if the person with whom they are speaking doesn't understand Huttese, they are more likely to use an interpretor than deign to speak the language of lesser species.
 
-<img src='https://www.gmbinder.com/images/2WRsVbc.png' style='position:absolute; top:45px; right:105px; width:256px;z-index:1000'>
+<!--- <img src='https://www.gmbinder.com/images/2WRsVbc.png' style='position:absolute; top:45px; right:105px; width:256px;z-index:1000'> --->
 
 
 
@@ -3896,7 +3863,7 @@ ___
 > |***Homeworld***|&nbsp;&nbsp;|Iktotch, moon of Iktotchon|
 > |***Language***|&nbsp;&nbsp;|Iktotchese|
 
-<div style='margin-top:49px'></div>
+
 
 ### Biology and Appearance
 Iktotchi do not have hair, but rather they had a very resistant skin which protected them from the violent winds which crossed the satellite. Both males and females have down-curved cranial horns, which gave them an aggressive aspect. The males' horns are generally a little larger, a remnant from their mountain-dwelling, caprinaen ancestors. The horns are able to regenerate if damaged.
@@ -3919,7 +3886,6 @@ Iktotchi names are generally two syllables. Surnames are familial. Respected Ikt
 
 
 
-<div style='margin-top:531px'></div>
 
 ### Iktotchi Traits
 As an Iktotchi, you have the following special traits.
@@ -3944,7 +3910,7 @@ As an Iktotchi, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Iktotchese.
 
-<img src='https://www.gmbinder.com/images/k2cfrAm.png' style='position:absolute;top:57px;right:12px;width:444px;z-index:1000' />
+<!--- <img src='https://www.gmbinder.com/images/k2cfrAm.png' style='position:absolute;top:57px;right:12px;width:444px;z-index:1000' /> --->
 
 
 
@@ -3973,7 +3939,7 @@ ___
 > |***Homeworld***|&nbsp;&nbsp;|Quarzite|
 > |***Language***|&nbsp;&nbsp;|Galactic Basic|
 
-<div style='margin-top:159px'></div>
+
 
 ### Biology and Appearance
 The kage are a pale-skinned sentient species native to the caverns in the planet of Quarzite. The kage have a long-time conflict with the belugans, consistently at odds with them. During the Clone Wars, Otua Blank ordered the capture of Pluma Sodi to marry her, she was later given back to the Kage Warriors by Asajj Ventress. 
@@ -3993,8 +3959,6 @@ Kage names are generally multisyllable with melodic intonations. Surnames are fa
 **Surnames.** Buno, Keeli, Nima, Sodi, Tani
 
 
-
-<div style='margin-top:369px'></div>
 
 ### Kage Traits
 As a kage, you have the following special traits.
@@ -4025,7 +3989,7 @@ As a kage, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and one language of your choice.
 
-<img src='https://www.gmbinder.com/images/ELW9r8k.png' style='position:absolute;top:47px;right:145px;width:200px;z-index:1000' />
+<!--- <img src='https://www.gmbinder.com/images/ELW9r8k.png' style='position:absolute;top:47px;right:145px;width:200px;z-index:1000' /> --->
 
 
 
@@ -4054,7 +4018,7 @@ ___
 > |***Homeworld***|&nbsp;&nbsp;|Kalee|
 > |***Language***|&nbsp;&nbsp;|Kaleesh|
 
-<div style='margin-top:64px'></div>
+
 
 ### Biology and Appearance
 Tusks protrude from a Kaleesh's upper jaw, and shorter ones jut from their chins. Kaleesh have large pointed ears and long nostrils that stretched close to their eyes. They have very keen olfactory sense and were able to produce pheromones. Most of their facial features are obscured behind the traditional masks they wear, and outsiders rarely see Kaleesh unmasked. They are known to practice polygyny, a form of polygamy, where a male courts multiple wives. 
@@ -4077,7 +4041,7 @@ Male Kaleesh names are typically one syllable while female are two. Kaleesh surn
 
 
 
-<div style='margin-top:531px'></div>
+
 
 ### Kaleesh Traits
 As a Kaleesh, you have the following special traits.
@@ -4102,7 +4066,7 @@ As a Kaleesh, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Kaleesh.
 
-<img src='https://www.gmbinder.com/images/J34Afph.png' style='position:absolute;top:40px;right:0px;width:402px;transform:scaleX(-1)' />
+<!--- <img src='https://www.gmbinder.com/images/J34Afph.png' style='position:absolute;top:40px;right:0px;width:402px;transform:scaleX(-1)' /> --->
 
 
 
@@ -4132,8 +4096,6 @@ None so far.
 
 
 
-
-<div style='margin-top:28px'></div>
 
 
 ### Design Insights
@@ -4190,7 +4152,7 @@ Kallerans have regal sounding names, sometimes using accents on vowels, with cla
 
 
 
-<div style='margin-top:415px'></div>
+
 
 ### Kalleran Traits
 As a kalleran, you have the following special traits.
@@ -4219,7 +4181,7 @@ As a kalleran, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Kall. Kall depends upon distinct antenna movements communicate correctly. This leads to this characteristic antenna movement when kallerans speak Galactic Basic. Because antenna movement is an integral part of Kall, it is difficult for most other species to master. 
 
-<img src='https://www.gmbinder.com/images/IsneoUp.png' style='position:absolute;top:30px;right:150px;width:140px;transform:scaleX(1);z-index:1000' />
+<!--- <img src='https://www.gmbinder.com/images/IsneoUp.png' style='position:absolute;top:30px;right:150px;width:140px;transform:scaleX(1);z-index:1000' /> --->
 
 
 
@@ -4248,7 +4210,7 @@ ___
 > |***Homeworld***|  |Kamino|
 > |***Language***|  |Kaminoan, Galactic Basic|
 
-<div style='margin-top:49px'></div>
+
 
 ### Biology and Appearance
 Kaminoans' evolution from aquatic creatures in the vast oceans of Kamino is reflected in their tall shape, glassy coated eyes, near luminescent skin, and long, thin necks. The almond-shaped eyes of kaminoans are also able to see color in the ultraviolet spectrum. While female kaminoans are bald, males possess headcrests and fin ridges along the rear of their small, bulbous skulls.
@@ -4269,7 +4231,7 @@ Kaminoan names typically are composed by around two syllables and a brief surnam
 
 
 
-<div style='margin-top:536px'></div>
+
 
 ### Kaminoan Traits
 As a kaminoan, you have the following special traits.
@@ -4294,7 +4256,7 @@ As a kaminoan, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Kaminoan. Kaminoan is characterized by its flowing water-like sound.
 
-<img src='https://www.gmbinder.com/images/LmLMqTY.png' style='position:absolute;top:29px;right:137px;width:227px;transform:scaleX(-1);z-index:1000' />
+<!--- <img src='https://www.gmbinder.com/images/LmLMqTY.png' style='position:absolute;top:29px;right:137px;width:227px;transform:scaleX(-1);z-index:1000' /> --->
 
 
 
@@ -4346,7 +4308,7 @@ Karkarodon names are harsh and gutteral. They are generally one syllable. Surnam
 
 
 
-<div style='margin-top:491px'></div>
+
 
 ### Karkarodon Traits
 As a karkarodon, you have the following special traits.
@@ -4371,7 +4333,7 @@ As a karkarodon, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Karkaran. Karkaran is characterized by its fierce sounds.
 
-<img src='https://www.gmbinder.com/images/MFBrXRX.png' style='position:absolute;top:40px;right:12px;width:455px;z-index:1000' />
+<!--- <img src='https://www.gmbinder.com/images/MFBrXRX.png' style='position:absolute;top:40px;right:12px;width:455px;z-index:1000' /> --->
 
 
 
@@ -4400,7 +4362,6 @@ ___
 > |***Homeworld***|  |Kiffu, Kiffex|
 > |***Language***|  |Galactic Basic|
 
-<div style='margin-top:46px'></div>
 
 ### Biology and Appearance
 The kiffar are very closely related to humans, enough that they can interbreed, though kiffar typically have darker hair. The biggest visual difference between the two is that the kiffar always wear tattoos, that represent their clan. Kiffar are more likely to be Force-sensitive, which is typically manifested in psychometry, a rare Force power that about one percent of the kiffar population can use. Using psychometry, kiffar can touch objects and receive visions from the Force that show them the object’s past. 
@@ -4421,7 +4382,6 @@ Kiffar use names similar to those of humans, varying drastically clan by clan. S
 
 
 
-<div style='margin-top:338px'></div>
 
 ### Kiffar Traits
 As a kiffar, you have the following special traits.
@@ -4449,7 +4409,7 @@ ___
 - **Paladin.** You have proficiency with light and medium armor as well as the electrobaton and one blaster of your choice. Additionally, you have proficiency in one of the following skills: Insight, Intimidation, Perception, or Survival.
 - **Sage.** You learn and can cast the *telemetry* force power once per long rest. When you reach 5th level, you learn and can cast the *psychometry* force power once per long rest. Wisdom or Charisma (your choice) is your forcecasting ability for these powers.
 
-<img src='https://www.gmbinder.com/images/V9nDhSd.png' style='position:absolute;top:5px;right:150px;width:187.5px;transform:scaleX(-1);z-index:100' />
+<!--- <img src='https://www.gmbinder.com/images/V9nDhSd.png' style='position:absolute;top:5px;right:150px;width:187.5px;transform:scaleX(-1);z-index:100' /> --->
 
 
 
@@ -4478,7 +4438,6 @@ ___
 > |***Homeworld***|&nbsp;&nbsp;|Alderaan|
 > |***Language***|&nbsp;&nbsp;|Killik|
 
-<div style='margin-top:69px'></div>
 
 ### Biology and Appearance
 Killiks possess a strong chitinous exoskeleton that is glossy and greenish with their carcasses capable of surviving thousands of years of erosion as seen by the colonists of Alderaan. The exoskeleton also contains a number of spiracles which served as their way of breathing. Typically, these Human-sized hive creatures have four arms with each ending in a powerful three-fingered claw. They stand on two stout legs that are capable of leaping great distances. Killiks can communicate with other Killiks through use of pheromones.
@@ -4493,7 +4452,7 @@ Killiks are a hive-mind insectoid that typically don't use names. On the offchan
 
 
 
-<div style='margin-top:446px'></div>
+
 
 ### Killik Traits
 As a Killik, you have the following special traits.
@@ -4518,7 +4477,7 @@ As a Killik, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Killik. You can understand spoken and written Galactic Basic, but your vocal cords do not allow you to speak it.
 
-<img src='https://www.gmbinder.com/images/ch35N8N.png' style='position:absolute;top:42px;right:32px;width:330px;z-index:1000'/>
+<!--- <img src='https://www.gmbinder.com/images/ch35N8N.png' style='position:absolute;top:42px;right:32px;width:330px;z-index:1000'/> --->
 
 
 
@@ -4547,8 +4506,6 @@ ___
 > |***Homeworld***|  |Klatooine|
 > |***Language***|  |Huttese, Klatooinian|
 
-<div style='margin-top:174px'></div>
-
 ### Biology and Appearance
 Klatooinians are a humanoid species with canine features, having short muzzles over toothy overbites. They are also notable for their heavy brows and ridges along the tops of their heads. 
 
@@ -4568,7 +4525,7 @@ Klatooinian names are often derived from the names of great heroes and historica
 
 
 
-<div style='margin-top:521px'></div>
+
 
 ### Klatooinian Traits
 As a klatooinian, you have the following special traits.
@@ -4593,7 +4550,7 @@ As a klatooinian, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic, Klatooinian, and Huttese. Klatooinian is a gutteral, barking language, with many loanwords adopted from Huttese over the centuries.
 
-<img src='https://www.gmbinder.com/images/7m3THr4.png' style='position:absolute;top:45px;right:40px;width:368px' />
+<!--- <img src='https://www.gmbinder.com/images/7m3THr4.png' style='position:absolute;top:45px;right:40px;width:368px' /> --->
 
 
 
@@ -4622,7 +4579,7 @@ ___
 > |***Homeworld***|  |Kubindi|
 > |***Language***|  |Kubazian|
 
-<div style='margin-top:19px'></div>
+
 
 ### Biology and Appearance
 Kubaz are distinctive for their short, prehensile facial snouts which were used for reaching insects within their hives. They have adapted to their sun-scorched, vegetation-deprived world by learning to survive off their world's native insect population. Filled with two rows of teeth for gnashing their food, the Kubaz trunk also functions as a highly sensitive nose.  Due to living on their homeworld of Kubindi—a planet which orbits a blue star—Kubaz are highly sensitive to red wavelengths; when traveling to planets with a red or yellow star, Kubaz are forced to don protective eyewear to avoid damaging their sensitive eyes.
@@ -4641,7 +4598,7 @@ Kubaz names are usually dominated by harsher sounds, but some names lean more me
 
 
 
-<div style='margin-top:365px'></div>
+
 
 ### Kubaz Traits
 As a Kubaz, you have the following special traits.
@@ -4670,7 +4627,7 @@ As a Kubaz, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Kubazian. Kubazian is comprised of a unique series of whirring, nasally syllables, causing Kubaz to have a high-pitched accent when speaking other languages. 
 
-<img src='https://www.gmbinder.com/images/iHDDETg.png' style='position:absolute;top:48px;right:102px;width:252px;transform:scaleX(-1)' />
+<!--- <img src='https://www.gmbinder.com/images/iHDDETg.png' style='position:absolute;top:48px;right:102px;width:252px;transform:scaleX(-1)' /> --->
 
 
 
@@ -4699,7 +4656,7 @@ ___
 > |***Homeworld***|&nbsp;&nbsp;|Kushibah|
 > |***Language***|&nbsp;&nbsp;|Kushiban|
 
-<div style='margin-top:160px'></div>
+
 
 ### Biology and Appearance
 Kushibans are four-limbed lagomorphs native to the planet Kushibah. They are diminutive, unimposing, and typically weaker than most humanoids, but they are also quite difficult to track due to their natural speed and stealth.
@@ -4720,7 +4677,6 @@ Kushiban names are a single word combining both their first and familial names.
 
 
 
-<div style='margin-top:325px'></div>
 
 ### Kushiban Traits
 As a Kushiban, you have the following special traits.
@@ -4749,7 +4705,7 @@ As a Kushiban, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Kushiban. Kushiban has a bubbly, joyful tone to it.
 
-<img src='https://www.gmbinder.com/images/ktFY3mY.png' style='position:absolute;top:30px;right:65px;width:272px;transform:scaleX(-1);z-index:1000' />
+<!--- <img src='https://www.gmbinder.com/images/ktFY3mY.png' style='position:absolute;top:30px;right:65px;width:272px;transform:scaleX(-1);z-index:1000' /> --->
 
 
 
@@ -4778,7 +4734,7 @@ ___
 > |***Homeworld***|&nbsp;&nbsp;|Phatrong|
 > |***Language***|&nbsp;&nbsp;|Kyuzo|
 
-<div style='margin-top:38px'></div>
+
 
 ### Biology and Appearance
 A lanky, bipedal humanoid species, the Kyuzo originate on the gravity-heavy Outer Rim world of Phatrong. Kyuzo are tall and slender, though their appearance belies their strength and quickness. Due to the uncommon makeup of their homeworld's atmosphere, Kyuzo frequently wear corrective lenses and a highly pressurized filter mask over their faces to protect their sensitive respiratory systems and assist them in coping with uncomfortable climates like galactic standard habitable environments. As well as causing respiratory and vision problems, exposure to such conditions causes a Kyuzo to become ill within in a short period of time, interfering with their ability to concentrate and slowing them down.
@@ -4797,7 +4753,7 @@ Male names typically end in vowels, while female names end in consonants. Surnam
 
 
 
-<div style='margin-top:426px'></div>
+
 
 ### Kyuzo Traits
 As a Kyuzo, you have the following special traits.
@@ -4822,7 +4778,7 @@ As a Kyuzo, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Kyuzo. Kyuzo is characterized by short words and quick phrases. Kyuzo struggle with Galactic Basic as it is grammatically dissimilar to Kyuzo.
 
-<img src='https://www.gmbinder.com/images/4gG3Xwe.png' style='position:absolute;top:35px;right:110px;width:226px;transform:scaleX(-1);z-index:1000' />
+<!--- <img src='https://www.gmbinder.com/images/4gG3Xwe.png' style='position:absolute;top:35px;right:110px;width:226px;transform:scaleX(-1);z-index:1000' /> --->
 
 
 
@@ -4851,7 +4807,7 @@ ___
 > |***Homeworld***|&nbsp;&nbsp;|Lannik|
 > |***Language***|&nbsp;&nbsp;|Lannik|
 
-<div style='margin-top:41px'></div>
+
 
 ### Biology and Appearance
 Lannik are short, bipedal humanoids with droopy, long ears. Males and females are equally tall, although the latter have a considerably less strong complexity. Their species is, however, much more vigorous and resistant than what its size could suggest. A Lannik's skin tends to be of colours similar to his or her eyes and hair. The species has evolved long pointy ears which allow them to hear better than human ears. 
@@ -4872,7 +4828,7 @@ Lannik names are generally short. Lanniks don't often give out their surnames.
 
 
 
-<div style='margin-top:385px'></div>
+
 
 ### Lannik Traits
 As a lannik, you have the following special traits.
@@ -4899,7 +4855,7 @@ As a lannik, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Lannik. Due to their large ears, the Lannik language is spoken softly, and it is considered insulting to shout.
 
-<img src='https://www.gmbinder.com/images/4Fd7AXL.png' style='position:absolute;top:65px;right:67px;width:266px;transform:scaleX(-1);z-index:1000' />
+<!--- <img src='https://www.gmbinder.com/images/4Fd7AXL.png' style='position:absolute;top:65px;right:67px;width:266px;transform:scaleX(-1);z-index:1000' /> --->
 
 
 
@@ -4928,7 +4884,6 @@ ___
 > |***Homeworld***|&nbsp;&nbsp;|Lira San|
 > |***Language***|&nbsp;&nbsp;|Lasat|
 
-<div style='margin-top:34px'></div>
 
 ### Biology and Appearance
 A humanoid sentient species, Lasats are notable for their impressive height, strength, and agility, with their muscular digitigrade legs enabling them to run faster, jump higher and farther, and move more quietly than humans. Their large finger pads and prehensile toes assist them in climbing. In addition, their large eyes and ears afford them superior sight and hearing over humans. They had the strength to open a powered-down blast door. A height of two meters tall was considered below-average for a Lasat.
@@ -4949,7 +4904,6 @@ Lasat names tend to be melodic, with the occasionally harsh tone sprinkled in. S
 
 
 
-<div style='margin-top:485px'></div>
 
 ### Lasat Traits
 As a lasat, you have the following special traits.
@@ -4976,7 +4930,7 @@ As a lasat, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Lasat, a language whose *r*'s are difficult to replicate by most other species.
 
-<img src='https://www.gmbinder.com/images/l6e7iEk.jpg' style='position:absolute;top:39px;right:72px;width:295px;mix-blend-mode:darken' />
+<!--- <img src='https://www.gmbinder.com/images/l6e7iEk.jpg' style='position:absolute;top:39px;right:72px;width:295px;mix-blend-mode:darken' /> --->
 
 
 
@@ -5022,7 +4976,6 @@ Lurmen names are sharp and made up of a single syllable. Instead of surnames, lu
 
 
 
-<div style='margin-top:310px'></div>
 
 ### Lurmen Traits
 As a lurmen, you have the following special traits.
@@ -5051,7 +5004,7 @@ As a lurmen, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Lurmese. Lurmese is a name collectively given to the various tribal languages spoken by the lurmen people. While each language is distinct, shared phrases allow translation between dialects. 
 
-<img src='https://www.gmbinder.com/images/twbUZ4y.png' style='position:absolute;top:45px;right:110px;width:183px;transform:scaleX(-1);mix-blend-mode:darken;z-index:1000' />
+<!--- <img src='https://www.gmbinder.com/images/twbUZ4y.png' style='position:absolute;top:45px;right:110px;width:183px;transform:scaleX(-1);mix-blend-mode:darken;z-index:1000' /> --->
 
 
 
@@ -5080,7 +5033,6 @@ ___
 > |  *Homeworld* | | Korriban, Yavin 4 (adopted) |
 > |  *Language*  | | Sith |
 
-<div style='margin-top:63px'></div>
 
 ### Biology and Appearance
 The warrior caste of the sith purebloods, the massassi have genetically turned into the perfect warrior. While some looked like their sith pureblood brothers, others have more extreme physical differences, including fin-like growths, a taller form and tough skin. These imposing figures live much shorter lives than other species. They, like the few other creatures that inhabit Korriban, derive sustenance directly from the dark side of the Force, in part of a natural symbiotic relationship where sith—like the massassi—feed on the dark side, and empower it in turn. Thus the massassi have such a high rate of Force-sensitivity that they are considered a naturally Force-sensitive species.
@@ -5097,7 +5049,7 @@ Originating from the pureblood sith, massassi abominations follow many similiar 
 
 
 
-<div style='margin-top:354px'></div>
+
 
 ### Massassi Traits
 As a massassi, you have the following special traits.
@@ -5126,7 +5078,7 @@ As a massassi, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Sith. Sith is an agglutinative language, in which words or even phrases were made up of linear sequences of distinct meaningful units.
 
-<img src='https://www.gmbinder.com/images/hxr7jhg.png' style='position:absolute;top:45px;right:100px;width:283px;transform:scaleX(-1)' />
+<!--- <img src='https://www.gmbinder.com/images/hxr7jhg.png' style='position:absolute;top:45px;right:100px;width:283px;transform:scaleX(-1)' /> --->
 
 
 
@@ -5155,7 +5107,7 @@ ___
 > |***Homeworld***|  |Mikkia|
 > |***Language***|  |Mikkian|
 
-<div style='margin-top:40px'></div>
+
 
 ### Biology and Appearance
 Mikkians are a species of brightly colored humanoids. The mikkians' most distinctive feature are their motile head-tendrils, with the number, form, and pattern varying between individuals. These head-tendrils primarily serve as sensory organs, particularly detecting sound as a replacement for an ear common in other species. Mikkian head-tendrils also could detect other information, such as humidity, temperature, magnetic direction and radiation. This radiation detection can be detected to the extent that mikkians can "see" light and dark, although their eyes are still their primary visual organs. 
@@ -5174,7 +5126,6 @@ Mikkian names are often short and disyllabic, with a melodic quality to them. Mi
 
 
 
-<div style='margin-top:566px'></div>
 
 ### Mikkian Traits
 As a mikkian, you have the following special traits.
@@ -5197,7 +5148,7 @@ As a mikkian, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Mikkian. Mikkian is a melodic, flowing tongue made up of several ancient dialects.
 
-<img src='https://www.gmbinder.com/images/6sJKi2x.png' style='position:absolute;top:25px;right:40px;width:231px;transform:scaleX(-);z-index:1000' />
+<!--- <img src='https://www.gmbinder.com/images/6sJKi2x.png' style='position:absolute;top:25px;right:40px;width:231px;transform:scaleX(-);z-index:1000' /> --->
 
 
 
@@ -5226,7 +5177,7 @@ ___
 > |***Homeworld***|&nbsp;&nbsp;|Alpheridies|
 > |***Language***|&nbsp;&nbsp;|Miralukese|
 
-<div style='margin-top:50px'></div>
+
 
 ### Biology and Appearance
 The Miraluka are a near-human species that differs from Humans in that they lack eyes, only retaining vestigial eye sockets, and perceive the environment around them through *force sight* instead of regular vision. This vision is so strong that if a Miraluka looks upon a Jedi or Sith, they can "see" Force radiating off them. The strength of a Miraluka's connection to the Force varies by individual.
@@ -5247,7 +5198,7 @@ Miraluka names are generally two syllables. Miraluka don't use surnames, as they
 
 
 
-<div style='margin-top:517px'></div>
+
 
 ### Miraluka Traits
 As a miraluka, you have the following special traits.
@@ -5268,7 +5219,7 @@ As a miraluka, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Miralukese.
 
-<img src='https://www.gmbinder.com/images/S8aL9VM.png' style='position:absolute;top:40px;right:137px;width:194px;z-index:1000' />
+<!--- <img src='https://www.gmbinder.com/images/S8aL9VM.png' style='position:absolute;top:40px;right:137px;width:194px;z-index:1000' /> --->
 
 
 
@@ -5297,7 +5248,7 @@ ___
 > |***Homeworld***|&nbsp;&nbsp;|Mirial|
 > |***Language***|&nbsp;&nbsp;|Mirialan|
 
-<div style='margin-top:50px'></div>
+
 
 ### Biology and Appearance
 Mirialans are a near-human species native to the planet Mirial. They have green to yellow skin and tattoos on their faces. The Mirialans are known for their spirituality and strong connection with the world around them. Mirialans are very flexible and agile, making them fast and formidable foes.
@@ -5318,7 +5269,6 @@ Mirialan names are typically concise and rarely more than two syllables. Surname
 
 
 
-<div style='margin-top:516px'></div>
 
 ### Mirialan Traits
 As a mirialan, you have the following special traits.
@@ -5341,7 +5291,7 @@ As a mirialan, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Mirialan.
 
-<img src='https://www.gmbinder.com/images/HsbcT51.png' style='position:absolute;top:57px;right:122px;width:238px;z-index:1000' />
+<!--- <img src='https://www.gmbinder.com/images/HsbcT51.png' style='position:absolute;top:57px;right:122px;width:238px;z-index:1000' /> --->
 
 
 
@@ -5370,7 +5320,7 @@ ___
 > |***Homeworld***|  |Mustafar|
 > |***Language***|  |Mustafarian|
 
-<div style='margin-top:129px'></div>
+
 
 ### Biology and Appearance
 Mustafarians are an insectoid species of sentients native to the volcanic planet of Mustafar. They are divided into two subspecies: the lanky northern mustafarians, and the stocky southern mustafarians. The southern mustafarians were notable for their greater strength, making them more suited to manual labor. Both subspecies shared many traits, particularly their hardened exoskeletons and leathery skin, which acclimated them to the extreme heat of their volcanic environment.
@@ -5391,7 +5341,6 @@ Mustafarian names are often inspired by displays of competency or bravery, such 
 
 
 
-<div style='margin-top:401px'></div>
 
 ### Mustafarian Traits
 As a mustafarian, you have the following special traits.
@@ -5416,7 +5365,7 @@ As a mustafarian, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Mustafarian. Mustafarian consists of choppy clicks and emphatic groans.
 
-<img src='https://i.ibb.co/dLqfZS0/Mustafarian-NEGAS-removebg-preview.png' style='position:absolute;top:25px;right:60px;width:304px' />
+<!--- <img src='https://i.ibb.co/dLqfZS0/Mustafarian-NEGAS-removebg-preview.png' style='position:absolute;top:25px;right:60px;width:304px' /> --->
 
 
 
@@ -5445,7 +5394,6 @@ ___
 > |***Homeworld***|&nbsp;&nbsp;|Scipio|
 > |***Language***|&nbsp;&nbsp;|Muun|
 
-<div style='margin-top:94px'></div>
 
 ### Biology and Appearance
 Muuns are tall, gaunt humanoids with thin bodies, long<br> limbs, and elongated hairless heads. They typically<br> have pale pink or white skin, most likely derived from<br> their propensity for staying indoors. Muuns have tiny<br> ears on the middle of the sides of their heads, flat<br> noses, and slim mouths which leads to a<br> commonly nasally voice.
@@ -5466,7 +5414,7 @@ Muun names are typically clear and concise, rarely containing more than two syll
 
 
 
-<div style='margin-top:501px'></div>
+
 
 ### Muun Traits
 As a muun, you have the following special traits.
@@ -5489,7 +5437,7 @@ As a muun, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Muun. The Muuns' admiration of mathematics carries over into their language, which bares a striking resemblance to Binary.
 
-<img src='https://www.gmbinder.com/images/O6NHCqM.png' style='position:absolute;top:30px;right:112px;width:211px;z-index:1000' />
+<!--- <img src='https://www.gmbinder.com/images/O6NHCqM.png' style='position:absolute;top:30px;right:112px;width:211px;z-index:1000' /> --->
 
 
 
@@ -5518,7 +5466,6 @@ ___
 > |***Homeworld***|  |Neimoidia|
 > |***Language***|  |Pak Pak|
 
-<div style='margin-top:69px'></div>
 
 ### Biology and Appearance
 Neimoidians are distant genetic relatives of the duros and retain many similarities to them, including basic form, noseless faces, and green-blue skin (though neimoidians tend to be grayer). Their eyes also have pupils that split horizontally, and they are distinguished by small lumps on their foreheads and down-turned mouths. Instead of noses, they have olfactory glands underneath their eyes. These genetic differences are attributed to the distinct features of their homeworld, Neimoidia, including its gravity, which is markedly heavier than duro.
@@ -5537,7 +5484,6 @@ Neimoidian names are usually short and easy to pronounce, to make them more memo
 
 
 
-<div style='margin-top:476px'></div>
 
 ### Neimoidian Traits
 As a neimoidian, you have the following special traits.
@@ -5562,7 +5508,7 @@ As a neimoidian, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Pak Pak. Pak Pak is often considered an elegant-sounding language by those who hear it. It consists of husky sighs and guttural ululations.
 
-<img src='https://www.gmbinder.com/images/krJ6D9A.jpg' style='position:absolute;top:40px;right:90px;width:300px;mix-blend-mode:darken' />
+<!--- <img src='https://www.gmbinder.com/images/krJ6D9A.jpg' style='position:absolute;top:40px;right:90px;width:300px;mix-blend-mode:darken' /> --->
 
 
 
@@ -5591,7 +5537,7 @@ ___
 > |***Homeworld***|  |Kintan|
 > |***Language***|  |Nikto, Huttese|
 
-<div style='margin-top:35px'></div>
+
 
 ### Biology and Appearance
 Nikto are reptilian humanoids that are noted for their leathery skin. They hold a limited range of facial expressions because they lack the necessary anatomical infrastructure. Their eyes are covered by a protective membrane, being a thin transparent pellicle that protects their eyes underwater and during windstorms. As a result, they are noted for their "staring" eyes and a seemingly blank expression which leads to many underestimating nikto intelligence.
@@ -5608,7 +5554,7 @@ Nikto names are very complex, hard to pronounce, and harsh sounding. Name length
 
 
 
-<div style='margin-top:74px'></div>
+
 
 ### Nikto Traits
 As a nikto, you have the following special traits.
@@ -5639,7 +5585,7 @@ ___
 - **Kajain'sa'Nikto (Red)**<br> ***Heat Adaptation.*** You have advantage on Constitution saving throws made to avoid exhaustion due to extreme heat.<br> ***Survivor.*** You have proficiency in the Survival skill.
 - **M'shento'su'Nikto (Southern)**<br> ***Darkvision.*** You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
 
-<img src='https://www.gmbinder.com/images/aHB5qPb.png' style='position:absolute;top:25px;right:135px;width:158px;transform:scaleX(-1);z-index:1000' />
+<!--- <img src='https://www.gmbinder.com/images/aHB5qPb.png' style='position:absolute;top:25px;right:135px;width:158px;transform:scaleX(-1);z-index:1000' /> --->
 
 
 
@@ -5668,7 +5614,7 @@ ___
 > |***Homeworld***|&nbsp;&nbsp;|Honoghr|
 > |***Language***|&nbsp;&nbsp;|Honoghran|
 
-<div style='margin-top:94px'></div>
+
 
 ### Biology and Appearance
 Noghri are a primitive humanoid species hailed from the planet Honoghr with steely gray-blue skin that are renowned assassins. A natural gift for stealth and<br> hand-to-hand combat, Noghri are efficient killing<br> machines with their rending claws and strong olfactory<br> sense that can often determine familial lineage. Their smaller size belies their ruthlessness and potent<br> hunting skills.
@@ -5691,7 +5637,7 @@ Noghri names vary from short to long, with female names being typically softer. 
 
 
 
-<div style='margin-top:440px'></div>
+
 
 ### Noghri Traits
 As a noghri, you have the following special traits.
@@ -5718,7 +5664,7 @@ As a noghri, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Honorghran. Honorghran is characterized by its scratchy, gutteral sounds.
 
-<img src='https://www.gmbinder.com/images/SczLueA.jpg' style='position:absolute;top:30px;right:97px;width:256px;mix-blend-mode:darken' />
+<!--- <img src='https://www.gmbinder.com/images/SczLueA.jpg' style='position:absolute;top:30px;right:97px;width:256px;mix-blend-mode:darken' /> --->
 
 
 
@@ -5747,7 +5693,6 @@ ___
 > |***Homeworld***|  | Nothoiin |
 > |***Language***|  | Notho |
 
-<div style='margin-top:85px'></div>
 
 ### Biology and Appearance
 Near-humans possessing golden, flaky skin, nothoiins feature fair to brown hair with brown eyes and typically have physical heights and builds common to humans.  Nothoiins' appearance has earned their species the nickname of "Goldskins."
@@ -5768,7 +5713,7 @@ Nothoiin typically receive a gendered given name and a familial surname.
 
 
 
-<div style='margin-top:340px'></div>
+
 
 ### Nothoiin Traits
 As a nothoiin, you have the following special traits.
@@ -5797,7 +5742,7 @@ As a nothoiin, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and one language of your choice. You can also communicate via Notho, a native hand language developed by hunters living in the Nothoiin plains.  Usage of Notho is exceedingly rare outside Nothoiin culture.
 
-<img src='https://www.gmbinder.com/images/NkubbUY.png' style='position:absolute;top:25px;right:90px;width:267px;transform:scaleX(-)' />
+<!--- <img src='https://www.gmbinder.com/images/NkubbUY.png' style='position:absolute;top:25px;right:90px;width:267px;transform:scaleX(-)' /> --->
 
 
 
@@ -5826,7 +5771,6 @@ ___
 > |***Homeworld***|&nbsp;&nbsp;|Orto|
 > |***Language***|&nbsp;&nbsp;|Ortolan|
 
-<div style='margin-top:25px'></div>
 
 ### Biology and Appearance
 Ortolans are squat, heavily-built humanoid bipeds with long, trunklike noses and beady black eyes. They possess floppy ears, which are extremely sensitive to sound waves. They have two hands, each ending in<br> four chubby fingers and a thumb, which is not<br> opposable. A thick, baggy hide covered in fuzz<br> resembling velvet hangs off of the Ortolan body.<br> Ortolans have a keen sense of smell to help them<br> forage for food. In fact, they are handicapped in their<br> business affairs by their attachment to food,<br> sometimes accepting otherwise unfavorable contracts<br> when promised enough to eat. Their twin obsessions<br> are food and music; offworld, many Ortolans find<br> success as chefs or musicians. 
@@ -5876,7 +5820,7 @@ As an ortolan, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Ortolan. Ortolan is characterized by its grunts and hoots.
 
-<img src='https://www.gmbinder.com/images/cFpHkEc.png' style='position:absolute;top:57px;right:82px;width:300px;transform:scaleX(-1);z-index:1000' />
+<!--- <img src='https://www.gmbinder.com/images/cFpHkEc.png' style='position:absolute;top:57px;right:82px;width:300px;transform:scaleX(-1);z-index:1000' /> --->
 
 
 
@@ -5905,7 +5849,7 @@ ___
 > |***Homeworld***|Lowick|
 > |***Language***|Lowickese|
 
-<div style='margin-top:68px'></div>
+
 
 ### Biology and Appearance
 The pa'lowick are a species of humanoid amphibians who live in the coastal salt marshes of Lowick. They have compact but rotund midsections that top a pair of long, spindly legs ending in anisodactylic feet—three toes pointing forward, one back. This configuration, combined with their powerful lungs, enabled them to swim.
@@ -5956,7 +5900,7 @@ As a pa'lowick, you have the following special traits:
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Lowickese. Lowickese requires the user to purse their lips and blow air, and is considered amusing by other species.
 
-<img src='https://www.gmbinder.com/images/m4n05we.png' style='position:absolute;top:45px;right:160px;width:143px;transform:scaleX(-1)' />
+<!--- <img src='https://www.gmbinder.com/images/m4n05we.png' style='position:absolute;top:45px;right:160px;width:143px;transform:scaleX(-1)' /> --->
 
 
 
@@ -6003,7 +5947,7 @@ Pantoran use sophisticated names with numerous vowels, though often sound simila
 
 
 
-<div style='margin-top:339px'></div>
+
 
 ### Pantoran Traits
 As a pantoran, you have the following special traits.
@@ -6032,9 +5976,9 @@ As a pantoran, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Pantoran. Pantoran comprises many dialects that prevent clear communication, a vestige of the feudal culture of the planet's past. Because of the difficulties of operating a planetary government with so many different languages, the Assembly established Galactic Basic as the official language of their people as a means of unifying the planet. 
 
-<img src='https://www.gmbinder.com/images/8X0jiCk.png' style='position:absolute;top:50px;right:130px;width:117px' />
+<!--- <img src='https://www.gmbinder.com/images/8X0jiCk.png' style='position:absolute;top:50px;right:130px;width:117px' />
 
-<img src='https://www.gmbinder.com/images/7U3ihHA.png' style='position:absolute;top:48px;right:230px;width:169px;transform:scaleX(-1)' />
+<img src='https://www.gmbinder.com/images/7U3ihHA.png' style='position:absolute;top:48px;right:230px;width:169px;transform:scaleX(-1)' /> --->
 
 
 
@@ -6063,7 +6007,7 @@ ___
 > |***Homeworld***|  |Patrolia|
 > |***Language***|  |Patrolian|
 
-<div style='margin-top:38px'></div>
+
 
 ### Biology and Appearance
 Patrolians are fish-like in appearance, covered in pale, pastel-colored scales and possessing numerous fins on their long limbs and face, as well as a notable dorsal fin which often require modified clothing to accommodate. 
@@ -6086,7 +6030,6 @@ Patrolian names are usually multisyllabic and sing-songy with lots of open vowel
 
 
 
-<div style='margin-top:339px'></div>
 
 ### Patrolian Traits
 As a patrolian, you have the following special traits.
@@ -6119,7 +6062,7 @@ As a patrolian, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Patrolian. Patrolian is a high-energy language, consisting mostly of gurgles and skittish vocalizations. Patrolian, even when spoken on land, sounds like it's being spoken underwater. 
 
-<img src='https://www.gmbinder.com/images/BI9NFuF.png' style='position:absolute;top:40px;right:150px;width:180px;transform:scaleX(1)' />
+<!--- <img src='https://www.gmbinder.com/images/BI9NFuF.png' style='position:absolute;top:40px;right:150px;width:180px;transform:scaleX(1)' /> --->
 
 
 
@@ -6148,7 +6091,7 @@ ___
 > |***Homeworld***|  |Utapau|
 > |***Language***|  |Utapese|
 
-<div style='margin-top:55px'></div>
+
 
 ### Biology and Appearance
 Pau'ans have large, sunken black eyes in red eye sockets and jagged, fang-like teeth used for tearing into raw meat, as they are carnivores. The species has pale, wrinkled skin, due to the fact that they lived in the sinkholes of Utapau, giving them limited access to light. These traits cause some to view them as frightening. However, Pau'ans as a society are generally friendly, and are happy to welcome guests to their often overlooked world. Pau'ans have long lifespans, living up to 700 years, much longer than the Utai. This earned them the nickname of "Ancients".
@@ -6167,7 +6110,6 @@ Pau'an names are fairly simple, and generally melodic. Surnames are familial.
 
 
 
-<div style='margin-top:415px'></div>
 
 ### Pau'an Traits
 As a pau'an, you have the following special traits.
@@ -6194,8 +6136,8 @@ As a pau'an, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Utapese. Utapese is characterized by its rigid, yet melodic sound.
 
-<img src='https://www.gmbinder.com/images/rBn3F2L.png'
-style='position:absolute;top:25px;right:110px;width:212.5px;transform:scaleX(1);z-index:1000' />
+<!--- <img src='https://www.gmbinder.com/images/rBn3F2L.png'
+style='position:absolute;top:25px;right:110px;width:212.5px;transform:scaleX(1);z-index:1000' /> --->
 
 
 
@@ -6224,7 +6166,7 @@ ___
 > |***Homeworld***|  |Oba Diah|
 > |***Language***|  |Pyke|
 
-<div style='margin-top:85px'></div>
+
 
 ### Biology and Appearance
 A sentient species, the pykes are humanoid, although slimmer and taller than most humans. They have two long, lanky legs, and two arms that end in three-fingered hands. Their heads are large and elongated, with a tapered skull and an undersized face, a feature which some other species find unsettling. Pykes had two narrow, almond-shaped eyes which could be magenta or blue in color.
@@ -6243,7 +6185,7 @@ Pyke names are often influenced by naming conventions of other species, with the
 
 
 
-<div style='margin-top:521px'></div>
+
 
 ### Pyke Traits
 As a pyke, you have the following special traits.
@@ -6268,7 +6210,7 @@ As a pyke, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Pyke. The Pyke language is characterized by its multisyllable grunts.
 
-<img src='https://www.gmbinder.com/images/AA8RHNh.png' style='position:absolute;top:35px;right:-22px;width:453px;z-index:1000' />
+<!--- <img src='https://www.gmbinder.com/images/AA8RHNh.png' style='position:absolute;top:35px;right:-22px;width:453px;z-index:1000' /> --->
 
 
 
@@ -6297,7 +6239,7 @@ ___
 > |***Homeworld***|&nbsp;&nbsp;|Mon Cala|
 > |***Language***|&nbsp;&nbsp;|Quarrenese|
 
-<div style='margin-top:42px'></div>
+
 
 ### Biology and Appearance
 The Quarren are squid-like with four facial tentacles which protrude from their lower jaw. They have a pair of deep, turquoise eyes and finned hands with suction-tipped fingers. As an amphibious species, they are strong swimmers. They are also bipedal beings that can walk and sit upright. In the two long protrusions that extended from either side of their faces, Quarren have gill-like structures that are actually hearing organs. The Quarren are also capable of spitting out clouds of ink as a defensive measure.
@@ -6316,7 +6258,7 @@ Quarren names are typically harsh. Male and female names do not significantly de
 
 
 
-<div style='margin-top:430px'></div>
+
 
 ### Quarren Traits
 As a quarren, you have the following special traits.
@@ -6345,7 +6287,7 @@ As a quarren, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Quarrenese. The Quarrenese language is characterized by its garbled nature that evokes an image of speaking underwater.
 
-<img src='https://www.gmbinder.com/images/Yba4pV1.png' style='position:absolute;top:57px;right:67px;width:358px;z-index:1000' />
+<!--- <img src='https://www.gmbinder.com/images/Yba4pV1.png' style='position:absolute;top:57px;right:67px;width:358px;z-index:1000' /> --->
 
 
 
@@ -6393,7 +6335,7 @@ Quermian names are usually one to three syllables long, featuring hard or soft c
 
 
 
-<div style='margin-top:398px'></div>
+
 
 ### Quermian Traits
 As a quermian, you have the following special traits.
@@ -6420,7 +6362,7 @@ As a quermian, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Quermian. You can also communicate with other quermians more effectively through a thorough understanding of body language that xenobiologists widely attribute to latent telepathy.
 
-<img src='https://vignette.wikia.nocookie.net/starwars/images/9/9a/XextoQuermian.jpg' style='position:absolute;top:17px;right:120px;width:247px;transform:scaleX(-1);mix-blend-mode:darken' />
+<!--- <img src='https://vignette.wikia.nocookie.net/starwars/images/9/9a/XextoQuermian.jpg' style='position:absolute;top:17px;right:120px;width:247px;transform:scaleX(-1);mix-blend-mode:darken' /> --->
 
 
 
@@ -6449,7 +6391,6 @@ ___
 > |***Homeworld***|  |Lehon|
 > |***Language***|  |Rakata|
 
-<div style='margin-top:55px'></div>
 
 ### Biology and Appearance
 In appearance, rakata are smooth skinned amphibian-like humanoids that had tall craniums along with eyes that protruded from each side of their heads on short stalks. These bipedal beings have three digit hands that are tipped with claws for digging through packed dirt. As a species, they are uniformly lean and tall; while most rakata have a similar height and weight, females tend to be more slender than males, though just as tall. Rakata are primarily carnivorous, likely stemming from the fact that they are cannibalistic, often making a meal of other species.
@@ -6468,7 +6409,7 @@ Rakatan names do not distinguish by gender, and they do not use surnames.
 
 
 
-<div style='margin-top:264px'></div>
+
 
 ### Rakata Traits
 As a rakata, you have the following special traits.
@@ -6501,7 +6442,7 @@ As a rakata, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Rakata. Rakata is characterized by its deep tones and simplistic nature, using mainly consonants and long vowels. It's script seems to be a very ancient form of Galactic Basic.
 
-<img src= 'https://www.gmbinder.com/images/KavzyFx.png' style='position:absolute;top:45px;right:160px;width:153px;transform:scaleX(-1);z-index:1000' />
+<!--- <img src= 'https://www.gmbinder.com/images/KavzyFx.png' style='position:absolute;top:45px;right:160px;width:153px;transform:scaleX(-1);z-index:1000' /> --->
 
 
 
@@ -6530,7 +6471,7 @@ ___
 > |***Homeworld***|&nbsp;&nbsp;|Rattatak|
 > |***Language***|&nbsp;&nbsp;|Rattataki|
 
-<div style='margin-top:65px'></div>
+
 
 ### Biology and Appearance
 The Rattataki are a near-human species characterized by their nimble movements, chalk-white skin and oft-bald heads. Virtually isolated from the rest of the galaxy, the Rattataki developed a violent society on their home planet of Rattatak, which involves extensive gladiatorial combat. 
@@ -6551,7 +6492,6 @@ Rattataki names are harsh sounding and short. Surnames are familial, though many
 
 
 
-<div style='margin-top:531px'></div>
 
 ### Rattataki Traits
 As a rattataki, you have the following special traits.
@@ -6576,7 +6516,7 @@ As a rattataki, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Rattataki. Rattataki is known for have an inordinate amount of curses.
 
-<img src='https://www.gmbinder.com/images/YcTaYbs.png' style='position:absolute;top:49px;right:92px;width:242px;transform:scaleX(-1)' />
+<!-- <img src='https://www.gmbinder.com/images/YcTaYbs.png' style='position:absolute;top:49px;right:92px;width:242px;transform:scaleX(-1)' /> --->
 
 
 
@@ -6605,7 +6545,7 @@ ___
 > |***Homeworld***|&nbsp;&nbsp;|Rishi|
 > |***Language***|&nbsp;&nbsp;|Rishii|
 
-<div style='margin-top:41px'></div>
+
 
 ### Biology and Appearance
 Rishii are a sentient, avian species of carnivores which possess two legs ending in four-toed feet, two arms, a tail, and a head. The species' two arms consist of feathered wings ending in nimble humanoid hands, capable of manipulating tools. The wings grant the Rishii the ability to fly at great speeds, which is their method of travel equivalent to running in land-based species. A Rishii's head contained a beak between two yellow eyes framed by a large brow. Rishii were capable of mimicking anything said to them perfectly, and also possessed extremely strong senses, particularly hearing and sight. 
@@ -6618,7 +6558,7 @@ As with much of their speech, Rishii names include clicks, trills, and whistles 
 
 
 
-<div style='margin-top:506px'></div>
+
 
 ### Rishii Traits
 As a rishii, you have the following special traits.
@@ -6641,7 +6581,7 @@ As a rishii, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Rishii. Rishii's clicks, trills, and whistles are difficult for outsiders to learn without the aid of a protocol droid, and so Rishii often feel comfortable speaking to eachother in the language in front of others.
 
-<img src='https://www.gmbinder.com/images/BuOJWlZ.png' style='position:absolute;top:47px;right:-78px;width:522px;z-index:1000' />
+<!--- <img src='https://www.gmbinder.com/images/BuOJWlZ.png' style='position:absolute;top:47px;right:-78px;width:522px;z-index:1000' /> --->
 
 
 
@@ -6687,7 +6627,6 @@ Ryn names have a very melodic tone, taking cues from many different languages fr
 
 
 
-<div style='margin-top:400px'></div>
 
 ### Ryn Traits
 As a ryn, you have the following special traits.
@@ -6716,7 +6655,7 @@ As a ryn, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Ryn. Ryn uses tones and inflections and is easily described as melodious by anyone who hears it. You can communicate with droids and other ryn without using words through the use of your beak. 
 
-<img src='https://www.gmbinder.com/images/PpUCVvm.png' style='position:absolute;top:45px;right:100px;width:278px;transform:scaleX(-1);' />
+<!--- <img src='https://www.gmbinder.com/images/PpUCVvm.png' style='position:absolute;top:45px;right:100px;width:278px;transform:scaleX(-1);' /> --->
 
 
 
@@ -6746,7 +6685,7 @@ ___
 > |***Homeworld***|  |Manaan|
 > |***Language***|  |Selkatha|
 
-<div style='margin-top:21px'></div>
+
 
 ### Biology & Appearance
 The Selkath are an aquatic species, known for being skilled swimmers and diplomats. Their heads resemble sting rays and they have a blue, pink, or green skin naturally patterned as an underwater camouflage. Their mouths are bracketed by cephalic lobes. Female Selkath differed from males due to the presence of tendrils on the back of their heads.
@@ -6767,7 +6706,7 @@ Selkath names tend to have a flowing quality to it, like a stream of water. They
 
 
 
-<div style='margin-top:341px'></div>
+
 
 ### Selkath Traits
 As a selkath, you have the following special traits.
@@ -6792,7 +6731,7 @@ As a selkath, you have the following special traits.
 
 **Languages.** You can speak, read, and write Galactic Basic and Selkatha. Selkatha has a very moist and gurgling tone to it.
 
-<img src='https://www.gmbinder.com/images/sTuHieJ.png' style='position:absolute;top:50px;right:82px;width:307px;z-index:1000;' />
+<!--- <img src='https://www.gmbinder.com/images/sTuHieJ.png' style='position:absolute;top:50px;right:82px;width:307px;z-index:1000;' /> --->
 
 
 
@@ -6838,7 +6777,7 @@ Selonian use punctual names with no surnames.
 
 
 
-<div style='margin-top:486px'></div>
+
 
 ### Selonian Traits
 As a selonian, you have the following special traits.
@@ -6865,7 +6804,7 @@ As a selonian, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Mandaba. Selonians use the name "Home Talk" to refer to their own language.
 
-<img src='https://www.gmbinder.com/images/hsKqKnd.png' style='position:absolute;top:40px;right:70px;width:345px;transform:scaleX(1)' />
+<!--- <img src='https://www.gmbinder.com/images/hsKqKnd.png' style='position:absolute;top:40px;right:70px;width:345px;transform:scaleX(1)' /> --->
 
 
 
@@ -6894,7 +6833,7 @@ ___
 > |***Homeworld***|&nbsp;&nbsp;|Uvena Prime|
 > |***Language***|&nbsp;&nbsp;|Shistavanen|
 
-<div style='margin-top:37px'></div>
+
 
 ### Biology and Appearance
 Shistavanen have pronounced muzzles, sharp claws, long pointed teeth, and pointed ears set on top of their heads. Shistavanen also possess large glowing eyes, and can also run at high speeds for long periods without getting tired, alternately using two or four limbs. As predators, they possess keen hearing and smell and excellent night vision.
@@ -6915,7 +6854,7 @@ Shistavanen first names typically sound graceful, while their surnames are more 
 
 
 
-<div style='margin-top:400px'></div>
+
 
 ### Shistavanen Traits
 As a shistavanen, you have the following special traits.
@@ -6942,7 +6881,7 @@ As a shistavanen, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Shistavanen. The Shistavanen language is characterized by its barks and growls. 
 
-<img src='https://www.gmbinder.com/images/4yZRTuQ.png' style='position:absolute;top:52px;right:99px;width:271.5px;z-index:1000' />
+<!--- <img src='https://www.gmbinder.com/images/4yZRTuQ.png' style='position:absolute;top:52px;right:99px;width:271.5px;z-index:1000' /> --->
 
 
 
@@ -6971,7 +6910,7 @@ ___
 > |***Homeworld***|&nbsp;&nbsp;|Skor II|
 > |***Language***|&nbsp;&nbsp;|Squibbian|
 
-<div style='margin-top:25px'></div>
+
 
 ### Biology and Appearance
 Squibs are small, sentient, humanoid mammals with both rodent and canine characteristics. Their pink skin is covered in fur that offers some protection from cold weather, but, more importantly, it serves as an<br> olfactory organ, able to pick up scents at a distance<br> and ascertain intrinsic details—such as penetrating<br> through a disguise or identifying a forgery—when<br> rubbed against. The species has both male and female<br> sexes, although non-Squibs often have difficulty<br> determining the sex of a Squib based on appearance<br> alone. Their mouths are full of forbidding, sharp, white<br> teeth, and their flexible cheeks were capable of storing<br> items.
@@ -6988,7 +6927,7 @@ Squibs combine their first and last names, which are familial, into one long, hy
 
 
 
-<div style='margin-top:234px'></div>
+
 
 ### Squib Traits
 As a squib, you have the following special traits.
@@ -7019,7 +6958,7 @@ As a squib, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Squibbian. The Squibbian language originated as a secret form of communication for Squibs to convey information without being understood.
 
-<img src='https://www.gmbinder.com/images/QqLGFKE.png' style='position:absolute;top:30px;right:80px;width:290px;transform:scaleX(-1);z-index:1000' />
+<!--- <img src='https://www.gmbinder.com/images/QqLGFKE.png' style='position:absolute;top:30px;right:80px;width:290px;transform:scaleX(-1);z-index:1000' /> --->
 
 
 
@@ -7048,7 +6987,7 @@ ___
 > |***Homeworld***|  |Lwhekk|
 > |***Language***|  |Ssi-ruuvi|
 
-<div style='margin-top:55px'></div>
+
 
 ### Biology and Appearance
 Ssi-ruuk are a predatory, warm-blooded saurian species gifted with ferocious strength, remarkable speed, and sharp fangs and claws, traits that serve them well in the volcanic jungles of their homeworld of Lwhekk. Their muscular forms combined with their powerful tails make them very agile hunters, and their colorfully-scaled hides have been proven to be resistant even to blaster bolts. From their nostrils, two scent-tongues protrude that grant them enhanced olfactory senses, compensating for the poor vision afforded them by their dark, three-lidded eyes. No Ssi-ruu has ever been known to be Force-sensitive.
@@ -7063,7 +7002,7 @@ Ssi-ruuvi names are difficult to pronounce and gender neutral. Many ssi-ruuk ado
 
 
 
-<div style='margin-top:324px'></div>
+
 
 ### Ssi-Ruu Traits
 As a ssi-ruu, you have the following special traits.
@@ -7096,7 +7035,7 @@ As a ssi-ruu, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Ssi-ruuvi. Ssi-ruuvi is a language of musical whistles, honks and clicks, and is nigh impossible for humans and similar species to speak.
 
-<img src='https://www.gmbinder.com/images/etWeg0L.jpg' style='position:absolute;top:-100px;right:50px;width:330px;mix-blend-mode:darken;z-index:1000' />
+<!--- <img src='https://www.gmbinder.com/images/etWeg0L.jpg' style='position:absolute;top:-100px;right:50px;width:330px;mix-blend-mode:darken;z-index:1000' /> --->
 
 
 
@@ -7125,7 +7064,7 @@ ___
 > |***Homeworld***|&nbsp;&nbsp;|Sullust|
 > |***Language***|&nbsp;&nbsp;|Sullestese| 
 
-<div style='margin-top:51px'></div>
+
 
 ### Biology and Appearance
 A diminutive species of near-humans, Sullustans bear round, tapered skulls. Sullustans are distinguishable for their almond-shaped black eyes, facial jowls called dewflaps and large, round ears. Their wide earlobes provide excellent hearing, and their large eyes provide exceptional low-light vision. Due to their relative lack of exposure to natural light, Sullustans begin to suffer from corneal defects after 30 standard years. Many choose to wear special visors to prevent further damage. Some Sullustans tattoo their heads as a form of individual expression.
@@ -7144,7 +7083,7 @@ Male names are typically longer than female names. Surnames are based on Warren-
 
 
 
-<div style='margin-top:516px'></div>
+
 
 ### Sullustan Traits
 As a sullustan, you have the following special traits.
@@ -7169,7 +7108,7 @@ As a sullustan, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic, Sullestese, and one more language of your choice. Sullestese is characterized as a robust language in business, and as such is commonly learned by professional merchants.
 
-<img src='https://www.gmbinder.com/images/7ctKMBy.png' style='position:absolute;top:50px;right:72px;width:327px' />
+<!--- <img src='https://www.gmbinder.com/images/7ctKMBy.png' style='position:absolute;top:50px;right:72px;width:327px' /> --->
 
 
 
@@ -7198,8 +7137,6 @@ ___
 > |***Homeworld***|&nbsp;&nbsp;|Orto Plutonia|
 > |***Language***|&nbsp;&nbsp;|Talzzi|
 
-<div style='margin-top:50px'></div>
-
 ### Biology and Appearance
 Talz are large, bulky, bipedal creatures, that are covered head to toe in thick white fur, which provides exceptional insulation against their frozen world. Talz have four eyes, which are also adaptations to their native environment. The larger set of eyes are shut during the day, when sunlight reflects off the snow with dazzling brightness—able to blind sensitive optical organs—leaving the smaller set to navigate with. Alternatively, during the deep darkness of their homeworld's moonless night, the larger pair are utilized to provide the Talz with adequate vision. Talz use a small proboscis to eat and communicate, creating high-pitched chirps and buzzes.
 
@@ -7219,7 +7156,6 @@ Talz names are fairly gutteral and are characterized by their harsh nature. Fema
 
 
 
-<div style='margin-top:486px'></div>
 
 ### Talz Traits
 As a talz, you have the following special traits.
@@ -7242,7 +7178,7 @@ As a talz, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Talzzi. You can understand spoken and written Galactic Basic, but your vocal cords do not allow you to speak it. Talzzi is characterized by its high-pitched chirps and buzzes.
 
-<img src='https://www.gmbinder.com/images/7pfWlgG.png' style='position:absolute;top:48px;right:44px;width:304px;z-index:1000' />
+<!--- <img src='https://www.gmbinder.com/images/7pfWlgG.png' style='position:absolute;top:48px;right:44px;width:304px;z-index:1000' /> --->
 
 
 
@@ -7271,7 +7207,7 @@ ___
 > |***Homeworld***|  |Cularin|
 > |***Language***|  |Tarasinese|
 
-<div style='margin-top:40px'></div>
+
 
 ### Biology and Appearance
 Tarasins are tall reptilians covered in translucent scales that allows the species' color-changing skin below to show through. Tarasins also have a colorful fan of flesh and scales—known as a kampo—that opens around their heads when they experience strong emotional distress, which can be a detriment to negotiations, as it is difficult for a tarasin to hide discomfort. This color-changing ability is useful for camouflage and communication, and the scales naturally repel heat. Some examples of colors they take on include being brown when calm and in a comfortable environment, or becoming red after extended exertion or when excited. Tarasins also have short spines that protrude from their forearms—known as a sa'tosin—which give the creatures the ability to sense the use of the Force. Tarasins are naturally curious and protective but also slow to anger. What they lack in sheer physical strength they make up for with a brilliant intellect.
@@ -7286,7 +7222,7 @@ Tarasin names are generally very soft and melodic. Names are agendered, and surn
 
 
 
-<div style='margin-top:476px'></div>
+
 
 ### Tarasin Traits
 As a tarasin, you have the following special traits.
@@ -7311,7 +7247,7 @@ As a tarasin, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Tarasinese. You can communicate non-verbally with other tarasins through use of a complex system of skin color changes.
 
-<img src='https://www.gmbinder.com/images/v6JqWEi.png' style='position:absolute;top:44px;right:130px;width:189px;transform:scaleX(-1);z-index:1000' />
+<!--- <img src='https://www.gmbinder.com/images/v6JqWEi.png' style='position:absolute;top:44px;right:130px;width:189px;transform:scaleX(-1);z-index:1000' /> --->
 
 
 
@@ -7340,7 +7276,6 @@ ___
 > |***Homeworld***| Coruscant, Mandalore (adopted)
 > |***Language***| Mando'a
 
-<div style='margin-top:25px'></div>
 
 ### Biology and Appearance
 Taung are a humanoid species of tall and strong sentient simians. Physically, the taung are extremely resilient and are able to endure hardships many other species are unable to, which benefits their warlike nature as well as their tendencies to conquer planets.
@@ -7361,7 +7296,7 @@ Taung names reflect their practical nature, typically choosing names that corres
 
 
 
-<div style='margin-top:430px'></div>
+
 
 ### Taung Traits
 As a taung, you have the following special traits.
@@ -7390,9 +7325,9 @@ As a taung, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Mando'a. Mando'a is primarily a spoken language and is very expressive with simple grammar.
 
-<img src='https://www.gmbinder.com/images/YhgllKi.png' style='position:absolute;top:140px;right:50px;width:200px;transform:scaleX(-1)' />
+<!--- <img src='https://www.gmbinder.com/images/YhgllKi.png' style='position:absolute;top:140px;right:50px;width:200px;transform:scaleX(-1)' />
 
-<img src='https://www.gmbinder.com/images/YEGoG1S.png' style='position:absolute;top:40px;right:190px;width:201px;transform:scaleX(1)' />
+<img src='https://www.gmbinder.com/images/YEGoG1S.png' style='position:absolute;top:40px;right:190px;width:201px;transform:scaleX(1)' /> --->
 
 
 
@@ -7421,7 +7356,7 @@ ___
 > |***Homeworld***|  |Unknown|
 > |***Language***|  |Galactic Basic|
 
-<div style='margin-top:46px'></div>
+
 
 ### Biology and Appearance
 The original appearance of the theelin is officially uncertain, as almost all known "theelin" are not full-blooded specimens, but hybrids. It is possible that some aspects of these individuals' appearances are not from their theelin genes, but from other near-human ancestors. Most, however, have vividly colored hair and pale skin, often mottled with colorful spots. Unfortunately, a series of mutations arose among later generations of theelin. These mutations have led to genetic incompatibilities within their species, making it impossible to produce offspring. Even attempts to continue their species by cross-breeding with other near-humans could not stop the theelin slide towards extinction, due to the high infant mortality rates such couplings suffer from. Theelin began inevitably dwindling in number—only a few million theelin and part-theelin remain by the time the Republic fell, and pure theelin are presumed extinct by the fall of the Empire. Some of their greatest works are produced in these years, however, as an epitaph for a dying people. 
@@ -7440,7 +7375,6 @@ Theelin use names similar to those in their community, typically human-similar n
 
 
 
-<div style='margin-top:257px'></div>
 
 ### Theelin Traits
 As a theelin, you have the following special traits.
@@ -7471,7 +7405,7 @@ ___
 - **Heightened Reflexes.** Whenever you make a Dexterity ability check, attack roll, or saving throw, you can choose to add 1d4 to the result. You can choose to do this after the check is rolled, but before the DM determines if you’ve passed or failed the check. You cannot do so again until you complete a short or long rest.
 - **Unarmed Combatant.** Your unarmed strikes deal 1d4 kinetic damage and have the finesse property.
 
-<img src='https://www.gmbinder.com/images/3W9n7t9.png' style='position:absolute;top:45px;right:150px;width:132px;transform:scaleX(1)' />
+<!--- <img src='https://www.gmbinder.com/images/3W9n7t9.png' style='position:absolute;top:45px;right:150px;width:132px;transform:scaleX(1)' /> --->
 
 
 
@@ -7500,7 +7434,6 @@ ___
 > |***Homeworld***|  |Thisspias|
 > |***Language***|  |Thisspiasian|
 
-<div style='margin-top:25px'></div>
 
 ### Biology and Appearance
 Thisspiasians are easily recognized by their abundant beards and their long tails, which often reach over six feet. These tails are very strong and are commonly used to carry large objects. When meditating or at rest, a thisspiasian will coil their tail beneath their torso, reducing their height by several feet. They also possess four arms, with the upper set being stronger and larger. Each of their four hands have five fingers, and each finger is tipped with a long, sturdy claw. It is thought unsophisticated or unseemly by upper-class thisspiasians to have the bottom two visible in public, so they are generally hidden from sight via larger garments, with the smaller limbs sometimes even bound to their bodies. Thisspiasians need very little sleep to function normally, resting for only two hours a day, with brief meditative moments scattered throughout the day to refocus.
@@ -7519,7 +7452,7 @@ Thisspiasian names typically are composed of two similar sounding syllables. Sur
 
 
 
-<div style='margin-top:340px'></div>
+
 
 ### Thisspiasian Traits
 As a thisspiasian, you have the following special traits.
@@ -7548,7 +7481,7 @@ As a thisspiasian, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Thisspiasian. Thisspiasian is a complex language characterized by its interlocking sentences and heavy use of sibilants.
 
-<img src='https://www.gmbinder.com/images/GZQ97jw.png' style='position:absolute;top:35px;right:110px;width:229px;transform:scaleX(1)' />
+<!--- <img src='https://www.gmbinder.com/images/GZQ97jw.png' style='position:absolute;top:35px;right:110px;width:229px;transform:scaleX(1)' /> --->
 
 
 
@@ -7577,7 +7510,7 @@ ___
 > |***Homeworld***|  |Tiss'sharl|
 > |***Language***|  |Tiss'shar|
 
-<div style='margin-top:48px'></div>
+
 
 ### Biology and Appearance
 Tiss'shar are bipedal therapods descended from predatory reptilians native to the humid jungle continents of Tiss'sharl. They are relatively strong and agile, with long necks, slender torsos, wider hips, and a short but wiry tail. Their mouths are filled with short, sharp teeth, and their large tongues are pink and constantly moving. Their large eyes appear glassy as a result of the clear, resilient film that covered and protected them. Many tiss'shar have prominent sickle-shaped claws on the first toe of their feet; some also possessed a crest of feathers atop their heads.
@@ -7594,7 +7527,6 @@ Tiss'shar names are segmented, with males receiving an additional "tail name." S
 
 
 
-<div style='margin-top:368px'></div>
 
 ### Tiss'shar Traits
 As a tiss'shar, you have the following special traits.
@@ -7619,7 +7551,7 @@ As a tiss'shar, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Tiss'shar. Tiss'shar is mainly formed of hisses, shrieks, and lisping vocalizations. As a written language, it has a violent-looking calligraphy of curves and sharp lines.
 
-<img src='https://www.gmbinder.com/images/19T3gjz.png' style='position:absolute;top:46px;right:120px;width:205px;transform:scaleX(-1)' />
+<!--- <img src='https://www.gmbinder.com/images/19T3gjz.png' style='position:absolute;top:46px;right:120px;width:205px;transform:scaleX(-1)' /> --->
 
 
 
@@ -7648,7 +7580,7 @@ ___
 > |***Homeworld***|  |Yar Togna|
 > |***Language***|  |Tognath|
 
-<div style='margin-top:35px'></div>
+
 
 ### Biology and Appearance
 Tognath are a sentient species native to Yar Togna. Yar Togna is a foul-smelling, high-gravity planet with a toxic, fume-saturated atmosphere. As a result, tognath wear a breathing apparatus to process the oxygen content in a planet's atmosphere. The tognath have a striking look thanks to their insectoid and mammalian characteristics; another factor is their having both an endo- and exoskeleton. They also possess a very primitive nervous system, which provides them with immunity to most pain (a helpful trait in combat). Tognath begin life as larvae born from egg clutches hatched in a suspension jelly, and latch onto one of their parents, feeding directly from their bloodstream. While in that jelly, two or more eggs (not necessarily from the same parent) sometimes graft together, thus creating a bond that continues throughout the life of the eggmates. Six months later, parents visit a nursery tree, where the young detatch from them and spin a cocoon. Within, the offspring undergo a metamorphosis, developing both their skeletons to resist the high gravity and pressures of Yar Togna.
@@ -7661,7 +7593,7 @@ Tognath use generally simple, nongendered names, without bothering with surnames
 
 **First Names.** Darjia, Essec, Irion, Tathak
 
-<br><div style='margin-top:295px'></div>
+
 
 ### Tognath Traits
 As a tognath, you have the following special traits.
@@ -7690,7 +7622,7 @@ As a tognath, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Tognath. You can understand spoken and written Galactic Basic, but your vocal cords do not allow you to speak it.
 
-<img src='https://www.gmbinder.com/images/QbFVKuY.png' style='position:absolute;top:25px;right:128px;width:209px;transform:scaleX(-1);z-index:1000' />
+<!--- <img src='https://www.gmbinder.com/images/QbFVKuY.png' style='position:absolute;top:25px;right:128px;width:209px;transform:scaleX(-1);z-index:1000' /> --->
 
 
 
@@ -7719,7 +7651,7 @@ ___
 > |***Homeworld***| Togoria |
 > |***Language***| Togorese |
 
-<div style='margin-top:51px'></div>
+
 
 ### Biology and Appearance
 The Togorian people are a feline warrior species native to the planet Togoria. They are large, heavy-framed bipeds, with retractable claws on their hands and feet. Female Togorians grow up to 7 feet tall, while adult males can reach up to 9 feet. They're covered in gray-white, black, brown, or orange fur, often with colorful spots or stripes. 
@@ -7736,7 +7668,7 @@ Togorian names tend to be short and primal-sounding. Female names tend to includ
 
 
 
-<div style='margin-top:491px'></div>
+
 
 ### Togorian Traits
 As a togorian, you have the following special traits.
@@ -7761,7 +7693,7 @@ As a togorian, you have the following special traits.
  
 **Languages.** You can speak, read, and write Galactic Basic and Togorese. Togorese is characterized by its deep, resonating growls.
 
-<img src='https://www.gmbinder.com/images/dAyS86R.png' style='position:absolute;top:40px;right:112px;width:245px;transform:scaleX(-1);z-index:1000' />
+<!--- <img src='https://www.gmbinder.com/images/dAyS86R.png' style='position:absolute;top:40px;right:112px;width:245px;transform:scaleX(-1);z-index:1000' /> --->
 
 
 
@@ -7790,7 +7722,6 @@ ___
 > |***Homeworld***|&nbsp;&nbsp;|Toydaria|
 > |***Language***|&nbsp;&nbsp;|Toydarian|
 
-<div style='margin-top:55px'></div>
 
 ### Biology and Appearance
 A mammalian species of winged, stout bodied humanoids, the Toydarians have stubby facial tusks which protruded from their lower jaw and framed a short pudgy trunk. While their stubby legs can support their body weight, Toydarians' primary mode of locomotion was their use of the wings on their upper back. Though their wings can beat as fast as ten times a second, the effort burned up large amounts of energy, causing the species to need to replenish itself often through regularly eating mass quantities of food. In order to fuel this hyperactive metabolism, Toydarians eat concentrated foods and egg-seeds. Most of the bloodiest wars in their history were fought over food supplies. 
@@ -7811,7 +7742,6 @@ Toydarian names are fairly simple and guttural, but a few harsher elements can b
 
 
 
-<div style='margin-top:370px'></div>
 
 ### Toydarian Traits
 As a toydarian, you have the following special traits.
@@ -7838,7 +7768,7 @@ As a toydarian, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic, Huttese, and Toydarian.
 
-<img src='https://www.gmbinder.com/images/WqVdcz3.png' style='position:absolute;top:47px;right:18px;width:403px;Transform:scaleX(-1);z-index:1000' />
+<!--- <img src='https://www.gmbinder.com/images/WqVdcz3.png' style='position:absolute;top:47px;right:18px;width:403px;Transform:scaleX(-1);z-index:1000' /> --->
 
 
 
@@ -7890,7 +7820,7 @@ Ugnaught names are generally concise. Female names sound more cheerful. Surnames
 
 
 
-<div style='margin-top:159px'></div>
+
 
 ### Ugnaught Traits
 As an ugnaught, you have the following special traits.
@@ -7921,7 +7851,7 @@ As an ugnaught, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Ugnaught. The Ugnaught language is composed of grunts, squeals, and chatters, and is difficult for other species to learn.
 
-<img src='https://www.gmbinder.com/images/0XZcHOH.jpg' style='position:absolute;top:41px;right:146px;width:142px;mix-blend-mode:darken;z-index:100' />
+<!--- <img src='https://www.gmbinder.com/images/0XZcHOH.jpg' style='position:absolute;top:41px;right:146px;width:142px;mix-blend-mode:darken;z-index:100' /> --->
 
 
 
@@ -7950,7 +7880,6 @@ ___
 > |***Homeworld***|  |Paradise System|
 > |***Language***|  |Ugor|
 
-<div style='margin-top:30px'></div>
 
 ### Biology and Appearance
 Ugors are sentient, unicellular protozoans. Considered exotic for being one of the few sentient species to fall outside the standard classificiations of birds, mammals, etc. Their bodies consist of cytoplasm, which can vary in colors and shade, bound by a slime-coated membrane. Being amorphic, ugors can assume nearly any shape, and can exude pseudopodia limbs such as crude arms, mouths, and sensory organs, although a globular form was the most comfortable and easy to maintain. Due to their unique physiology and evolution, they are able to digest substances that would prove toxic to other species, and can subsist on other species' trash. While most maintain globular form, some who interact with humanoid species will wear EVA suits or armor to give themselves a humanoid appearence. 
@@ -7965,7 +7894,7 @@ Ugor names typically consisted of two parts, with no notable difference between 
 
 
 
-<div style='margin-top:303px'></div>
+
 
 ### Ugor Traits
 As an ugor, you have the following special traits.
@@ -7992,7 +7921,7 @@ As an ugor, you have the following special traits.
 
 ***Languages.*** You can speak, read and write in Galactic Basic and Ugor. Additionally, Your vocal range allows you to speak languages other species might have difficulty with.
 
-<img src='https://cdn.discordapp.com/attachments/434903464414412821/956271335535951922/ugor.png' style='position:absolute;top:17px;right:120px;width:180px;transform:scaleX(1)' />
+<!--- <img src='https://cdn.discordapp.com/attachments/434903464414412821/956271335535951922/ugor.png' style='position:absolute;top:17px;right:120px;width:180px;transform:scaleX(1)' /> --->
 
 
 
@@ -8021,7 +7950,7 @@ ___
 > |***Homeworld***|  |Umbara|
 > |***Language***|  |Umbaran|
 
-<div style='margin-top:95px'></div>
+
 
 ### Biology and Appearance
 Umbarans, called the "Shadow People" by some, are a<br> near-human species characterized by their pale, bluish<br> skin and colorless, sunken eyes. Their homeworld,<br> Umbara, is situated deep within the Ghost Nebula, and<br> receives almost no direct light from the planet's<br> primary star. As a result, Umbaran eyes are well-<br>adjusted to seeing in low light, and can see into the<br> ultraviolet spectrum, but can be disoriented by bright<br> light.
@@ -8042,7 +7971,7 @@ Umbaran names are typically no more than one or two syllables. Surnames are fami
 
 
 
-<div style='margin-top:365px'></div>
+
 
 ### Umbaran Traits
 As an umbaran, you have the following special traits.
@@ -8069,7 +7998,7 @@ As an umbaran, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Umbaran. Umbaran is characterized by its blending of technical jargon with informal language. It is rarely spoken off Umbara.
 
-<img src='https://www.gmbinder.com/images/YlmtHY7.png' style='position:absolute;top:37px;right:122px;width:213px;' />
+<!--- <img src='https://www.gmbinder.com/images/YlmtHY7.png' style='position:absolute;top:37px;right:122px;width:213px;' /> --->
 
 
 
@@ -8098,7 +8027,7 @@ ___
 > |***Homeworld***|&nbsp;&nbsp;|Roche asteroid field|
 > |***Language***|&nbsp;&nbsp;|Verpine|
 
-<div style='margin-top:82px'></div>
+
 
 ### Biology and Appearance
 Verpine are thin bipedal insectoids whose heads are dominated by large compound eyes. They also have two antennae, one located behind each eye. Their hardened carapace, composed of a green chitinous substance called carahide, is as flexible as the skin of other creatures, yet tough enough to deflect a blade or even absorb a glancing blaster bolt. The Verpine circulatory system does not contain a heart.
@@ -8119,7 +8048,7 @@ Verpine had variable naming customs. Not all Verpines adopt surnames. Male and f
 
 
 
-<div style='margin-top:506px'></div>
+
 
 ### Verpine Traits
 As a verpine, you have the following special traits.
@@ -8142,7 +8071,7 @@ As a verpine, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Verpine. You can understand spoken and written Galactic Basic, but your vocal cords do not allow you to speak it. You can communicate with other Verpine at distances of up to a mile using your antennae.
 
-<img src='https://www.gmbinder.com/images/vUVn1n8.png?1' style='position:absolute;top:57px;right:100px;width:266px;z-index:1000' />
+<!--- <img src='https://www.gmbinder.com/images/vUVn1n8.png?1' style='position:absolute;top:57px;right:100px;width:266px;z-index:1000' /> --->
 
 
 
@@ -8171,7 +8100,7 @@ ___
 > |***Homeworld***|  |Voss|
 > |***Language***|  |Voss|
 
-<div style='margin-top:50px'></div>
+<!--- <div style='margin-top:50px'></div> --->
 
 ### Biology and Appearance
 Voss are humanoid sentients with a high rate of Force-sensitivity who display prominent sexual dimorphism. The male Voss have blue skin and bright orange eyes, while the females have red skin and azure eyes. The Voss do not have hair or distinct pupils, and posess unique patterns of markings on their face, neck, and body, a trace of their shared ancestry with Gormak. Their voices have a slight mechanical tinge to them, making them sound somewhat like a droid or machine. Voss undogo a physical, developmental change during their marriage ceremonies (known as the Rite of Ardor) and do not develop sexually prior to the performance of these rituals.
@@ -8188,7 +8117,7 @@ All Voss have two short names, connected by a hyphen, with the family name being
 
 **Surnames.** -Ko, -La, -Po, -Rae, -Va
 
-<br><div style='margin-top:415px'></div>
+
 
 ### Voss Traits
 As a voss, you have the following special traits.
@@ -8215,7 +8144,7 @@ As a voss, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Voss. The Voss language is characterized by it's mystic-sounding word pairings.
 
-<img src='https://www.gmbinder.com/images/FWD7qdj.png' style='position:absolute;top:41px;right:82px;width:310px;z-index:1000' />
+<!--- <img src='https://www.gmbinder.com/images/FWD7qdj.png' style='position:absolute;top:41px;right:82px;width:310px;z-index:1000' /> --->
 
 
 
@@ -8244,7 +8173,6 @@ ___
 > |***Homeworld***|&nbsp;&nbsp;|Sembla|
 > |***Language***|&nbsp;&nbsp;|Semblan|
 
-<div style='margin-top:35px'></div>
 
 ### Biology and Appearance
 Vurks are the predominant sentient species of the planet Sembla. They are tall, reptilian humanoids with bulbous dark eyes and sweeping head crests. Their hands and feet have three digits each, one of which was opposable. They have distinguishing gray-green, leathery skin. Being able to breathe both water and air, they are perfectly adapted to travel Sembla's warm, shallow seas dotted with volcanic islands. They share a strong nomadic instinct with their amphibious ancestors.  
@@ -8265,7 +8193,7 @@ Vurk names are traditionally two to three syllables. Female names typically end 
 
 
 
-<div style='margin-top:515px'></div>
+
 
 ### Vurk Traits
 As a vurk, you have the following special traits.
@@ -8292,7 +8220,7 @@ As a vurk, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Semblan. Semblan has a very melodic feel and often evokes images of waterfalls to those who don't understand its meanings.
 
-<img src='https://www.gmbinder.com/images/68bFzyf.png' style='position:absolute;top:57px;right:92px;width:261px;z-index:1000' />
+<!--- <img src='https://www.gmbinder.com/images/68bFzyf.png' style='position:absolute;top:57px;right:92px;width:261px;z-index:1000' /> --->
 
 
 
@@ -8371,7 +8299,7 @@ As a xexto, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Xextese. Xextese is a blubbering sort of language, with many metaphors for natural phenomenon found in its vocabulary.
 
-<img src='https://www.gmbinder.com/images/VCJvfDw.png' style='position:absolute;top:-25px;right:150px;width:189px;z-index:1000' />
+<!--- <img src='https://www.gmbinder.com/images/VCJvfDw.png' style='position:absolute;top:-25px;right:150px;width:189px;z-index:1000' /> --->
 
 
 
@@ -8400,7 +8328,7 @@ ___
 > |***Homeworld***|  |N'zoth|
 > |***Language***|  |Yevethan|
 
-<div style='margin-top:65px'></div>
+
 
 ### Biology and Appearance
 Physically, the Yevetha are tall beings with a ghoulish appearance that is bereft of any body hair, being described as being so gaunt as to seem skeletal due to their pallid gray skin and lithe builds. The species possesses six fingered hands that have retractable dewclaws. Each one is located on the inside of the wrist above their six-fingered hands. Their dewclaws shoot from a sheath of a skin beneath their cadaverous hands and are capable of being retracted. When extended fully, the wrist blades reach about a foot in length, and are used in close combat and blood sacrifices. The Yevetha also possess a greater tolerance for g-forces when compared to Human pilots.
@@ -8415,7 +8343,7 @@ Yevetha names are sharp and are kept to one syllable, not varying significantly 
 
 **Surnames.** Faalk, Naalar, Giinn, Ralle, Xoota
 
-<br><div style='margin-top:400px'></div>
+
 
 ### Yevetha Traits
 As a yevetha, you have the following special traits.
@@ -8440,7 +8368,7 @@ As a yevetha, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Yevethan. Yevetha are able to speak other languages, but their isolationist nature makes them tend to reject the languages of other species. Only rarely would a Yevethan speak Galactic Basic, as this would often decrease their social standing. 
 
-<img src='https://www.gmbinder.com/images/LJoo422.png' style='position:absolute;top:38px;right:72px;width:306px;' />
+<!--- <img src='https://www.gmbinder.com/images/LJoo422.png' style='position:absolute;top:38px;right:72px;width:306px;' /> --->
 
 
 
@@ -8469,7 +8397,6 @@ ___
 > |***Homeworld***|  |Zeltros|
 > |***Language***|  |Galactic Basic|
 
-<div style='margin-top:50px'></div>
 
 ### Biology and Appearance
 Zeltrons are one of the few near-human species that differentiated from the baseline stock enough to be considered a new species of the Human genus, rather than simply a subspecies. They possess two biological traits of note. The first is that they all produce potent pheromones, similar to the Falleen species, which enhanced their attractiveness and likeability. The second is a limited telepathic ability, used to project emotions onto others, as well as allowing them to read and even feel the emotions of others; some Zeltrons have been hired by the Exchange for this ability. Because of their telepathic ability, positive emotions such as happiness, love and pleasure are very important to them, while negative ones such as anger, fear, or depression are shunned.
@@ -8488,7 +8415,7 @@ Zeltron names often have an air of mystique to them, to evoke sensuality. For a 
 
 
 
-<div style='margin-top:426px'></div>
+
 
 ### Zeltron Traits
 As a zeltron, you have the following special traits.
@@ -8513,7 +8440,7 @@ As a zeltron, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and one language of your choice.
 
-<img src='https://www.gmbinder.com/images/vTd5mYO.png' style='position:absolute;top:-8px;right:0px;width:413.5px;z-index:1000' />
+<!--- <img src='https://www.gmbinder.com/images/vTd5mYO.png' style='position:absolute;top:-8px;right:0px;width:413.5px;z-index:1000' /> --->
 
 
 
@@ -8542,7 +8469,6 @@ ___
 > |***Homeworld***|  |Zilk|
 > |***Language***|  |Zilkin|
 
-<div style='margin-top:24px'></div>
 
 ### Biology and Appearance
 The zilkins are a bipedal, amphibious species discernible by their diminutive stature and stalk eyes. Their homeworld, Zilk, has many dense jungles and swamps deemed impossible to navigate by most species. Only the zilkins themselves, evolved from worm-like creatures, were able to easily slip through the gaps in the tangled, coarse foliage. Their powerful legs make them adept at swimming and leaping.
@@ -8565,7 +8491,6 @@ Zilkin names are usually clear and concise. Surnames are familial.
 
 
 
-<div style='margin-top:234px'></div>
 
 ### Zilkin Traits
 As a zilkin, you have the following special traits:
@@ -8598,7 +8523,7 @@ As a zilkin, you have the following special traits:
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Zilkin. Zilkin is characterized by loud, croaking noises from the throat, supported by air stored in the chin.
 
-<img src='https://www.gmbinder.com/images/oZJn8UN.png' style='position:absolute;top:38px;right:150px;width:165px;z-index:1000'/>
+<!--- <img src='https://www.gmbinder.com/images/oZJn8UN.png' style='position:absolute;top:38px;right:150px;width:165px;z-index:1000'/> --->
 
 
 
@@ -8627,7 +8552,7 @@ ___
 > |***Homeworld***|  |Zygerria|
 > |***Language***|  |Zygerrian|
 
-<div style='margin-top:34px'></div>
+
 
 ### Biology and Appearance
 The Zygerrians are a bipedal, sentient humanoid species. Feline in appearance, the species possesses strong, angular features, with long fangs jutting from their jaws and claws extending from their hands. The Zygerrians' faces and their pointed ears are almost entirely covered with fur; males usually have more hair than females, with bands of fur growing on their cheeks. Male Zygerrians also display a number of bony spurs protruding from the chin, which females typically lack. Zygerrians usually have sallow complexions and are physically strong, but some suffer from obesity. 
@@ -8650,7 +8575,7 @@ Zygerrian names are rather diverse, though shorter names are the most common. Su
 
 
 
-<div style='margin-top:440px'></div>
+
 
 ### Zygerrian Traits
 As a Zygerrian, you have the following special traits.
@@ -8677,7 +8602,7 @@ As a Zygerrian, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and Zygerrian. Zygerrian is characterized by its subtle growls and purrs.
 
-<img src='https://www.gmbinder.com/images/vN5Wn85.png' style='position:absolute;top:51px;right:42px;width:317px;transform:scaleX(-1)' />
+<!--- <img src='https://www.gmbinder.com/images/vN5Wn85.png' style='position:absolute;top:51px;right:42px;width:317px;transform:scaleX(-1)' /> --->
 
 
 
