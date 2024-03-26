@@ -1,6 +1,6 @@
 ---
 title: Species
-parent: 02-Species
+parent: Expanded Content
 has_children: true
 nav_order: 2
 ---
