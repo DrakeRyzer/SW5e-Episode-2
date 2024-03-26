@@ -1,3 +1,9 @@
+---
+title: Step-By-Step Factions
+parent: Wretched Hives
+has_children: true
+nav_order: 1
+---
 
 # Chapter 1: Step-By-Step Factions
 
