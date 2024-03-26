@@ -46,8 +46,10 @@ By virtue of your species, your character can speak, read, and write certain lan
 
 ___
 > ## Bith
+> 
 > ___
 > #### Visual Characteristics
+> 
 > ||||
 > |:--|:--|:--|
 > |***Skin Color***|&nbsp;&nbsp;|Green, pink, white, or yellow|
@@ -56,12 +58,14 @@ ___
 > |***Distinctions***|&nbsp;&nbsp;|Large cranium, acute senses of smell and hearing|
 > ___
 > #### Physical Characteristics
+> 
 > |||||
 > |:--|:--|:--:|:--:|
 > |***Height***|&nbsp;&nbsp;|4'9"|+2d6"|
 > |***Weight***|&nbsp;&nbsp;|100 lb.|x(2d4) lb.|
 > ___
 > #### Sociocultural Characteristics
+> 
 > ||||
 > |:--|:--|:--|
 > |***Homeworld***|&nbsp;&nbsp;|Clak'dor VII|
@@ -1153,7 +1157,7 @@ As a human, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Galactic Basic and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: trandoshan curses, twi'lek musical expressions, chiss military phrases, and so on.
 
-<img src='https://www.gmbinder.com/images/aomfxPF.png' style='position:absolute;top:56px;right:70px;width:343px;' />
+<!--- <img src='https://www.gmbinder.com/images/aomfxPF.png' style='position:absolute;top:56px;right:70px;width:343px;' /> -->
 
 ___
 > ## Ithorian
