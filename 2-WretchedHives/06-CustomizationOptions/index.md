@@ -1,3 +1,9 @@
+---
+title: Customization Options
+parent: Wretched Hives
+has_children: true
+nav_order: 6
+---
 
 # Chapter 6: Customization Options
 
