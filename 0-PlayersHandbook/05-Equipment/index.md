@@ -178,18 +178,18 @@ Heavy shields are much larger and more cumbersome, but they offer more protectio
 
 |Name|Cost|Armor|Weight|Properties| 
 |:---|---:|:---|-:|:---|
-|_Light Armor_	||||
+|_Light Armor_	|||||
 |&emsp;Combat suit      		|	 100 cr|	11 + Dex modifier|10.00 lb|-|
 |&emsp;Fiber armor		        |	 450 cr|	12 + Dex modifier|13.00 lb|-|
-|_Medium Armor_	||||
+|_Medium Armor_	|||||
 |&emsp;Mesh armor		        |	 500 cr|	13 + Dex modifier (max 2)|20 lb|-|
 |&emsp;Weave armor			    |  1,000 cr|	14 + Dex modifier (max 2)|25 lb|-|
 |&emsp;Composite armor	        |  2,500 cr|	15 + Dex modifier (max 2)|45 lb|Bulky|
-|&emsp;_Heavy Armor_	||||
+|&emsp;_Heavy Armor_	|||||
 |&emsp;Battle armor			    |    750 cr|	16	|55 lb|Bulky, strength 13|
 |&emsp;Assault armor	        |  2,000 cr|	17	|60 lb|Bulky, strength 15|
 |&emsp;Heavy exoskeleton   	    |  9,000 cr|	18	|65 lb|Bulky, strength 17|
-|_Shield_		||||
+|_Shield_		|||||
 |&emsp;Light physical shield    |     50 cr|	+1	| 6.00 lb|-|
 |&emsp;Light shield generator	|    125 cr|	+1	| 2.00 lb|-|
 |&emsp;Medium physical shield   |	 150 cr|	+2	|18.00 lb|Strength 13|
@@ -234,66 +234,67 @@ An object that bears no resemblance to a weapon deals 1d4 kinetic damage. If a c
 
 ##### Blasters
 
-|Name&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;Cost&nbsp;&nbsp;|Damage&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Weight&nbsp;|Properties| 
+|Name|Cost|Damage|Weight|Properties| 
 |:---|---:|:---|-:|:---|
 |	_Simple Blasters_	|||||
-| &emsp;Blaster carbine		|425 cr&nbsp;&nbsp;   |1d6 energy     |5.50 lb&nbsp;   |Power cell (range 70/280), reload 16, two-handed |
-| &emsp;Blaster pistol		|175 cr&nbsp;&nbsp;   |1d6 energy     |2.50 lb&nbsp;   |Power cell (range 50/200), reload 16|
-| &emsp;Bowcaster           |1,150 cr&nbsp;&nbsp; |1d10 energy    |11.00 lb&nbsp;    |Burst 4, power cell (range 50/200), reload 4, strength 13, two-handed|
-| &emsp;Hold-out 			|225 cr&nbsp;&nbsp;   |1d4 energy     |0.50 lb&nbsp;   |Hidden, light, power cell (range 30/120), reload 8|
-| &emsp;Ion carbine	  	    |600 cr&nbsp;&nbsp;   |1d4 ion        |6.00 lb&nbsp;     |Power cell (range 60/240), reload 12, two-handed |
-| &emsp;Ion pistol			|250 cr&nbsp;&nbsp;   |1d3 ion        |1.00 lb&nbsp;     |Power cell (range 40/160), reload 16|
-| &emsp;Light pistol 		|250 cr&nbsp;&nbsp;   |1d4 energy     |0.50 lb&nbsp;   |Light, power cell (range 40/160), reload 8|
-| &emsp;Light repeater      |625 cr&nbsp;&nbsp;   |1d6 energy     |6.00 lb&nbsp;     |Auto, power cell (range 50/200), rapid 5, reload 20, two-handed |
-| &emsp;Light slugpistol    |250 cr&nbsp;&nbsp;   |1d4 kinetic    |1.00 lb&nbsp;     |Light, reload 8, slug cartridge (range 35/140) |
-| &emsp;Scattergun			|625 cr&nbsp;&nbsp;   |1d6 kinetic    |2.00 lb&nbsp;     |Burst 2, reload 8, slug cartridge (range 30/120), strength 11|
-| &emsp;Shotgun 			|725 cr&nbsp;&nbsp;   |2d4 kinetic    |6.50 lb&nbsp;	|Burst 2, reload 4, slug cartridge (range 30/120), strength 11, two-handed|
-| &emsp;Slugpistol          |325 cr&nbsp;&nbsp;   |1d6 kinetic    |3.00 lb&nbsp;     |Rapid 8, reload 16, slug cartridge (range 40/160), strength 11|
-| &emsp;Wristblaster        |200 cr&nbsp;&nbsp;   |1d4 energy     |0.50 lb&nbsp;   |Disguised, fixed, light, power cell (range 30/120), reload 8 |
-| &emsp;Wrist launcher		|400 cr&nbsp;&nbsp;   |-              |2.00 lb&nbsp;	    |Fixed, reload 1, special (range 30/120)|
+| &emsp;Blaster carbine		|425 cr   |1d6 energy     |5.50 lb   |Power cell (range 70/280), reload 16, two-handed |
+| &emsp;Blaster pistol		|175 cr   |1d6 energy     |2.50 lb   |Power cell (range 50/200), reload 16|
+| &emsp;Bowcaster           |1,150 cr |1d10 energy    |11.00 lb    |Burst 4, power cell (range 50/200), reload 4, strength 13, two-handed|
+| &emsp;Hold-out 			|225 cr   |1d4 energy     |0.50 lb   |Hidden, light, power cell (range 30/120), reload 8|
+| &emsp;Ion carbine	  	    |600 cr   |1d4 ion        |6.00 lb     |Power cell (range 60/240), reload 12, two-handed |
+| &emsp;Ion pistol			|250 cr   |1d3 ion        |1.00 lb     |Power cell (range 40/160), reload 16|
+| &emsp;Light pistol 		|250 cr   |1d4 energy     |0.50 lb   |Light, power cell (range 40/160), reload 8|
+| &emsp;Light repeater      |625 cr   |1d6 energy     |6.00 lb     |Auto, power cell (range 50/200), rapid 5, reload 20, two-handed |
+| &emsp;Light slugpistol    |250 cr   |1d4 kinetic    |1.00 lb     |Light, reload 8, slug cartridge (range 35/140) |
+| &emsp;Scattergun			|625 cr   |1d6 kinetic    |2.00 lb     |Burst 2, reload 8, slug cartridge (range 30/120), strength 11|
+| &emsp;Shotgun 			|725 cr   |2d4 kinetic    |6.50 lb	|Burst 2, reload 4, slug cartridge (range 30/120), strength 11, two-handed|
+| &emsp;Slugpistol          |325 cr   |1d6 kinetic    |3.00 lb     |Rapid 8, reload 16, slug cartridge (range 40/160), strength 11|
+| &emsp;Wristblaster        |200 cr   |1d4 energy     |0.50 lb   |Disguised, fixed, light, power cell (range 30/120), reload 8 |
+| &emsp;Wrist launcher		|400 cr   |-              |2.00 lb	    |Fixed, reload 1, special (range 30/120)|
 |	_Martial Blasters_	|||||
-| &emsp;Assault cannon		|1,550 cr&nbsp;&nbsp; |1d12 energy    |15.00 lb&nbsp;    |Burst 4, power cell (range 90/360), reload 4, strength 15, two-handed|
-| &emsp;Beam rifle	    	|1,850 cr&nbsp;&nbsp; |2d6 energy     |16.00 lb&nbsp;    |Penetrating 2, power cell (range 150/600), reload 2, strength 15, two-handed|
-| &emsp;Blaster rifle		|525 cr&nbsp;&nbsp;   |1d8 energy     |7.50 lb&nbsp;   |Power cell (range 105/420), reload 12, two-handed|
-| &emsp;Carbine rifle       |925 cr&nbsp;&nbsp;   |1d8 energy     |8.50 lb&nbsp;   |Auto, power cell (range 90/360), rapid 3, reload 12, strength 11, two-handed |
-| &emsp;Cycler rifle 		|825 cr&nbsp;&nbsp;   |1d8 kinetic    |7.50 lb&nbsp;   |Rapid 2, reload 8, slug cartridge (range 90/360), strength 11, two-handed |
-| &emsp;Heavy blaster rifle |1,025 cr&nbsp;&nbsp; |2d4 energy     |10.00 lb&nbsp;    |Power cell (range 100/400), rapid 2, reload 8, strength 13, two-handed |
-| &emsp;Heavy bowcaster     |1,750 cr&nbsp;&nbsp; |1d12 energy    |15.50 lb&nbsp;  |Burst 2, power cell (range 90/360), reload 4, strength 17, two-handed |
-| &emsp;Heavy carbine        |775 cr&nbsp;&nbsp;   |1d8 energy        |7.50 lb&nbsp;   |Power cell (range 60/240), rapid 4, reload 16, strength 11, two-handed |
-| &emsp;Heavy pistol		|300 cr&nbsp;&nbsp;   |1d8 energy	    |4.00 lb&nbsp;     |Power cell (range 45/180), reload 16|
-| &emsp;Heavy repeater      |1,225 cr&nbsp;&nbsp; |2d4 energy     |11.00 lb&nbsp;    |Auto, burst 4, power cell (range 80/320), rapid 4, reload 8, strength 13, two-handed |
-| &emsp;Heavy shotgun       |1,125 cr&nbsp;&nbsp; |2d4 kinetic    |9.50 lb&nbsp;   |Burst 2, reload 8, slug cartridge (range 60/240), strength 13, two-handed |
-| &emsp;Heavy slugpistol    |375 cr&nbsp;&nbsp;   |1d8 kinetic    |3.50 lb&nbsp;   |Rapid 8, reload 12, slug cartridge (range 30/120)|
-| &emsp;Hunting rifle       |1,000 cr&nbsp;&nbsp; |1d10 kinetic   |11.00 lb&nbsp;    |Reload 4, slug cartridge (range 125/500), strength 11, two-handed |
-| &emsp;Ion cannon			|3,800 cr&nbsp;&nbsp; |1d10 ion	    |16.50 lb&nbsp;  |Auto, burst 4, power cell (range 90/360), reload 4, strength 15, two-handed |
-| &emsp;Ion rifle			|1,150 cr&nbsp;&nbsp; |1d6 ion	    |8.00 lb&nbsp;     |Power cell (range 80/320), reload 8, two-handed|
-| &emsp;Repeating blaster   |1,025 cr&nbsp;&nbsp; |1d8 energy     |9.00 lb&nbsp;     |Auto, burst 4, power cell (range 75/300), rapid 4, reload 8, strength 11, two-handed |
-| &emsp;Rotary cannon       |1,500 cr&nbsp;&nbsp; |1d10 energy    |12.50 lb&nbsp;  |Auto, power cell (range 75/300), rapid 2, reload 8, strength 13, two-handed |
-| &emsp;Slugthrower 		|525 cr&nbsp;&nbsp;   |1d8 kinetic    |7.50 lb&nbsp;   |Reload 12, slug cartridge (range 105/420), two-handed|
-| &emsp;Sniper rifle		|1,300 cr&nbsp;&nbsp; |1d12 energy    |13.50 lb&nbsp;  |Power cell (range 150/600), reload 2, strength 13, two-handed|
-| &emsp;Subrepeater 	    |625 cr&nbsp;&nbsp;   |1d6 energy     |4.00 lb&nbsp;     |Auto, rapid 4, light, power cell (range 30/120), reload 16, strength 11 |
+| &emsp;Assault cannon		|1,550 cr |1d12 energy    |15.00 lb    |Burst 4, power cell (range 90/360), reload 4, strength 15, two-handed|
+| &emsp;Beam rifle	    	|1,850 cr |2d6 energy     |16.00 lb    |Penetrating 2, power cell (range 150/600), reload 2, strength 15, two-handed|
+| &emsp;Blaster rifle		|525 cr   |1d8 energy     |7.50 lb   |Power cell (range 105/420), reload 12, two-handed|
+| &emsp;Carbine rifle       |925 cr   |1d8 energy     |8.50 lb   |Auto, power cell (range 90/360), rapid 3, reload 12, strength 11, two-handed |
+| &emsp;Cycler rifle 		|825 cr   |1d8 kinetic    |7.50 lb   |Rapid 2, reload 8, slug cartridge (range 90/360), strength 11, two-handed |
+| &emsp;Heavy blaster rifle |1,025 cr |2d4 energy     |10.00 lb    |Power cell (range 100/400), rapid 2, reload 8, strength 13, two-handed |
+| &emsp;Heavy bowcaster     |1,750 cr |1d12 energy    |15.50 lb  |Burst 2, power cell (range 90/360), reload 4, strength 17, two-handed |
+| &emsp;Heavy carbine        |775 cr   |1d8 energy        |7.50 lb   |Power cell (range 60/240), rapid 4, reload 16, strength 11, two-handed |
+| &emsp;Heavy pistol		|300 cr   |1d8 energy	    |4.00 lb     |Power cell (range 45/180), reload 16|
+| &emsp;Heavy repeater      |1,225 cr |2d4 energy     |11.00 lb    |Auto, burst 4, power cell (range 80/320), rapid 4, reload 8, strength 13, two-handed |
+| &emsp;Heavy shotgun       |1,125 cr |2d4 kinetic    |9.50 lb   |Burst 2, reload 8, slug cartridge (range 60/240), strength 13, two-handed |
+| &emsp;Heavy slugpistol    |375 cr   |1d8 kinetic    |3.50 lb   |Rapid 8, reload 12, slug cartridge (range 30/120)|
+| &emsp;Hunting rifle       |1,000 cr |1d10 kinetic   |11.00 lb    |Reload 4, slug cartridge (range 125/500), strength 11, two-handed |
+| &emsp;Ion cannon			|3,800 cr |1d10 ion	    |16.50 lb  |Auto, burst 4, power cell (range 90/360), reload 4, strength 15, two-handed |
+| &emsp;Ion rifle			|1,150 cr |1d6 ion	    |8.00 lb     |Power cell (range 80/320), reload 8, two-handed|
+| &emsp;Repeating blaster   |1,025 cr |1d8 energy     |9.00 lb     |Auto, burst 4, power cell (range 75/300), rapid 4, reload 8, strength 11, two-handed |
+| &emsp;Rotary cannon       |1,500 cr |1d10 energy    |12.50 lb  |Auto, power cell (range 75/300), rapid 2, reload 8, strength 13, two-handed |
+| &emsp;Slugthrower 		|525 cr   |1d8 kinetic    |7.50 lb   |Reload 12, slug cartridge (range 105/420), two-handed|
+| &emsp;Sniper rifle		|1,300 cr |1d12 energy    |13.50 lb  |Power cell (range 150/600), reload 2, strength 13, two-handed|
+| &emsp;Subrepeater 	    |625 cr   |1d6 energy     |4.00 lb     |Auto, rapid 4, light, power cell (range 30/120), reload 16, strength 11 |
 
 ##### Lightweapons
-|Name&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|Cost&nbsp;&nbsp;|Damage&emsp;&nbsp;&nbsp;|Weight&nbsp;&nbsp;|Properties&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|
+
+|Name|Cost|Damage|Weight|Properties|
 |:---|---:|:---|-:|:---|
 |	_Simple Lightweapons_	|||||||
-| &emsp;Lightblade         |375 cr&nbsp;&nbsp;   |1d6 energy   |1.50 lb&nbsp;&nbsp;|Finesse, hidden, luminous|
-| &emsp;Lightclub			|1,300 cr&nbsp;&nbsp; |1d10 energy	|3.75 lb&nbsp;&nbsp;|Dexterity 11, heavy, luminous, two-handed|
-| &emsp;Lightdagger		|425 cr&nbsp;&nbsp;   |1d4 energy	|1.00 lb&nbsp;&nbsp;|Finesse, hidden, light, luminous, thrown (range 20/60)|
-| &emsp;Lightsaber			|450 cr&nbsp;&nbsp;   |1d6 energy	|2.25 lb&nbsp;&nbsp;|Hidden, luminous, versatile (2d4)|
-| &emsp;Lightstaff	        |1,275 cr&nbsp;&nbsp; |2d4 energy	|4.25 lb&nbsp;&nbsp;|Dexterity 11, luminous, reach, two-handed|
+| &emsp;Lightblade         |375 cr   |1d6 energy   |1.50 lb|Finesse, hidden, luminous|
+| &emsp;Lightclub			|1,300 cr |1d10 energy	|3.75 lb|Dexterity 11, heavy, luminous, two-handed|
+| &emsp;Lightdagger		|425 cr   |1d4 energy	|1.00 lb|Finesse, hidden, light, luminous, thrown (range 20/60)|
+| &emsp;Lightsaber			|450 cr   |1d6 energy	|2.25 lb|Hidden, luminous, versatile (2d4)|
+| &emsp;Lightstaff	        |1,275 cr |2d4 energy	|4.25 lb|Dexterity 11, luminous, reach, two-handed|
 |	_Martial Lightweapons_	|||||||
-| &emsp;Doublesaber		|725 cr&nbsp;&nbsp;   |1d8 energy   |2.25 lb&nbsp;&nbsp;|Double (1d8 energy), finesse, luminous|
-| &emsp;Doubleshoto		|700 cr&nbsp;&nbsp;   |1d6 energy   |1.75 lb&nbsp;&nbsp;|Double (1d6 energy), finesse, light, luminous|
-| &emsp;Great-saber			|1,725 cr&nbsp;&nbsp; |2d6 energy   |3.25 lb&nbsp;&nbsp;|Dexterity 11, luminous, two-handed|
-| &emsp;Lightaxe			|1,550 cr&nbsp;&nbsp; |1d12 energy  |3.75 lb&nbsp;&nbsp;|Dexterity 11, heavy, luminous, two-handed|
-| &emsp;Lightfoil			|475 cr&nbsp;&nbsp;   |1d8 energy   |1.50 lb&nbsp;&nbsp;|Finesse, hidden, luminous|
-| &emsp;Martial lightsaber  |550 cr&nbsp;&nbsp;   |1d8 energy   |2.25 lb&nbsp;&nbsp;|Hidden, luminous, versatile (1d10)|
-| &emsp;Pikesaber			|1,675 cr&nbsp;&nbsp; |1d10 energy  |5.25 lb&nbsp;&nbsp;|Dexterity 11, luminous, reach, two-handed|
-| &emsp;Saberwhip			|750 cr&nbsp;&nbsp;   |1d4 energy   |3.50 lb&nbsp;&nbsp;|Finesse, hidden, luminous, reach|
-| &emsp;Shotosaber			|450 cr&nbsp;&nbsp;   |1d6 energy   |1.00 lb&nbsp;&nbsp;|Finesse, hidden, light, luminous|
-| &emsp;Splitsaber         |1,500 cr&nbsp;&nbsp; |2d4 energy   |3 lb&nbsp;&nbsp;   |Double (2d4 energy), interlocking, luminous|
-| &emsp;Splitshoto         |1,150 cr&nbsp;&nbsp; |1d8 energy   |2.00 lb&nbsp;&nbsp;|Double (1d8 energy), interlocking, light, luminous|
+| &emsp;Doublesaber		|725 cr   |1d8 energy   |2.25 lb|Double (1d8 energy), finesse, luminous|
+| &emsp;Doubleshoto		|700 cr   |1d6 energy   |1.75 lb|Double (1d6 energy), finesse, light, luminous|
+| &emsp;Great-saber			|1,725 cr |2d6 energy   |3.25 lb|Dexterity 11, luminous, two-handed|
+| &emsp;Lightaxe			|1,550 cr |1d12 energy  |3.75 lb|Dexterity 11, heavy, luminous, two-handed|
+| &emsp;Lightfoil			|475 cr   |1d8 energy   |1.50 lb|Finesse, hidden, luminous|
+| &emsp;Martial lightsaber  |550 cr   |1d8 energy   |2.25 lb|Hidden, luminous, versatile (1d10)|
+| &emsp;Pikesaber			|1,675 cr |1d10 energy  |5.25 lb|Dexterity 11, luminous, reach, two-handed|
+| &emsp;Saberwhip			|750 cr   |1d4 energy   |3.50 lb|Finesse, hidden, luminous, reach|
+| &emsp;Shotosaber			|450 cr   |1d6 energy   |1.00 lb|Finesse, hidden, light, luminous|
+| &emsp;Splitsaber         |1,500 cr |2d4 energy   |3 lb   |Double (2d4 energy), interlocking, luminous|
+| &emsp;Splitshoto         |1,150 cr |1d8 energy   |2.00 lb|Double (1d8 energy), interlocking, light, luminous|
 
 ##### Vibroweapons
 |Name&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|Cost&nbsp;&nbsp;|Damage&emsp;&nbsp;&nbsp;|Weight&nbsp;&nbsp;|Properties&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|
