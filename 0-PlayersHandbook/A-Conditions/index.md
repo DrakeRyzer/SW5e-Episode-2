@@ -1,3 +1,9 @@
+---
+title: Conditions
+parent: Player's Handbook
+has_children: true
+nav_order: 14
+---
 
 # Appendix A: Conditions
 
