@@ -123,13 +123,13 @@ ___
 > |***Hair Color***|Black, brown, or gray (with age)|
 > |***Eye Color***|Brown or green|
 > |***Distinctions***|Diminutive stature, mood-sensitive fur|
-> ___
+> 
 > #### Physical Characteristics
 > |||
 > |:--|:--|:--:|
 > |***Height***|4'3"|+2d4"|
 > |***Weight***|60 lb.|x(2d4) lb.|
-> ___
+> 
 > #### Sociocultural Characteristics
 > 
 > |:--|:--|
