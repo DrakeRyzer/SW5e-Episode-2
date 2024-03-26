@@ -30,12 +30,12 @@ For example, as a human, Obi-Wan has a height of 4 feet 8 inches plus 2d10 inche
 
 ___
 > ## Human
-> ___
+> 
 > #### Physical Characteristics
-> |||||
-> |:--|:--|:--:|:--:|
-> |***Height***|&nbsp;&nbsp;|4'8"|+2d10"|
-> |***Weight***|&nbsp;&nbsp;|110 lb.|x(2d4) lb.|
+>
+> |:--|:--|:--:|
+> |***Height***|4'8"|+2d10"|
+> |***Weight***|110 lb.|x(2d4) lb.|
 
 ### Other Physical Characteristics
 You choose your character's age and the color of his or her hair, eyes, and skin. To add a touch of distinctiveness, you might want to give your character an unusual or memorable physical characteristic, such as a scar, a limp, or a tattoo.
@@ -77,7 +77,7 @@ A list of the most commonly spoken languages of *Star Wars* can be found below i
 
 
 
-||
+
 |:--:|
 |   Binary  |
 |	Bith	|
@@ -94,7 +94,7 @@ A list of the most commonly spoken languages of *Star Wars* can be found below i
 |   Gungan  |
 |	Huttese	|
 
-||
+
 |:--:|
 |   Ithorese    |
 |	Jawaese	|
@@ -199,7 +199,9 @@ You might want to tweak some of the features of a background so it better fits y
 
 ## Agent
 Many organizations active in the galaxy aren't bound by strictures of geography. These factions pursue their agendas without regard for political boundaries, and their members operate anywhere the organization deems necessary. These groups employ listeners, rumormongers, smugglers, mercenaries, cache-holders (people who guard caches of wealth or items for use by the faction's operatives), haven keepers, and message drop minders, to name a few. At the core of every faction are those who don't merely fulfill a small function for that organization, but who serve as its hands, head, and heart. As a prelude to your adventuring career (and in preparation for it), you served as an agent of a particular faction. You might have operated openly or secretly, depending on the faction and its goals, as well as how those goals mesh with your own. Becoming an adventurer doesn't necessarily require you to relinquish membership in your faction (though you can choose to do so), and it might enhance your status in the faction.
+
 ___
+
 - **Skill Proficiencies:** Choose two from Deception, Investigation, Lore, and Persuasion
 - **Languages:** Two of your choice
 - **Equipment:** Badge or emblem of your faction, a copy of a seminal faction text (or a code-book for a covert faction), a set of common clothes, and a pouch containing 150 cr
