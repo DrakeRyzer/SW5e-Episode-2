@@ -1,3 +1,9 @@
+---
+title: Factions and Membership
+parent: Wretched Hives
+has_children: true
+nav_order: 3
+---
 
 # Chapter 3: Factions and Membership
 
