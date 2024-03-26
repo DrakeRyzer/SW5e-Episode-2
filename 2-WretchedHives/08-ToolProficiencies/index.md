@@ -1,3 +1,9 @@
+---
+title: Tool Proficiencies
+parent: Wretched Hives
+has_children: true
+nav_order: 8
+---
 
 # Chapter 8: Tool Proficiencies
 
