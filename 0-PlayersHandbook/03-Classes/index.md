@@ -125,8 +125,10 @@ ___
 ___
 - **Armor:** Light armor, medium armor
 - **Weapons:** All vibroweapons, simple blasters
+  
+<br>
+
 - **Tools:** None
-___
 - **Saving Throws:** Strength, Constitution
 - **Skills:** Choose two from Animal Handling, Athletics, Intimidation, Nature, Perception, Survival
 
@@ -406,21 +408,8 @@ ___
 
 ___
 
-### Furious Force
-_**Marauder Approach:** 3rd level_<br>
-You can cast force powers while raging as long as the power's casting time is no more than 1 action, the power does not require concentration, and you are not wearing heavy armor. While raging, you add your rage damage to damage rolls from force powers you cast that require a force attack or saving throw. If a force power damages more than one target, you may only apply your rage damage to one of them. 
-
-Casting force powers during rage counts as attacking for the purposes of maintaining rage, and you can use your Reckless Attack feature to gain advantage when casting a force power that requires a force attack.
-
-<!--- image here <img src='https://www.gmbinder.com/images/0ndBugv.png' style='position:absolute;bottom:27px;right:-384px;width:455px;z-index:1000;' /> 
-
-<img src='https://www.gmbinder.com/images/tVrUTNS.png' style='position:absolute;bottom:27px;right:-230px;width:825px;z-index:1000;transform:scaleX(-1)' /> --->
-
-### Reckless Power
-_**Marauder Approach:** 6th level_<br>
-Weapons and the force are equally an extension of your rage. While you are raging and you use your action to cast a force power, you can make a single melee weapon attack as a bonus action.
-
 ##### Marauder Forcecasting
+
 | Level | Force Powers<br> Known | Force<br> Points | Max Power<br> Level |
 |:---:|:---:|:---:|:---:|
 | 3rd| 4| 3|1st|
@@ -441,6 +430,22 @@ Weapons and the force are equally an extension of your rage. While you are ragin
 |18th|23|18|4th|
 |19th|24|19|4th|
 |20th|25|20|4th|
+
+### Furious Force
+_**Marauder Approach:** 3rd level_<br>
+You can cast force powers while raging as long as the power's casting time is no more than 1 action, the power does not require concentration, and you are not wearing heavy armor. While raging, you add your rage damage to damage rolls from force powers you cast that require a force attack or saving throw. If a force power damages more than one target, you may only apply your rage damage to one of them. 
+
+Casting force powers during rage counts as attacking for the purposes of maintaining rage, and you can use your Reckless Attack feature to gain advantage when casting a force power that requires a force attack.
+
+<!--- image here <img src='https://www.gmbinder.com/images/0ndBugv.png' style='position:absolute;bottom:27px;right:-384px;width:455px;z-index:1000;' /> 
+
+<img src='https://www.gmbinder.com/images/tVrUTNS.png' style='position:absolute;bottom:27px;right:-230px;width:825px;z-index:1000;transform:scaleX(-1)' /> --->
+
+### Reckless Power
+_**Marauder Approach:** 6th level_<br>
+Weapons and the force are equally an extension of your rage. While you are raging and you use your action to cast a force power, you can make a single melee weapon attack as a bonus action.
+
+
 
 ### Powerful Presence
 _**Marauder Approach:** 10th level_<br>
@@ -483,6 +488,7 @@ You can make a consular quickly by following these suggestions. First, make Wisd
 
 
 ##### The Consular
+
 |Level|Proficiency<br> Bonus|Features|Force Powers<br> Known|Force<br> Points|Max Power<br> Level|Force-Empowered<br> Casting Options|
 |:--:|:--:|:--|:--:|:--:|:--:|:--:|
 | 1st|+2|Forcecasting, Force Recovery				        | 9| 4|1st|-|
@@ -520,7 +526,9 @@ ___
 - **Armor:** None
 - **Weapons:** Simple lightweapons, simple vibroweapons
 - **Tools:** None
-___
+
+<br>
+
 - **Saving Throws:** Wisdom, Charisma
 - **Skills:** Choose two from Deception, Insight, Intimidation, Investigation, Lore, Medicine, and Persuasion
 
@@ -556,11 +564,11 @@ Your forcecasting ability varies based on the alignment of the powers you cast. 
 
 ___
 
-**Force save DC** = 8 + your proficiency bonus + <br>your forcecasting ability modifier
+**Force save DC** = 8 + your proficiency bonus + your forcecasting ability modifier
 
 ___
 
-**Force attack modifier** = your proficiency bonus + <br>your forcecasting ability modifier
+**Force attack modifier** = your proficiency bonus + your forcecasting ability modifier
 ___
 
 ### Force Recovery
@@ -828,6 +836,7 @@ You can make an engineer quickly by following these suggestions. First, make Int
 
 
 ##### The Engineer
+
 |	Level	|	Proficiency<br> Bonus   | Features	|   Tech Powers<br> Known	|	Tech<br> Points	| Max Power<br> Level|Potent<br> Aptitude |    Modification<br> Slots|
 |:--:|:--:|:--|:--:|:--:|:--:|:--:|:--:|
 |	 1	|	+2	|	Techcasting, Potent Aptitude    			|	 6	|	  2	|	1st	| d4| - |
@@ -867,7 +876,9 @@ ___
 - **Armor:** Light armor
 - **Weapons:** Simple blasters, simple vibroweapons
 - **Tools:** Tinker's implements and one of your choice
-___
+
+<br>
+
 - **Saving Throws:** Constitution, Intelligence
 - **Skills:** Choose three from Investigation, Lore, Medicine, Nature, Piloting, and Technology
 
@@ -1566,56 +1577,56 @@ The harmful energies of your tech powers and class features intensify. When you 
 
 |d100|Result|
 |:--|:--|
-|&nbsp;01-<br>&nbsp;02|Roll on this table at the start of each of your turns for 1 minute, ignoring this result on subsequent rolls.	|
-|&nbsp;03-<br>&nbsp;04|For the next minute, you can see any invisible creature if you have line of sight to it.	|
-|&nbsp;05-<br>&nbsp;06|A DRK-1 tracker droid appears with 5 feet of you, then disappears 1 minute later.|
-|&nbsp;07-<br>&nbsp;08|You cast *explosion* at 3rd-level centered on yourself without expending tech points.|
-|&nbsp;09-<br>&nbsp;10|You cast *homing rockets* at 5th-level without expending tech points.|
-|&nbsp;11-<br>&nbsp;12|Roll a d10. Your height changes by a number of inches equal to the roll: if odd, you shrink; if even, you grow.	|
-|&nbsp;13-<br>&nbsp;14|You fall asleep standing for 1 minute or until you take damage.|
-|&nbsp;15-<br>&nbsp;16|For the next minute, you regain 5 hit points at the start of each of your turns|
-|&nbsp;17-<br>&nbsp;18|You grow a long beard made of feathers that remains until you sneeze.|
-|&nbsp;19-<br>&nbsp;20|You cast *oil slick* centered on yourself without expending tech points.|
-|&nbsp;21-<br>&nbsp;22|Creatures have disadvantage on the first saving throw they make against you in the next minute.|
-|&nbsp;23-<br>&nbsp;24|Your skin turns a vibrant shade of blue. Any effect that ends a curse ends this.|
-|&nbsp;25-<br>&nbsp;26|You grow an extra eye, granting advantage on Wisdom (Perception) checks that rely on sight for 1 minute.|
-|&nbsp;27-<br>&nbsp;28|For the next minute, all your tech powers with a casting time of 1 action have a casting time of 1 bonus action.|
-|&nbsp;29-<br>&nbsp;30|You teleport up to 60 feet to an unoccupied space of your choice that you can see.	|
-|&nbsp;31-<br>&nbsp;32|You take 2d10 lightning damage and are shocked for 1 minute.|
-|&nbsp;33-<br>&nbsp;34|Maximize the damage of the next damaging tech power you cast within the next minute.	|
-|&nbsp;35-<br>&nbsp;36|Roll a d10. Your age changes by a number of years equal to the roll: if odd, younger; if even, older.|
-|&nbsp;37-<br>&nbsp;38|You start running uncontrollably for 1 minute, moving your entire speed each turn.|
-|&nbsp;39-<br>&nbsp;40|You regain 2d10 hit points.|
-|&nbsp;41-<br>&nbsp;42|Each creature within 30 feet of you is subjected to the *gleaming outline* tech power for 1 minute.|
-|&nbsp;43-<br>&nbsp;44|For the next minute, you can teleport up to 20 feet as a bonus action on each of your turns.	|
-|&nbsp;45-<br>&nbsp;46|You are blinded and deafened for 1 minute.|
-|&nbsp;47-<br>&nbsp;48|You have disadvantage on the first ability check, attack roll, or saving throw you make each turn for 1 minute.|
-|&nbsp;49-<br>&nbsp;50|You can't speak for the next minute. Whenever you try, pink bubbles float out of your mouth.	|
-|&nbsp;51-<br>&nbsp;52|A shimmering energy barrier grants you a +2 bonus to AC for 1 minute.|
-|&nbsp;53-<br>&nbsp;54|You are immune to being intoxicated by alcohol for the next 5d6 days.|
-|&nbsp;55-<br>&nbsp;56|Your hair falls out but grows back within 24 hours. If you don't have hair, you instead grow it for 24 hours.|
-|&nbsp;57-<br>&nbsp;58|For 1 minute, any flammable object not worn or carried you touch bursts into flame.|
-|&nbsp;59-<br>&nbsp;60|You regain tech points equal to your Intelligence modifier (minimum of one).|
-|&nbsp;61-<br>&nbsp;62|For the next minute, you shout whenever you speak.|
-|&nbsp;63-<br>&nbsp;64|You cast *smoke cloud* centered on yourself without expending tech points.|
-|&nbsp;65-<br>&nbsp;66|Up to three creatures you choose within 30 feet of you take 4d10 lightning damage.|
-|&nbsp;67-<br>&nbsp;68|You are frightened by the nearest creature until the end of your next turn.|
-|&nbsp;69-<br>&nbsp;70|Each creature within 30 feet of you becomes invisible for 1 minute, or until it attacks or casts a power.|
-|&nbsp;71-<br>&nbsp;72|You gain resistance to all damage for the next minute.|
-|&nbsp;73-<br>&nbsp;74|A random creature within 60 feet of you becomes poisoned for 1d4 hours.|
-|&nbsp;75-<br>&nbsp;76|You emit bright light in a 30-foot radius for 1 minute.|
-|&nbsp;77-<br>&nbsp;78|Each creature within 30 feet of you except you gains the benefits of *mirror image* for 1 minute.
-|&nbsp;79-<br>&nbsp;80|Illusory butterflies and flower petals flutter in the air within 10 feet of you for the next minute.|
-|&nbsp;81-<br>&nbsp;82|You can take one additional action immediately.|
-|&nbsp;83-<br>&nbsp;84|Each creature within 30 feet of you takes 1d10 necrotic damage and you gain hit points equal to the damage.|
-|&nbsp;85-<br>&nbsp;86|You cast *mirror image* without expending tech points.|
-|&nbsp;87-<br>&nbsp;88|You are frozen in carbonite and paralyzed for 1 minute or until you take damage.|
-|&nbsp;89-<br>&nbsp;90|You turn invisible and can't make sound for 1 minute, or until you attack or cast a power.|
-|&nbsp;91-<br>&nbsp;92|If you die within the next minute, you immediately come back to life as if by the *defibrillate* power.|
-|&nbsp;93-<br>&nbsp;94|Your size increases by one size category for the next minute.|
-|&nbsp;95-<br>&nbsp;96|You and all creatures within 30 feet of you gain vulnerability to energy damage for the next minute.|
-|&nbsp;97-<br>&nbsp;98|You are surrounded by faint, ethereal music for the next minute.|
-|&nbsp;99-<br>&nbsp;100|You regain half your expended tech points.|
+|01-02|Roll on this table at the start of each of your turns for 1 minute, ignoring this result on subsequent rolls.	|
+|03-04|For the next minute, you can see any invisible creature if you have line of sight to it.	|
+|05-06|A DRK-1 tracker droid appears with 5 feet of you, then disappears 1 minute later.|
+|07-08|You cast *explosion* at 3rd-level centered on yourself without expending tech points.|
+|09-10|You cast *homing rockets* at 5th-level without expending tech points.|
+|11-12|Roll a d10. Your height changes by a number of inches equal to the roll: if odd, you shrink; if even, you grow.	|
+|13-14|You fall asleep standing for 1 minute or until you take damage.|
+|15-16|For the next minute, you regain 5 hit points at the start of each of your turns|
+|17-18|You grow a long beard made of feathers that remains until you sneeze.|
+|19-20|You cast *oil slick* centered on yourself without expending tech points.|
+|21-22|Creatures have disadvantage on the first saving throw they make against you in the next minute.|
+|23-24|Your skin turns a vibrant shade of blue. Any effect that ends a curse ends this.|
+|25-26|You grow an extra eye, granting advantage on Wisdom (Perception) checks that rely on sight for 1 minute.|
+|27-28|For the next minute, all your tech powers with a casting time of 1 action have a casting time of 1 bonus action.|
+|29-30|You teleport up to 60 feet to an unoccupied space of your choice that you can see.	|
+|31-32|You take 2d10 lightning damage and are shocked for 1 minute.|
+|33-34|Maximize the damage of the next damaging tech power you cast within the next minute.	|
+|35-36|Roll a d10. Your age changes by a number of years equal to the roll: if odd, younger; if even, older.|
+|37-38|You start running uncontrollably for 1 minute, moving your entire speed each turn.|
+|39-40|You regain 2d10 hit points.|
+|41-42|Each creature within 30 feet of you is subjected to the *gleaming outline* tech power for 1 minute.|
+|43-44|For the next minute, you can teleport up to 20 feet as a bonus action on each of your turns.	|
+|45-46|You are blinded and deafened for 1 minute.|
+|47-48|You have disadvantage on the first ability check, attack roll, or saving throw you make each turn for 1 minute.|
+|49-50|You can't speak for the next minute. Whenever you try, pink bubbles float out of your mouth.	|
+|51-52|A shimmering energy barrier grants you a +2 bonus to AC for 1 minute.|
+|53-54|You are immune to being intoxicated by alcohol for the next 5d6 days.|
+|55-56|Your hair falls out but grows back within 24 hours. If you don't have hair, you instead grow it for 24 hours.|
+|57-58|For 1 minute, any flammable object not worn or carried you touch bursts into flame.|
+|59-60|You regain tech points equal to your Intelligence modifier (minimum of one).|
+|61-62|For the next minute, you shout whenever you speak.|
+|63-64|You cast *smoke cloud* centered on yourself without expending tech points.|
+|65-66|Up to three creatures you choose within 30 feet of you take 4d10 lightning damage.|
+|67-68|You are frightened by the nearest creature until the end of your next turn.|
+|69-70|Each creature within 30 feet of you becomes invisible for 1 minute, or until it attacks or casts a power.|
+|71-72|You gain resistance to all damage for the next minute.|
+|73-74|A random creature within 60 feet of you becomes poisoned for 1d4 hours.|
+|75-76|You emit bright light in a 30-foot radius for 1 minute.|
+|77-78|Each creature within 30 feet of you except you gains the benefits of *mirror image* for 1 minute.
+|79-80|Illusory butterflies and flower petals flutter in the air within 10 feet of you for the next minute.|
+|81-82|You can take one additional action immediately.|
+|83-84|Each creature within 30 feet of you takes 1d10 necrotic damage and you gain hit points equal to the damage.|
+|85-86|You cast *mirror image* without expending tech points.|
+|87-88|You are frozen in carbonite and paralyzed for 1 minute or until you take damage.|
+|89-90|You turn invisible and can't make sound for 1 minute, or until you attack or cast a power.|
+|91-92|If you die within the next minute, you immediately come back to life as if by the *defibrillate* power.|
+|93-94|Your size increases by one size category for the next minute.|
+|95-96|You and all creatures within 30 feet of you gain vulnerability to energy damage for the next minute.|
+|97-98|You are surrounded by faint, ethereal music for the next minute.|
+|99-100|You regain half your expended tech points.|
 
 ## Fighter
 A Trandoshan runs frantically across rooftops, constantly</span> looking over his shoulder. As he prepares to leap a gap, a blaster bolt hits him in the back and renders him unconscious. His blurry vision barely makes out the figure of a masked woman who casually approaches, ready to collect her bounty.
@@ -1641,6 +1652,7 @@ You can make a fighter quickly by following these suggestions. First, make Stren
 <!--- image here <img src='https://www.gmbinder.com/images/8KgLf2V.png' style='position:absolute;top:92px;right:10px;width:665px;z-index:1000' /> --->
 
 ##### The Fighter
+
 |Level|Proficiency<br> Bonus|Features|Maneuvers<br> Known|Superiority<br> Dice Quantity|Superiority<br> Dice Size|Strategies<br> Known|
 |:--:|:--:|:--|:--:|:--:|:--:|:--:|
 | 1st|+2|Fighting Style, Second Wind	                    | -|-|  -|-|
@@ -1678,7 +1690,9 @@ ___
 - **Armor:** All armor
 - **Weapons:** All blasters, all vibroweapons
 - **Tools:** None
-___
+
+<br>
+
 - **Saving Throws:** Strength, Constitution
 - **Skills:** Choose two skills from Acrobatics, Animal Handling, Athletics, Lore, Insight, Intimidation, Perception, and Survival
 
@@ -1735,7 +1749,7 @@ Your maneuver ability varies based on the type of the maneuver you use. You use 
 
 ___
 
-**Maneuver save DC** = 8 + your proficiency bonus + <br>your maneuver ability modifier
+**Maneuver save DC** = 8 + your proficiency bonus + your maneuver ability modifier
 
 ___
 
@@ -1946,6 +1960,7 @@ When you use your Second Wind feature, you can choose up to three allies within 
 You can choose an additional ally at 9th, 13th, and 17th level.
 
 ##### Shield Specialist Techcasting
+
 | Level | Tech Powers<br> Known | Tech<br> Points | Max Power<br> Level |
 |:---:|:---:|:---:|:---:|
 |  3rd |  3 |  2 | 1st |
@@ -2017,6 +2032,7 @@ If you spend at least 1 minute observing or interacting with another creature ou
 - Fighter class levels (if any)
 
 ##### Tactical Superiority
+
 Level|Maneuvers<br> Known|Superiority<br> Dice Quantity|
 |:---:|:---:|:---:|:---:|
 | 3rd| 4| 4|
@@ -2078,6 +2094,7 @@ While creating your guardian, consider your attraction to the Force and its most
 You can make a guardian quickly by following these suggestions. First, make Strength your highest ability score, followed by Constitution. Second, choose the Jedi or Sith background.
 
 ##### The Guardian
+
 |Level|Proficiency<br> Bonus|Features|Force Powers<br> Known|Force<br> Points|Max Power<br> Level|Focused<br> Strikes |Auras<br> Known|Aura<br> Radius|
 |:--:|:--:|:--|:--:|:--:|:--:|:--:|:--:|:--:|
 | 1st|+2|Forcecasting, Channel the Force	    	| 5| 2|1st|  -|-|     -|
@@ -2115,7 +2132,9 @@ ___
 - **Armor:** Light armor, medium armor
 - **Weapons:** All lightweapons, all vibroweapons
 - **Tools:** None
-___
+
+<br>
+
 - **Saving Throws:** Constitution, Charisma
 - **Skills:** Choose two from Acrobatics, Athletics, Deception, Insight, Intimidation, Lore, Perception, Persuasion, and Piloting
 
@@ -2464,6 +2483,7 @@ As a result of the structured life of a monastic community and the discipline re
 You can make a monk quickly by following these suggestions. First, make Dexterity your highest ability score, followed by Wisdom. Second, choose the agent background.
 
 ##### The Monk
+
 | Level | Proficiency<br> Bonus | Features | Martial<br> Arts | Focus<br> Points | Monastic<br> Vows | Unarmored<br> Movement |
 |:-----:|:-----------------:|:------------|:---------:|:------------------:|:---------:|:--:|
 |	1st	|+2	|	Martial Arts, Unarmored Defense	                    |	d4	|	-	|   -   |	-	|
@@ -2501,7 +2521,9 @@ ___
 - **Armor:** None
 - **Weapons:** Simple blasters, simple vibroweapons, martial vibroweapons that lack the dexterity, heavy, special, and two-handed properties
 - **Tools:** None
-___
+
+<br>
+
 - **Saving Throws:** Strength, Dexterity
 - **Skills:** Choose two from Acrobatics, Athletics, Insight, Lore, Perception, and Stealth
 
@@ -2852,6 +2874,7 @@ While creating your operative character, consider how you first started on your 
 You can make an operative quickly by following these suggestions. First, make Dexterity your highest ability score, followed by Intelligence or Charisma. Second, choose the gambler background.
 
 ##### The Operative
+
 |	Level	|	Proficiency<br> Bonus	|	Features&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;	|   Sneak<br> Attack	|Operative<br> Exploits|
 |	:--:	|	:--:	|	:--	|	:--:	|   :--:|
 |	 1st	|	+2	|   Expertise, Sneak Attack	            |   1d6 | - |
@@ -2889,7 +2912,9 @@ ___
 - **Armor:** Light armor
 - **Weapons:** Simple blasters, simple vibroweapons, martial blasters that lack the auto, special, strength, and two-handed properties, martial vibroweapons with the finesse property
 - **Tools:** One specialist's kit of your choice
-___
+
+<br>
+
 - **Saving Throws:** Dexterity, Intelligence
 - **Skills:** Choose any four
 
@@ -3157,6 +3182,29 @@ ___
 
 ___
 
+##### Beguiler Practice Forcecasting
+
+| Level | Force Powers<br> Known | Force<br> Points | Max Power<br> Level |
+|:---:|:---:|:---:|:---:|
+| 3rd| 4| 3|1st|
+| 4th| 6| 4|1st|
+| 5th| 7| 5|1st|
+| 6th| 8| 6|1st|
+| 7th|10| 7|2nd|
+| 8th|11| 8|2nd|
+| 9th|12| 9|2nd|
+|10th|13|10|2nd|
+|11th|14|11|2nd|
+|12th|15|12|2nd|
+|13th|17|13|3rd|
+|14th|18|14|3rd|
+|15th|19|15|3rd|
+|16th|20|16|3rd|
+|17th|22|17|4th|
+|18th|23|18|4th|
+|19th|24|19|4th|
+|20th|25|20|4th|
+
 <!--- image here <img src='https://www.gmbinder.com/images/jMmQQuW.png' style='position:absolute;bottom:-2px;right:30px;width:640px;z-index:1000;transform:scaleX(-1)' /> --->
 
 
@@ -3183,27 +3231,7 @@ _**Beguiler Practice:** 17th level_<br>
 As a bonus action, you can mask yourself with the Force for 1 minute or until you are incapacitated. For the duration, whenever any creature tries to attack you for the first time on a turn, the attacker must make a Charisma saving throw (DC = 8 + your proficiency bonus + your Charisma modifier). On a failed save, it can't attack you on this turn, and it must choose a new target for its attack or the attack is wasted. On a successful save, it can attack you on this turn, but it has disadvantage on any saving throw it makes against your powers on your next turn.
 
 
-##### Beguiler Practice Forcecasting
-| Level | Force Powers<br> Known | Force<br> Points | Max Power<br> Level |
-|:---:|:---:|:---:|:---:|
-| 3rd| 4| 3|1st|
-| 4th| 6| 4|1st|
-| 5th| 7| 5|1st|
-| 6th| 8| 6|1st|
-| 7th|10| 7|2nd|
-| 8th|11| 8|2nd|
-| 9th|12| 9|2nd|
-|10th|13|10|2nd|
-|11th|14|11|2nd|
-|12th|15|12|2nd|
-|13th|17|13|3rd|
-|14th|18|14|3rd|
-|15th|19|15|3rd|
-|16th|20|16|3rd|
-|17th|22|17|4th|
-|18th|23|18|4th|
-|19th|24|19|4th|
-|20th|25|20|4th|
+
 
 Once you've used this feature, you must complete a short or long rest before you can use it again.
 
@@ -3346,6 +3374,7 @@ As you create a scholar, it's important to think of where you gained your knowle
 You can make a scholar quickly by following these suggestions. First, make Intelligence your highest ability score. Your next-highest score should be Dexterity. Second, choose the noble background.
 
 ##### The Scholar
+
 |Level|Proficiency<br> Bonus|Features|Maneuvers<br> Known|Superiority<br> Dice Quantity|Superiority<br> Dice Size|Discoveries|
 |:---:|:---:|:---|:---:|:---:|:---:|:--:|
 | 1st|+2|Academic Superiority, Critical Analysis           | 1| 3| d4|-|
@@ -3383,7 +3412,9 @@ ___
 - **Armor:** Light armor
 - **Weapons:** Simple blasters, simple vibroweapons, martial vibroweapons with the finesse property
 - **Tools:** Any one
-___
+
+<br>
+
 - **Saving Throws:** Intelligence, Wisdom
 - **Skills:** Choose three from Deception, Insight, Intimidation, Investigation, Lore, Medicine, Nature, Persuasion, and Survival
 
@@ -3619,11 +3650,7 @@ This die increases to d10 at 13th level and d12 at 17th level.
 _**Gambler Pursuit:** 17th level_<br>
 You have gained the ability to unnaturally alter luck in your favor. Once per round, after an attack roll, saving throw, or ability check is rolled by you or a creature that you can see, you can replace the number on the d20 with a 7. Note the number on the d20 of the roll that you replaced. That number becomes your borrowed luck roll.
 
-While you have a borrowed luck roll, you can expend it and replace any ability check, attack roll, or saving throw made by you or a creature that you can see with the value of the borrowed luck roll. You can only have one borrowed luck roll at a time, and you lose any 
-
-
-
-unused borrowed luck rolls when you complete a short or long rest.
+While you have a borrowed luck roll, you can expend it and replace any ability check, attack roll, or saving throw made by you or a creature that you can see with the value of the borrowed luck roll. You can only have one borrowed luck roll at a time, and you lose any unused borrowed luck rolls when you complete a short or long rest.
 
 ### Gambler Discoveries
 When you select this pursuit, you gain access to new discoveries which reflect your deep understanding of chance. Whenever you learn a new discovery, you can choose from any of the following as well. The discoveries are listed in alphabetical order. 
@@ -3919,6 +3946,7 @@ What made you join up with a band of adventurers? Do you find it challenging to 
 You can make a scout quickly by following these suggestions. First, make Strength or Dexterity your highest ability modifier, depending on whether you want to focus on melee combat or on ranged weapons (or finesse weapons). Your next-highest score should be Intelligence. Second, choose the bounty hunter background.
 
 ##### The Scout
+
 |Level|Proficiency<br> Bonus|Features|Ranger's<br> Quarry|Tech Powers<br> Known|Tech<br> Points|Max Power<br> Level|Routines<br> Known|Routine<br> Radius|
 |:--:|:--:|:--|:--:|:--:|:--:|:--:|:--:|:--:|
 | 1st|+2|Ranger's Quarry, Pathfinder			            | d4| -| -|	 -|-|     -|
@@ -3956,7 +3984,9 @@ ___
 - **Armor:** Light armor, medium armor
 - **Weapons:** All blasters, all vibroweapons
 - **Tools:** None
-___
+
+<br>
+
 - **Saving Throws:** Strength, Dexterity
 - **Skills:** Choose three from Animal Handling, Athletics, Insight, Investigation, Perception, Piloting, Stealth, Survival, and Technology
 
@@ -4307,6 +4337,7 @@ While creating your sentinel, consider your personal philosophy in regards to th
 You can make a sentinel quickly by following these suggestions. First, make Dexterity your highest ability score, followed by Wisdom or Charisma. Second, choose the Jedi or Sith background.
 
 ##### The Sentinel
+
 |Level|Proficiency<br> Bonus|Features|Force Powers<br> Known|Force<br> Points|Max Power<br> Level|Kinetic<br> Combat|Ideals<br> Known|Ideal<br> Manifests|
 |:--:|:--:|:--|:--:|:--:|:--:|:--:|:--:|:--:|
 | 1st|+2|Forcecasting, Led by the Force			    | 7| 3|1st|  -|-|-|
@@ -4344,7 +4375,9 @@ ___
 - **Armor:** Light armor
 - **Weapons:** Simple lightweapons, simple vibroweapons, martial lightweapons with the finesse property, martial vibroweapons with the finesse property
 - **Tools:** One specialist's kit of your choice
-___
+
+<br>
+
 - **Saving Throws:** Dexterity, Charisma
 - **Skills:** Choose three from Acrobatics, Animal Handling, Insight, Intimidation, Perception, Persuasion, Piloting, Stealth, and Technology
 
