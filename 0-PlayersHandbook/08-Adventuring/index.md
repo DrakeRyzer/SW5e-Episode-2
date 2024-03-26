@@ -61,7 +61,6 @@ Characters in shuttles, speeders, or other vehicles choose a pace as normal. Dep
 
 ##### Travel Pace
 
-<!--- I removed the <br> in the table, so now it's wider. Is this okay? -->
 |Pace|Distance per Minute|Distance per Hour|Distance per Day|Effect|
 |:--:|:--:|:--:|:--:|:--|
 |Fast|	400 feet|	4 miles|	30 miles|	-5 penalty to passive Wisdom (Perception) scores|
