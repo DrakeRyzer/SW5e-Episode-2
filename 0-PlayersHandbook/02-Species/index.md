@@ -47,7 +47,7 @@ By virtue of your species, your character can speak, read, and write certain lan
 ___
 > ## Bith
 > 
-> ___
+> 
 > #### Visual Characteristics
 > 
 > ||||
@@ -56,14 +56,14 @@ ___
 > |***Hair Color***|&nbsp;&nbsp;|None|
 > |***Eye Color***|&nbsp;&nbsp;|Black|
 > |***Distinctions***|&nbsp;&nbsp;|Large cranium, acute senses of smell and hearing|
-> ___
+> 
 > #### Physical Characteristics
 > 
 > |||||
 > |:--|:--|:--:|:--:|
 > |***Height***|&nbsp;&nbsp;|4'9"|+2d6"|
 > |***Weight***|&nbsp;&nbsp;|100 lb.|x(2d4) lb.|
-> ___
+> 
 > #### Sociocultural Characteristics
 > 
 > ||||
