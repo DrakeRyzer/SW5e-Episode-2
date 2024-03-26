@@ -88,6 +88,7 @@ What led you to take up the adventuring life? Were you lured to settled planets 
 You can make a berserker quickly by following these suggestions. First, put your highest ability score in Strength, followed by Constitution. Second, choose the mercenary background.
 
 ##### The Berserker
+
 |	Level	|	Proficiency<br> Bonus	|	Features	|	Rages	|	Rage<br> Damage	| Berserker<br> Instincts |
 |	:--:	|	:--:	|	:--	|	:--:	|	:--:	| :--: |
 |	 1st	|	+2	|	Rage, Unarmored Defense     	        |	2	|	+2	| - |
