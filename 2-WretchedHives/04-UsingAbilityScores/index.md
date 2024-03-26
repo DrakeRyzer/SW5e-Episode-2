@@ -1,3 +1,9 @@
+---
+title: Factions and Membership
+parent: Wretched Hives
+has_children: true
+nav_order: 4
+---
 
 # Chapter 4: Using Ability Scores
 S
