@@ -9,7 +9,7 @@ nav_order: 7
 
 # Chapter 7: Using Ability Scores
 
-Six abilities provide a quick description of every ship's, physical and electronic<br> characteristics:<br>
+Six abilities provide a quick description of every ship's, physical and electronic characteristics:
 ___
 
 - **Strength**, measuring reactor output
@@ -21,7 +21,7 @@ ___
 
 ___
 
-Is a ship tough, and her crew well-trained? Fast and frightening? Nimble and notorious? Ability scores de-fine these traits&mdash;a ship's strengths and weaknesses.
+Is a ship tough, and her crew well-trained? Fast and frightening? Nimble and notorious? Ability scores define these traits a ship's strengths and weaknesses.
 
 The three main rolls of the game-the ability check, the saving throw, and the attack roll-rely on the six ability scores. The book's introduction describes the basic rule behind these rolls: roll a d20, add an ability modifier derived from one of the six ability scores, and compare the total to a target number.
 
@@ -40,8 +40,6 @@ Because ability modifiers affect almost every attack roll, ability check, and sa
 
 
 ##### Ability Scores and Modifiers
-
-
 
 |Score|Modifier|
 |:--:|:--:|
@@ -110,13 +108,14 @@ Certain features, such as Active Camouflage or a Boarding Harpoon, let your ship
 
 
 ##### Proficiently Equipping a Ship
-|  Skill | Modification(s) that<br> Proficiently Equip | Modification(s) that<br> Expertly Equip | Skill Description|
+
+|  Skill | Modification(s) that Proficiently Equip | Modification(s) that Expertly Equip | Skill Description|
 |:----|:---|:---|:---|
 |	_Str_	    ||||
 | &emsp; Boost| Cryogenic Capacitor, Mk I| Cryogenic Capacitor, Mk II|push your ship to or beyond its limits|
 | &emsp; Ram| Hardened Prow| Boarding Harpoon| slam into an object to deal damage.|
 |	_Dex_	    ||||
-| &emsp; Hide| Sensor Dampener;<br> Stealth Device| Sensor Dampener;<br> Stealth Device;<br> Stealth Device, Active Camouflage|allows the ship to remain undetected|
+| &emsp; Hide| Sensor Dampener; Stealth Device| Sensor Dampener; Stealth Device; Stealth Device, Active Camouflage|allows the ship to remain undetected|
 | &emsp; Maneuvering| (Piloting proficiency)| (Piloting expertise)|perform tricky maneuvers|
 |	_Con_	    ||||
 | &emsp; Patch| Damage Control System| Automated Protocols|attempt to regain hull points|
@@ -128,10 +127,10 @@ Certain features, such as Active Camouflage or a Boarding Harpoon, let your ship
 |	_Wis_	    ||||
 | &emsp; Scan| Scanner, Mk I| Scanner, Mk II|notice and locate the presence of objects|
 |	_Cha_	    ||||
-| &emsp; Impress| Impressive Interior;<br> Impressive Exterior|  Impressive Interior;<br> Impressive Exterior|a general measurement of your ship's<br> beauty and soundness|
+| &emsp; Impress| Impressive Interior; Impressive Exterior|  Impressive Interior; Impressive Exterior|a general measurement of your ship's beauty and soundness|
 | &emsp; Interfere| Comms Suppressor, Mk I| Comms Suppressor, Mk II|interfere with another ship's systems|
 | &emsp; Menace| Threatening Design| Threatening Hardware| threaten via ship's appearance or abilities|
-| &emsp; Swindle| Disguised Features;<br> Secondary Transponder Code| Disguised Features;<br> Secondary Transponder Code|pass your ship off as something it's not|
+| &emsp; Swindle| Disguised Features; Secondary Transponder Code| Disguised Features; Secondary Transponder Code|pass your ship off as something it's not|
 
 
 
@@ -210,7 +209,7 @@ While a ship can have any number of hardpoints, it can only Fire a number of tim
 
 
 
-|Ship Size|Hardpoint<br> Size Modifier|
+|Ship Size|Hardpoint Size Modifier|
 |:--:|:--:|
 |Tiny|	1|
 |Small|	1|
@@ -264,7 +263,7 @@ Certain features, such as burst weapons, call for a Dexterity saving throw. When
 
 
 
-> #### Alternative INITIATIVE
+> #### Alternative Initiative
 > At the beginning of every combat, instead of rolling initiative, GMs can quickly use passive initiatives to determine order based on a ship's Dexterity and it's ship size base initiative as shown below in the Starship Size Base Initiative table below.
 >
 >
@@ -272,27 +271,27 @@ Certain features, such as burst weapons, call for a Dexterity saving throw. When
 >
 >
 >
->|Ship Size|Ship Size<br> Base<br> Initiative|
->|:--:|:--:|
->|Tiny|	10|
->|Small|	9|
->|Medium|8|
->|Large	|7|
->|Huge	|6|
->|Gargantuan|5|
+> |Ship Size|Ship Size Base Initiative|
+> |:--:|:--:|
+> |Tiny|	10|
+> |Small|	9|
+> |Medium|8|
+> |Large	|7|
+> |Huge	|6|
+> |Gargantuan|5|
 >
 >
 >
->To calculate a ship's passive initiative, use the following formula:
+> To calculate a ship's passive initiative, use the following formula:
 >
->___
->
->
->**initiative = "ship size base initiative" + "Dexterity modifier"**
+> ___
 >
 >
+> **initiative = "ship size base initiative" + "Dexterity modifier"**
 >
->___
+>
+>
+> ___
 
 
 
