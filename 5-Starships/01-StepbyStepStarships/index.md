@@ -107,8 +107,6 @@ This method of determining ability scores enables you to create a set of three h
 
 ##### Ability Score Point Cost
 
-
-
 |Score|	Cost|
 |:--:|:--:|
 |8 |0|
@@ -206,6 +204,7 @@ Typically, characters start at deployment rank 0, achieving rank 1 after complet
 
 
 ##### Deployment Rank Prestige
+
 |DeploymentRank|TotalPrestige|
 |:--:|:--:|
 |1st|1|
