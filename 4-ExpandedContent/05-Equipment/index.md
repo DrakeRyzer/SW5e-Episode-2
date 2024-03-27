@@ -12,106 +12,109 @@ nav_order: 5
 
 
 ##### Blasters
-|Name&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|Cost&nbsp;&nbsp;|Damage&emsp;&nbsp;&nbsp;|Weight&nbsp;&nbsp;|Properties&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|
+
+|Name|Cost|Damage|Weight|Properties|
 |:---|---:|:---|-:|:---|
 | _Simple Blasters_|||||
-| &emsp;Energy bow          |475 cr&nbsp;&nbsp;     |1d6 energy     |4.50 lb&nbsp;   |Power cell (range 80/320), mighty, reload 4, two-handed |
-| &emsp;Energy slingshot    |425 cr&nbsp;&nbsp;     |1d4 energy     |4.00 lb&nbsp;     |Power cell (range 20/80), disruptive, fixed, mighty, reload 20, <br>two-handed |
-| &emsp;Lightning carbine   |1,150 cr&nbsp;&nbsp;   |1d6 lightning  |7.00 lb&nbsp;     |Power cell (range 60/240), penetrating 6, reload 12, strength 11, <br>two-handed |
-| &emsp;Lightning pistol    |550 cr&nbsp;&nbsp;     |1d4 lightning  |2.00 lb&nbsp;     |Power cell (range 30/120), penetrating 8, reload 16 |
-| &emsp;Needler             |475 cr&nbsp;&nbsp;     |1d4 kinetic    |3.00 lb&nbsp;     |Slug cartridge (range 30/160), piercing 1, reload 12, silent, special |
-| &emsp;Shatter pistol      |375 cr&nbsp;&nbsp;     |1d4 kinetic    |2.00 lb&nbsp;     |Slug cartridge (range 60/240), light, reload 12, silent, strength 11 |
-| &emsp;Shortbow            |550 cr&nbsp;&nbsp;     |1d6 kinetic    |4.00 lb&nbsp;     |Mighty, silent, special (range 60/240), two-handed |
-| &emsp;Sonic carbine       |675 cr&nbsp;&nbsp;     |1d6 sonic      |7.00 lb&nbsp;     |Power cell (range 60/240), disruptive, reload 12, strength 11, two-handed |
-| &emsp;Sonic pistol        |375 cr&nbsp;&nbsp;     |1d4 sonic      |2.00 lb&nbsp;     |Power cell (range 30/120), disruptive, reload 16 |
-| &emsp;Switch carbine      |925 cr&nbsp;&nbsp;     |1d6 energy     |7.50 lb&nbsp;   |Power cell (range 70/280), reload 16, switch (1d4 acid), two-handed |
-| &emsp;Switch pistol       |675 cr&nbsp;&nbsp;     |1d6 energy     |4.50 lb&nbsp;   |Power cell (range 40/160), reload 20, switch (1d4 fire) |
-| &emsp;Tranquilizer rifle  |275 cr&nbsp;&nbsp;     |1d4 kinetic    |2.50 lb&nbsp;   |Slug cartridge (range 60/240), reload 4, silent, special |
+| &emsp;Energy bow          |475 cr     |1d6 energy     |4.50 lb   |Power cell (range 80/320), mighty, reload 4, two-handed |
+| &emsp;Energy slingshot    |425 cr     |1d4 energy     |4.00 lb     |Power cell (range 20/80), disruptive, fixed, mighty, reload 20, <br>two-handed |
+| &emsp;Lightning carbine   |1,150 cr   |1d6 lightning  |7.00 lb     |Power cell (range 60/240), penetrating 6, reload 12, strength 11, <br>two-handed |
+| &emsp;Lightning pistol    |550 cr     |1d4 lightning  |2.00 lb     |Power cell (range 30/120), penetrating 8, reload 16 |
+| &emsp;Needler             |475 cr     |1d4 kinetic    |3.00 lb     |Slug cartridge (range 30/160), piercing 1, reload 12, silent, special |
+| &emsp;Shatter pistol      |375 cr     |1d4 kinetic    |2.00 lb     |Slug cartridge (range 60/240), light, reload 12, silent, strength 11 |
+| &emsp;Shortbow            |550 cr     |1d6 kinetic    |4.00 lb     |Mighty, silent, special (range 60/240), two-handed |
+| &emsp;Sonic carbine       |675 cr     |1d6 sonic      |7.00 lb     |Power cell (range 60/240), disruptive, reload 12, strength 11, two-handed |
+| &emsp;Sonic pistol        |375 cr     |1d4 sonic      |2.00 lb     |Power cell (range 30/120), disruptive, reload 16 |
+| &emsp;Switch carbine      |925 cr     |1d6 energy     |7.50 lb   |Power cell (range 70/280), reload 16, switch (1d4 acid), two-handed |
+| &emsp;Switch pistol       |675 cr     |1d6 energy     |4.50 lb   |Power cell (range 40/160), reload 20, switch (1d4 fire) |
+| &emsp;Tranquilizer rifle  |275 cr     |1d4 kinetic    |2.50 lb   |Slug cartridge (range 60/240), reload 4, silent, special |
 | _Martial Blasters_|||||
-| &emsp;Affixed Rifle            |700 cr&nbsp;&nbsp;     |1d8 energy     |8.00 lb&nbsp;     |Power cell (range 90/360), fixed, rapid 4, reload 8, strength 11, <br>two-handed |
-| &emsp;Anti-materiel<br> blaster   |2,500 cr&nbsp;&nbsp;   |3d4 energy     |18.50 lb&nbsp;  |Power cell (range 180/720), auto, reload 2, penetrating 2, <br>strength 19, two-handed |
-| &emsp;Anti-materiel rifle     |1,900 cr&nbsp;&nbsp;   |2d6 kinetic    |17.00 lb&nbsp;    |Slug cartridge (range 180/720), reload 2, penetrating 2, strength 19, <br>two-handed |
-| &emsp;ARC caster              |2,125 cr&nbsp;&nbsp;   |2d4 lightning  |9.00 lb&nbsp;     |Power cell (range 60/240), burst 8, rapid 4, reload 9, strength 11, <br>two-handed |
-| &emsp;Blaster cannon          |5,500 cr&nbsp;&nbsp;   |2d6 energy     |18.50 lb&nbsp;  |Auto, burst, rapid, special (range 120/480), strength 19, two-handed |
-| &emsp;Bolt-thrower            |1,825 cr&nbsp;&nbsp;   |—              |13.50 lb&nbsp;  |Reload 1, silent, special (range 90/360), strength 13, two-handed |
-| &emsp;Compound bow            |600 cr&nbsp;&nbsp;     |1d8 kinetic    |6.50 lb&nbsp;   |Mighty, silent, special (range 75/300), two-handed |
-| &emsp;Lightning cannon        |4,400 cr&nbsp;&nbsp;   |1d6 lightning  |16.00 lb&nbsp;    |Power cell (range 90/360), auto, penetrating 2, reload 4, <br>strength 15, two-handed |
-| &emsp;Lightning rifle         |2,125 cr&nbsp;&nbsp;   |1d6 lightning  |8.50 lb&nbsp;   |Power cell (range 60/240), penetrating 2, reload 8, strength 11, <br>two-handed |
-| &emsp;Marksman blaster        |1,100 cr&nbsp;&nbsp;   |1d10 energy    |12.00 lb&nbsp;    |Power cell (range 125/500), reload 8, strength 13, two-handed |
-| &emsp;Mortar launcher         |3,500 cr&nbsp;&nbsp;   |—              |25.00 lb&nbsp;    |Special (range 150/600), reload 1, two-handed |
-| &emsp;Nightstinger rifle     |1,075 cr&nbsp;&nbsp;   |1d10 energy    |11.00 lb&nbsp;    |Power cell (range 125/500), reload 2, silent, strength 11, <br>two-handed |
-| &emsp;Radiation cannon        |3,900 cr&nbsp;&nbsp;   |2d4 necrotic  |13.5 lb&nbsp;  |Power cell (range 75/300), auto, burst 2, disrupt ive, piercing 1, reload 4, <br>strength 15, two-handed |
-| &emsp;Revolver                |625 cr&nbsp;&nbsp;     |2d4 kinetic    |6.50 lb&nbsp;   |Slug cartridge (range 60/240), rapid 4, reload 8, strength 11 |
-| &emsp;Rocket rifle            |2,250 cr&nbsp;&nbsp;   |—              |12.00 lb&nbsp;    |Reload 6, special (range 60/240), strength 11, two-handed |
-| &emsp;Scatter blaster         |1,175 cr&nbsp;&nbsp;   |2d4 energy     |9.50 lb&nbsp;   |Power cell (range 40/160), burst 3, reload 12, strength 13, <br>two-handed |
-| &emsp;Sentry gun              |3,250 cr&nbsp;&nbsp;   |1d12 energy    |16.50 lb&nbsp;  |Brutal, keen 1, reload 4, special (range 120/480), strength 19, <br>two-handed |
-| &emsp;Shatter cannon          |1,625 cr&nbsp;&nbsp;   |1d10 kinetic   |14.00 lb&nbsp;    |Slug cartridge (range 75/300), auto, burst 4, reload 8, silent, <br>strength 15, two-handed |
-| &emsp;Shatter rifle           |750 cr&nbsp;&nbsp;     |2d4 kinetic    |9.50 lb&nbsp;   |Slug cartridge (range 100/400), reload 8, silent, strength 11, <br>two-handed |
-| &emsp;Sonic cannon            |2,100 cr&nbsp;&nbsp;   |1d10 sonic     |16.50 lb&nbsp;  |Power cell (range 90/360), auto, burst 2, disruptive, reload 4, <br>strength 17, two-handed |
-| &emsp;Sonic rifle             |875 cr&nbsp;&nbsp;     |1d8 sonic      |9.00 lb&nbsp;     |Power cell (range 80/320), disruptive, reload 8, strength 11, <br>two-handed |
-| &emsp;Stealth carbine         |500 cr&nbsp;&nbsp;     |1d6 energy     |6.00 lb&nbsp;     |Power cell (range 70/280), reload 16, silent, two-handed |
-| &emsp;Switch cannon           |3,350 cr&nbsp;&nbsp;   |1d10 energy    |12.50 lb&nbsp;  |Power cell (range 100/400), burst 2, reload 4, strength 15, switch (2d4 acid/cold/fire/lightning), two-handed |
-| &emsp;Switch rifle            |1,025 cr&nbsp;&nbsp;   |1d8 energy     |9.50 lb&nbsp;   |Power cell (range 105/420), reload 8, switch (1d6 lightning), two-handed |
-| &emsp;Switch sniper           |1,800 cr&nbsp;&nbsp;   |1d12 energy    |15.5 lb&nbsp;  |Power cell (range 150/600), reload 2, strength 13, <br>switch (1d10 cold), two-handed |
-| &emsp;Torpedo launcher        |15,000 cr&nbsp;&nbsp;  |—              |30.00 lb&nbsp;    |Special (range 1200/3600), reload 1, two-handed |
-| &emsp;Wristrifle              |250 cr&nbsp;&nbsp;     |1d8 energy     |4.5 lb&nbsp;   |Power cell (range 60/240), fixed, reload 12 |
+| &emsp;Affixed Rifle            |700 cr     |1d8 energy     |8.00 lb     |Power cell (range 90/360), fixed, rapid 4, reload 8, strength 11, <br>two-handed |
+| &emsp;Anti-materiel<br> blaster   |2,500 cr   |3d4 energy     |18.50 lb  |Power cell (range 180/720), auto, reload 2, penetrating 2, <br>strength 19, two-handed |
+| &emsp;Anti-materiel rifle     |1,900 cr   |2d6 kinetic    |17.00 lb    |Slug cartridge (range 180/720), reload 2, penetrating 2, strength 19, <br>two-handed |
+| &emsp;ARC caster              |2,125 cr   |2d4 lightning  |9.00 lb     |Power cell (range 60/240), burst 8, rapid 4, reload 9, strength 11, <br>two-handed |
+| &emsp;Blaster cannon          |5,500 cr   |2d6 energy     |18.50 lb  |Auto, burst, rapid, special (range 120/480), strength 19, two-handed |
+| &emsp;Bolt-thrower            |1,825 cr   |—              |13.50 lb  |Reload 1, silent, special (range 90/360), strength 13, two-handed |
+| &emsp;Compound bow            |600 cr     |1d8 kinetic    |6.50 lb   |Mighty, silent, special (range 75/300), two-handed |
+| &emsp;Lightning cannon        |4,400 cr   |1d6 lightning  |16.00 lb    |Power cell (range 90/360), auto, penetrating 2, reload 4, <br>strength 15, two-handed |
+| &emsp;Lightning rifle         |2,125 cr   |1d6 lightning  |8.50 lb   |Power cell (range 60/240), penetrating 2, reload 8, strength 11, <br>two-handed |
+| &emsp;Marksman blaster        |1,100 cr   |1d10 energy    |12.00 lb    |Power cell (range 125/500), reload 8, strength 13, two-handed |
+| &emsp;Mortar launcher         |3,500 cr   |—              |25.00 lb    |Special (range 150/600), reload 1, two-handed |
+| &emsp;Nightstinger rifle     |1,075 cr   |1d10 energy    |11.00 lb    |Power cell (range 125/500), reload 2, silent, strength 11, <br>two-handed |
+| &emsp;Radiation cannon        |3,900 cr   |2d4 necrotic  |13.5 lb  |Power cell (range 75/300), auto, burst 2, disrupt ive, piercing 1, reload 4, <br>strength 15, two-handed |
+| &emsp;Revolver                |625 cr     |2d4 kinetic    |6.50 lb   |Slug cartridge (range 60/240), rapid 4, reload 8, strength 11 |
+| &emsp;Rocket rifle            |2,250 cr   |—              |12.00 lb    |Reload 6, special (range 60/240), strength 11, two-handed |
+| &emsp;Scatter blaster         |1,175 cr   |2d4 energy     |9.50 lb   |Power cell (range 40/160), burst 3, reload 12, strength 13, <br>two-handed |
+| &emsp;Sentry gun              |3,250 cr   |1d12 energy    |16.50 lb  |Brutal, keen 1, reload 4, special (range 120/480), strength 19, <br>two-handed |
+| &emsp;Shatter cannon          |1,625 cr   |1d10 kinetic   |14.00 lb    |Slug cartridge (range 75/300), auto, burst 4, reload 8, silent, <br>strength 15, two-handed |
+| &emsp;Shatter rifle           |750 cr     |2d4 kinetic    |9.50 lb   |Slug cartridge (range 100/400), reload 8, silent, strength 11, <br>two-handed |
+| &emsp;Sonic cannon            |2,100 cr   |1d10 sonic     |16.50 lb  |Power cell (range 90/360), auto, burst 2, disruptive, reload 4, <br>strength 17, two-handed |
+| &emsp;Sonic rifle             |875 cr     |1d8 sonic      |9.00 lb     |Power cell (range 80/320), disruptive, reload 8, strength 11, <br>two-handed |
+| &emsp;Stealth carbine         |500 cr     |1d6 energy     |6.00 lb     |Power cell (range 70/280), reload 16, silent, two-handed |
+| &emsp;Switch cannon           |3,350 cr   |1d10 energy    |12.50 lb  |Power cell (range 100/400), burst 2, reload 4, strength 15, switch (2d4 acid/cold/fire/lightning), two-handed |
+| &emsp;Switch rifle            |1,025 cr   |1d8 energy     |9.50 lb   |Power cell (range 105/420), reload 8, switch (1d6 lightning), two-handed |
+| &emsp;Switch sniper           |1,800 cr   |1d12 energy    |15.5 lb  |Power cell (range 150/600), reload 2, strength 13, <br>switch (1d10 cold), two-handed |
+| &emsp;Torpedo launcher        |15,000 cr  |—              |30.00 lb    |Special (range 1200/3600), reload 1, two-handed |
+| &emsp;Wristrifle              |250 cr     |1d8 energy     |4.5 lb   |Power cell (range 60/240), fixed, reload 12 |
 
 
 
 ##### Lightweapons
-|Name&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|Cost&nbsp;&nbsp;|Damage&emsp;&nbsp;&nbsp;|Weight&nbsp;&nbsp;|Properties&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|
+
+|Name|Cost|Damage|Weight|Properties|
 |:---|---:|:---|-:|:---|
 | _Simple Lightweapons_|||||
-| &emsp;Lightbaton			|400 cr&nbsp;   |1d8 energy	|1.25 lb&nbsp;&nbsp;    |Hidden, light, luminous|
-| &emsp;Lightcutlass       |725 cr&nbsp;   |2d4 energy	|1.50 lb&nbsp;&nbsp;     |Dexterity 11, hidden, luminous|
-| &emsp;Saberspear			|450 cr&nbsp;&nbsp;   |1d6 energy	|2.00 lb&nbsp;&nbsp;|Luminous, thrown (range 20/60), versatile (2d4)|
-| &emsp;Wristsaber         |375 cr&nbsp;   |1d4 energy	|1.00 lb&nbsp;&nbsp;       |Finesse, fixed, light, luminous|
+| &emsp;Lightbaton			|400 cr   |1d8 energy	|1.25 lb    |Hidden, light, luminous|
+| &emsp;Lightcutlass       |725 cr   |2d4 energy	|1.50 lb     |Dexterity 11, hidden, luminous|
+| &emsp;Saberspear			|450 cr   |1d6 energy	|2.00 lb|Luminous, thrown (range 20/60), versatile (2d4)|
+| &emsp;Wristsaber         |375 cr   |1d4 energy	|1.00 lb       |Finesse, fixed, light, luminous|
 |	_Martial Lightweapons_	|||||||
-| &emsp;Chained lightdagger |800 cr&nbsp;   |1d4 energy     |3.50 lb&nbsp;&nbsp;     |Disarming, finesse, luminous, reach |
-| &emsp;Claymoresaber      |2,300 cr&nbsp; |3d4 energy     |3.50 lb&nbsp;&nbsp;     |Dexterity 13, luminous, two-handed |
-| &emsp;Crosssaber         |1,650 cr&nbsp; |2d4 energy     |5.25 lb&nbsp;&nbsp;    |Dexterity 15, double (2d4 energy), heavy, luminous, reach |
-| &emsp;Lightfist			|650 cr&nbsp;   |1d4 energy     |1.50 lb&nbsp;&nbsp;     |Disguised, disruptive, fixed, light, luminous |
-| &emsp;Lightring          |575 cr&nbsp;   |1d6 energy     |2.00 lb&nbsp;&nbsp;       |Finesse, hidden, luminous, returning, thrown (range 25/75) |
-| &emsp;Lightsaber pike     |1,175 cr&nbsp; |1d8 energy     |4.25 lb&nbsp;&nbsp;    |Dexterity 11, double (1d8 energy), luminous, reach |
-| &emsp;Phase knife			|1,025 cr&nbsp; |1d4 energy     |1.75 lb&nbsp;&nbsp;    |Dexterity 11, disguised, hidden, keen 1, light, luminous, vicious 1|
-| &emsp;Retrosaber			|950 cr&nbsp;   |1d8 energy     |3.00 lb&nbsp;&nbsp;       |Dexterity 13, dire 1, reckless 1, versatile (1d10) |
-| &emsp;Saberaxe			|600 cr&nbsp;   |2d4 energy     |1.00 lb&nbsp;&nbsp;       |Luminous |
-| &emsp;Sabergauntlet		|475 cr&nbsp;   |1d8 energy	    |1.50 lb&nbsp;&nbsp;     |Finesse, fixed, luminous |
+| &emsp;Chained lightdagger |800 cr   |1d4 energy     |3.50 lb     |Disarming, finesse, luminous, reach |
+| &emsp;Claymoresaber      |2,300 cr |3d4 energy     |3.50 lb     |Dexterity 13, luminous, two-handed |
+| &emsp;Crosssaber         |1,650 cr |2d4 energy     |5.25 lb    |Dexterity 15, double (2d4 energy), heavy, luminous, reach |
+| &emsp;Lightfist			|650 cr   |1d4 energy     |1.50 lb     |Disguised, disruptive, fixed, light, luminous |
+| &emsp;Lightring          |575 cr   |1d6 energy     |2.00 lb       |Finesse, hidden, luminous, returning, thrown (range 25/75) |
+| &emsp;Lightsaber pike     |1,175 cr |1d8 energy     |4.25 lb    |Dexterity 11, double (1d8 energy), luminous, reach |
+| &emsp;Phase knife			|1,025 cr |1d4 energy     |1.75 lb    |Dexterity 11, disguised, hidden, keen 1, light, luminous, vicious 1|
+| &emsp;Retrosaber			|950 cr   |1d8 energy     |3.00 lb       |Dexterity 13, dire 1, reckless 1, versatile (1d10) |
+| &emsp;Saberaxe			|600 cr   |2d4 energy     |1.00 lb       |Luminous |
+| &emsp;Sabergauntlet		|475 cr   |1d8 energy	    |1.50 lb     |Finesse, fixed, luminous |
 
 
 
 
 
-<div class='classTable wide' style='position:absolute;bottom:20px;left:75px;width:687px'>
+
 
 ##### Vibroweapons
-|Name&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|Cost&nbsp;&nbsp;|Damage&emsp;&nbsp;&nbsp;|Weight&nbsp;&nbsp;|Properties&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|
+
+|Name|Cost|Damage|Weight|Properties|
 |:---|---:|:---|-:|:---|
 |	_Simple Vibroweapons_	|||||
-| &emsp;Atlatl          |375 cr&nbsp;&nbsp; |1d6 kinetic	|1.25 lb&nbsp;&nbsp;    |Disguised, light, special |
-| &emsp;Electroprod    |650 cr&nbsp;&nbsp; |1d8 kinetic	|6.00 lb&nbsp;&nbsp;       |Disruptive, shocking 13, two-handed |
-| &emsp;Mancatcher      |800 cr&nbsp;&nbsp; |1d8 kinetic	|7.00 lb&nbsp;&nbsp;       |Reach, special, two-handed |
-| &emsp;Stun gauntlet   |400 cr&nbsp;&nbsp; |1d4 kinetic	|2.25 lb&nbsp;&nbsp;    |Disruptive, fixed, shocking 13 |
-| &emsp;Vibroclaw      |50 cr&nbsp;&nbsp;  |1d4 kinetic	|0.75 lb&nbsp;&nbsp;    |Finesse, fixed, light |
-| &emsp;Vibrocutlass   |600 cr&nbsp;&nbsp; |2d4 kinetic	|1.00 lb&nbsp;&nbsp;       |Dexterity 11 |
-| &emsp;Vibrocutter    |50 cr&nbsp;&nbsp;  |1d6 kinetic	|3.00 lb&nbsp;&nbsp;       |Heavy |
+| &emsp;Atlatl          |375 cr |1d6 kinetic	|1.25 lb    |Disguised, light, special |
+| &emsp;Electroprod    |650 cr |1d8 kinetic	|6.00 lb       |Disruptive, shocking 13, two-handed |
+| &emsp;Mancatcher      |800 cr |1d8 kinetic	|7.00 lb       |Reach, special, two-handed |
+| &emsp;Stun gauntlet   |400 cr |1d4 kinetic	|2.25 lb    |Disruptive, fixed, shocking 13 |
+| &emsp;Vibroclaw      |50 cr  |1d4 kinetic	|0.75 lb    |Finesse, fixed, light |
+| &emsp;Vibrocutlass   |600 cr |2d4 kinetic	|1.00 lb       |Dexterity 11 |
+| &emsp;Vibrocutter    |50 cr  |1d6 kinetic	|3.00 lb       |Heavy |
 |	_Martial Vibroweapons_	|||||
-| &emsp;Bolas               |100 cr&nbsp;&nbsp;     |—          	    |2.00 lb&nbsp;&nbsp;       |Light, special, thrown (range 20/60) |
-| &emsp;Cesta               |975 cr&nbsp;&nbsp;     |1d8 kinetic        |5.75 lb&nbsp;&nbsp;    |Disguised, double (1d8) finesse, special |
-| &emsp;Chained dagger      |350 cr&nbsp;&nbsp;     |1d4 kinetic		|3.75 lb&nbsp;&nbsp;    |Disarming, finesse, reach |
-| &emsp;Disguised blade     |125 cr&nbsp;&nbsp;     |1d4 kinetic		|1.00 lb&nbsp;&nbsp;       |Disarming, disguised, finesse, light |
-| &emsp;Disruptorshiv       |425 cr&nbsp;&nbsp;     |1d4 kinetic		|2.50 lb&nbsp;&nbsp;     |Disruptive, finesse, shocking 13 |
-| &emsp;Electrovoulge      |1,250 cr&nbsp;&nbsp;   |1d10 kinetic	    |10.00 lb&nbsp;&nbsp;      |Dexterity 13, reach, shocking 13, two-handed |
-| &emsp;Electrowhip        |725 cr&nbsp;&nbsp;     |1d4 kinetic		|4.25 lb&nbsp;&nbsp;    |Dexterity 11, disruptive, reach, shocking 13 |
-| &emsp;Hooked vibroblade   |225 cr&nbsp;&nbsp;     |1d8 kinetic		|3.75 lb&nbsp;&nbsp;    |Disarming, finesse |
-| &emsp;Jagged vibroblade   |650 cr&nbsp;&nbsp;     |2d4 kinetic		|7.00 lb&nbsp;&nbsp;       |Dexterity 13, keen 1, versatile (1d12) |
-| &emsp;Riot baton          |250 cr&nbsp;&nbsp;     |1d6 kinetic		|1.50 lb&nbsp;&nbsp;     |Defensive 1, light |
-| &emsp;Riot shocker		|425 cr&nbsp;&nbsp;     |1d4 kinetic		|1.00 lb&nbsp;&nbsp;       |Defensive 1, light, shocking 13 |
-| &emsp;Shock whip			|475 cr&nbsp;&nbsp;     |1d4 kinetic		|3.50 lb&nbsp;&nbsp;     |Reach, shocking 13 |
-| &emsp;Vibrobaton		    |250 cr&nbsp;&nbsp;     |2d4 kinetic		|4.00 lb&nbsp;&nbsp;       |— |
-| &emsp;Vibroclaymore		|1,700 cr&nbsp;&nbsp;   |3d4 kinetic		|10.50 lb&nbsp;&nbsp;    |Dexterity 13, two-handed |
-| &emsp;Vibrolance			|1,500 cr&nbsp;&nbsp;   |1d12 kinetic		|8.50 lb&nbsp;&nbsp;     |Dexterity 13, reach, special |
-| &emsp;Wristblade		    |275 cr&nbsp;&nbsp;     |1d6 kinetic		|1.75 lb&nbsp;&nbsp;    |Fixed, light, piercing 1 |
+| &emsp;Bolas               |100 cr     |—          	    |2.00 lb       |Light, special, thrown (range 20/60) |
+| &emsp;Cesta               |975 cr     |1d8 kinetic        |5.75 lb    |Disguised, double (1d8) finesse, special |
+| &emsp;Chained dagger      |350 cr     |1d4 kinetic		|3.75 lb    |Disarming, finesse, reach |
+| &emsp;Disguised blade     |125 cr     |1d4 kinetic		|1.00 lb       |Disarming, disguised, finesse, light |
+| &emsp;Disruptorshiv       |425 cr     |1d4 kinetic		|2.50 lb     |Disruptive, finesse, shocking 13 |
+| &emsp;Electrovoulge      |1,250 cr   |1d10 kinetic	    |10.00 lb      |Dexterity 13, reach, shocking 13, two-handed |
+| &emsp;Electrowhip        |725 cr     |1d4 kinetic		|4.25 lb    |Dexterity 11, disruptive, reach, shocking 13 |
+| &emsp;Hooked vibroblade   |225 cr     |1d8 kinetic		|3.75 lb    |Disarming, finesse |
+| &emsp;Jagged vibroblade   |650 cr     |2d4 kinetic		|7.00 lb       |Dexterity 13, keen 1, versatile (1d12) |
+| &emsp;Riot baton          |250 cr     |1d6 kinetic		|1.50 lb     |Defensive 1, light |
+| &emsp;Riot shocker		|425 cr     |1d4 kinetic		|1.00 lb       |Defensive 1, light, shocking 13 |
+| &emsp;Shock whip			|475 cr     |1d4 kinetic		|3.50 lb     |Reach, shocking 13 |
+| &emsp;Vibrobaton		    |250 cr     |2d4 kinetic		|4.00 lb       |— |
+| &emsp;Vibroclaymore		|1,700 cr   |3d4 kinetic		|10.50 lb    |Dexterity 13, two-handed |
+| &emsp;Vibrolance			|1,500 cr   |1d12 kinetic		|8.50 lb     |Dexterity 13, reach, special |
+| &emsp;Wristblade		    |275 cr     |1d6 kinetic		|1.75 lb    |Fixed, light, piercing 1 |
 
 ## Exotic Weapons
 
@@ -186,27 +189,28 @@ For modal exotics, each mode has separate modification slots, with the exception
 
 
 ##### Blasters
-|Name&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| &emsp;Cost&nbsp;&nbsp;|Damage&emsp;&nbsp;&nbsp;|Weight&nbsp;&nbsp;|Properties| 
+
+|Name| Cost|Damage|Weight|Properties| 
 |:---|---:|:---|-:|:---|
 |	_Exotic Blasters_	|||||
-| &emsp;Bo-rifle		|  1,075 cr&nbsp;&nbsp;|—		| 8.75 lb&nbsp;&nbsp;	|Modal (blaster rifle and techstaff) |
-| &emsp;IWS           |  3,625 cr&nbsp;&nbsp;|—     |23.00 lb&nbsp;&nbsp;  |Modal (blaster rifle, grenade launcher, and sniper rifle)|
-| &emsp;Radrifle			|  1,575 cr&nbsp;&nbsp;| 1d6 necrotic|14.00 lb&nbsp;&nbsp;|Disintegrate 15, power cell (range 120/480), reload 8, specialized<br> (disintegrate), strength 13, two-handed|
+| &emsp;Bo-rifle		|  1,075 cr|—		| 8.75 lb	|Modal (blaster rifle and techstaff) |
+| &emsp;IWS           |  3,625 cr|—     |23.00 lb  |Modal (blaster rifle, grenade launcher, and sniper rifle)|
+| &emsp;Radrifle			|  1,575 cr| 1d6 necrotic|14.00 lb|Disintegrate 15, power cell (range 120/480), reload 8, specialized<br> (disintegrate), strength 13, two-handed|
 
 ##### Lightweapons
-|Name&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|Cost&nbsp;&nbsp;|Damage&emsp;&nbsp;&nbsp;|Weight&nbsp;&nbsp;|Properties&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|
+|Name|Cost|Damage|Weight|Properties|
 |:---|---:|:---|-:|:---|
 |	_Exotic Lightweapons_	|||||||
-| &emsp;Saberstaff		|  1,375 cr&nbsp;&nbsp;|—		| 6.50 lb&nbsp;&nbsp;	|Modal (double-saber and tech-staff) |
-| &emsp;Sunsaber	    |  1,875 cr&nbsp;&nbsp;|1d6 fire| 3.00 lb&nbsp;&nbsp;	|Bright 15, dexterity 11, hidden, specialized (bright), versatile (2d4)|
+| &emsp;Saberstaff		|  1,375 cr|—		| 6.50 lb	|Modal (double-saber and tech-staff) |
+| &emsp;Sunsaber	    |  1,875 cr|1d6 fire| 3.00 lb	|Bright 15, dexterity 11, hidden, specialized (bright), versatile (2d4)|
 
 ##### Vibroweapons
-|Name&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|Cost&nbsp;&nbsp;|Damage&emsp;&nbsp;&nbsp;|Weight&nbsp;&nbsp;|Properties&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|
+|Name|Cost|Damage|Weight|Properties|
 |:---|---:|:---|-:|:---|
 |	_Exotic Vibroweapons_	|||||
-| &emsp;Bo-rifle		|  1,075 cr&nbsp;&nbsp;|—		| 8.75 lb&nbsp;&nbsp;	|Modal (blaster rifle and techstaff) |
-| &emsp;Neuronic whip	|    725 cr&nbsp;&nbsp;|1d4 kinetic		| 4.00 lb&nbsp;&nbsp;	|Reach, shocking 15, specialized (shocking)|
-| &emsp;Saberstaff		|  1,375 cr&nbsp;&nbsp;|—		| 6.50 lb&nbsp;&nbsp;	|Modal (double-saber and tech-staff) |
+| &emsp;Bo-rifle		|  1,075 cr|—		| 8.75 lb	|Modal (blaster rifle and techstaff) |
+| &emsp;Neuronic whip	|    725 cr|1d4 kinetic		| 4.00 lb	|Reach, shocking 15, specialized (shocking)|
+| &emsp;Saberstaff		|  1,375 cr|—		| 6.50 lb	|Modal (double-saber and tech-staff) |
 
 
 
@@ -436,8 +440,6 @@ A shock glove is a type of armored glove that is coated with a webbed lacing. Wh
 
 ##### Adventuring Gear
 
-
-
 |	Item	|	Cost	|	Weight		|
 |	:--	|	--:	|	--:		|
 |	_Ammunition_	|		|			|
@@ -490,6 +492,7 @@ A shock glove is a type of armored glove that is coated with a webbed lacing. Wh
 One common way to spend wealth is to purchase droids. Some droids are built for scouting, while others offer advanced skillsets. Protocol droids help communicate with foreign bodies, and combat droids can help supplement a budding force. The Droids table offers some choices for purchase.
 
 |Droid Designation|Cost|
+
 |:--|--:|
 |3PO Series Protocol Droid|5,500 cr|
 |B1-A Battle Droid|1,300 cr|
@@ -522,17 +525,19 @@ A military saddle braces the rider, helping you keep your seat on an active moun
 
 
 ##### Mounts and Other Animals
-|	Item			|	Cost	| &nbsp;&nbsp;	|	Speed	|	Carrying Capacity	|
-|	:--				|	--:		|:--:			|	:--:	|	--:					|
-|	Tauntaun		|	500 cr	|				|	50 ft.	|	480.00 lb	|
-|	Kaadu       	|	450 cr	|				|	40 ft.	|	620.00 lb	|
-|	Rancor  		| 2,000 cr	|				|	40 ft.	| 3,320.00 lb	|
-|	Sleen        	|	500 cr	|				|	40 ft.	|	740.00 lb	|
-|	Varactyl    	|   750 cr	|				|	60 ft.	| 2,200.00 lb	|
-|	Bantha			| 1,200 cr	|				|	40 ft.	| 8,000.00 lb	|
-|	Dewback  		|	900 cr	|				|	50 ft.	| 1,140.00 lb	|
 
-##### Tack, Harness, and Drawn Vehicles											
+|	Item			|	Cost	|	Speed	|	Carrying Capacity	|
+|	:--				|	--:		| :--:	|	--:					|
+|	Tauntaun		|	500 cr	|	50 ft.	|	480.00 lb	|
+|	Kaadu       	|	450 cr	|	40 ft.	|	620.00 lb	|
+|	Rancor  		| 2,000 cr	|	40 ft.	| 3,320.00 lb	|
+|	Sleen        	|	500 cr	|	40 ft.	|	740.00 lb	|
+|	Varactyl    	|   750 cr	|	60 ft.	| 2,200.00 lb	|
+|	Bantha			| 1,200 cr	|	40 ft.	| 8,000.00 lb	|
+|	Dewback  		|	900 cr	|		50 ft.	| 1,140.00 lb	|
+
+##### Tack, Harness, and Drawn Vehicles				
+
 |	Item		|	Cost	|	Weight	|				
 |	:--		|	--:	|	--:	|				
 |	Barding (Tiny)            	|	x 1/3  	|	x 1/2	|	
@@ -555,7 +560,8 @@ A military saddle braces the rider, helping you keep your seat on an active moun
 ### Vehicles
 Vehicles are more common on civilized planets than animal mounts. Vehicles do not have access to barding and do not require saddles. Vehicles vary greatly based on price, speed, carrying capacity, personnel capacity, and armaments (if any). Below are some base costs for standard types of speeders. Vehicles are governed by Piloting proficiency.
 
-##### Vehicles											
+##### Vehicles
+
 |	Item	    	|	Cost	    |	Speed	|
 |	:--	        	|	--:	        |	--:	    |
 |   Airspeeder      |  14,500 cr    |   750 mph |
