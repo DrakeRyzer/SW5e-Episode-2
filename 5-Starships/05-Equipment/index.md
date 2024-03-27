@@ -21,7 +21,7 @@ which is multiplied by the base cost of the item.  Because Ship weapons and ammu
 ##### Starship Size Equipment Cost 
 
 
-| Starship<br> Size | Cost<br> Modifier |
+| Starship Size | Cost Modifier |
 |:----:|:---:|
 | Tiny  |x 0.5 |
 | Small |x 1 |
@@ -84,13 +84,13 @@ Each ship comes with a capacity for a certain amount of cargo, depending on its 
 ##### Starship Size Cargo Capacity
 
 
-|Starship<br> Size|Cargo<br> Capacity|
+|Starship Size|Cargo Capacity|
 |:--:|:--:|
 |Tiny|—|
 |Small|2 tons|
 |Medium|25 tons|
 
-|Starship<br> Size|Cargo<br> Capacity|
+|Starship Size|Cargo Capacity|
 |:--:|:--:|
 |Large|500 tons|
 |Huge|10,000 tons|
@@ -163,9 +163,9 @@ Quick-Charge Shields, opposite of Fortress Shields, offer a reduced capacity, bu
 
 
 
-|Name|Cost   |Armor Class|Damage<br> Reduction|Stealth|       Shield<br>      Capacity|Shield Regeneration<br>   Rate Coefficient|
+|Name|Cost   |Armor Class|Damage Reduction|Stealth |  Shield Capacity|Shield Regeneration  Rate Coefficient|
 |:--|--:|:--:|:--:|:--:|:--:|:--:|
-|	_Armor_	    ||||||||
+|	_Armor_	    |||||||
 | &emsp;	Lightweight armor       |3,100 cr| 10+Dex |- |-|          -|      -| 
 | &emsp;	Deflection armor      |3,450 cr| 10+Dex (max 2) | 3|-|          -|      -| 
 | &emsp;	Reinforced armor       |3,700 cr| 10+Dex (max 0) | 6|Disadv.|          -|      -|
@@ -190,7 +190,8 @@ The size of your ship’s power dice is determined by your ship’s tier, as sho
 Your ship’s maximum power dice and how your power dice are stored are determined by your ship's power coupling.  How many power dice it recovers each turn is determined by your ship’s reactor. 
 
 ##### Starship Tier Power Die Size
-|Starship<br> Tier|Power<br> Die Size |
+
+|Starship Tier|Power Die Size |
 |:--:|:--:|
 |0|1|
 |1|d4|
@@ -202,13 +203,7 @@ Your ship’s maximum power dice and how your power dice are stored are determin
 ### Reactors
 Ships use different reactor types based on their intend-ed uses. While the majority of commercial ships use standard reactors with average performance charac-teristics, some ships use more specialized reactor systems. Ships meant for endurance or stealth may use reactors optimized for fuel efficiency, while military craft often use reactors with greater fuel consumption and improved power output. 
 
-***Power Die Recovery.*** At the start of each of your ship’s turns, it recovers a number of expended power dice, as shown in the Power Dice Recovery column of 
-
-
-
-
-
-the **Reactors and Power Couplings** table below.
+***Power Die Recovery.*** At the start of each of your ship’s turns, it recovers a number of expended power dice, as shown in the Power Dice Recovery column of the **Reactors and Power Couplings** table below.
 
 #### Fuel Cell Reactor
 Fuel cell reactors are the most common and balanced reactors on the market.
@@ -237,13 +232,13 @@ A hub and spoke coupling system combines attributes of both other systems, provi
 
 
 ##### Reactors and Power Couplings
-|Name|Cost|Fuel Use<br> Modifier|Power Dice<br> Recovery|Central Storage<br> Capacity|System Storage<br> Capacity|
-|:--|--:|:--:|:--:|:--:|:--:|:--:|
-|	_Reactor_	    ||||||||
+|Name|Cost|Fuel Use Modifier|Power Dice Recovery|Central Storage Capacity|System Storage Capacity|
+|:--|--:|:--:|:--:|:--:|:--:|
+|	_Reactor_	    ||||||
 |&emsp;	Fuel cell reactor  |4,500 cr| -    |1|-|-| 
 |&emsp;	Ionization reactor |5,100 cr| x 0.5|1d2-1|-|-| 
 |&emsp;	Power core reactor |5,750 cr| x 1.5|1d2|-|-|
-|	_Power Coupling_	||||||||
+|	_Power Coupling_	||||||
 |&emsp;	Direct power coupling |4,100 cr| - | - |4|-|
 |&emsp;	Distributed power coupling   |5,100 cr| - | - |-|2 (per system)|
 |&emsp; Hub & spoke power coupling   |5,600 cr| - | - |2|1 (per system)|
@@ -267,26 +262,12 @@ In order to install a weapon onto a starship, the ship must have a vacant hardpo
 > If your ship does not have any vacant hardpoints, then you must first purchase and install a hardpoint. If you want your weapon to have an unlimited firing arc, e.g., you purchase and install a hardpoint modification and a turret mounting modification (which has, as a prerequisite, the hardpoint modification). After installing the hardpoint per the modification installation rules in Chapter 4, you can now install the new weapon onto the hardpoint.
 
 
-Ships have weapon categories based on their
-function. Most snubfighters use laser
-cannons, while gunships have both railguns and lasers.
-Specialized ships often carry torpedoes or missile
-batteries, or even a bomb deployer. 
+Ships have weapon categories based on their function. Most snubfighters use laser cannons, while gunships have both railguns and lasers. Specialized ships often carry torpedoes or missile batteries, or even a bomb deployer. 
 
 ### Primary Weapons
 Primary weapons are the most common type that smaller ships carry: laser cannons. If a medium or smaller ship has any weapons, it has laser cannons. Laser cannons vary in effective range, rate of fire, damage, and damage type.
 
-In a Huge or larger ship, primary weapons are
-de-ployed in arrays called point-defense systems.
-Rather than being Fired, point-defense systems are activated via their zone keyword and call
-for Dexterity saving throws to avoid the weapon's
-effects which apply to all ships entering or beginning
-their turn in range of the point-defense system. If the
-target fails the saving throw, they take the weapon's
-normal damage. On a successful save, they take half of
-the weapon's normal damage. A ship can not have
-more than one of each type of point-defense weapon
-in any firing arc.
+In a Huge or larger ship, primary weapons are deployed in arrays called point-defense systems. Rather than being Fired, point-defense systems are activated via their zone keyword and call for Dexterity saving throws to avoid the weapon's effects which apply to all ships entering or beginning their turn in range of the point-defense system. If the target fails the saving throw, they take the weapon's normal damage. On a successful save, they take half of the weapon's normal damage. A ship can not have more than one of each type of point-defense weapon in any firing arc.
 
 ***Range.*** The first number is the primary weapon's **normal range** in feet, and the second number indicates the primary weapon's **long range**. When attacking a target with a primary weapon beyond **normal range**, you have disadvantage on the attack roll. 
 
@@ -445,42 +426,43 @@ The damage done by tertiary ammunition for ships sized Huge and Gargantuan is sh
 
 
 ##### Ship Weapons (Tiny-Large)
-|Name|Cost|  |Damage|Properties| 
-|:---|---:|:-:|:---|:---|
-|_Primary Weapons_	|||||
-|&emsp;Assault laser cannon		|4,150 cr||2d6 energy	 |Power (range 1200/4800), constitution 15, overheat 2|
-|&emsp;Blaster cannon             	|4,000 cr||1d8 energy	 |Power (range 600/2400), hidden, overheat 18, rapid 9|
-|&emsp;Burst laser cannon			|4,500 cr||2d4 energy	 |Power (range 200/800), auto, burst 1, overheat 2, saturate|
-|&emsp;Double laser cannon			|4,500 cr||2d4 energy	 |Power (range 800/3200), overheat 8|
-|&emsp;Heavy blaster cannon		|4,150 cr||1d8 energy	 |Power (range 600/2400), heavy, overheat 12|
-|&emsp;Heavy ion cannon			|4,150 cr||1d10 ion 	 |Power (range 1000/4000), constitution 17, heavy, ionizing, overheat 4|
-|&emsp;Heavy laser cannon			|4,150 cr||1d12 energy	 |Power (range 1200/4800), constitution 15, heavy, overheat 2|
-|&emsp;Ion cannon      			|6,100 cr||2d4 ion       |Power (range 800/3200), constitution 13, ionizing, overheat 8|
-|&emsp;Laser cannon             	|4,000 cr||1d10 energy	 |Power (range 1000/4000), constitution 11, overheat 4|
-|&emsp;Light ion cannon  			|6,100 cr||1d8 ion       |Power (range 800/3200), overheat 16|
-|&emsp;Light laser cannon       	|4,100 cr||1d8 energy	 |Power (range 800/3200), overheat 16|
-|&emsp;Quad laser cannon       	|4,400 cr||2d4 energy	 |Power (range 800/3200), constitution 13, overheat 8, rapid 2|
-|&emsp;Quad pulse laser        	|4,400 cr||1d6 energy	 |Power (range 400/1600), overheat 16, rapid 4|
-|&emsp;Plasburst laser cannon     	|4,000 cr||1d8 energy	 |Power (range 600/2400), burst 12, overheat 12|
-|&emsp;Pulse laser cannon       	|2,500 cr||1d4 energy	 |Power (range 500/2000), keen 1, piercing 1, overheat 20|
-|&emsp;Rapid-fire laser cannon    	|4,600 cr||1d6 energy	 |Power (range 400/1600), auto, burst 16, overheat 16, rapid 4|
-|&emsp;Slug cannon             	|4,000 cr||1d8 kinetic	 |Power (range 600/2400), constitution 11, dire 1, overheat 4|
-|&emsp;Sparkler ion cannon  		|6,100 cr||1d4 ion       |Power (range 200/800), auto, burst 1, ionizing, overheat 1, saturate|
-|&emsp;Thermite cannon      		|6,300 cr||1d12 fire     |Power (range 1200/4800), constitution 17, melt, overheat 2|
-|&emsp;Twin auto-blaster       	|4,400 cr||1d4 energy	 |Power (range 250/1000), auto, burst 10, hidden, overheat 20, rapid 5|
-|&emsp;Twin laser cannon       	|4,400 cr||1d8 energy	 |Power (range 600/2400), constitution 11, rapid 3, overheat 12|
-|_Secondary Weapons_	|||||||
-|&emsp;Ion railgun		        	|5,700 cr||1d10 ion 	 |Power (range 1000/4000), constitution 17, ionizing, overheat 4|
-|&emsp;Particle beam		    	|5,750 cr||2d4 energy    |Power (range 800/3200), constitution 11, overheat 4|
-|&emsp;Slug railgun		    	|5,150 cr||1d12 kinetic  |Power (range 1200/4800), constitution 15, overheat 2|
-|&emsp;Thermite railgun	    	|5,400 cr||1d10 fire     |Power (range 1200/4800), constitution 17, melt, overheat 2|
-|&emsp;Turbolaser   		    	|5,000 cr||1d10 energy   |Power (range 1000/4000), constitution 13, overheat 4|
-|_Tertiary Weapons_	|||||||
-|&emsp;Cluster pod launcher	            |6,000 cr||   -           |Ammunition, reload 12|
-|&emsp;Missile launcher        |6,250 cr||            -  |Ammunition, reload 4|
-|&emsp;Torpedo launcher                  |6,900 cr||  -            |Ammunition reload 4|
-|_Quaternary Weapons_	|||||||
-|&emsp;Bomb deployer               |8,000 cr|| -            |Ammunition, reload 4|
+
+|Name|Cost|Damage|Properties| 
+|:---|---:|:---|:---|
+|_Primary Weapons_	||||
+|&emsp;Assault laser cannon		|4,150 cr|2d6 energy	 |Power (range 1200/4800), constitution 15, overheat 2|
+|&emsp;Blaster cannon             	|4,000 cr|1d8 energy	 |Power (range 600/2400), hidden, overheat 18, rapid 9|
+|&emsp;Burst laser cannon			|4,500 cr|2d4 energy	 |Power (range 200/800), auto, burst 1, overheat 2, saturate|
+|&emsp;Double laser cannon			|4,500 cr|2d4 energy	 |Power (range 800/3200), overheat 8|
+|&emsp;Heavy blaster cannon		|4,150 cr|1d8 energy	 |Power (range 600/2400), heavy, overheat 12|
+|&emsp;Heavy ion cannon			|4,150 cr|1d10 ion 	 |Power (range 1000/4000), constitution 17, heavy, ionizing, overheat 4|
+|&emsp;Heavy laser cannon			|4,150 cr|1d12 energy	 |Power (range 1200/4800), constitution 15, heavy, overheat 2|
+|&emsp;Ion cannon      			|6,100 cr|2d4 ion       |Power (range 800/3200), constitution 13, ionizing, overheat 8|
+|&emsp;Laser cannon             	|4,000 cr|1d10 energy	 |Power (range 1000/4000), constitution 11, overheat 4|
+|&emsp;Light ion cannon  			|6,100 cr|1d8 ion       |Power (range 800/3200), overheat 16|
+|&emsp;Light laser cannon       	|4,100 cr|1d8 energy	 |Power (range 800/3200), overheat 16|
+|&emsp;Quad laser cannon       	|4,400 cr|2d4 energy	 |Power (range 800/3200), constitution 13, overheat 8, rapid 2|
+|&emsp;Quad pulse laser        	|4,400 cr|1d6 energy	 |Power (range 400/1600), overheat 16, rapid 4|
+|&emsp;Plasburst laser cannon     	|4,000 cr|1d8 energy	 |Power (range 600/2400), burst 12, overheat 12|
+|&emsp;Pulse laser cannon       	|2,500 cr|1d4 energy	 |Power (range 500/2000), keen 1, piercing 1, overheat 20|
+|&emsp;Rapid-fire laser cannon    	|4,600 cr|1d6 energy	 |Power (range 400/1600), auto, burst 16, overheat 16, rapid 4|
+|&emsp;Slug cannon             	|4,000 cr|1d8 kinetic	 |Power (range 600/2400), constitution 11, dire 1, overheat 4|
+|&emsp;Sparkler ion cannon  		|6,100 cr|1d4 ion       |Power (range 200/800), auto, burst 1, ionizing, overheat 1, saturate|
+|&emsp;Thermite cannon      		|6,300 cr|1d12 fire     |Power (range 1200/4800), constitution 17, melt, overheat 2|
+|&emsp;Twin auto-blaster       	|4,400 cr|1d4 energy	 |Power (range 250/1000), auto, burst 10, hidden, overheat 20, rapid 5|
+|&emsp;Twin laser cannon       	|4,400 cr|1d8 energy	 |Power (range 600/2400), constitution 11, rapid 3, overheat 12|
+|_Secondary Weapons_	||||
+|&emsp;Ion railgun		        	|5,700 cr|1d10 ion 	 |Power (range 1000/4000), constitution 17, ionizing, overheat 4|
+|&emsp;Particle beam		    	|5,750 cr|2d4 energy    |Power (range 800/3200), constitution 11, overheat 4|
+|&emsp;Slug railgun		    	|5,150 cr|1d12 kinetic  |Power (range 1200/4800), constitution 15, overheat 2|
+|&emsp;Thermite railgun	    	|5,400 cr|1d10 fire     |Power (range 1200/4800), constitution 17, melt, overheat 2|
+|&emsp;Turbolaser   		    	|5,000 cr|1d10 energy   |Power (range 1000/4000), constitution 13, overheat 4|
+|_Tertiary Weapons_	||||
+|&emsp;Cluster pod launcher	            |6,000 cr|   -           |Ammunition, reload 12|
+|&emsp;Missile launcher        |6,250 cr|            -  |Ammunition, reload 4|
+|&emsp;Torpedo launcher                  |6,900 cr|  -            |Ammunition reload 4|
+|_Quaternary Weapons_	||||
+|&emsp;Bomb deployer               |8,000 cr| -            |Ammunition, reload 4|
 
 
 
@@ -495,43 +477,44 @@ The damage done by tertiary ammunition for ships sized Huge and Gargantuan is sh
 
 
 ##### Ship Weapons (Huge-Gargantuan)
-|Name|Cost|  |Damage|Properties| 
-|:---|---:|:-:|:---|:---|
-|_Primary Weapons_	|||||
-|&emsp;Blaster point-defense      |4,000 cr||3d4 energy	     |Power (range 200/800), saturate, zone|
-|&emsp;Ion cannon point-defense   |5,500 cr||2d6 ion   	     |Power (range 300/1200), ionizing, saturate, zone|
-|&emsp;Laser cannon point-defense |6,000 cr||3d6 energy	     |Power (range 300/1200), saturate, zone|
-|&emsp;Ordnance point-defense     |6,000 cr||2d6 kinetic        |Power (range 300/1200), explosive, saturate, zone|
-|_Secondary Weapons_	|||||||
-|&emsp;Assault turbolaser battery	    |4,150 cr||6d6 energy	 |Power (range 1200/4800), con. 15, overheat 2|
-|&emsp;Burst turbolaser battery  	    |4,500 cr||6d4 energy	 |Power (range 200/800), auto, burst 1, overheat 2, saturate|
-|&emsp;Double turbolaser battery 	    |4,500 cr||6d4 energy	 |Power (range 800/3200), overheat 8|
-|&emsp;Heavy ion battery			    |4,150 cr||3d10 ion 	 |Power (range 1000/4000), con. 17, heavy, ionizing, overheat 4|
-|&emsp;Heavy ion railgun		        |5,700 cr||3d10 ion 	 |Power (range 2000/8000), con. 19, ionizing, overheat 4|
-|&emsp;Heavy gun battery            	|4,000 cr||4d10 kinetic	 |Power (range 400/1600), con. 17, overheat 1, vicious 1|
-|&emsp;Heavy slug railgun   		    |5,150 cr||3d12 kinetic  |Power (range 2400/9600), con. 17, overheat 2|
-|&emsp;Heavy thermite railgun	    	|5,400 cr||3d10 fire     |Power (range 2400/9600), con. 19, melt, overheat 2|
-|&emsp;Heavy turbolaser battery	    |4,150 cr||3d12 energy	 |Power (range 1200/4800), con. 15, heavy, overheat 2|
-|&emsp;Ion battery     			    |6,100 cr||6d4 ion       |Power (range 800/3200), con. 13, ionizing, overheat 8|
-|&emsp;Light ion battery 		    	|6,100 cr||3d8 ion       |Power (range 800/3200), overheat 16|
-|&emsp;Light turbolaser battery   	    |4,100 cr||3d8 energy	 |Power (range 800/3200), overheat 16|
-|&emsp;Long-range turbolaser battery  	|4,000 cr||3d10 energy   |Power (range 2400/9600), con. 15, overheat 2|
-|&emsp;Heavy ion railgun		        |5,700 cr||3d10 ion 	 |Power (range 2000/8000), con. 19, ionizing, overheat 4|
-|&emsp;Quad turbolaser battery     	|4,400 cr||6d4 energy	 |Power (range 800/3200), con. 13, overheat 8, rapid 2|
-|&emsp;Quad pulse turbolaser battery  	|4,400 cr||2d6 energy	 |Power (range 400/1600), overheat 16, rapid 4|
-|&emsp;Particle Cannon		    	    |5,750 cr||6d4 energy    |Power (range 1600/6400), con. 13, overheat 4|
-|&emsp;Plasburst turbolaser battery 	|4,000 cr||3d8 energy	 |Power (range 600/2400), burst 12, overheat 12|
-|&emsp;Pulse turbolaser battery       	|2,500 cr||3d4 energy	 |Power (range 500/2000), keen 1, piercing 1, overheat 20|
-|&emsp;Rapid-fire turbolaser battery  	|4,600 cr||3d6 energy	 |Power (range 400/1600), auto, burst 16, overheat 16, rapid 4|
-|&emsp;Thermite battery      	    	|6,300 cr||3d12 fire     |Power (range 1200/4800), con. 17, melt, overheat 2|
-|&emsp;Turbolaser battery         	    |4,000 cr||3d10 energy	 |Power (range 1000/4000), con. 11, overheat 4|
-|&emsp;Twin turbolaser battery      	|4,400 cr||2d8 energy	 |Power (range 600/2400), con. 11, rapid 3, overheat 12|
-|_Tertiary Weapons_	|||||||
-|&emsp;Assault cluster pod launcher	            |6,000 cr||   -           |Ammunition, reload 24|
-|&emsp;Assault missile launcher        |6,250 cr||            -  |Ammunition, reload 8|
-|&emsp;Assault torpedo launcher                  |6,900 cr||  -            |Ammunition reload 8|
+
+|Name|Cost|Damage|Properties| 
+|:---|---:|:---|:---|
+|_Primary Weapons_	||||
+|&emsp;Blaster point-defense      |4,000 cr|3d4 energy	     |Power (range 200/800), saturate, zone|
+|&emsp;Ion cannon point-defense   |5,500 cr|2d6 ion   	     |Power (range 300/1200), ionizing, saturate, zone|
+|&emsp;Laser cannon point-defense |6,000 cr|3d6 energy	     |Power (range 300/1200), saturate, zone|
+|&emsp;Ordnance point-defense     |6,000 cr|2d6 kinetic        |Power (range 300/1200), explosive, saturate, zone|
+|_Secondary Weapons_	||||
+|&emsp;Assault turbolaser battery	    |4,150 cr|6d6 energy	 |Power (range 1200/4800), con. 15, overheat 2|
+|&emsp;Burst turbolaser battery  	    |4,500 cr|6d4 energy	 |Power (range 200/800), auto, burst 1, overheat 2, saturate|
+|&emsp;Double turbolaser battery 	    |4,500 cr|6d4 energy	 |Power (range 800/3200), overheat 8|
+|&emsp;Heavy ion battery			    |4,150 cr|3d10 ion 	 |Power (range 1000/4000), con. 17, heavy, ionizing, overheat 4|
+|&emsp;Heavy ion railgun		        |5,700 cr|3d10 ion 	 |Power (range 2000/8000), con. 19, ionizing, overheat 4|
+|&emsp;Heavy gun battery            	|4,000 cr|4d10 kinetic	 |Power (range 400/1600), con. 17, overheat 1, vicious 1|
+|&emsp;Heavy slug railgun   		    |5,150 cr|3d12 kinetic  |Power (range 2400/9600), con. 17, overheat 2|
+|&emsp;Heavy thermite railgun	    	|5,400 cr|3d10 fire     |Power (range 2400/9600), con. 19, melt, overheat 2|
+|&emsp;Heavy turbolaser battery	    |4,150 cr|3d12 energy	 |Power (range 1200/4800), con. 15, heavy, overheat 2|
+|&emsp;Ion battery     			    |6,100 cr|6d4 ion       |Power (range 800/3200), con. 13, ionizing, overheat 8|
+|&emsp;Light ion battery 		    	|6,100 cr|3d8 ion       |Power (range 800/3200), overheat 16|
+|&emsp;Light turbolaser battery   	    |4,100 cr|3d8 energy	 |Power (range 800/3200), overheat 16|
+|&emsp;Long-range turbolaser battery  	|4,000 cr|3d10 energy   |Power (range 2400/9600), con. 15, overheat 2|
+|&emsp;Heavy ion railgun		        |5,700 cr|3d10 ion 	 |Power (range 2000/8000), con. 19, ionizing, overheat 4|
+|&emsp;Quad turbolaser battery     	|4,400 cr|6d4 energy	 |Power (range 800/3200), con. 13, overheat 8, rapid 2|
+|&emsp;Quad pulse turbolaser battery  	|4,400 cr|2d6 energy	 |Power (range 400/1600), overheat 16, rapid 4|
+|&emsp;Particle Cannon		    	    |5,750 cr|6d4 energy    |Power (range 1600/6400), con. 13, overheat 4|
+|&emsp;Plasburst turbolaser battery 	|4,000 cr|3d8 energy	 |Power (range 600/2400), burst 12, overheat 12|
+|&emsp;Pulse turbolaser battery       	|2,500 cr|3d4 energy	 |Power (range 500/2000), keen 1, piercing 1, overheat 20|
+|&emsp;Rapid-fire turbolaser battery  	|4,600 cr|3d6 energy	 |Power (range 400/1600), auto, burst 16, overheat 16, rapid 4|
+|&emsp;Thermite battery      	    	|6,300 cr|3d12 fire     |Power (range 1200/4800), con. 17, melt, overheat 2|
+|&emsp;Turbolaser battery         	    |4,000 cr|3d10 energy	 |Power (range 1000/4000), con. 11, overheat 4|
+|&emsp;Twin turbolaser battery      	|4,400 cr|2d8 energy	 |Power (range 600/2400), con. 11, rapid 3, overheat 12|
+|_Tertiary Weapons_	||||
+|&emsp;Assault cluster pod launcher	            |6,000 cr|   -           |Ammunition, reload 24|
+|&emsp;Assault missile launcher        |6,250 cr|            -  |Ammunition, reload 8|
+|&emsp;Assault torpedo launcher                  |6,900 cr|  -            |Ammunition reload 8|
 |_Quaternary Weapons_	|||||||
-|&emsp;	Bomb layer                  |8,000 cr||-                |Ammunition, reload 8|
+|&emsp;	Bomb layer                  |8,000 cr|-                |Ammunition, reload 8|
 
 
 
@@ -545,30 +528,31 @@ The damage done by tertiary ammunition for ships sized Huge and Gargantuan is sh
 
 
 ##### Tertiary Ammunition
-|Name|Cost&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Damage&nbsp;&nbsp;&nbsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;|Weight&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Properties|
+
+|Name|Cost|Damage|Weight|Properties|
 |:---|---:|:---|-:|:---|
-|_(Assault) Cluster pod_	|||||||
-| &emsp; Adv. cluster missile          |200 cr&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  |3d6 (6d6) kinetic  |20 (40) lb&nbsp;&nbsp;&nbsp;&nbsp;|(Range 600/2400), auto, burst 6, explosive, rapid 6|
-| &emsp; Adv. homing cluster missile   |250 cr&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  |3d6 (6d6) kinetic  |25 (50) lb&nbsp;&nbsp;&nbsp;&nbsp;|(Range 600/2400), auto, burst 6, explosive, homing, rapid 6|
-| &emsp; Cluster missile              |100 cr&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   |3d4 (6d4) kinetic   |10 (20) lb&nbsp;&nbsp;&nbsp;&nbsp;|(Range 600/2400), auto, burst 6, explosive, rapid 6|
-| &emsp; Homing cluster missile        |150 cr&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  |3d4 (6d4) kinetic |15 (30) lb&nbsp;&nbsp;&nbsp;&nbsp;|(Range 600/2400), auto, burst 6, explosive, homing, rapid 6|
-| &emsp; Nano cluster rocket          |100 cr&nbsp;&nbsp; &nbsp;&nbsp;  |1d4 (2d4) kinetic  |10 (20) lb&nbsp;&nbsp;&nbsp;&nbsp;|(Range 800/3200), explosive, homing|
-|_(Assault) Missile launcher_	||||||
-| &emsp; Adv. concussion missile       |1250 cr&nbsp;&nbsp;&nbsp;|2d10 (4d10) energy |125 (250) lb|(Range 800/3200), auto, burst 1, explosive, rapid 1|
-| &emsp; Concussion missile            |750 cr&nbsp;&nbsp;&nbsp;  |2d8 (4d8) energy   |75 (150) lb&nbsp;&nbsp;|(Range 600/2400), auto, burst 1, explosive, rapid 1|
-| &emsp; Conner net (missile)          |850 cr&nbsp;&nbsp; &nbsp; |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-                  |85 (170) lb&nbsp;&nbsp;|(Range 600/2400), special|
-| &emsp; Discord missile               |850 cr&nbsp;&nbsp; &nbsp; |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-                  |85 (170) lb&nbsp;&nbsp;|(Range 600/2400), special|
-| &emsp; Proton rocket                 |950 cr&nbsp;&nbsp;&nbsp;  |10d4 (20d4) kinetic|95 (190) lb&nbsp;&nbsp;|(Range 200/800), explosive, vicious 1|
-| &emsp; Ion pulse missile             |700 cr&nbsp;&nbsp;&nbsp;  |2d10 (4d10) ion    |70 (140) lb&nbsp;&nbsp;|(Range 1000/4000), ionizing|
-| &emsp; Silent thunder missile        |1500 cr &nbsp;&nbsp;|4d10 (8d10) energy |150 (300) lb|(Range 1200/4800), explosive|
-| &emsp; S-thread tracer               |1500 cr &nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-                  |50 (100) lb&nbsp;&nbsp;|(Range 1200/4800), special|
-|_(Assault) Torpedo launcher_	||||||
-| &emsp; Advanced proton torpedo       |850 cr&nbsp;&nbsp;&nbsp;  |2d12 (4d12) energy |85 (170) lb&nbsp;&nbsp;|(Range 800/3200), explosive, keen 1|
-| &emsp; Flechette torpedo             |850 cr&nbsp;&nbsp;&nbsp;  |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-                  |85 (170) lb&nbsp;&nbsp;|(Range 600/2400), special|
-| &emsp; Homing torpedo                |250 cr&nbsp;&nbsp;&nbsp;&nbsp;  |1d12 (2d12) energy |25 (50) lb&nbsp;&nbsp;&nbsp;&nbsp;|(Range 1200/4800), explosive, homing|
-| &emsp; Plasma torpedo                |700 cr&nbsp;&nbsp;&nbsp;  |2d12 (4d12) ion    |70 (140) lb&nbsp;&nbsp;|(Range 1200/4800), vicious 1|
-| &emsp; Proton torpedo                |650 cr&nbsp;&nbsp;&nbsp;  |2d10 (4d10) energy |65 (130) lb&nbsp;&nbsp;|(Range 1200/4800), explosive, keen 1|
-| &emsp; Thermite torpedo              |700 cr&nbsp;&nbsp;&nbsp;  |2d10 (4d10) fire   |70 (140) lb&nbsp;&nbsp;|(Range 1200/4800), melt, keen 1|
+|_(Assault) Cluster pod_	|||||
+| &emsp; Adv. cluster missile          |200 cr  |3d6 (6d6) kinetic  |20 (40) lb|(Range 600/2400), auto, burst 6, explosive, rapid 6|
+| &emsp; Adv. homing cluster missile   |250 cr  |3d6 (6d6) kinetic  |25 (50) lb|(Range 600/2400), auto, burst 6, explosive, homing, rapid 6|
+| &emsp; Cluster missile              |100 cr   |3d4 (6d4) kinetic   |10 (20) lb|(Range 600/2400), auto, burst 6, explosive, rapid 6|
+| &emsp; Homing cluster missile        |150 cr  |3d4 (6d4) kinetic |15 (30) lb|(Range 600/2400), auto, burst 6, explosive, homing, rapid 6|
+| &emsp; Nano cluster rocket          |100 cr   |1d4 (2d4) kinetic  |10 (20) lb|(Range 800/3200), explosive, homing|
+|_(Assault) Missile launcher_	|||||
+| &emsp; Adv. concussion missile       |1250 cr|2d10 (4d10) energy |125 (250) lb|(Range 800/3200), auto, burst 1, explosive, rapid 1|
+| &emsp; Concussion missile            |750 cr  |2d8 (4d8) energy   |75 (150) lb|(Range 600/2400), auto, burst 1, explosive, rapid 1|
+| &emsp; Conner net (missile)          |850 cr  |-                  |85 (170) lb|(Range 600/2400), special|
+| &emsp; Discord missile               |850 cr  |-                  |85 (170) lb|(Range 600/2400), special|
+| &emsp; Proton rocket                 |950 cr  |10d4 (20d4) kinetic|95 (190) lb|(Range 200/800), explosive, vicious 1|
+| &emsp; Ion pulse missile             |700 cr  |2d10 (4d10) ion    |70 (140) lb|(Range 1000/4000), ionizing|
+| &emsp; Silent thunder missile        |1500 cr |4d10 (8d10) energy |150 (300) lb|(Range 1200/4800), explosive|
+| &emsp; S-thread tracer               |1500 cr |-                  |50 (100) lb|(Range 1200/4800), special|
+|_(Assault) Torpedo launcher_	|||||
+| &emsp; Advanced proton torpedo       |850 cr  |2d12 (4d12) energy |85 (170) lb|(Range 800/3200), explosive, keen 1|
+| &emsp; Flechette torpedo             |850 cr  |-                  |85 (170) lb|(Range 600/2400), special|
+| &emsp; Homing torpedo                |250 cr  |1d12 (2d12) energy |25 (50) lb|(Range 1200/4800), explosive, homing|
+| &emsp; Plasma torpedo                |700 cr  |2d12 (4d12) ion    |70 (140) lb|(Range 1200/4800), vicious 1|
+| &emsp; Proton torpedo                |650 cr  |2d10 (4d10) energy |65 (130) lb|(Range 1200/4800), explosive, keen 1|
+| &emsp; Thermite torpedo              |700 cr  |2d10 (4d10) fire   |70 (140) lb|(Range 1200/4800), melt, keen 1|
 
 
 
@@ -678,6 +662,7 @@ A ship can have multiple hyperdrives. Larger ships typically have a back-up in c
 
 
 ##### Hyperdrives
+
 |Name|Cost|
 |:--|--:|
 |Hyperdrive, class 0.5    |50,000 cr|
@@ -724,6 +709,7 @@ Ships consume fuel in terms of "units", the quantity of which varies by the size
 
 
 ##### Starship Size Fuel Cost
+
 |Starship Size|Fuel Cost|
 |:--|--:|
 |Tiny|25 cr/unit|
@@ -736,6 +722,7 @@ Ships consume fuel in terms of "units", the quantity of which varies by the size
 Additionally, a ship can store an amount of fuel, as determined by its size, in the **Starship Size Fuel Capacity** table below.
 
 ##### Starship Size Fuel Capacity
+
 |Starship Size|Fuel Capacity|
 |:--|--:|
 |Tiny| 5 units|
@@ -752,6 +739,7 @@ When a ship refuels, their primary systems, such as electricity and life support
 Ships store food and beverage in terms of "portions", the quantity of which varies by the size of the ship. Each living creature aboard a ship consumes one portion per day spent aboard the ship. A portion costs 10 credits. 
 
 ##### Starship Size Food Capacity
+
 |Starship Size|Food Capacity|
 |:--|--:|
 |Tiny| -|
