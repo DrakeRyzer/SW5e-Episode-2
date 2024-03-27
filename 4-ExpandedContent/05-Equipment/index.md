@@ -190,8 +190,7 @@ For modal exotics, each mode has separate modification slots, with the exception
 
 ##### Blasters
 
-
-|Name| Cost|Damage|Weight|Properties| 
+|Name|Cost|Damage|Weight|Properties| 
 |:---|---:|:---|-:|:---|
 |	_Exotic Blasters_	|||||
 | &emsp;Bo-rifle		|  1,075 cr|—		| 8.75 lb	|Modal (blaster rifle and techstaff) |
@@ -199,7 +198,6 @@ For modal exotics, each mode has separate modification slots, with the exception
 | &emsp;Radrifle			|  1,575 cr| 1d6 necrotic|14.00 lb|Disintegrate 15, power cell (range 120/480), reload 8, specialized<br> (disintegrate), strength 13, two-handed|
 
 ##### Lightweapons
-
 
 |Name|Cost|Damage|Weight|Properties|
 |:---|---:|:---|-:|:---|
