@@ -49,6 +49,7 @@ An effect that removes slowed reduces its level as specified in the effect’s d
 
 
 ##### Slowed Level
+
 |Level	|Effect|
 |:--:|:--:|
 |1	|Speed reduced by 150 feet|
