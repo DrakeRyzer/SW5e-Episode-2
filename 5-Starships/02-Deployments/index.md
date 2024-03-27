@@ -22,6 +22,7 @@ Unlike classes, when players achieve the space portion of the game, they start a
 
 
 ##### Deployments
+
 |Deployment  |Description|
 |:--|:--|
 |Ace|Controls the movement and tactics of the ship|
@@ -53,6 +54,7 @@ Regardless of their choice of career, their origin, and their species, all ace p
 
 
 ##### The Ace
+
 | Rank | Feature |
 |:---:|:---|
 | 1st | Venture, Piloting Procedure |
@@ -175,6 +177,7 @@ Without coordination, many a ship would fall to disorganization and a chaos. It 
 
 
 ##### The Coordinator
+
 | Rank | Feature |
 |:---:|:---|
 | 1st | Venture, Coordinating Leadership |
@@ -318,6 +321,7 @@ Whether coming from a military, criminal, or civilian background, all gunners sh
 
 
 ##### The Gunner
+
 | Rank | Feature |
 |:---:|:---|
 | 1st | Venture, Gunner Techniques |
@@ -437,6 +441,7 @@ While mechanics come from all walks of life, they all share one thing in common;
 
 
 ##### The Mechanic
+
 | Rank | Feature |
 |:---:|:---|
 | 1st | Venture, System Boost |
@@ -564,6 +569,7 @@ Operators share their love of a challenge; to overcome the obstacle that few oth
 
 
 ##### The Operator
+
 | Rank | Feature |
 |:---:|:---|
 | 1st | Venture, Operational Control |
@@ -729,6 +735,7 @@ While damage control <br>technicians come from<br> all walks of life, they all <
 
 
 ##### Technician
+
 | Rank | Feature |
 |:---:|:---|
 | 1st | Venture, Defense Stratagems |
