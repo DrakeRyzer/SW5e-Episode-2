@@ -190,6 +190,7 @@ For modal exotics, each mode has separate modification slots, with the exception
 
 ##### Blasters
 
+
 |Name| Cost|Damage|Weight|Properties| 
 |:---|---:|:---|-:|:---|
 |	_Exotic Blasters_	|||||
@@ -199,11 +200,13 @@ For modal exotics, each mode has separate modification slots, with the exception
 
 ##### Lightweapons
 
+
 |Name|Cost|Damage|Weight|Properties|
 |:---|---:|:---|-:|:---|
-|	_Exotic Lightweapons_	|||||||
+|	_Exotic Lightweapons_	|||||
 | &emsp;Saberstaff		|  1,375 cr|—		| 6.50 lb	|Modal (double-saber and tech-staff) |
 | &emsp;Sunsaber	    |  1,875 cr|1d6 fire| 3.00 lb	|Bright 15, dexterity 11, hidden, specialized (bright), versatile (2d4)|
+
 
 ##### Vibroweapons
 
