@@ -75,6 +75,7 @@ After assigning your ability scores, determine your faction's **ability modifier
 > Mandalorians value strength above all, so we assign the highest score, 16, in Strength. The next highest scoresóboth 14ówe apply to Constitution and Wisdom, since Mandalorians are both resilient and perceptive. We then apply the final three scoresó12, 10, and 8óto Charisma, Dexterity, and Intelligence, respectively. The Mandalorian ability scores and modifiers look like this: Strength 16 (+3), Dexterity 10 (+0), Constitution 14 (+2), Intelligence 8 (-1), Wisdom 14 (+2), Charisma 12 (+1).
 
 ##### Ability Scores and Modifiers
+
 |Score|Modifier|
 |:--:|:--:|
 |1|-5|
