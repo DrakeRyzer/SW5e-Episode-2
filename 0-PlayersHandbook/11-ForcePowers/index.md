@@ -476,8 +476,9 @@ ___
 
 
 #### Affect Mind
-_At-will universal power_<br>
-___
+_At-will universal power_
+
+
 - **Casting Time:** 1 action
 - **Range:** 30 feet
 - **Duration:** Concentration, up to 1 minute
@@ -486,7 +487,7 @@ Choose a target within range that isn't hostile toward you. The target must make
 
 On a successful save, the creature does not realize that you tried to use the Force to influence its mood, but it becomes immune to this power for one day. This power has no effect on droids or constructs.
 
-#### Affliction
+### Affliction
 _2nd-level dark side power_
 
 ___
