@@ -502,9 +502,8 @@ If the creature attempts to cast a power with a casting time of 1 action, roll a
 
 The creatures makes another Constitution saving throw at the end of its turn. On a successful save, the effect ends.
 
-#### Animate Weapon
+### Animate Weapon
 _2nd-level universal power_
-___ 
 - **Prerequisite:** Force Disarm
 - **Casting Time:** 1 bonus action
 - **Range:** 60 feet
@@ -518,9 +517,9 @@ An enemy can attempt to gain control of the weapon by using its action to make a
 
 ***Force Potency.*** When you cast this power using a force slot of 3rd level or higher, the weapon's damage increases by 1d8 for every two slot levels above 2nd.
 
-#### Armor of Abeloth
+### Armor of Abeloth
 _1st-level dark side power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Self
 - **Duration:** 1 hour 
