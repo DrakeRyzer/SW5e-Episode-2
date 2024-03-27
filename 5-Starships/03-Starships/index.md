@@ -23,14 +23,15 @@ The most nefarious (and frankly most enjoyable) way to acquire a starship is to 
 The most common method of acquiring a ship is by purchasing. The cost of a brand new "stock" starship can be found below, on the **Starship Size Stock Cost** table.
 
 #### Starship Size Stock Cost
+
 | Starship Size | Tier 0 Cost&emsp;&emsp;&emsp;|
 |:----:|----:|
-| Tiny  | 12,500 cr&emsp;&emsp;&emsp;&emsp;|
-| Small  | 25,000 cr&emsp;&emsp;&emsp;&emsp;|
-| Medium  | 75,000 cr&emsp;&emsp;&emsp;&emsp;|
-| Large  | 500,000 cr&emsp;&emsp;&emsp;&emsp;|
-| Huge | 100,000,000 cr&emsp;&emsp;&emsp;&emsp;|
-| Gargantuan | 1,000,000,000 cr&emsp;&emsp;&emsp;&emsp;|
+| Tiny  | 12,500 cr;|
+| Small  | 25,000 cr;|
+| Medium  | 75,000 cr;|
+| Large  | 500,000 cr;|
+| Huge | 100,000,000 cr;|
+| Gargantuan | 1,000,000,000 cr;|
 
 How the players afford the ship varies as well. They may be patient, earning the credits to make the purchase over time. Alternatively, they might seek a backer, or a loan through a financial institution.
 
@@ -50,6 +51,7 @@ As a more dangerous option, a loan shark or an afflu-ent gangster could finance 
 Building a ship is generally cheaper than buying it, but takes time and necessitates use of a shipyard and a substantial workforce. If players elect to build a stock starship instead of purchasing one, it requires half the cost of the finished ship in facilities, raw materials, and labor.  The minimum workforce size is shown below on the **Starship Size Construction Workforce** table.  Ship construction also has a maximum practical workforce, beyond which no time gains are readily made.
 
 #### Starship Size Construction Workforce
+
 | Starship Size | Min. Workforce | Max. Workforce |
 |:----:|:----:|:----:|
 | Tiny  | 3 | 18 |
@@ -65,7 +67,7 @@ ___
 
 
 
-**time (in days) = ("starship size stock cost") /<br> (500 x "size of workforce")**
+**time (in days) = ("starship size stock cost") / (500 x "size of workforce")**
 
 
 
@@ -89,6 +91,7 @@ Once the party has acquired a ship, they can add equipment and modifications to 
 In addition to the cost of modifications and equipment, players can invest credits into their starship's basic systems, increasing the tier of the ship. As a player increases the tier of their starship, they unlock add-itional Hull and Shield Dice, and unique size-specific features. The material and personnel costs in credits that a party must invest in their ship varies based on the tier they are trying to obtain, as show below in the **Base Upgrade Cost by Tier** table. The costs detailed here include hiring the required workforce. However, if PCs can provide the workforce directly and invest their time, the final costs incurred are only half that shown.
 
 #### Base Upgrade Cost by Tier
+
 | Tier | Cost in Credits | Description of Rarity |
 |:----:|:----:|:----:|
 | 0 | 0         | Mass Production<br> (Standard) |
@@ -102,6 +105,7 @@ In addition to the cost of modifications and equipment, players can invest credi
 It costs more to upgrade the hull of a capital ship than the hull of a starfighter; bigger starships are simply costlier to improve. Consequently, each starship has a cost modifier depending on the ship's size, as shown in the **Starship Size Upgrade Cost** table below, which is multiplied by the value for that tier in the **Base Upgrade Cost by Tier** table.
 
 #### Starship Size Upgrade Cost
+
 | Starship Size | Cost Modifier |
 |:----:|:-------------|
 | Tiny  |&emsp;&emsp;x 0.5 |
@@ -122,6 +126,7 @@ For instance, to upgrade a Small size ship from Tier 0 to Tier 1, it costs 3,900
 Additionally, bigger ships require more people to perform these upgrades. For a Small ship, a single person can do everything necessary (though additional workers will reduce the time taken), while a Medium or larger ship requires a more extensive workforce, as shown below in the **Starship Size Upgrade Workforce** table below.
 
 #### Starship Size Upgrade Workforce
+
 | Starship Size | Minimum Workforce |
 |:----:|:----:|
 | Tiny  | 1 |
@@ -221,6 +226,7 @@ One thing all Tiny starships have in common is that they are unmanned. Sometimes
 
 
 ##### Tiny Ships
+
 | Tier |  Features |Swarm<br> Tactics Die|Hull & Shield<br> Dice|AC<br> Upgrade|
 |:---:|:---|:---:|:---:|:---:|
 |  0  | Role |-|1d4|-|
@@ -468,12 +474,8 @@ R5-S1 locked down the loose stabilizer with his gripper arm as he angled the X-W
 
 Small ships have a tiny crew, often only a pilot and perhaps an astromech, but often strike above their weight class, a threat to small and large ships alike.
 
-
-
-
-
-
 ##### Small Ships
+
 | Tier |  Features |Pinpoint<br> Strike Die|Hull & Shield<br> Dice|AC<br> Upgrade|
 |:---:|:---|:---:|:---:|:---:|
 |  0  | Role |-|3d6|-|
@@ -720,6 +722,7 @@ Medium ships are the bread and butter of the close-knit group. They are large en
 
 
 ##### Medium Ships
+
 | Tier |  Features |Evasive<br> Maneuvers Die|Hull & Shield<br> Dice|AC<br> Upgrade|
 |:---:|:---|:---:|:---:|:---:|
 |  0  | Role |-|5d8|-|
@@ -761,9 +764,6 @@ ___
 - **Base Modification Slots:** 30
 - **Stock Modifications:** Your choice of one suite modification and one non-suite modification.
 
-
-
-<br>
 
 ### Role
 You make initial design choices for your ship. Choose any one Role from the following.
@@ -943,6 +943,7 @@ Large ships occupy the pinnacle of size for most private owner/operators in the 
 
 
 ##### Large Ships
+
 | Tier |  Features |Blockade<br> Runner Die|Hull & Shield<br> Dice|AC<br> Upgrade|
 |:---:|:---|:---:|:---:|:---:|
 |  0  | Role |-|7d10|-|
@@ -1175,6 +1176,7 @@ Huge starships, regardless of their specific purpose, are the backbone of any mi
 
 
 ##### Huge Ships
+
 | Tier |  Features |Damage<br> Control Die|Hull & Shield<br> Dice|AC<br> Upgrade|
 |:---:|:---|:---:|:---:|:---:|
 |  0  | Role |-|9d12|-|
@@ -1406,6 +1408,7 @@ Gargantuan ships are the dreadnoughts that strike fear into the hearts of the fa
 
 
 ##### Gargantuan Ships
+
 | Tier |  Features |Superior<br> Firepower Die|Hull & Shield<br> Dice|AC<br> Upgrade|
 |:---:|:---|:---:|:---:|:---:|
 |  0  | Role |-|11d20|-|
