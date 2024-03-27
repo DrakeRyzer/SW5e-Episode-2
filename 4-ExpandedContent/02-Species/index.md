@@ -18,114 +18,114 @@ nav_order: 2
 |	Abyssin        	  
 |	Advozse         	|
 |	Aing-Tii        	|
-|	Aleena            
-|	Anomid        	  
-|	Anx        	      
+|	Aleena            |
+|	Anomid        	  |
+|	Anx        	      |
 |	Anzellan        	|
 |	Aqualish        	|
-|	Arcona       	  
+|	Arcona       	  |
 |	Ardennian       	|
-|	Arkanian       	  
+|	Arkanian       	  |
 |	Balosar         	|
 |	Barabel         	|
 |	Baragwin         	|
 |	Besalisk        	|
-|	Caamasi      	  
+|	Caamasi      	  |
 |	Chadra-Fan      	|
-|	Chagrian    	  
-|	Chevin	          
+|	Chagrian    	  |
+|	Chevin	          |
 |	Chironian        	|
 |	Clawdite        	|
 |	Codru-Ji        	|
-|	Colicoid   	      
-|	Culisetto  	      
-|	Dashade   	      
-|	Defel   	      
-|	Diathim        	  
-|	Dowutin        	  
+|	Colicoid   	     | 
+|	Culisetto  	      |
+|	Dashade   	      |
+|	Defel   	      |
+|	Diathim        	  |
+|	Dowutin        	  |
 |	Draethos        	|
-|	Dug	              
-|	Echani	          
-|	Esh-Kha	          
-|	Falleen	          
+|	Dug	             | 
+|	Echani	          |
+|	Esh-Kha	          |
+|	Falleen	          |
 |	Felucian        	|
 |	Flesh Raider       	|
 |	Gand            	|
 |	Gank            	|
 |	Geonosian       	|
-|	Givin	          
-|	Gormak	          
-|	Gotal	          
-|	Gran	          
-|	Half-Human        
-|	Harch	          
-|	Herglic	          
-|	Ho'Din	          
-|	Houk	          
-|	Hutt	          
-|	Iktotchi	      
-|	Kage	          
-|	Kaleesh	          
-|	Kalloran          
+|	Givin	          |
+|	Gormak	          |
+|	Gotal	          |
+|	Gran	          |
+|	Half-Human        |
+|	Harch	          |
+|	Herglic	          |
+|	Ho'Din	          |
+|	Houk	          |
+|	Hutt	          |
+|	Iktotchi	  |  
+|	Kage	          |
+|	Kaleesh	          |
+|	Kalloran          |
 |	Kaminoan        	|
-|	Karkarodon        
-|	Kiffar	          
-|	Killik	          
+|	Karkarodon        |
+|	Kiffar	          |
+|	Killik	          |
 |	Klatooinian        	|
 |	Kubaz           	|
 |	Kushiban        	|
 |	Kyuzo           	|
 |	Lannik          	|
-|	Lasat	          
-|	Lurmen	          
+|	Lasat	          |
+|	Lurmen	          |
 |	Massassi         	|
 |	Mikkian         	|
 |	Miraluka        	|
 |	Mirialan        	|
-|	Mustafarian       
-|	Muun	          
+|	Mustafarian       |
+|	Muun	          |
 |	Neimoidian      	|
-|	Nikto          	  
+|	Nikto          	  |
 |	Noghri          	|
 |	Nothoiin          	|
 |	Ortolan         	|
-|	Pa'lowick         
-|	Pantoran          
-|	Patrolian         
-|	Pau'an	          
-|	Pyke	          
-|	Quarren	          
-|	Quermian       	  
-|	Rakata        	  
-|	Rattataki	      
-|	Rishii	          
-|	Ryn	              
-|	Selkath	          
-|	Selonian	      
-|	Shistavanen	      
-|	Squib	          
-|	Ssi-Ruu	          
-|	Sullustan	      
+|	Pa'lowick         |
+|	Pantoran          |
+|	Patrolian         |
+|	Pau'an	          |
+|	Pyke	          |
+|	Quarren	          |
+|	Quermian       	  |
+|	Rakata        	  |
+|	Rattataki	      |
+|	Rishii	          |
+|	Ryn	             | 
+|	Selkath	          |
+|	Selonian	      |
+|	Shistavanen	      |
+|	Squib	          |
+|	Ssi-Ruu	          |
+|	Sullustan	      |
 |	Talz            	|
 |	Tarasin            	|
-|	Taung       	  
+|	Taung       	  |
 |	Theelin            	|
 |	Thisspiasian       	|
 |	Tiss'shar           	|
 |	Tognath           	|
 |	Togorian           	|
 |	Toydarian       	|
-|	Ugnaught	      
-|	Ugor	          
-|   Umbaran           
-|	Verpine	          
-|	Voss	          
+|	Ugnaught	         |
+|	Ugor	          |
+|   Umbaran           |
+|	Verpine	          |
+|	Voss	          |
 |	Vurk            	|
-|	Xexto             
-|	Yevetha           
-|	Zeltron           
-|	Zilkin            
-|	Zygerrian         
+|	Xexto             |
+|	Yevetha           |
+|	Zeltron           |
+|	Zilkin            |
+|	Zygerrian         |
 
 
 
