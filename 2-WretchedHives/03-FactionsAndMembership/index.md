@@ -102,6 +102,7 @@ In order for a faction to grow, it must recruit members. While lower tier factio
 Each membership rank can only support members of a certain CR or higher, as shown in the Membership Ranks CR and Renown table below.
 
 ##### Membership Ranks CR and Renown
+
 |Membership<br> Rank|Minimum<br> Member CR|Monthly Renown<br> Generation|
 |:--:|:--:|:--:|
 |1|1/8|1|
@@ -124,6 +125,7 @@ NPC faction members generate an amount of renown each month determined by their 
 
 
 ##### Faction Benefits
+
 | Tier | Proficiency<br> Bonus | Features | Required<br> Renown&nbsp; | Monthly Renown&emsp;<br> Generation&emsp;&emsp;&nbsp;|
 |:---:|:--:|:---|--:|--:|
 | 1st | +2 | Insignia, Faction Training                         |       0&emsp; | —&emsp;&emsp;&emsp;&emsp; |
@@ -216,6 +218,7 @@ As of 20th tier, your factions gains access to one artifact enhanced item of its
 
 
 ##### Membership Ranks
+
 | Rank | Features | Required<br> Renown | Other<br> Requirements |
 |:---:|:---|:--:|:--:|
 | 1st | Earn Renown, Faction Training, Insignia  | 0 | — |
