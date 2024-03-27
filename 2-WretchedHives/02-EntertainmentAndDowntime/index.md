@@ -71,6 +71,7 @@ The foundation of a rival's presence in the campaign is the actions the rival ta
 Think about how a rival might operate in order to bring specific plans to fruition, and jot down three or four kinds of **actions** the rival might undertake. Some of these might be versions of the downtime activities described in the \-\-\- chapter, but these are more often efforts specific to that rival. These actions might be a direct attack, such as an assassination attempt, that you can play out during a session, or it might be a background activity that you describe as altering the campaign in some way. For instance, if the characters pursue a specific artifact, the rival might learn of the plans and attempt to retrieve it first. 
 
 ##### Example Rivals
+
 |d20|Rival|
 |:--:|:--|
 | 1|Tax collector who is convinced the characters are dodging fees.|
@@ -117,6 +118,7 @@ Brogg plans to discredit and ruin other merchants. His allies spy on his opponen
 If Brogg's plan fails, he intends to use his forces to assassinate as much of the ruling body as possible, as well as his merchant peers.
 
 ##### Brogg's Plans
+
 |Element&emsp;|Description|
 |:--|:--|
 |Event|Renegade droids become a noticeable problem in the city. Folk demand that action be taken.|
@@ -142,6 +144,7 @@ Bounty hunting requires one workweek and at least 500 cr spent on materials, bri
 After one workweek, the character makes a Wisdom (Survival) check, with a +1 bonus per 500 cr spent beyond the initial 500 cr, up to a maximum bonus of +5. The character then consults the Bounty Hunting Roll Modifier table below.
 
 ##### Bounty Hunting Roll Modifier
+
 |Ability <br>Check DC|d100 Roll<br> Modifier|
 |:--:|:--:|
 |10|+5|
@@ -155,6 +158,7 @@ After one workweek, the character makes a Wisdom (Survival) check, with a +1 bon
 Once the player has determined their bounty hunting roll modifier, they then roll percentile dice and consult the Bounty Hunting Results table below.
 
 ##### Bounty Hunting Results
+
 |&nbsp;&nbsp;d100&nbsp;&nbsp;|Result|
 |:--:|:--|
 |40 or<br> lower  |You fail to catch your target.|
@@ -173,6 +177,7 @@ Bounty hunting is a dangerous profession that involves interaction with many see
 > This is a great opportunity to create a rival to the party, or involve a previous rival.
 
 ##### Bounty Hunting Complications
+
 |d6|Complication|
 |:--:|:--|
 |1|Your quarry swears up-and-down that you've got the wrong person.|
@@ -205,6 +210,7 @@ If the characters seek a specific enhanced item, have them make the check twice.
 The result of the check determines the rarity of the item for sale, as shown below in the Purchasable Enhanced Item table.
 
 ##### Purchasable Enhanced Items
+
 |Rarity|DC to<br> Find Seller|d100 Roll<br> Modifier|
 |:--:|:--:|:--:|
 |Standard|10|+10|
@@ -226,6 +232,7 @@ You determine a seller's identity. Seller sometimes move prototype, advanced, an
 > As a further option to reflect the availability of enhanced items in your campaign, you can apply up to a -10 penalty for a scarce setting, or up to a +10 bonus for a setting where enhanced items are more common, when resolving the d100 roll for buying enhanced items, as appropriate. 
 
 ##### Buying an Enhanced Item
+
 |&nbsp;&nbsp;d100&nbsp;&nbsp;|Result|
 |:--:|:--|
 |40 or<br> lower  |A seller asking five times the item's value, or a shady seller asking two and a half times the item's value.|
@@ -240,6 +247,7 @@ The buying and selling of enhanced items is fraught with peril. The large sums o
 > This is a great opportunity to create a rival to the party, or involve a previous rival.
 
 ##### Buying Complications
+
 |d6|Complication|
 |:--:|:--|
 |1|The item is a fake.|
@@ -270,6 +278,7 @@ A character with an appropriate background, such as noble, can easily mingle wit
 After a workweek of carousing, a character stands to make contacts within the selected social class. The character makes a Charisma (Persuasion) check, and consults the Carousing Roll Modifier table below:
 
 ##### Carousing Roll Modifier
+
 |Ability <br>Check DC|d100 Roll<br> Modifier|
 |:--:|:--:|
 |10|+5|
@@ -283,6 +292,7 @@ After a workweek of carousing, a character stands to make contacts within the se
 Once the player has determined their carousing roll modifier, they then roll percentile dice and consult the Carousing Results table below.
 
 ##### Carousing Results
+
 |d100|Result|
 |:--:|:--|
 |40 or<br> lower  |You make a hostile contact.|
@@ -338,6 +348,7 @@ A character with an appropriate background, such as noble, can easily mingle wit
 The character then makes five DC 20 Charisma (Persuasion) checks. Once you've resolved all five checks, consult the Carousing Results (Uptime) table below.
 
 ##### Carousing Results (Uptime)
+
 |Successes&nbsp;&nbsp;|Result|
 |:--|:--|
 |0 successes|You are ejected from the establishment, making two or more hostile contacts.|
@@ -357,6 +368,7 @@ Characters who carouse risk bar brawls, accumulating a cloud of nasty rumors, an
 
 
 ##### Lower-Class Carousing Complications
+
 |d8|Complication|
 |:--:|:--|
 |1|A pickpocket lifts 1d10 x 50 cr from you.|
@@ -369,6 +381,7 @@ Characters who carouse risk bar brawls, accumulating a cloud of nasty rumors, an
 |8|Everyone is calling you by some weird, embarrassing nickname, like Puddle Drinker or Bench Slayer, and no one will say why.|
 
 ##### Middle-Class Carousing Complications
+
 |d8|Complication|
 |:--:|:--|
 |1|You accidentally insulted a guild master, and only a public apology will let you do business with the guild again.|
@@ -381,6 +394,7 @@ Characters who carouse risk bar brawls, accumulating a cloud of nasty rumors, an
 |8|You spent an additional 1,000 cr trying to impress people.|
 
 ##### Upper-Class Carousing Complications
+
 |d8|Complication|
 |:--:|:--|
 |1|A pushy noble family wants to marry off one of their scions to you.|
@@ -412,6 +426,7 @@ An item invariably requires a rare material to complete it. This material can ra
 The Enhanced Item Ingredients table below suggests the challenge rating of a creature the character needs to face to acquire the materials for an item. Note that facing a creature does not necessarily mean that the characters must collect items from its corpse. Rather, the creature might guard a location or a resource that character needs access to.
 
 ##### Enhanced Item Ingredients
+
 |Rarity|CR Range|d100 Roll<br> Modifier|
 |:--:|:--:|:--:|
 |Standard|1-3|+10|
@@ -435,6 +450,7 @@ In addition to facing a specific creature, creating an item comes with a credit 
 After collecting all the necessary resources and spending the requisite amount of time, a character potentially crafts the item(s). For each item being crafted, the character makes an Intelligence check with the appropriate artisan's tools, and consults the Crafting Roll Modifier table below. If multiple craftsmen worked on the item, use the ability scores and relevant proficiencies for the most skilled amongst them.
 
 ##### Crafting Roll Modifier
+
 |Ability <br>Check DC|d100 Roll<br> Modifier|
 |:--:|:--:|
 |10|+5|
@@ -448,6 +464,7 @@ After collecting all the necessary resources and spending the requisite amount o
 For each item being crafted, the player rolls percentile dice and consults the Crafting Results table below, applying a modifier based on the item's rarity, as shown in the Enhanced Item Ingredients table above.
 
 ##### Crafting Results
+
 |&nbsp;&nbsp;d100&nbsp;&nbsp;|Result|
 |:--:|:--|
 |40 or<br> lower  |You inefficiently craft the item, expending twice the requisite raw materials.|
@@ -466,6 +483,7 @@ For each item being crafted, the player rolls percentile dice and consults the C
 Most of the complications involved in creating something, especially an enhanced item, are linked to the difficulty in finding rare ingredients or components needed to complete the work. The complications a character might face as byproducts of the creation process are most interesting when the characters are working on an enhanced item. Every workweek spent crafting brings a 10 percent chance of a triggering a complication.
 
 ##### Crafting Complications
+
 |d6|Complication|
 |:--:|:--|
 |1|Rumors swirl that what you're working on is unstable and a threat to the community.|
@@ -502,6 +520,7 @@ Complications occur as normal during crafting.
 Throughout their adventures, characters might discover blueprints that teach them the recipes to make specific items. If the character has the appropriate tools, they can spend 10 minutes studying the blueprint. If they do so, they must make an Intelligence check with those tools to attempt to learn the blueprint. The DC for the check is determined by the rarity of the item the blueprint is for, as shown below in the Blueprint Learning DC by Rarity table.
 
 ##### Blueprint Learning DC by Rarity
+
 |Rarity|Blueprint Learning DC|
 |:--:|:--:|
 |Standard|10|
@@ -517,6 +536,7 @@ On a success, the blueprint is learned. On a failure, the blueprint is not learn
 Many tools have the option to reverse engineer a crafted item to learn how to make it themselves. Over the course of 1 hour, which can be done during a short rest, a character can carefully disassemble an enhanced item. If they do so, they must make an Intelligence check with the appropriate tools. The DC for the check is determined by the rarity of the item being reverse engineered, as shown below in the Reverse Engineering DC by Rarity table.
 
 ##### Reverse Engineer DC by Rarity
+
 |Rarity|Reverse Engineer DC|
 |:--:|:--:|
 |Standard|15|
@@ -561,6 +581,7 @@ Once the player has determined their crime roll modifier, they then roll percent
 
 
 ##### Crime Results
+
 |&nbsp;&nbsp;d100&nbsp;&nbsp;|Result|
 |:--:|:--|
 |40 or<br> lower  |The robbery fails, but you escape.|
@@ -575,6 +596,7 @@ A life of crime is filled with complications. A character committing a crime has
 > This is a great opportunity to create a rival to the party, or involve a previous rival.
 
 ##### Crime Complications
+
 |d8|Complication|
 |:--:|:--|
 |1|A bounty equal to your earnings is offered for information about your crime.|
@@ -603,6 +625,7 @@ Espionage requires one workweek finding leads, bribing guards, and infiltrating 
 The character must make at least one, but up to three checks, and then consult the Espionage Roll Modifier table below. If the character makes more than one check, they can choose the highest value amongst all checks made. However, for each check made beyond the first, the DC for each tier increases by 5. The player can choose to make a Charisma (Deception), Dexterity (Stealth), or Intelligence (slicer's kit) check. Each check can only be made once.
 
 ##### Espionage Roll Modifier
+
 |Ability <br>Check DC|d100 Roll<br> Modifier|
 |:--:|:--:|
 |10|+5|
@@ -622,6 +645,7 @@ Once the player has determined their espionage roll modifier, they then roll per
 
 
 ##### Espionage Results
+
 |&nbsp;&nbsp;d100&nbsp;&nbsp;|Result|
 |:--:|:--|
 |40 or<br> lower  |You fail to find any useful information with which to blackmail, and your face is clearly identified.|
@@ -646,6 +670,7 @@ Espionage is fraught with peril. A character who engages in espionage has a 10 p
 > This is a great opportunity to create a rival to the party, or involve a previous rival.
 
 ##### Espionage Complications
+
 |d6|Complication|
 |:--:|:--|
 |1|A bounty equal to the credits spent is offered for information about your crime.|
@@ -672,6 +697,7 @@ This activity requires one workweek of effort, plus a stake of at least 100 cr t
 The character must make at least one, but up to three checks, and then consult the Gambling Roll Modifier table below. If the character makes more than one check, they can choose the highest value amongst all checks made. However, for each check made beyond the first, the DC for each tier increases by 5. The player can choose to make a Charisma (Deception), Intelligence check with the appropriate gaming set, or Wisdom (Insight) check. If the character is not proficient in the gaming set, they can not make a Charisma (Deception) or Wisdom (Insight) check. Each check can only be made once.
 
 ##### Gambling Roll Modifier
+
 |Ability <br>Check DC|d100 Roll<br> Modifier|
 |:--:|:--:|
 |10|+5|
@@ -691,6 +717,7 @@ Once the player has determined their gambling roll modifier, they then roll perc
 
 
 ##### Gambling Results
+
 |&nbsp;&nbsp;d100&nbsp;&nbsp;|Result|
 |:--:|:--|
 |40 or<br> lower  |You lose your entire stake.|
@@ -700,11 +727,13 @@ Once the player has determined their gambling roll modifier, they then roll perc
 |111 or<br> higher|You win an amount equal to three times your stake.|
 
 ### Complications
+
 Gambling tends to attract unsavory individuals. The potential complications involved come from run-ins with the law and associations with various criminals tied to the activity. Every workweek spent gambling brings a 10 percent chance of a triggering a complication. They have an additional 10 percent chance of triggering a complication for each check made during Resolution beyond the first.
 
 > This is a great opportunity to create a rival to the party, or involve a previous rival.
 
 ##### Gambling Complications
+
 |d6|Complication|
 |:--:|:--|
 |1|You are accused of cheating. You decide whether you did cheat or were framed.|
@@ -746,6 +775,7 @@ This advantage and disadvantage occurs for both the character and the opponent. 
 
 
 ##### Gambling Results (Uptime)
+
 |Successes&nbsp;&nbsp;|Result|
 |:--|:--|
 |0 successes|You lose your entire stake, and accrue a debt equal to that amount.|
@@ -761,6 +791,7 @@ Gambling tends to attract unsavory individuals. The potential complications invo
 > This is a great opportunity to create a rival to the party, or involve a previous rival.
 
 ##### Gambling Complications (Uptime)
+
 |d6|Complication|
 |:--:|:--|
 |1|You are accused of cheating. You decide whether you did cheat or were framed.|
@@ -787,6 +818,7 @@ Working as a mercenary requires one week of downtime, as well as 100 credits to 
 The character must make at least one, but up to three ability checks as appropriate to the contract they take. The GM might call for a Charisma (Intimidation) check if the character as working as an enforcer, a Strength (Athletics) check if working as a guard, or an Intelligence (Investigation) check if the character is working as a detective. If the character makes more than one check, they can choose the highest value amongst all checks made. However, for each check made beyond the first, the DC for each tier increases by 5. 
 
 ##### Mercenary Contracting Roll Modifier
+
 |Ability <br>Check DC|d100 Roll<br> Modifier|
 |:--:|:--:|
 |10|+5|
@@ -806,6 +838,7 @@ Once the player has determined their mercenary contracting roll modifier, they t
 
 
 ##### Mercenary Contracting Results
+
 |&nbsp;&nbsp;d100&nbsp;&nbsp;|Result|
 |:--:|:--|
 |40 or<br> lower  |The character finds a job, but fails to complete it successfully and goes unpaid.|
@@ -820,6 +853,7 @@ Mercenary work varies drastically in how eventful it can be. A character spendin
 > This is a great opportunity to create a rival to the party, or involve a previous rival.
 
 ##### Mercenary Contracting Complications
+
 |d6|Complication|
 |:--:|:--|
 |1|You manage to offend a bystander with an innocuous comment, and it turns out they're important.|
@@ -846,6 +880,7 @@ Engaging in this activity requires one workweek of effort from a character.
 The character must make at least one, but up to three checks, and then consult the Pit Fighting Roll Modifier table below. If the character makes more than one check, they can choose the highest value amongst all checks made. However, for each check made beyond the first, the DC for each tier increases by 5. The player can choose to make a Dexterity (Acrobatics) or Strength (Athletics) check. Alternatively, the character can instead make an attack roll using one of the character's weapons. Each check can only be made once.
 
 ##### Pit Fighting Roll Modifier
+
 |Ability <br>Check DC|d100 Roll<br> Modifier|
 |:--:|:--:|
 |10|+5|
@@ -865,6 +900,7 @@ Once the player has determined their pit fighting roll modifier, they then roll 
 
 
 ##### Pit Fighting Results
+
 |&nbsp;&nbsp;d100&nbsp;&nbsp;|You Find...|
 |:--:|:--|
 |40 or<br> lower  |You lose all of your bouts.|
@@ -879,6 +915,7 @@ Characters involved in pit fighting must deal with their opponents, the people w
 > This is a great opportunity to create a rival to the party, or involve a previous rival.
 
 ##### Pit Fighting Complications
+
 |d6|Complication|
 |:--:|:--|
 |1|An opponent swears to take revenge on you.|
@@ -905,6 +942,7 @@ This activity requires one workweek of effort and a 250 cr entry fee. If the cha
 The character must make at least one, but up to three checks, and then consult the Racing Roll Modifier table below. If the character makes more than one check, they can choose the highest value amongst all checks made. However, for each check made beyond the first, the DC for each tier increases by 5. The player can choose to make an Intelligence (mechanic's kit), Intelligence (Piloting), or Intelligence (Technology) check. If the character is not proficient in Piloting, they can not make an Intelligence (mechanic's kit) or Intelligence (Technology) check. Each check can only be made once.
 
 ##### Racing Roll Modifier
+
 |Ability <br>Check DC|d100 Roll<br> Modifier|
 |:--:|:--:|
 |10|+5|
@@ -924,6 +962,7 @@ Once the player has determined their racing roll modifier, they then roll percen
 
 
 ##### Racing Results
+
 |&nbsp;&nbsp;d100&nbsp;&nbsp;|Result|
 |:--:|:--|
 |40 or<br> lower  |You lose all of your races.|
@@ -938,6 +977,7 @@ Racing attracts many different kinds of individuals: from arrogant racers to man
 > This is a great opportunity to create a rival to the party, or involve a previous rival.
 
 ##### Racing Complications
+
 |d6|Complication|
 |:--:|:--|
 |1|You side-swipe another racer, earning their ire.|
@@ -979,6 +1019,7 @@ This advantage and disadvantage occurs for both the character and the opponent. 
 > When determining what action the opponent takes, the GM can choose or determine the choice randomly.
 
 ##### Racing Results (Uptime)
+
 |Successes&nbsp;&nbsp;|Result|
 |:--|:--|
 |0 successes|You lose your race and crash your vehicle, requiring at least 1,000 cr in repairs to fix.|
@@ -994,6 +1035,7 @@ Racing attracts many different kinds of individuals: from arrogant racers to man
 > This is a great opportunity to create a rival to the party, or involve a previous rival.
 
 ##### Racing Complications (Uptime)
+
 |d6|Complication|
 |:--:|:--|
 |1|You side-swipe another racer, earning their ire.|
@@ -1019,6 +1061,7 @@ Typically, a character needs access to a library or some other academic institut
 The character declares the focus of the researchóa specific person, place, or thing. After one workweek, the character makes an Intelligence (Lore) check, with a +1 bonus per 1,000 cr spent beyond the initial 500 cr, up to a maximum bonus of +5. The character then consults the Research Roll Modifier table below.
 
 ##### Research Roll Modifier
+
 |Ability <br>Check DC|d100 Roll<br> Modifier|
 |:--:|:--:|
 |10|+5|
@@ -1032,6 +1075,7 @@ The character declares the focus of the researchóa specific person, place, or t
 Once the player has determined their research roll modifier, they then roll percentile dice and consult the Research Results table below.
 
 ##### Research Results
+
 |&nbsp;&nbsp;d100&nbsp;&nbsp;|Result|
 |:--:|:--|
 |40 or<br> lower  |You learn nothing.|
@@ -1062,6 +1106,7 @@ Additionally, a character might run into other complications during research. Ev
 > This is a great opportunity to create a rival to the party, or involve a previous rival.
 
 ##### Research Complications
+
 |d6|Complication|
 |:--:|:--|
 |1|You accidentally damage a rare, fragile source of information.|
@@ -1092,6 +1137,7 @@ For each salable item, the character must make a DC 20 Intelligence (Investigati
 On a failure, no buyer for the item is found after a search that lasts a number of days equal to the maximum for that item's rarity, as shown below in the Days to Find Buyer column of the Salable Enhanced Items table below. On a success, a buyer for the item is found after a number of days based on the item's rarity, as shown below in the Salable Enhanced Item table.
 
 ##### Salable Enhanced Items
+
 |Rarity|Days to<br> Find Buyer|d100 Roll<br> Modifier|
 |:--:|:--:|:--:|
 |Standard|1d4|+10|
@@ -1115,6 +1161,7 @@ You determine a buyer's identity. Buyers sometimes procure prototype, advanced, 
 > As a further option to reflect the availability of enhanced items in your campaign, you can apply up to a -10 penalty for a scarce setting, or up to a +10 bonus for a setting where enhanced items are more common, when resolving the d100 roll for selling enhanced items, as appropriate. 
 
 ##### Selling an Enhanced Item
+
 |&nbsp;&nbsp;d100&nbsp;&nbsp;|Result|
 |:--:|:--|
 |40 or<br> lower  |A buyer offering one-quarter of the item's value, or a shady buyer offering half the item's value.|
@@ -1129,6 +1176,7 @@ The buying and selling of enhanced items is fraught with peril. The large sums o
 > This is a great opportunity to create a rival to the party, or involve a previous rival.
 
 ##### Selling Complications
+
 |d6|Complication|
 |:--:|:--|
 |1|The item is perceived as a fake.|
@@ -1174,6 +1222,7 @@ At the end of each workweek, a character makes an ability check depending on the
 
 
 ##### Training Roll Modifier
+
 |Ability <br>Check DC|d100 Roll<br> Modifier|
 |:--:|:--:|
 |10|+5|
@@ -1187,6 +1236,7 @@ At the end of each workweek, a character makes an ability check depending on the
 Once the player has determined their training roll modifier, they then roll percentile dice and consult the Training Results table below.
 
 ##### Training Results
+
 |&nbsp;&nbsp;d100&nbsp;&nbsp;|Result|
 |:--:|:--|
 |40 or<br> lower  |Your training falters, advancing only half a workweek towards completion.|
@@ -1201,6 +1251,7 @@ Complications that arise while training typically involve the teacher. For every
 > This is a great opportunity to create a rival to the party, or involve a previous rival.
 
 ##### Training Complications
+
 |d6|Complication|
 |:--:|:--|
 |1|Your earn the ire of another of the teacher's students.|
@@ -1227,6 +1278,7 @@ Taking on a job requires one workweek of work.
 The character must make an ability check as appropriate to the job they are trying to perform. The GM might call for a Strength (Athletics) check if the character is working with their hands, an Intelligence check with a set of tools if the character is working as a tradesman, a Charisma (Performance) check if the character is working in a speaking capacity, a Charisma check with a musical instrument if the character is performing in a venue, or any other check the GM deems appropriate. Once the character has made their chosen check, they should consult the Work Roll Modifier table below.
 
 ##### Work Roll Modifier
+
 |Ability <br>Check DC|d100 Roll<br> Modifier|
 |:--:|:--:|
 |10|+5|
@@ -1238,6 +1290,7 @@ The character must make an ability check as appropriate to the job they are tryi
 > The **d100 Roll Modifier** is added to the percentile dice rolled for the Work Results table, which is discussed below.
 
 ##### Work Results
+
 |&nbsp;&nbsp;d100&nbsp;&nbsp;|Result|
 |:--:|:--|
 |40 or<br> lower  |You earn enough to support a poor lifestyle for the week, with 10 cr left over.|
@@ -1256,6 +1309,7 @@ Despite what should be an uneventful, satisfying week of simple work, complicati
 
 
 ##### Work Complications
+
 |d8|Complication|
 |:--:|:--|
 |1|You manage to outperform someone who has been working longer than you, and they're not impressed.|
@@ -1277,6 +1331,7 @@ Taking on a job requires at least one hour of work.
 Make an ability check appropriate to the work you are doing and consult the Work Results (Uptime) table below.
 
 ##### Work Results (Uptime)
+
 |&nbsp;&nbsp;&nbsp;&nbsp;Ability&nbsp;&nbsp;&nbsp;&nbsp;<br>Check DC|Result|
 |:--:|:--|
 |10|You earn enough to support a poor lifestyle for night, with 2 cr left over.|
