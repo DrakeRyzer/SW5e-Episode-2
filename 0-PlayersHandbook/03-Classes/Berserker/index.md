@@ -6,7 +6,7 @@ has_children: true
 nav_order: 1
 ---
 
-## Berserker
+# Berserker
 
 <img src='../../../zzImages/Classes/berserker_01.png' style='float:right; width:400px;'>
 
@@ -18,27 +18,27 @@ Frothing at the mouth, a nikto slams his helmet into the face of his foe, then t
 
 These berserkers, different as they might be, are defined by their rage: unbridled, unquenchable, and unthinking fury. More than a mere emotion, their anger is the ferocity of a cornered predator, the unrelenting assault of a storm, the churning turmoil of the sea. For every berserker, rage is a power that fuels not just a battle frenzy but also uncanny reflexes, resilience, and feats of strength.
 
-### Primal Instinct
+## Primal Instinct
 People of towns and cities take pride in how their civilized ways set them apart from animals, as if denying one's own nature was a mark of superiority. To a berserker, though, civilization is no virtue, but a sign of weakness. The strong embrace their animal nature keen instincts, primal physicality, and ferocious rage. Berserkers are uncomfortable when hedged in by walls and crowds. They thrive where the civilized don't.
 
 Berserkers come alive in the chaos of combat. They can enter a berserk state where rage takes over, giving them superhuman strength and resilience. A berserker can draw on this reservoir of fury only a few times without resting, but those few rages are usually sufficient to defeat whatever threats arise.
 
-### A Life of Danger
+## A Life of Danger
 Not every person deemed "berserkers" by scions of civilized society has the berserker class. A true berserker among these people is as uncommon as a skilled fighter in a town, and he or she plays a similar role as a protector of the people and a leader in times of war. Life in the wild places of the world is fraught with peril: rival tribes, deadly weather, and terrifying monsters. Berserkers charge headlong into that danger so that their people don't have to.
 
 Their courage in the face of danger makes berserkers perfectly suited for adventuring. Wandering is often a way of life for their native tribes, and the rootless life of the adventurer is little hardship for a berserker. Some berserkers miss the close-knit family structures of the tribe, but eventually find them replaced by the bonds formed among the members of their adventuring parties.
 
 <!--- image here <img src='https://www.gmbinder.com/images/fwgM1ml.png' style='position:absolute;top:32px;right:-80px;width:573px;mix-blend-mode:darken;transform:scaleX(-1)' /> --->
 
-### Creating a Berserker
+## Creating a Berserker
 When creating a berserker character, think about where your character comes from and his or her place in the world. Talk with your GM about an appropriate origin for your berserker. Did you come from a remote planet, making you a stranger in the area of the campaign? Or is the campaign set in a rough-and-tumble frontier where berserkers are common?
 
 What led you to take up the adventuring life? Were you lured to settled planets by the promise of riches? Did you join forces with soldiers of those lands to face a shared threat? Did monsters or an invading horde drive you out of your homeland, making you a rootless refugee? Perhaps you were a prisoner of war, brought in chains to "civilized" lands and only now able to win your freedom. Or you might have been cast out from your people because of a crime you committed, a taboo you violated, or a coup that removed you from a position of authority.
 
-#### Quick Build
+### Quick Build
 You can make a berserker quickly by following these suggestions. First, put your highest ability score in Strength, followed by Constitution. Second, choose the mercenary background.
 
-##### The Berserker
+#### The Berserker
 
 |	Level	|	Proficiency<br> Bonus	|	Features	|	Rages	|	Rage<br> Damage	| Berserker<br> Instincts |
 |	:--:	|	:--:	|	:--	|	:--:	|	:--:	| :--: |
@@ -66,25 +66,25 @@ You can make a berserker quickly by following these suggestions. First, put your
 ## Class Features
 As a berserker, you gain the follow class features.
 
-#### Hit Points
+### Hit Points
 - **Hit Dice:** 1d12 per berserker level
 - **Hit Points at 1st Level:** 12 + your Constitution modifier
 - **Hit Points at Higher Levels:** 1d12 (or 7) + your Constitution modifier per berserker level after 1st
 
-#### Proficiencies
+### Proficiencies
 - **Armor:** Light armor, medium armor
 - **Weapons:** All vibroweapons, simple blasters
 - **Tools:** None
 - **Saving Throws:** Strength, Constitution
 - **Skills:** Choose two from Animal Handling, Athletics, Intimidation, Nature, Perception, Survival
 
-#### Equipment
+### Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
 - *(a)* a vibroweapon and a light or medium physical shield or *(b)* two vibroweapons
 - *(a)* two techaxes or *(b)* two vibrospears
 - *(a)* a dungeoneer's pack or *(b)* an explorer's pack
 
-#### Variant: Starting Wealth 
+### Variant: Starting Wealth 
 In lieu of the equipment granted by your class and background, you can elect to purchase your starting gear. If you do so, you receive no equipment from your class and background, and instead roll for your starting wealth using the criteria below:
 
 |	&emsp;&emsp;Class		|	Funds&emsp;&emsp;	|
