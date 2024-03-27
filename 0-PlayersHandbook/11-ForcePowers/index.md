@@ -476,7 +476,7 @@ ___
 
 
 #### Affect Mind
-_At-will universal power_
+_At-will universal power_<br>
 ___
 - **Casting Time:** 1 action
 - **Range:** 30 feet
@@ -488,6 +488,7 @@ On a successful save, the creature does not realize that you tried to use the Fo
 
 #### Affliction
 _2nd-level dark side power_
+
 ___
 - **Prerequisite:** Slow
 - **Casting Time:** 1 action
