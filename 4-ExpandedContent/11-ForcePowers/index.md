@@ -9,7 +9,7 @@ nav_order: 11
 
 
 
-#### At-Will
+### At-Will
 ___
 - Break
 - <div style="color:blue">Defensive Technique
@@ -17,7 +17,7 @@ ___
 - Pyrokinesis
 - Wall Run
 
-#### 1st-level
+### 1st-level
 ___
 - Agile Defense
 - Force Current
@@ -29,7 +29,7 @@ ___
 - Tapas
 - Telepathic Link
 
-#### 2nd-level
+### 2nd-level
 ___
 - Battle Mind
 - Improved Force Intuition
@@ -42,52 +42,52 @@ ___
 - Vitality Shield
 - Wakefulness
 
-#### 3rd-level
+### 3rd-level
 ___
 - Art of Movement
 - Saber Slash
 
-#### 4th-level
+### 4th-level
 ___
 - Greater Pyrokinesis
 - <div style="color:red">Improved Kinetite
 - Saber Dance
 - Saber Onslaught
 
-#### 5th-level
+### 5th-level
 ___
 - <div style="color:red">Greater Kinetite
 - Reveal Shatterpoint
 
-#### 6th-level
+### 6th-level
 ___
 
-#### 7th-level
+### 7th-level
 ___
 - Master Pyrokinesis
 
-#### 8th-level
+### 8th-level
 ___
 
-#### 9th-level
+### 9th-level
 ___
 
 
 
 
 
-#### Agile Defense
+### Agile Defense
 _1st-level universal power_
-___
+
 - **Casting Time:** 1 bonus action
 - **Range:** Self
 - **Duration:** Instantaneous
 
 As part of the action of casting this power, you take the Dodge action.
 
-#### Art of Movement
+### Art of Movement
 _3rd-level universal power_
-___
+
 - **Prerequisite:** Instinctive Movement
 - **Casting Time:** 1 bonus action
 - **Range:** Self
@@ -103,9 +103,9 @@ By letting the Force flow through you, you move with preternatural grace, leapin
 
 Once before the power ends, you can give yourself advantage on one weapon attack roll on your turn. That attack deals an extra 1d10 force damage on a hit. Whether you hit or miss, you gain a flying speed equal to your walking speed until the end of that turn.
 
-#### Battlemind
+### Battlemind
 _2nd-level universal power_
-___
+
 - **Prerequisite:** Battle Precognition
 - **Casting Time:** 1 action
 - **Range:** Self
@@ -115,9 +115,9 @@ Through the Force, you gain a limited form of telepathy that enables you to anti
 
 This AC bonus is not applied against attacks from droids, constructs, or creatures with resistance or immunity to psychic damage.
 
-#### Break
+### Break
 _At-will universal power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 30 feet
 - **Duration:** Instantaneous
@@ -126,9 +126,9 @@ You inflict 10 force damage to an object you can see within range that is not be
 
 This power’s kinetic damage increases by 1d4 when you reach 5th level (2d4), 11th level (3d4), and 17th level (4d4), and the power’s force damage also increases by 10 at each of these levels.
 
-#### Defensive Technique
+### Defensive Technique
 _At-will light side power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Varies
 - **Duration:** 1 round
@@ -139,9 +139,9 @@ If the target forces you to make a saving throw before the start of your next tu
 
 The power's damage increases when you reach higher levels. At 5th level, the melee attack deals an extra 1d6 psychic damage to the target, and the psychic damage the target takes for forcing you to make a saving throw increases to 2d6. Both damage rolls increase by 1d6 at 11th level and 17th level.
 
-#### Force Current
+### Force Current
 _1st-level universal power_
-___
+
 - **Prerequisite:** Force Push/Pull
 - **Casting Time:** 1 action
 - **Range:** Self (15-foot cone)
@@ -151,9 +151,9 @@ When you cast this power, you raise your hand and unleash a burst of Force energ
 
 ***Force Potency.*** When you cast this power using a force slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st. For each slot 2 levels higher than 1st, you can add an additional 5 feet to the push.
 
-#### Force Intuition
+### Force Intuition
 _1st-level universal power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Self
 - **Duration:** 8 hours
@@ -162,9 +162,9 @@ Your senses attune to your environment for the duration, allowing you to see thi
 
 In addition, once during the duration of this power, if you are surprised at the start of combat, rather than being completely unable to act, you can still use a reaction, and take an action on your first turn in combat. This action can be used only to take one of the following actions: Dash, Disengage, Dodge, Hide, or Use an Object.
 
-#### Greater Kinetite
+### Greater Kinetite
 _5th-level dark side power_
-___
+
 - **Prerequisite:** Kinetite
 - **Casting Time:** 1 action
 - **Range:** 120 feet
@@ -176,9 +176,9 @@ As a bonus action on each of your turns, you can move the ball of lightning up t
 
 ***Force Potency.*** When you cast this power with a force slot of 6th level or higher, both the lightning and kinetic damage increase by 1d8 for each slot level above 5th.
 
-#### Greater Pyrokinesis
+### Greater Pyrokinesis
 _4th-level universal power_
-___
+
 - **Prerequisite:** Improved Pyrokinesis
 - **Casting Time:** 1 action
 - **Range:** 120 feet
@@ -192,18 +192,18 @@ One side of the wall, selected by you when you cast this power, deals 5d8 energy
 
 ***Force Potency.*** When you cast this power using a force slot of 5th level or higher, the damage increases by 1d8 for each slot level above 4th.
 
-#### Heighten Senses
+### Heighten Senses
 _1st-level universal power_
-___
+
 - **Casting Time:** 1 reaction, which you take when you would roll initiative
 - **Range:** Self
 - **Duration:** 1 round
 
 Through the Force, you sense a sudden shift in your environment, and can seize on it with great speed. You gain advantage on your initiative check, and until the end of your first turn in combat, your walking speed increases by 30 feet.
 
-#### Improved Force Intuition
+### Improved Force Intuition
 _2nd-level universal power_
-___
+
 - **Prerequisite:** Force Intuition
 - **Casting Time:** 1 reaction, which you take when you would roll initiative
 - **Range:** Self
@@ -211,9 +211,9 @@ ___
 
 You make your initiative check at advantage, and gain a +2 bonus to AC until the power ends. In addition, until the end of your first turn in the combat, your speed increases by 10 feet and you add 1d4 to your attack rolls. This power ends early if you fail a saving throw or are hit by an attack.
 
-#### Improved Kinetite
+### Improved Kinetite
 _4th-level dark side power_
-___
+
 - **Prerequisite:** Kinetite
 - **Casting Time:** 1 action
 - **Range:** 150 feet
@@ -227,9 +227,9 @@ Creatures within 30 feet of the sphere have disadvantage on Wisdom (Perception) 
 
 ***Force Potency.*** When you cast this power with a force slot of 5th level or higher, the damage increases for each of its effects by 1d6 for each slot level above 4th.
 
-#### Improved Pyrokinesis
+### Improved Pyrokinesis
 _2nd-level universal power_
-___
+
 - **Prerequisite:** Pyrokinesis
 - **Casting Time:** 1 action
 - **Range:** 30 feet
@@ -239,9 +239,9 @@ A line of roaring Force-enhanced flame 30 feet long and 5 feet wide emanates fro
 
 ***Force Potency.*** When you cast this power using a force slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.
 
-#### Instinctive Movement
+### Instinctive Movement
 _1st-level universal power_
-___
+
 - **Prerequisite:** Wall Run
 - **Casting Time:** 1 bonus action
 - **Range:** Self
@@ -263,9 +263,9 @@ This power ends when its duration expires, when you cast this power again, or wh
 
 ***Force Potency.*** When you cast this power using a force slot of 2nd level or higher, the extra damage increases by 1d4 for each slot level above 1st. In addition, if you cast this power with a force slot of 3rd level or higher, you gain one additional speed point for every two slot levels above 1st.
 
-#### Kinetite
+### Kinetite
 _2nd-level dark side power_
-___
+
 - **Prerequisite:** Sustained Lightning
 - **Casting Time:** 1 action
 - **Range:** 60 feet
@@ -279,18 +279,18 @@ When you move the sphere, you can direct it over barriers up to 5 feet tall and 
 
 ***Force Potency.*** When you cast this power with a force slot of 3rd level or higher, both the lightning and kinetic damage increase by 1d6 for each slot level above 2nd.
 
-#### Land Stride
+### Land Stride
 _1st-level light side power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Self (40-foot radius)
 - **Duration:** 8 hours
 
 You align yourself with nature, making traversing natural environments far easier. For the duration, your movement and that of creatures of your choice within 40 feet of you can't be slowed by natural terrain, such as mud, rocky ground, vines, or tall grass. Climbing still costs double normal movement. A creature that receives this bonus leaves behind no traces of its passage.
 
-#### Master Pyrokinesis
+### Master Pyrokinesis
 _7th-level universal power_
-___
+
 - **Prerequisite:** Greater Pyrokinesis
 - **Casting Time:** 1 action
 - **Range:** 150 feet
@@ -300,18 +300,18 @@ A storm made up of sheets of roaring, Force-enhanced flame appears in a location
 
 The flame damages objects in the area and ignites flammable objects that aren't being worn or carried.
 
-#### Phaseshift
+### Phaseshift
 _At-will universal power_
-___
+
 - **Casting Time:** 1 bonus action
 - **Range:** Self
 - **Duration:** Instantaneous
 
 Too quickly for untrained eyes to perceive, you shift in position. You can move up to 5 feet, and this movement does not provoke opportunity attacks.
 
-#### Probe Mind
+### Probe Mind
 _2nd-level dark side power_
-___
+
 - **Prerequisite:** Sense Emotion
 - **Casting Time:** 1 action
 - **Range:** 30 feet
@@ -333,9 +333,9 @@ This power has no effect on droids or constructs.
 
 ***Force Potency.*** When you cast this power using a force slot of 3rd level or higher, the initial psychic damage a target takes the first time you probe deeper into its mind increases by 1d6 for each slot level above 2nd.
 
-#### Pull Earthward
+### Pull Earthward
 _2nd-level universal power_
-___
+
 - **Prerequisite:** Force Propel
 - **Casting Time:** 1 action
 - **Range:** 300 feet
@@ -343,9 +343,9 @@ ___
 
 Choose one creature you can see within range. The target must succeed on a Strength saving throw or its flying speed (if any) is reduced to 0 feet for the power’s duration. An airborne creature affected by this power descends at 60 feet per round until it reaches the ground or the power ends.
 
-#### Pyrokinesis
+### Pyrokinesis
 _At-will universal power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 60 feet
 - **Duration:** Concentration, up to 1 minute
@@ -356,9 +356,9 @@ The fire ignites flammable objects in its area that aren't being worn or carried
 
 The power's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 
-#### Reveal Shatterpoint
+### Reveal Shatterpoint
 _5th-level universal power_
-___
+
 - **Prerequisite:** Sense Shatterpoint
 - **Casting Time:** 1 action
 - **Range:** 60 feet
@@ -366,9 +366,9 @@ ___
 
 You focus on a creature you can see within range, and gain uncanny insight on its defenses and capabilities through the Force. The target must make a Charisma saving throw. On a failed save, you have advantage on attack rolls against that creature, and it has disadvantage on attack rolls against you for the duration. On a successful save, you have advantage on the next attack roll you make against that creature, and it has disadvantage on its next attack roll against you. Once both attacks have been made, the power ends.
 
-#### Saber Assault
+### Saber Assault
 _1st-level universal power_
-___
+
 - **Prerequisite:** Saber Ward
 - **Casting Time:** Special
 - **Range:** Self
@@ -382,9 +382,9 @@ The first time you take the Attack action during your turn, you can simultaneous
 
 ***Force Potency.*** When you cast this power using a force slot of 3rd level or higher, the damage of the second and third hit each increase by 1d6 for every two slot levels above 1st.
 
-#### Saber Dance
+### Saber Dance
 _4th-level universal power_
-___
+
 - **Prerequisite:** Animate Weapon
 - **Casting Time:** 1 action
 - **Range:** Self (10-foot radius)
@@ -398,9 +398,9 @@ When this power ends, you can immediately recall the weapon to your hand.
 
 ***Force Potency.*** When you cast this power using a force slot of 5th level or higher, the radius of the power increases to 15 feet, and the power's damage increases by 1d10 for each slot level above 4th.
 
-#### Saber Onslaught
+### Saber Onslaught
 _4th-level universal power_
-___
+
 - **Prerequisite:** Saber Strike
 - **Casting Time:** 1 action
 - **Range:** Self
@@ -410,9 +410,9 @@ You assume a battle stance. Until the end of your turn, your movement does not p
 
 ***Force Potency.*** When you cast this power using a force slot of 5th level or higher, the bonus weapon damage increases by 1d6 for each slot level above 4th.
 
-#### Saber Slash
+### Saber Slash
 _3rd-level universal power_
-___
+
 - **Prerequisite:** Saber Strike
 - **Casting Time:** 1 action
 - **Range:** 30 feet
@@ -422,9 +422,9 @@ You move in a burst of speed to deliver a deadly blow. When you cast this power,
 
 ***Force Potency.*** When you cast this power using a force slot of 4th level or higher, the force damage increases by 1d4 for each slot level above 3rd.
 
-#### Sense Shatterpoint
+### Sense Shatterpoint
 _2nd-level universal power_
-___
+
 - **Prerequisite:** Battle Insight
 - **Casting Time:** 1 bonus action
 - **Range:** 30 feet
@@ -432,9 +432,9 @@ ___
 
 You seek deeper insight into the defenses of a creature you can see within range. Until the end of your next turn, you have advantage on your next two attack rolls against the target.
 
-#### Saber Strike
+### Saber Strike
 _2nd-level universal power_
-___
+
 - **Prerequisite:** Saber Assault
 - **Casting Time:** 1 action
 - **Range:** Self
@@ -444,18 +444,18 @@ As part of the action used to cast the power, you can move up to your speed and 
 
 ***Force Potency.*** When you cast this power using a force slot of 4th level or higher, the bonus weapon damage increases by 1d10 for every two slot levels above 2nd.
 
-#### Tapas
+### Tapas
 _1st-level universal power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Self
 - **Duration:** 24 hours
 
 You use the Force to inure yourself to the elements. For the duration, you are considered adapted to hot and cold climates.
 
-#### Telepathic Link
+### Telepathic Link
 _1st-level universal power_
-___
+
 - **Prerequisite:** Force Whisper
 - **Casting Time:** 1 action
 - **Range:** Touch
@@ -467,9 +467,9 @@ You don't need to share a language with a creature for it to understand your tel
 
 ***Force Potency.*** When you cast this power using a force slot of 3rd level or higher, the duration increases to concentration, up to 1 hour, and if either you or the creature you are linked to are surprised while the other isn't, and both of you can see each other, the surprised creature can still act normally on its first turn in combat, as if it were not surprised.
 
-#### Vitality Shield
+### Vitality Shield
 _2nd-level universal power_
-___
+
 - **Prerequisite:** Force Body
 - **Casting Time:** 1 action
 - **Range:** Self
@@ -479,9 +479,9 @@ You siphon some of your own vitality to create a barrier in the Force around you
 
 ***Force Potency.*** When you cast this power using a force slot of 3rd level or higher, the true damage increases by 1d8 for each slot level above 2nd.
 
-#### Wakefulness
+### Wakefulness
 _2nd-level universal power_
-___
+
 - **Prerequisite:** Breath Control
 - **Casting Time:** 1 action
 - **Range:** Self
@@ -494,9 +494,9 @@ You use the Force to control your body's functions. For the duration, you gain t
 
 If you still have any levels of exhaustion when this power ends, you must make a DC 15 Constitution saving throw. On a failed save, you gain one additional level of exhaustion.
 
-#### Wall Run
+### Wall Run
 _At-will universal power_
-___
+
 - **Casting Time:** 1 bonus action
 - **Range:** Self
 - **Duration:** 1 turn
