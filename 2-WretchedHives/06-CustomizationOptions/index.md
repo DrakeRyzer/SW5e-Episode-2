@@ -112,6 +112,7 @@ You may choose your weapon focus from the following options or roll on the table
 
 
 |d8|Weapon Focus|
+
 |:--:|:--|
 |1|Blade Weapon|
 |2|Carbine Weapon|
@@ -194,6 +195,7 @@ You may choose your weapon supremacy from the following options or roll on the t
 <!--- this table had the wrong numbers, 1-4, then 1-4 again. I fixed it --->
 
 |d8|Weapon Supremacy|
+
 |:--:|:--|
 |1|Blade|
 |2|Carbine|
@@ -232,10 +234,6 @@ You've specialized your combat training with crushing weapons. You gain the foll
 - You gain a +1 bonus to the weapon's attack rolls.
 - Whenever you have advantage on an attack roll and hit and the lower of the two d20 rolls would also hit (or a creature has disadvantage on a saving throw and the higher of the two d20s would also fail), and the target is no more than one size larger than you (your size or smaller if your weapon has the light property), it must succeed on a Strength saving throw (DC = 8 + your bonus to attacks with the weapon) or it is pushed 5 feet in a direction of your choice.
 - Once per round, when you use your reaction to make a melee weapon attack, you have advantage on the attack roll.
-
-
-
-
 - When you take the Attack action, you can choose to forgo one or more attacks to **shatter** the ground. For each attack you forgo, choose a separate 5-foot square within your weapon's reach to shatter. That square becomes difficult terrain until cleared. Each 5-foot-square portion of the area requires at least 1 minute to clear by hand. Additionally, each creature other than you in an affected square must make a Dexterity saving throw (DC = 8 + your bonus to attacks with the weapon). On a failed save, a creature takes damage equal to the attack's governing ability modifier.  If you could already shatter, instead you can do so as your bonus action.
 
 #### Heavy Weapon Supremacy
