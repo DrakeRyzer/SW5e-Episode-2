@@ -232,6 +232,7 @@ A hub and spoke coupling system combines attributes of both other systems, provi
 
 
 ##### Reactors and Power Couplings
+
 |Name|Cost|Fuel Use Modifier|Power Dice Recovery|Central Storage Capacity|System Storage Capacity|
 |:--|--:|:--:|:--:|:--:|:--:|
 |	_Reactor_	    ||||||
@@ -513,7 +514,7 @@ The damage done by tertiary ammunition for ships sized Huge and Gargantuan is sh
 |&emsp;Assault cluster pod launcher	            |6,000 cr|   -           |Ammunition, reload 24|
 |&emsp;Assault missile launcher        |6,250 cr|            -  |Ammunition, reload 8|
 |&emsp;Assault torpedo launcher                  |6,900 cr|  -            |Ammunition reload 8|
-|_Quaternary Weapons_	|||||||
+|_Quaternary Weapons_	||||
 |&emsp;	Bomb layer                  |8,000 cr|-                |Ammunition, reload 8|
 
 
