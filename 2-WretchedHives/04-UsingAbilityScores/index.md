@@ -102,6 +102,7 @@ Both participants in a contest make ability checks appropriate to their efforts.
 If the contest results in a tie, the situation remains the same as it was before the contest. Thus, one contestant might win the contest by default. If two faction members tie in a contest to accept a mission reward, neither character grabs it. In a contest between a faction trying to usurp control or influence from another faction, a tie means control or influence is not usurped.
 
 ##### Ability Check DCs
+
 |Task Difficulty|	DC|
 |:--|:--:|
 |Very easy|	5|
