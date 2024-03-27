@@ -59,7 +59,7 @@ Choose from the following class options:
 --->
 
 ## Berserker
-A massive wookiee hunter prowls through the forest, hefting</span> his vibroaxe. With a roar he charges at the pair of trandoshans who dared poach his kin. 
+A massive wookiee hunter prowls through the forest, hefting his vibroaxe. With a roar he charges at the pair of trandoshans who dared poach his kin. 
 
 A gamorrean snarls at the latest challenger to his authority over their savage tribe, ready to break his neck with his bare hands as he did to the last six rivals. 
 
