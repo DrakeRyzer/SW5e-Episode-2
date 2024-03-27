@@ -198,6 +198,7 @@ For modal exotics, each mode has separate modification slots, with the exception
 | &emsp;Radrifle			|  1,575 cr| 1d6 necrotic|14.00 lb|Disintegrate 15, power cell (range 120/480), reload 8, specialized<br> (disintegrate), strength 13, two-handed|
 
 ##### Lightweapons
+
 |Name|Cost|Damage|Weight|Properties|
 |:---|---:|:---|-:|:---|
 |	_Exotic Lightweapons_	|||||||
@@ -205,6 +206,7 @@ For modal exotics, each mode has separate modification slots, with the exception
 | &emsp;Sunsaber	    |  1,875 cr|1d6 fire| 3.00 lb	|Bright 15, dexterity 11, hidden, specialized (bright), versatile (2d4)|
 
 ##### Vibroweapons
+
 |Name|Cost|Damage|Weight|Properties|
 |:---|---:|:---|-:|:---|
 |	_Exotic Vibroweapons_	|||||
