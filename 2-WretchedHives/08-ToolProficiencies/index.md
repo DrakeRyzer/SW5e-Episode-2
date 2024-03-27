@@ -36,7 +36,8 @@ Proficiency with a tool usually brings with it a particular benefit in the form 
 A table at the end of each section lists activities that a tool can be used to perform, and suggested DCs for the necessary ability checks.
 
 ##### Item Specific Tools
-|Tool&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|Uses|
+
+|Tool|Uses|
 |:--|:--|
 |Archaeologist kit|—|
 |Armormech's implements|Armor, shields|
@@ -82,7 +83,7 @@ A table at the end of each section lists activities that a tool can be used to p
 ##### Tools by Item
 
 
-|Item&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|Tool|
+|Item|Tool|
 |:--|:--|
 |Adrenals|Biochemist's kit|
 |Ammunition|Munitions kit|
@@ -164,6 +165,7 @@ A table at the end of each section lists activities that a tool can be used to p
 *Feature that utilizes the tool in some capacity.*
 
 ##### Sample Activities
+
 |Activity|DC|
 |:--|:--:|
 |*Activity description*|xx|
@@ -184,6 +186,7 @@ When bartering while precious stones or relics are involved, you can more easily
 Over the course of a short or long rest, you can make a DC 15 archaelogist kit check to temporarily improve a lightweapon or focus generator. To use this benefit, you must have archaelogist kit with you, and the object must be within reach. On a success, once before your next short or long rest, a character wielding this lightweapon can gain a bonus to one weapon damage roll, or focus generator can gain a bonus to one force damage or healing roll. This bonus is a die, with a maximum value equal to your proficiency bonus. If you have expertise in the tool, this die's maximum is instead equal to twice your proficiency bonus.
 
 ##### Sample Activities
+
 |Activity|DC|
 |:--|:--:|
 |Appraise a gemstone or relic|20|
@@ -206,6 +209,7 @@ Your greater understanding of armor you—or your allies—wear allows for more 
 Over the course of a short or long rest, you can make a DC 15 armormech's implements check to temporarily improve a suit of armor or a shield. To use this benefit, you must have armormech's implements with you, and the object must be within reach. On a success, once before your next short or long rest, a character wearing this armor or wielding this shield can gain a bonus to AC against one attack. This bonus is a die, with a maximum value equal to your proficiency bonus. If you have expertise in the tool, this die's maximum is instead equal to twice your proficiency bonus.
 
 ##### Sample Activities
+
 |Activity|DC|
 |:--|:--:|
 |Repair a suit of armor or a shield|15|
@@ -231,6 +235,7 @@ You can more readily identify an enhanced blaster or vibroweapons properties.
 Over the course of a short or long rest, you can make a DC 15 arsmtech's implements check to temporarily improve a blaster or vibroweapon. To use this benefit, you must have arsmtech's implements with you, and the object must be within reach. On a success, once before your next short or long rest, a character wielding this weapon can gain a bonus to one weapon attack. This bonus is a die, with a maximum value equal to your proficiency bonus. If you have expertise in the tool, this die's maximum is instead equal to twice your proficiency bonus.
 
 ##### Sample Activities
+
 |Activity|DC|
 |:--|:--:|
 |Repair a blaster or vibroweapon|15|
@@ -253,6 +258,7 @@ Your knowledge grants you greater understanding when reverse engineering lightwe
 Over the course of a short or long rest, you can make a DC 15 artificer's implements check to temporarily improve a lightweapon or focus generator. To use this benefit, you must have artificer's implements with you, and the object must be within reach. On a success, once before your next short or long rest, a character wielding this lightweapon can gain a bonus to one weapon attack roll, or focus generator can gain a bonus to one force attack roll. This bonus is a die, with a maximum value equal to your proficiency bonus. If you have expertise in the tool, this die's maximum is instead equal to twice your proficiency bonus.
 
 ##### Sample Activities
+
 |Activity|DC|
 |:--|:--:|
 |Disassemble a lightweapon|20|
@@ -272,6 +278,7 @@ Your experience lets you more readily identify aftermarket modifications in turr
 Over the course of a short or long rest, you can make a DC 15 artillerist's kit check to temporarily improve a turret. To use this benefit, you must have an artillerist's kit with you, and the object must be within reach. On a success, once before your next short or long rest, this turret can gain a bonus to one attack roll or a bonus to one save DC. This bonus is a die, with a maximum value equal to your proficiency bonus. If you have expertise in the tool, this die's maximum is instead equal to twice your proficiency bonus.
 
 ##### Sample Activities
+
 |Activity|DC|
 |:--|:--:|
 |Disable a turret|20|
@@ -294,6 +301,7 @@ When you inspect a painting or a similar work of visual art, your knowledge of t
 Over the course of a short or long rest, you can make a DC 15 artist's implements check to create a depiction of an event, person, or other noteworthy object. To use this benefit, you must have artist's implements with you. On a success, you create a rendition that perfectly captures the event in question, provided the event happened no more than one day ago. If you have expertise in the tool, you can instead capture an event that happened no more than one week ago.
 
 ##### Sample Activities
+
 |Activity|DC|
 |:--|:--:|
 |Paint an accurate portrait|10|
@@ -315,6 +323,7 @@ Your knowledge lets you determine whether a droid has been modified beyond its m
 Over the course of a short or long rest, you can make a DC 15 astrotech's implements check to repair a droid. To use this benefit, you must have a astrotech's implements with you, and droid must be within reach. On a success, for each Hit Die the droid spends to regain hit points, it regains bonus hit points. This bonus is a die, with a maximum value equal to your proficiency bonus. If you have expertise in the tool, this die's maximum is instead equal to twice your proficiency bonus.
 
 ##### Sample Activities
+
 |Activity|DC|
 |:--|:--:|
 |Identify a droid's designation|10|
@@ -336,6 +345,7 @@ You can accurately appraise the value of an instrument.
 Over the course of a short or long rest, you can make a DC 15 audiotech's implements check to tune or otherwise care for an instrument. To use this benefit, you must have audiotech's implements with you, and the instrument must be within reach. On a success, once before your next short or long rest, you can gain a bonus to one check you make with the instrument. This bonus is a die, with a maximum value equal to your proficiency bonus. If you have expertise in the tool, this die's maximum is instead equal to twice your proficiency bonus.
 
 ##### Sample Activities
+
 |Activity|DC|
 |:--|:--:|
 |Appraise an instrument|20|
@@ -361,6 +371,7 @@ When you travel in the wild, your skill in bioanalysis makes it easier to identi
 Over the course of a short or long rest, you can make a DC 15 bioanalysis kit check to help an ally recover. To use this benefit, you must have a bioanalysis kit with you, and access to local flora. On a success, you can remove one poison or disease from a friendly creature within reach. 
 
 ##### Sample Activities
+
 |Activity|DC|
 |:--|:--:|
 |Find plants|15|
@@ -386,6 +397,7 @@ Over the course of a short or long rest, you can make a DC 15 biochemist's kit c
 
 
 ##### Sample Activities
+
 |Activity|DC|
 |:--|:--:|
 |Create a traumakit|10|
@@ -409,6 +421,7 @@ Your knowledge and experience lets you identify cybernetic augmentations, and th
 *Feature that utilizes the tool in some capacity.*
 
 ##### Sample Activities
+
 |Activity|DC|
 |:--|:--:|
 |Install an augmentation|Varies|
@@ -439,6 +452,7 @@ A stiff drink can help soften the hardest heart. Your proficiency with brewer's 
 Over the course of a short or long rest, you can make a DC 15 brewer's kit check to hone or reduce the addictive properties of an alcoholic beverage within reach. To use this benefit, you must have a brewer's kit, and the alcoholic beverage must be within reach. If a creature consumes the alcoholic beverage before the end of your next short or long rest, they have advantage or disadvantage (your choice) on the saving throws made to avoid the low and addiction.
 
 ##### Sample Activities
+
 |Activity|DC|
 |:--|:--:|
 |Detect poison or impurities in a drink|10|
@@ -466,6 +480,7 @@ When foraging for food, you can make do with ingredients you scavenge that other
 > During a long rest, you can prepare and serve a meal that helps you and your allies recover from the rigors of adventuring, provided you have suitable food, chef's kit, and other supplies on hand. The meal serves up to six people, and each person who eats it regains two additional Hit Dice at the end of the long rest. In addition, those who partake of the meal have advantage on Constitution saving throws against disease for the next 24 hours.
 
 ##### Sample Activities
+
 |Activity|DC|
 |:--|:--:|
 |Create a typical meal|10|
@@ -488,8 +503,8 @@ You gain additional insight when inspecting areas within structures, because you
 > As part of a long rest, you can construct a lean-to or a similar shelter to keep your group dry and in the shade for the duration of the rest. Because it was fashioned quickly from whatever wood was available, the shelter collapses 1d3 days after being assembled.
 
 ##### Sample Activities
+
 |Activity|DC|
-|:--|:--:|
 |:--|:--:|
 |Chisel a small hole in a wall|10|
 |Design a complex structure|15|
@@ -520,6 +535,7 @@ Your expertise grants you greater insight into the enhanced properties of wristp
 > Over the course of a short or long rest, you can make a DC 15 
 
 ##### Sample Activities
+
 |Activity|DC|
 |:--|:--:|
 |Unlock a datacron|Varies|
@@ -538,6 +554,7 @@ You gain additional insight when looking for mines and charges, because you have
 Over the course of a short or long rest, you can make a DC 15 demolitions kit check to temporarily improve one grenade or mine. To use this benefit, you must have a demolitions kit with you, and the object must be within reach. If the explosive is detonated before the end of your next short or long rest, it deals bonus damage. This bonus is a die, with a maximum value equal to your proficiency bonus. If you have expertise in the tool, this die's maximum is instead equal to twice your proficiency bonus.
 
 ##### Sample Activities
+
 |Activity|DC|
 |:--|:--:|
 |Conceal an explosive|15|
@@ -561,6 +578,7 @@ Folk tend to trust a person in uniform. If you disguise yourself as an authority
 Over the course of a short or long rest, you can make a DC 15 disguise kit check to craft a disguise that mimics the appearance of a creature you spent at least 1 hour observing. To use this benefit, you must have a disguise kit with you. On a success, you can don or doff this disguise as an action. Additionally, once before your next short or long rest, you can gain a bonus to one check to pass yourself off as that creature. This bonus is a die, with a maximum value equal to your proficiency bonus. If you have expertise in the tool, this die's maximum is instead equal to twice your proficiency bonus.
 
 ##### Sample Activities
+
 |Activity|DC|
 |:--|:--:|
 |Cover injuries or distinguishing marks|10|
@@ -588,6 +606,7 @@ When you examine objects, proficiency with a forgery kit is useful for determini
 > As a part of a short rest, you can produce a forged document no more than one page in length. As a part of a long rest, you can produce a document that is up to four pages long. Your Intelligence check using a forgery kit determines the DC for someone else's Intelligence (Investigation) check to spot the fake.
 
 ##### Sample Activities
+
 |Activity|DC|
 |:--|:--:|
 |Mimic handwriting|15|
@@ -610,6 +629,7 @@ When you examine objects, proficiency with a forgery kit is useful for determini
 > Over the course of a short or long rest, you can make a DC 15 
 
 ##### Sample Activities
+
 |Activity|DC|
 |:--|:--:|
 |*Activity description*|xx|
@@ -633,6 +653,7 @@ Sleight of Hand is a useful skill for cheating at a game, as it allows you to sw
 > Over the course of a short or long rest, you can make a DC 15 
 
 ##### Sample Activities
+
 |Activity|DC|
 |:--|:--:|
 |Catch a player cheating|15|
@@ -658,6 +679,7 @@ Sleight of Hand is a useful skill for cheating at a game, as it allows you to sw
 > Over the course of a short or long rest, you can make a DC 15 
 
 ##### Sample Activities
+
 |Activity|DC|
 |:--|:--:|
 |*Activity description*|xx|
@@ -679,6 +701,7 @@ Your combined experience lets you refine gemstones for use with greater efficien
 > Over the course of a short or long rest, you can make a DC 15 
 
 ##### Sample Activities
+
 |Activity|DC|
 |:--|:--:|
 |Modify a gem's appearance|15|
@@ -705,6 +728,7 @@ Your experience grants you greater insight when conducting repairs on ships or v
 > When you are interrupted while you are conducting repairs on a vehicle or ship, reduce the required time by half as long as you are present during the entirety of the repairs.
 
 ##### Sample Activities
+
 |Activity|DC|
 |:--|:--:|
 |Restoring power to a damaged vehicle|15|
@@ -729,6 +753,7 @@ This kit contains the necessary tools to create ammunition for blasters, as well
 Over the course of a short or long rest, you can make a DC 15 munitions kit check to temporarily improve a blaster or vibroweapon. To use this benefit, you must have munitions kit with you, and the object must be within reach. On a success, once before your next short or long rest, a character wielding this weapon can gain a bonus to one weapon damage roll. This bonus is a die, with a maximum value equal to your proficiency bonus. If you have expertise in the tool, this die's maximum is instead equal to twice your proficiency bonus.
 
 ##### Sample Activities
+
 |Activity|DC|
 |:--|:--:|
 |Mimic handwriting|15|
@@ -751,6 +776,7 @@ Your ability to put on a good show is improved when you incorporate an instrumen
 > Over the course of a short or long rest, you can make a DC 15 
 
 ##### Sample Activities
+
 |Activity|DC|
 |:--|:--:|
 |Identify a tune|10|
@@ -778,6 +804,7 @@ Working with poisons enables you to acquire lore about which plants and animals 
 > Additionally, you can improve the capability of one dose of poison. To use this benefit, you must have a poisoner’s kit, and the poison must be within reach. If the poison is applied before the end of your next short or long rest, the target has disadvantage on the saving throw made to resist your poison. Once you've used this feature, you must complete a long rest before you can use it again.
 
 ##### Sample Activities
+
 |Activity|DC|
 |:--|:--:|
 |Spot a poisoned object|10|
@@ -802,6 +829,7 @@ This kit contains the necessary implements to harvest and scavenge ores and meta
 Over the course of a short or long rest, you can make a DC 15 scavenging kit check to temporarily hone the edge of a vibroweapon. To use this benefit, you must have a scavenging kit, and the vibroweapon must be within reach. The first time a character deals damage with the vibroweapon before the end of your next short or long rest, and it deals extra damage equal to your Intelligence modifier of the same type it would normally deal.
 
 ##### Sample Activities
+
 |Activity|DC|
 |:--|:--:|
 |*Activity description*|xx|
@@ -822,6 +850,7 @@ You gain additional insight when looking for traps, because you have learned a v
 > Just as you can disable traps, you can also set them. As part of a short rest, you can create a trap using items you have on hand. The total of your check becomes the DC for someone else's attempt to discover or disable the trap. The trap deals damage appropriate to the materials used in crafting it (such as poison or a weapon) or damage equal to half the total of your check, whichever the DM deems appropriate.
 
 ##### Sample Activities
+
 |Activity|DC|
 |:--|:--:|
 |Pick a moderate lock|15|
@@ -846,6 +875,7 @@ Your knowledge of common digital security types makes it easier for you to ident
 > Over the course of a short or long rest, you can make a DC 15 
 
 ##### Sample Activities
+
 |Activity|DC|
 |:--|:--:|
 |Identify a hidden security routine|15|
@@ -870,6 +900,7 @@ Spicer's kit include all of the necessary components to refine and create illici
 Over the course of a short or long rest, you can make a DC 15 spicer's kit check to temporarily hone or reduce the addictive properties of a spice within reach. To use this benefit, you must have a spicer's kit, and the spice must be within reach. If a creature consumes the spice before the end of your next short or long rest, they have advantage or disadvantage (your choice) on the saving throws made to avoid the low and addiction.
 
 ##### Sample Activities
+
 |Activity|DC|
 |:--|:--:|
 |*Activity description*|xx| 
@@ -895,6 +926,7 @@ Your understand of geography makes it easier to find paths to civilization, to p
 
 
 ##### Sample Activities
+
 |Activity|DC|
 |:--|:--:|
 |Determine a map's age and origin|10|
@@ -918,6 +950,7 @@ Using your knowledge of the process of creating cloth objects, you can spot clue
 Over the course of a short or long rest, you can make a DC 15 synthweaver's implements check to add a hidden compartment to a pair of boots or an article of clothing. The compartment can hold an object up to 3 inches long and 1 inch wide and deep. The DC to find the hidden compartment is equal to 8 + your bonus to checks with synthweaver's implements at the time of creation.
 
 ##### Sample Activities
+
 |Activity|DC|
 |:--|:--:|
 |Repurpose or mend a cloth|10|
@@ -946,6 +979,7 @@ You can use tinker's implements as other tools with which you are proficient. Yo
 With access to your tools, you can repair small items. For any object, you need access to raw materials required to repair it.
 
 ##### Sample Activities
+
 |Activity|DC|
 |:--|:--:|
 |Temporarily repair a disabled device|10|
@@ -973,6 +1007,7 @@ With access to your tools, you can repair small items. For any object, you need 
 
 
 ##### Sample Activities
+
 |Activity|DC|
 |:--|:--:|
 |*Activity description*|xx|
@@ -993,6 +1028,7 @@ With access to your tools, you can repair small items. For any object, you need 
 Over the course of a short or long rest, you can make a DC 15 writer's implements check to create an instruction manual for a skill or tool in which you are proficient. To use this benefit, you must have writer's implements and a source on which to scribe your instruction. On a success, once before your next short or long rest, a creature with an Intelligence score of 6 or higher can spend 10 minutes reading your manual, after which they gain proficiency in the chosen skill or tool. This benefit lasts until you or the creature complete a short or long rest.
 
 ##### Sample Activities
+
 |Activity|DC|
 |:--|:--:|
 |*Activity description*|xx|
