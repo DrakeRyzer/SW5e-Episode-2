@@ -1,3 +1,11 @@
+---
+title: Berserker
+parent: Classes
+grand_parent: Player's Handbook
+has_children: true
+nav_order: 1
+---
+
 ## Berserker
 
 <img src='../../../zzImages/Classes/berserker_01.png' style='float:right; width:400px;'>
