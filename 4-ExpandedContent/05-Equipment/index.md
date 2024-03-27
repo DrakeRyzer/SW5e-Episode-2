@@ -68,7 +68,7 @@ nav_order: 5
 | &emsp;Lightcutlass       |725 cr   |2d4 energy	|1.50 lb     |Dexterity 11, hidden, luminous|
 | &emsp;Saberspear			|450 cr   |1d6 energy	|2.00 lb|Luminous, thrown (range 20/60), versatile (2d4)|
 | &emsp;Wristsaber         |375 cr   |1d4 energy	|1.00 lb       |Finesse, fixed, light, luminous|
-|	_Martial Lightweapons_	|||||||
+|	_Martial Lightweapons_	|||||
 | &emsp;Chained lightdagger |800 cr   |1d4 energy     |3.50 lb     |Disarming, finesse, luminous, reach |
 | &emsp;Claymoresaber      |2,300 cr |3d4 energy     |3.50 lb     |Dexterity 13, luminous, two-handed |
 | &emsp;Crosssaber         |1,650 cr |2d4 energy     |5.25 lb    |Dexterity 15, double (2d4 energy), heavy, luminous, reach |
