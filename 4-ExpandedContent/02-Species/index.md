@@ -14,10 +14,7 @@ nav_order: 2
 
 ##### Table of Contents
 
-</div>
-
-|||
-|:--|--:|
+|:--|
 |	Abyssin        	    |
 |	Advozse         	|
 |	Aing-Tii        	|
@@ -138,23 +135,23 @@ nav_order: 2
 
 ___
 > ## Abyssin
-> ___
+>
 > #### Visual Characteristics
-> ||||
+> 
 > |:--|:--|:--|
 > |***Skin Color***|  |Green, tan|
 > |***Hair Color***|  |Black, turning white with age|
 > |***Eye Color***|  |Yellow, white|
 > |***Distinctions***|  |Single eye, regenerative abilities|
-> ___
+> 
 > #### Physical Characteristics
-> |||||
+> 
 > |:--|:--|:--:|:--:|
 > |***Height***|  |5'5"|+2d10"|
 > |***Weight***|  |150 lbs.|x2d4 lbs.|
-> ___
+> 
 > #### Sociocultural Characteristics
-> ||||
+> 
 > |:--|:--|:--|
 > |***Homeworld***|  |Byss|
 > |***Language***|  |Abyssin|
