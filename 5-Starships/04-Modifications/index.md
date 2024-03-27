@@ -20,6 +20,7 @@ The cost of a modification depends on its category, as shown below in the **Modi
 For example, a crew could acquire raw materials equal to 1000cr and assemble a Universal modification for a small ship (having a total installed cost of 4000cr). The material cost of the modification would then be 2000cr. Then, the crew could install that modification in a small ship for a final installed cost for the Universal modification of 4000cr. Alternatively, the crew may have found this assembled modification as loot worth 2000cr and could hire a shipyard to install the modifi-cation by paying just the installation portion (2000cr) of the total installed cost (4000cr). Any combination of this process is feasible.
 
 ##### Modification Category Base Cost
+
 | Modification Category | Base Cost |
 |:----|----:|
 | Engineering  | 3,500 cr |
@@ -32,6 +33,7 @@ For example, a crew could acquire raw materials equal to 1000cr and assemble a U
 In the same way it costs more to upgrade a capital ship than a starfighter, it costs more to modify it as well. Each starship has a cost modifier depending on the ship's size, as shown in the Starship Size Modification Cost table below:
 
 ##### Starship Size Modification Cost
+
 | Starship Size | Cost Modifier |
 |:----:|:-------------:|
 | Tiny  |x 0.5 |
@@ -46,6 +48,7 @@ For instance, to purchase and install a Hardpoint in a Small ship, it costs 3,00
 For a Small ship, two people can do everything necessary (though additional staff will reduce the time taken), while Medium or larger ships require a more extensive workforce, as shown below in the Starship Size Modification Workforce table.
 
 ##### Starship Size Modification Workforce
+
 | Starship Size | Minimum Workforce |
 |:----:|:----:|
 | Tiny  | 1 |
@@ -94,13 +97,8 @@ For instance, to install a Hardpoint in a Small ship, with a workforce of two, i
 It is assumed that each member of the workforce works 8 hours per day.
 
 ### Modification Grade And Ship Tier
-Finally, modifications have a grade (0 if not listed).
-High-grade modifications are more costly, using scarce
-materials to construct and install. When purchasing
-and installing a modification with a listed grade,
-multiply the final cost of the modification by the
-modification’s grade, if Grade 1 or higher. As an example, a Grade 2 modification would
-have two times the final cost of a Grade 0 or 1 modification. 
+Finally, modifications have a grade (0 if not listed). High-grade modifications are more costly, using scarce materials to construct and install. When purchasing and installing a modification with a listed grade,
+multiply the final cost of the modification by them modification’s grade, if Grade 1 or higher. As an example, a Grade 2 modification would have two times the final cost of a Grade 0 or 1 modification. 
 
 
 
@@ -112,7 +110,8 @@ Additionally, these modifications require more precise skill to install, as show
 When making a modification, the foremost mechanic must make an Intelligence (Mechanic’s Kit) check to correctly install modifications. A GM may decide to assume that this check is automatically passed when a party contracts out the instalation of a modification to a shipyard adequately equipped to routinely handle such an installation. The DC for the check varies based on the grade of the modification and the tier of the ship, as shown below in the Modification Grade Installation by Ship Tier table below.
 
 ##### Modification Grade Installation by Ship Tier  
-|Modification<br> Grade|Tier<br> 0|Tier<br> 1|Tier<br> 2|Tier<br> 3|Tier<br> 4|Tier<br> 5|
+
+|Modification Grade|Tier 0|Tier 1|Tier 2|Tier 3|Tier 4|Tier 5|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 |**Grade 0**| 10|  9|  8|  7|  6|  5|
 |**Grade 1**| 17| 12| 11| 10|  9|  8| 
@@ -169,6 +168,7 @@ These specialized modifications aid in the operation and response of the ship. E
 Suite systems add additional functionality to the ship in the form of bays, stations and designated areas, offering increased utility to civilians, crewmembers, and troopers. Each suite system can be chosen no more than ten times. All suite systems require a ship of size Small or larger. In addition to their modification slot cost, ships are limited to the number of suite systems they can have, depending on the ship's size and constitution modifier, as shown below in the Starship Size Maximum Suites table.
 
 ##### Starship Size Maximum Suites
+
 | Starship Size | Maximum Suites |
 |:----:|:----:|
 | Tiny  | — |
@@ -181,6 +181,7 @@ Suite systems add additional functionality to the ship in the form of bays, stat
 Additionally, unless otherwise specified, each suite system can accommodate a standard number of civilians, crewmembers, or troopers, as shown below in the **Starship Size Suite Capacity** table.  A ship does not gain a feature that accommodates less than 1.
 
 ##### Starship Size Suite Capacity
+
 | Starship Size | Suite Capacity |
 |:----:|:----:|
 | Tiny  | — |
@@ -242,8 +243,9 @@ Additionally, when a designated pilot takes the Ram action, on a success, the sh
 
 
 #### Target Ship's Slowed Level
-##### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Your Ship Size
-| Target <br>Ship Size | Tiny |Small |Med. |Large |Huge |Garg. |
+
+##### Your Ship Size
+| Target Ship Size | Tiny |Small |Med. |Large |Huge |Garg. |
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|
 | **Tiny**  | 3 |4 |4 |4|4 |4 |
 | **Small**  | 2|3 |4 |4 |4 |4 |
@@ -255,8 +257,9 @@ Additionally, when a designated pilot takes the Ram action, on a success, the sh
 
 
 #### Your Ship's Slowed Level
+
 ##### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Your Ship Size
-| Target <br>Ship Size | Tiny |Small |Med. |Large |Huge |Garg. |
+| Target Ship Size | Tiny |Small |Med. |Large |Huge |Garg. |
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|
 | **Tiny**  | 2 |1 |— |— |— |— |
 | **Small**  | 3|2 |1 |— |— |— |
@@ -1261,22 +1264,9 @@ All expended escape pods are replaced when the ship undergoes refitting.
 
 
 ### External Docking System
-Your ship is equipped with an airlock and couplers
-designed to attach and connect to one ship of a size one category smaller than your ship. As an
-action, a crewmember can engage or disengage the
-external docking system. While a ship is coupled to
-your ship, the ships can share primary systems as
-appropriate, and creatures can transfer between ships
-readily. If at least one external docking system is occupied
-by at least one ship, your ship’s flying speed decreases
-by 50 feet (to a minimum of 50 feet), its turning speed
-increases by 50 feet, and its hyperdrive is considered
-one class greater (to a maximum of Class 20) for
-determining travel time in hyperspace.
+Your ship is equipped with an airlock and couplers designed to attach and connect to one ship of a size one category smaller than your ship. As an action, a crewmember can engage or disengage the external docking system. While a ship is coupled to  your ship, the ships can share primary systems as appropriate, and creatures can transfer between ships readily. If at least one external docking system is occupiedm by at least one ship, your ship’s flying speed decreases by 50 feet (to a minimum of 50 feet), its turning speed increases by 50 feet, and its hyperdrive is considered one class greater (to a maximum of Class 20) for determining travel time in hyperspace.
 
 Alternatively, this suite can accommodate multiple ships of smaller size. A Huge ship takes up the space of 10 Large ships, which in turn takes up the place of 10 Medium ships. One Medium ship takes up the space of five Small ships, which in turn takes up the space of two Tiny ships. You can also substitute a Huge or Gargantuan droid/construct for a Tiny or Small ship, respectively. 
-
-
 
 ### Fuel Storage
 This large fuel tank is able to store additional fuel portions in your starship. The tank stores fuel units equal to 5 times your ship's normal fuel capacity. These units can be used to fuel your own starship, or they can be transfered to other ships.
@@ -1317,10 +1307,6 @@ This suite comes with a number of investigation rooms equal up to one-fourth the
 While making a check with any of these tools in an investigation room, you can add your proficiency bonus to checks you make if you do not already do so. If you already add your proficiency bonus to checks you make, you instead add double your proficiency bonus. If you already double your proficiency bonus to checks you make, you instead add half of your governing ability modifier (rounded down, minimum of +1), in addition to your ability modifier.
 
 Additionally, while crafting in an investigation room using the integrated tools, the total market value you can craft per day increases by an amount of credits equal to 5 x your character level. If you add double your proficiency bonus to checks you make with them, the market value increases by 10 x your character level.
-
-
-
-
 
 
 Lastly, when a creature completes a long rest involving this suite, they gain advantage on the first Dexterity (Stealth), Intelligence (Investigation), Wisdom (Insight), or Wisdom (Perception) check they make before the start of their next long rest.
