@@ -219,19 +219,19 @@ A shield with this property can be used with one or two hands. While wielded in 
 
 |Name|Cost|Armor|Weight|Properties| 
 |:---|---:|:---|-:|:---|
-|_Light Armor_	||||||
+|_Light Armor_	|||||
 |&emsp;Duranium combat suit     |  1,100 cr|	11 + Dex modifier|10.00 lb|Cumbersome, reactive 1|
 |&emsp;Duravlex fiber armor     |  1,450 cr|	11 + Dex modifier|13.00 lb|Silent|
 |&emsp;Fleximetal fiber armor	|  1,450 cr|	12 + Dex modifier|13.00 lb|Avoidant 1, strength 11|
-|_Medium Armor_	||||||
+|_Medium Armor_	|||||
 |&emsp;Neutronium mesh 	        |  2,500 cr|	13 + Dex modifier (max 2)|20.00 lb|Insulated 5, strength 11|
 |&emsp;Beskar weave armor	    |  3,000 cr|	14 + Dex modifier (max 2)|25.00 lb|Regulated, strength 11|
 |&emsp;Plastoid composite       |  4,500 cr|	15 + Dex modifier (max 2)|45.00 lb|Bulky, reinforced, rigid|
-|_Heavy Armor_	||||||
+|_Heavy Armor_	|||||
 |&emsp;Durafiber battle armor	|  6,750 cr|	15	|55.00 lb|Bulky, strength 11|
 |&emsp;Laminanium assault       |  8,000 cr|	17	|60.00 lb|Bulky, cumbersome, obscured, strength 15|
 |&emsp;Durasteel exoskeleton 	| 15,000 cr|	18	|65.00 lb|Bulky, impermeable 2, rigid, strength 17|
-|_Shield_		||||||
+|_Shield_		|||||
 |&emsp;Bone light shield        |    300 cr|	+0	| 6.00 lb|Spiked (1d4)|
 |&emsp;Crystadium medium shield  |	 900 cr|	+2	|18.00 lb|Absorptive 1, imbalanced, strength 13|
 |&emsp;Quadanium heavy shield	|  2,000 cr|	+3	|36.00 lb|Charging 1, cumbersome, obtrusive, strength 15|
