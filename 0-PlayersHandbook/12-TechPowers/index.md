@@ -229,7 +229,7 @@ Predictive AI
 
 
 
-#### At-Will
+### At-Will
 ___
 - Acid Splash
 - Acidic Strike
@@ -271,7 +271,7 @@ ___
 - Warding Shot
 - Wire Line
 
-#### 1st-level
+### 1st-level
 ___
 - Absorb Energy
 - Acid Wind
@@ -285,9 +285,6 @@ ___
 - Cryogenic Blast
 - Cryogenic Wave
 - Decryption Program
-
-
-___
 - Detect Enhancement
 - Element of Surprise
 - Energy Shield
@@ -321,7 +318,7 @@ ___
 - Translation Program
 - Voltaic Shield
 
-#### 2nd-level
+### 2nd-level
 ___
 - Acid Dart
 - Capacity Boost
@@ -343,9 +340,6 @@ ___
 - Lock
 - Magnetic Field
 - Magnetic Hold
-
-
-___
 - Mirror Image
 - Motivator Boost
 - Overheat
@@ -360,7 +354,7 @@ ___
 - Translocate
 - Truth Serum
 
-#### 3rd-level 
+### 3rd-level 
 ___
 - Autonomous Servant
 - Bestow Virus
@@ -388,7 +382,7 @@ ___
 - Tonal Translocate
 - Vertical Maneuvering
 
-#### 4th-level 
+### 4th-level 
 ___
 - Ballistic Shield
 - Cloaking Screen
@@ -396,9 +390,6 @@ ___
 - Cryogenic Storm
 - Defibrillate
 - Elemental Accelerant
-
-
-___
 - Holding Cell
 - Illusory Terrain
 - Kolto Reserve
@@ -409,7 +400,7 @@ ___
 - Synchronicity
 - Wire Bind
 
-#### 5th-level 
+### 5th-level 
 ___
 - Cryogenic Spray
 - Friendly Fire
@@ -427,7 +418,7 @@ ___
 - Skill Protocol
 - Toxic Cloud
 
-#### 6th-level 
+### 6th-level 
 ___
 - Carbon Fog
 - Carbonite
@@ -442,7 +433,7 @@ ___
 - Security Protocols
 - Superior Translation Program
 
-#### 7th-level 
+### 7th-level 
 ___
 - Cage
 - Delayed Explosion
@@ -451,7 +442,7 @@ ___
 - Project Hologram
 - Tactical Superiority
 
-#### 8th-level 
+### 8th-level 
 ___
 - Antipathy/Sympathy
 - Energizing Aura
@@ -459,7 +450,7 @@ ___
 - Scrambling Field
 - Stun Dart
 
-#### 9th-level
+### 9th-level
 ___
 - Carbonite Explosion
 - Greater Explosion
@@ -474,9 +465,9 @@ ___
 
 
 
-#### Absorb Energy
+### Absorb Energy
 _1st-level tech power_
-___
+
 - **Casting Time:** 1 reaction, which you take when you take acid, cold, energy, fire, ion, kinetic, lightning, or sonic damage
 - **Range:** Self
 - **Duration:** 1 round
@@ -485,9 +476,9 @@ The power captures some of the incoming energy, lessening its effect on you and 
 
 ***Overcharge Tech.*** When you cast this power using a power slot of 2nd level or higher, the extra damage increases by 1d6 for each slot level above 1st.
 
-#### Acid Dart
+### Acid Dart
 _2nd-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 90 feet
 - **Duration:** Instantaneous 
@@ -496,9 +487,9 @@ A shimmering green dart streaks toward a target within range and bursts in a spr
 
 ***Overcharge Tech.*** When you cast this power using a tech slot of 3rd level or higher, the damage (both initial and later) increases by 1d4 for each slot level above 2nd.
 
-#### Acid Splash
+### Acid Splash
 _At-will tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 60 feet
 - **Duration:** Instantaneous
@@ -507,9 +498,9 @@ You emit a burst of acid. Choose one creature within range that you can see, or 
 
 This power's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
 
-#### Acid Wind
+### Acid Wind
 _1st-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Self (15-foot cube)
 - **Duration:** Instantaneous
@@ -522,9 +513,9 @@ You produce a breeze full of stinging acid droplets. Each creature in a 15-foot 
 
 ***Overcharge Tech.*** When you cast this power using a tech slot of 2nd level or higher, the damage increases by 1d4 for each slot level above 1st.
 
-#### Acidic Strike
+### Acidic Strike
 _At-will tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Varies
 - **Duration:** 1 round
@@ -533,9 +524,9 @@ As part of the action used to cast this power, you must make a melee weapon atta
 
 This power's damage increases when you reach higher levels. At 5th level, the melee attack deals an extra 1d8 acid damage to the target, and the damage the target takes for taking grappling or maintaining a grapple increases to 2d8. Both damage rolls increase by 1d8 at 11th level and 17th level.
 
-#### Alarm
+### Alarm
 _1st-level tech power_
-___
+
 - **Casting Time:** 1 minute
 - **Range:** 30 feet
 - **Duration:** 8 hours, or until the end of your next short or long rest; whichever happens first
@@ -546,9 +537,9 @@ A silent alarm alerts you with a ping in your mind if you are within 1 mile of t
 
 An audible alarm produces the sound of a hand bell for 10 seconds within 60 feet.
 
-#### Analyze
+### Analyze
 _1st-level tech power_
-___
+
 - **Casting Time:** 1 minute
 - **Range:** Touch
 - **Duration:** Instantaneous
@@ -561,9 +552,9 @@ If you instead touch a creature throughout the casting, you learn what tech powe
 
 
 
-#### Antipathy/Sympathy
+### Antipathy/Sympathy
 _8th-level tech power_
-___
+
 - **Casting Time:** 1 hour
 - **Range:** 60 feet 
 - **Duration:** 10 days
@@ -580,9 +571,9 @@ If the target damages or otherwise harms an affected creature, the affected crea
 
 A creature that successfully saves against this effect is immune to it for 1 minute, after which time it can be affected again.
 
-#### Assess the Situation
+### Assess the Situation
 _At-will tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 30 feet
 - **Duration:** Concentration, up to 1 round
@@ -595,7 +586,7 @@ You take a sensory snapshot of a target within range. Your tech grants you a bri
 
 This power benefits additional attacks at higher levels: two attacks at 5th level, three attacks at 11th level, and four attacks at 17th level.
 
-#### Autonomous Servant
+### Autonomous Servant
 _3rd-level tech power_
 ___
 - **Casting Time:** 1 minute
@@ -606,22 +597,23 @@ You touch one Tiny, unenhanced object that isn't attached to another object or a
 
 ___
 > ## Servant
->*Tiny construct, unaligned*
-> ___
+> 
+> *Tiny construct, unaligned*
+> 
 > - **Armor Class** 15 (natural armor)
 > - **Hit Points** 10 (4d4)
 > - **Speed** 30 feet, climb 30 feet
->___
+>
 >|STR|DEX|CON|INT|WIS|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|4 (-3)|16 (+3)|10 (+0)|2 (-4)|10 (+0)|1 (-5)|
->___
+>
 > - **Damage Vulnerabilities** ion
 > - **Damage Resistances** necrotic, poison, psychic
 > - **Condition Immunities** charmed, deafened, exhaustion, poisoned
 > - **Senses** blindsight 60 feet (blind beyond this radius), passive Perception 10
 > - **Languages** ó
-> ___
+> 
 > **Circuitry.** The construct has disadvantage on saving throws against effects that would deal ion or lightning damage.
 > ### Actions
 > ***Slam.*** *Melee Weapon Attack:* +4 to hit, reach 5 feet, one target. *Hit* 5 (1d4 + 3) kinetic damage.
@@ -640,9 +632,9 @@ The creature is considered a valid target for the *tracker droid interface* powe
 
 ***Overcharge Tech.*** When you cast this power using a tech slot of 4th level or higher, you can animate two additional objects for each slot level above 3rd.
 
-#### Bacta Pack
+### Bacta Pack
 _1st-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 60 feet
 - **Duration:** 1 minute
@@ -653,18 +645,18 @@ When the pack is activated by a designated creature, that creature regains hit p
 
 ***Overcharge Tech.*** When you cast this power using a tech slot of 2nd level or higher, you may either increase the healing of a single pack by 1d6 for each slot level above 1st, or create another pack in a separate space, with one additional pack for each slot level above 1st.
 
-#### Ballistic Shield
+### Ballistic Shield
 _4th-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Self
 - **Duration:** Concentration, up to 1 hour
 
 A flickering blue shield surrounds your body. Until the power ends, you have resistance to kinetic, energy, and ion damage.
 
-#### Bestow Virus
+### Bestow Virus
 _3rd-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Touch
 - **Duration:** Concentration, up to 1 minute
@@ -683,9 +675,9 @@ A *remove virus* power ends this effect. At the GM's discretion, you may choose 
 
 **Overcharge Tech.** If you cast this power using a tech slot of 4th level or higher, the duration is concentration, up to 10 minutes. If you use a tech slot of 5th level or higher, the duration is 8 hours. If you use a tech slot of 7th level or higher, the duration is 24 hours. If you use a 9th-level tech slot, the power lasts until it is dispelled. Using a tech slot of 5th level or higher grants a duration that doesn't require concentration.
 
-#### Buffer
+### Buffer
 _1st-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Self
 - **Duration:** 1 hour
@@ -694,9 +686,9 @@ You gain 1d4 + 4 temporary hit points for the duration.
 
 ***Overcharge Tech.*** When you cast this power using a tech slot of 2nd level or higher, you gain 5 additional temporary hit points for each slot level above 1st.
 
-#### Cage
+### Cage
 _7th-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 100 feet
 - **Duration:** 1 hour
@@ -717,9 +709,9 @@ This power can't be dispelled.
 
 
 
-#### Capacity Boost
+### Capacity Boost
 _2nd-level tech power_
-___
+
 - **Casting Time:** 1 bonus action
 - **Range:** Touch
 - **Duration:** Concentration, up to 1 minute
@@ -728,18 +720,18 @@ You empower a blaster weapon you are holding. For the duration, you can reload t
 
 ***Overcharge Tech.*** When you cast this power using a tech slot of 5th level or higher, you can make two attacks with your bonus action, instead of one.
 
-#### Carbon Fog
+### Carbon Fog
 _6th-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 120 feet
 - **Duration:** Concentration, up to 1 minute
 
 You create a cloud of icy fog in a 20-foot-radius sphere centered on a point you can see. The sphere extends around corners, and its area is heavily obscured. The fog is semi-solid, and its area is considered difficult terrain. Each creature that enters the power's area for the first time on a turn or starts its turn there takes 4d6 cold damage and gains 1 slowed level until the end of its turn. The fog lasts for the duration of the power or until it's dispersed by a wind of moderate or greater speed (at least 10 mph).
 
-#### Carbonite
+### Carbonite
 _6th-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 60 feet
 - **Duration:** Concentration, up to 1 minute
@@ -752,9 +744,9 @@ If the creature is physically broken while frozen in carbonite, it suffers from 
 
 If you maintain your concentration on this power for the entire possible duration, the creature is frozen in carbonite until the effect is removed.
 
-#### Carbonite Explosion
+### Carbonite Explosion
 _9th-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 250 feet
 - **Duration:** Instantaneous
@@ -771,18 +763,18 @@ As an action, a restrained creature can make a Strength check against your tech 
 
 A creature reduced to 0 hit points by this power dies instantly, as its body shatters into frozen chunks.
 
-#### Cloaking Screen
+### Cloaking Screen
 _4th-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Touch
 - **Duration:** Concentration, up to 1 minute
 
 You or a creature you touch becomes invisible until the power ends. Anything the target is wearing or carrying is invisible as long as it is on the target's person.
 
-#### Combustive Shot
+### Combustive Shot
 _At-will tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Varies
 - **Duration:** 1 round
@@ -791,9 +783,9 @@ As part of the action used to cast this power, you must make a ranged weapon att
 
 This power's damage increases when you reach higher levels. At 5th level, the ranged attack deals an extra 1d6 fire damage to the target, and the ignited damage increases to 1d4 + your tech casting ability modifier. Both damage rolls increase by 1d6 and 1d4, respectively, at 11th level and 17th level.
 
-#### Concealed Caltrops
+### Concealed Caltrops
 _2nd-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 150 feet
 - **Duration:** Concentration, up to 1 hour
@@ -806,9 +798,9 @@ The caltrops are nearly invisible to the naked eye. Any creature that can't see 
 
 
 
-#### Condense/Vaporize
+### Condense/Vaporize
 _1st-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 30 feet
 - **Duration:** Instantaneous
@@ -817,9 +809,9 @@ In an open container, you can create up to 10 gallons of drinkable water. You ma
 
 ***Overcharge Tech.*** When you cast this power using a tech slot of 2nd level or higher, the amount of water you can create increases by 10 gallons, or the size of the cube increases by 5 feet, for each slot level above 1st.
 
-#### Contingency
+### Contingency
 _6th-level tech power_
-___
+
 - **Casting Time:** 10 minutes
 - **Range:** Self
 - **Duration:** 10 days
@@ -830,9 +822,9 @@ The contingent power takes effect immediately after the circumstance is met for 
 
 The contingent power takes effect only on you, even if it can normally target others. You can use only one contingency power at a time. If you cast this power again, the effect of another contingency power on you ends. Also, contingency ends on you if your tech focus is ever not on your person.
 
-#### Copy
+### Copy
 _1st-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Touch
 - **Duration:** Instantaneous
@@ -841,9 +833,9 @@ This power creates a perfect duplicate of any written, drawn, or digital visual,
 
 
 
-#### Corrosive Sphere
+### Corrosive Sphere
 _4th-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 150 feet
 - **Duration:** Instantaneous
@@ -852,9 +844,9 @@ You create a globule of acid and hurl it at a point within range, where it explo
 
 ***Overcharge Tech.*** When you cast this power using a tech slot of 5th level or higher, the initial damage increases by 2d4 for each slot level above 4th.
 
-#### Countermeasures
+### Countermeasures
 _1st-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Self
 - **Duration:** 10 minutes
@@ -864,9 +856,9 @@ For the duration, you gain the following benefits:
 - You and objects you are wearing or carrying cannot be detected by tech powers that reveal your location, such as *scan area* or *frequency scan*, unless the caster makes a successful Intelligence saving throw. 
 - Creatures have disadvantage on Wisdom (Survival) checks to track you.
 
-#### Cryogenic Blast
+### Cryogenic Blast
 _1st-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 60 feet
 - **Duration:** Instantaneous
@@ -875,9 +867,9 @@ You release a shard of cryogenic energy at one creature within range. Make a ran
 
 ***Overcharge Tech.*** When you cast this power using a tech slot of 2nd level or higher, the cold damage increases by 1d6 for each slot level above 1st.
 
-#### Cryogenic Burst
+### Cryogenic Burst
 _At-will tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 60 feet
 - **Duration:** Instantaneous 
@@ -890,9 +882,9 @@ The power's damage increases by 1d8 when you reach 5th level (2d8), 11th level (
 
 
 
-#### Cryogenic Spray
+### Cryogenic Spray
 _5th-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Self
 - **Duration:** Instantaneous 
@@ -903,9 +895,9 @@ A creature killed by this power becomes frozen in carbonite.
 
 ***Overcharge Tech.*** When you cast this power using a tech slot of 6th level or higher, the damage increases by 1d8 for each slot level above 5th.
 
-#### Cryogenic Storm
+### Cryogenic Storm
 _4th-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 120 feet
 - **Duration:** Instantaneous 
@@ -916,9 +908,9 @@ The storm's area of effect becomes difficult terrain until the end of your next 
 
 ***Overcharge Tech.*** When you cast this power using a tech slot of 5th level or higher, the kinetic damage increases by 1d8 for each slot level above 4th.
 
-#### Cryogenic Suspension
+### Cryogenic Suspension
 _3rd-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 30 feet
 - **Duration:** Concentration, up to 1 minute
@@ -933,9 +925,9 @@ A creature affected by this power makes another Constitution saving throw at the
 
 
 
-#### Cryogenic Volley
+### Cryogenic Volley
 _2nd-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 90 feet
 - **Duration:** Instantaneous
@@ -944,9 +936,9 @@ An explosion of cold energy erupts from a point you choose within range. Each cr
 
 ***Overcharge Tech.*** When you cast this power using a tech slot of 3rd level or higher, the damage increases by 1d6 for each slot level above 2nd.
 
-#### Cryogenic Wave
+### Cryogenic Wave
 _1st-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Self (15-foot cone)
 - **Duration:** Instantaneous
@@ -955,18 +947,18 @@ A wave of cold energy spreads out from you. Each creature in a 15-foot cone must
 
 ***Overcharge Tech.*** When you cast this power using a tech slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st. At 3rd level or above, a creature gains 2 slowed levels on a failed save. At 5th level or above, a creature gains 3 slowed levels on a failed save. At 7th level or above, a creature gains 4 slowed levels on a failed save.
 
-#### Darkvision
+### Darkvision
 _2nd-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Touch
 - **Duration:** 8 hours, or until the end of your next short or long rest; whichever happens first
 
 You touch a willing creature to grant it the ability to see in the dark. For the duration, that creature has darkvision out to a range of 60 feet.
 
-#### Debilitating Gas
+### Debilitating Gas
 _3rd-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 90 feet
 - **Duration:** Concentration, up to 1 minute
@@ -981,27 +973,27 @@ A wind of 10mph disperses the cloud after 4 rounds. A wind of 20mph disperses it
 
 
 
-#### Decryption Program
+### Decryption Program
 _1st-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Self
 - **Duration:** Concentration, up to 1 hour
 
 You gain insight into an encrypted message you are holding when you cast this power, granting you advantage on ability checks you make to decipher the document. 
 
-#### Defibrillate
+### Defibrillate
 _4th-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Touch
 - **Duration:** Instantaneous
 
 You touch a creature that has died within the last minute and administer a shock to restore it to life. That creature returns to life with 1 hit point. This power can't return to life a creature that has died of old age, nor can it restore any missing body parts. If the creature is lacking body parts or organs integral for its survivalóits head, for instanceóthe power automatically fails. Once this power has restored a creature to life, it cannot benefit from this power again until it finishes a short or long rest.
 
-#### Delayed Explosion
+### Delayed Explosion
 _7th-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 150 feet
 - **Duration:** Concentration, up to 1 minute 
@@ -1016,9 +1008,9 @@ The fire spreads around corners. It ignites flammable objects in the area that a
 
 ***Overcharge Tech.*** When you cast this power using a tech slot of 8th level or higher, the base damage increases by 1d6 for each slot level above 7th.
 
-#### Destroy Tech
+### Destroy Tech
 _3rd-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 120 feet
 - **Duration:** Instantaneous
@@ -1031,9 +1023,9 @@ Make a ranged tech attack against a creature within range. On a hit, the target 
 
 ***Overcharge Tech.*** When you cast this power with a tech slot of 4th level or higher, the ion damage increases by 1d8, and the amount of tech points lost increases by 1 for each slot level above 3rd.
 
-#### Detect Enhancement
+### Detect Enhancement
 _1st-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Self
 - **Duration:** Concentration, up to 10 minutes
@@ -1042,18 +1034,18 @@ For the duration, you sense the presence of any enhancements within 30 feet of y
 
 The power is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
 
-#### Detect Invisibility
+### Detect Invisibility
 _2nd-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Self
 - **Duration:** 1 hour
 
 For the duration, you see invisible creatures and objects as if they were visible.
 
-#### Detect Traps
+### Detect Traps
 _2nd-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Self
 - **Duration:** Concentration, up to 1 minute
@@ -1062,9 +1054,9 @@ You sense the presence, general location, and nature of any trap within 120 feet
 
 While the power is active, you have advantage on Wisdom (Perception) and Intelligence (Investigation) checks to find any traps that are within line of sight.
 
-#### Diminish Tech
+### Diminish Tech
 _3rd-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 120 feet
 - **Duration:** Instantaneous 
@@ -1077,9 +1069,9 @@ Choose one creature, object, or tech effect within range. Any tech power of 3rd 
 
 
 
-#### Disintegrate
+### Disintegrate
 _6th-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 60 feet
 - **Duration:** Instantaneous 
@@ -1094,9 +1086,9 @@ This power automatically disintegrates an unenhanced Large or smaller object. If
 
 ***Overcharge Tech.*** When you cast this power using a tech slot of 7th level or higher, the damage increases by 3d6 for each slot level above 6th.
 
-#### Disperse Energy
+### Disperse Energy
 _6th-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Self
 - **Duration:** Concentration, up to 1 minute
@@ -1105,9 +1097,9 @@ You have resistance to acid, cold, fire, lightning, and sonic damage for the pow
 
 When you take damage of one of those types, you can use your reaction to gain immunity to that type of damage, including against the triggering damage. If you do so, the resistances end, and you have the immunity until the end of your next turn, at which time the power ends.
 
-#### Echo Blast
+### Echo Blast
 _At-will tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 30 feet
 - **Duration:** Instantaneous
@@ -1116,9 +1108,9 @@ You emit a reverberating pulse of sound at a target within range. The target mus
 
 This power can hit multiple targets in succession when you reach higher levels: two targets at 5th level, three targets at 11th level, and four targets at 17th level. Each target must be within 30 feet of the previous target, and the last target must be no further than 30 feet away from you. You can not target the same creature twice in succession.
 
-#### Electrical Burst
+### Electrical Burst
 _At-will tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Self (5-foot sphere)
 - **Duration:** Instantaneous
@@ -1131,9 +1123,9 @@ You emit a burst of electricity. Each creature within range, other than you, mus
 
 This power's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
 
-#### Electromesh
+### Electromesh
 _2nd-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 60 feet
 - **Duration:** Concentration, up to 1 hour 
@@ -1148,9 +1140,9 @@ A creature restrained by the mesh can use its action to make a Strength check ag
 
 The mesh is flammable. Any 5-foot cube of electromesh exposed to fire burns away in 1 round, dealing 2d4 fire damage to any creature that starts its turn in the fire.
 
-#### Electroshock
+### Electroshock
 _At-will tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Touch
 - **Duration:** Instantaneous
@@ -1159,9 +1151,9 @@ Lightning springs from you to deliver a shock to a creature you try to touch. Ma
 
 This power's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 
-#### Element of Surprise
+### Element of Surprise
 _1st-level tech power_
-___
+
 - **Casting Time:** 1 reaction, which you take in response to being damaged by a creature within 60 feet of you that you can see
 - **Range:** 60 feet
 - **Duration:** Instantaneous
@@ -1174,9 +1166,9 @@ You expel a sabotage charge at the creature that attacked you. The creature must
 
 
 
-#### Elemental Accelerant
+### Elemental Accelerant
 _4th-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 90 feet
 - **Duration:** Concentration, up to 1 minute
@@ -1185,9 +1177,9 @@ Choose one creature you can see and one damage type: acid, cold, fire, lightning
 
 ***Overcharge Tech.*** You can target one additional creature for each slot level above 4th. The creatures must be within 30 feet of each other when you target them.
 
-#### Encrypted Message
+### Encrypted Message
 _At-will tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 120 feet
 - **Duration:** 1 round
@@ -1196,9 +1188,9 @@ You point your finger toward a creature within range that possesses a commlink a
 
 You can cast this power through solid objects if you are familiar with the target and know it is beyond the barrier. 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood blocks the power. The power doesn't have to follow a straight line and can travel freely around corners or through openings.
 
-#### Energetic Burst
+### Energetic Burst
 _2nd-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Touch
 - **Duration:** 10 minutes
@@ -1207,9 +1199,9 @@ A creature you touch gains 10 temporary hit points. While it has these hit point
 
 ***Overcharge Tech.*** When you cast this power with a tech slot of 3rd level or higher, the target gains 5 additional temporary hit points for each slot level above 2nd. When you cast this power at 4th level or higher, the die size increases for every two slot levels above 2nd (d6 at 4th level, d8 at 6th level, d10 at 8th level).
 
-#### Energizing Aura
+### Energizing Aura
 _8th-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Self
 - **Duration:** Concentration, up to 1 minute
@@ -1218,18 +1210,18 @@ Energizing light radiates out from you in a 30-foot radius. Creatures of your ch
 
 
 
-#### Energy Shield
+### Energy Shield
 _1st-level tech power_
-___
+
 - **Casting Time:** 1 reaction, which you take when you are hit by an attack
 - **Range:** Self
 - **Duration:** 1 round
 
 You quickly create an energy shield. Until the start of your next turn, you have a +5 bonus to AC. This includes the triggering attack. 
 
-#### Enhance Droid
+### Enhance Droid
 _2nd-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Touch
 - **Duration:** Concentration, up to 1 hour
@@ -1244,9 +1236,9 @@ You touch a droid or construct and upgrade one of its aspects. Choose one of the
 
 ***Overcharge Tech.*** When you cast this power using a tech slot of 3rd level or higher, you can target one additional droid or construct for each slot level above 2nd.
 
-#### Enhance Weapon
+### Enhance Weapon
 _3rd-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Touch
 - **Duration:** Concentration, up to 1 hour
@@ -1259,9 +1251,9 @@ An unenhanced weapon you touch becomes an enhanced weapon. Choose one of these d
 
 
 
-#### Execute Command
+### Execute Command
 _1st-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 60 feet
 - **Duration:** 1 round
@@ -1280,18 +1272,18 @@ You dictate a one-word command to a droid or construct you can see within range.
 
 ***Overcharge Tech.*** When you cast this power using a tech slot of 2nd level or higher, you can affect one additional droid or construct for each slot level above 1st. The creatures must be within 30 feet of each other when you target them.
 
-#### Expeditious Retreat
+### Expeditious Retreat
 _1st-level tech power_
-___
+
 - **Casting Time:** 1 bonus action
 - **Range:** Self
 - **Duration:** Concentration, up to 10 minutes 
 
 This power gives you a burst of adrenaline that allows you to move at an incredible pace. When you cast this power, and then as a bonus action on each of your turns until the power ends, you can take the Dash action.
 
-#### Explosion
+### Explosion
 _3rd-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 150 feet
 - **Duration:** Instantaneous
@@ -1304,9 +1296,9 @@ The fire spreads around corners. It ignites flammable objects in the area that a
 
 
 
-#### Extinguish
+### Extinguish
 _At-will tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 30 feet (5-foot cube)
 - **Duration:** Instantaneous
@@ -1315,9 +1307,9 @@ You spray carbon foam in a 5-foot cube originating from a point within range. Fl
 
 When you reach 5th level, this power can instead target a 10-foot cube within range. You gain additional options of increasing size when you reach 11th level (15-foot cube), and 17th level (20-foot cube).
 
-#### Fabricate Trap
+### Fabricate Trap
 _3rd-level tech power_
-___
+
 - **Casting Time:** 1 hour
 - **Range:** Touch
 - **Duration:** Until dispelled or triggered
@@ -1344,9 +1336,9 @@ When you create the trap, choose an explosive trap or a power trap:
 
 ***Overcharge Tech.*** When you cast this power using a tech slot of 4th level or higher, the damage of an explosive trap increases by 1d8 for each slot level above 3rd. If you create a power trap, you can store any power of up to the same level as the slot you use for this power.
 
-#### Find the Path
+### Find the Path
 _6th-level tech power_
-___
+
 - **Casting Time:** 1 minute
 - **Range:** Self
 - **Duration:** Concentration, up to 1 day
@@ -1355,9 +1347,9 @@ This power calculates out the shortest, most direct physical route to a specific
 
 For the duration, as long as you are on the same planet as the destination, you know how far it is and in what direction it lies. While you are traveling there, whenever you are presented with a choice of paths along the way, you automatically determine which path is the shortest and most direct route (but not necessarily the safest route) to the destination.
 
-#### Firestorm
+### Firestorm
 _6th-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 60 feet
 - **Duration:** Instantaneous
@@ -1368,9 +1360,9 @@ Choose a point on the ground within range, incinerating everything in a 15-foot 
 
 
 
-#### Flame Sweep
+### Flame Sweep
 _1st-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Self (15-foot cone)
 - **Duration:** Instantaneous
@@ -1381,9 +1373,9 @@ The fire ignites any flammable objects in the area that aren't being worn or car
 
 ***Overcharge Tech.*** When you cast this power using a tech slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
 
-#### Flaming Shots
+### Flaming Shots
 _2nd-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Touch
 - **Duration:** Concentration, up to 1 hour
@@ -1392,9 +1384,9 @@ You channel tech power through a blaster weapon you are wielding. When a target 
 
 ***Overcharge Tech.*** When you cast this power using a tech slot of 4th level or higher, the number of shots you can take with this power increases by two for each slot level above 3rd.
 
-#### Flash
+### Flash
 _1st-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 90 feet
 - **Duration:** 1 round
@@ -1409,9 +1401,9 @@ Starting with the creature that has the lowest current hit points, each creature
 
 
 
-#### Frequency Scan
+### Frequency Scan
 _2nd-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Self
 - **Duration:** Concentration, up to 10 minutes
@@ -1430,9 +1422,9 @@ Once you detect the presence of a creature in this way, you can read its thought
 
 
 
-#### Friendly Fire
+### Friendly Fire
 _5th-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 120 feet
 - **Duration:** Concentration, up to 1 minute
@@ -1441,9 +1433,9 @@ You scramble the targeting protocols of nearby machines. Each droid or construct
 
 Whenever the affected creature chooses another creature as a target, it must choose the target at random from among the creatures it can see within range of the attack, power, or other ability itís using. If an enemy provokes an opportunity attack from the affected creature, the creature must make that attack if it is able to.
 
-#### Gleaming Outline
+### Gleaming Outline
 _1st-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 60 feet
 - **Duration:** Concentration, up to 1 minute 
@@ -1452,9 +1444,9 @@ Each object in a 20-foot cube within range is outlined in blue, green, or violet
 
 Any attack roll against an affected creature or object has advantage if the attacker can see it, and the affected creature or object can't benefit from being invisible.
 
-#### Glide
+### Glide
 _2nd-level tech power_
-___
+
 - **Casting Time:** 1 reaction, which you take when you or a creature within 30 feet of you falls
 - **Range:** 30 feet
 - **Duration:** 1 minute
@@ -1465,18 +1457,18 @@ One willing creature gains the ability to glide when falling. For the duration o
 
 
 
-#### Greater Analyze
+### Greater Analyze
 _5th-level tech power_
-___
+
 - **Casting Time:** 10 minutes
 - **Range:** Self
 - **Duration:** Instantaneous
 
 Name or describe a person, place, or object. This power gives you a summary of significant lore about it. If the thing you named isn't known outside of one planetary system, you gain no information. The more information you already have, the more detailed the information you receive is.
 
-#### Greater Explosion
+### Greater Explosion
 _9th-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 150 feet
 - **Duration:** Instantaneous 
@@ -1485,9 +1477,9 @@ You expell a massive explosion at a point within range. Each creature in a 40-fo
 
 The fire spreads around corners. It ignites flammable objects in the area that aren't being worn or carried.
 
-#### Greater Hologram
+### Greater Hologram
 _3rd-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 120 feet
 - **Duration:** Concentration, up to 10 minutes
@@ -1502,9 +1494,9 @@ Physical interaction with the image reveals it as an illusion. A creature can us
 
 
 
-#### Greater Light
+### Greater Light
 _3rd-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 60 feet
 - **Duration:** 1 hour 
@@ -1515,9 +1507,9 @@ If you chose an object you are holding or one that isn't being worn or carried, 
 
 If any of this power's area overlaps with enhanced darkness made by a power of 3rd level or lower, the darkness is dispelled.
 
-#### Greater Sabotage Charges
+### Greater Sabotage Charges
 _7th-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Self
 - **Duration:** Concentration, up to 10 minutes
@@ -1526,9 +1518,9 @@ You create six medium sabotage charges that last for the power's duration. When 
 
 ***Overcharge Tech.*** The number of charges created increases by two for each slot level above 7th.
 
-#### Greater Salvo
+### Greater Salvo
 _9th-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 120 feet
 - **Duration:** Instantaneous
@@ -1537,9 +1529,9 @@ You launch four projectiles at points you can see within range. Each creature wi
 
 The power damages objects in the area and ignites flammable objects that aren't being worn or carried.
 
-#### Greater Translation Program
+### Greater Translation Program
 _3rd-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Touch
 - **Duration:** 1 hour
@@ -1550,18 +1542,18 @@ This power grants the creature you touch the ability to understand any spoken re
 
 
 
-#### Greater Translocate
+### Greater Translocate
 _5th-level tech power_
-___
+
 - **Casting Time:** 1 bonus action
 - **Range:** Self
 - **Duration:** Concentration, up to 1 minute
 
 Your form shimmers in a holographic configuration, and then collapses. You teleport up to 60 feet to an unoccupied space that you can see. On each of your turns before the power ends, you can use a bonus action to teleport in this way again.
 
-#### Group Hologram
+### Group Hologram
 _5th-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 30 feet
 - **Duration:** 8 hours, or until the end of your next short or long rest; whichever happens first
@@ -1574,9 +1566,9 @@ The changes wrought by this power fail to hold up to physical inspection. For ex
 
 A creature can use its action to inspect a target and make an Intelligence (Investigation) check against your tech save DC. If it succeeds, it becomes aware that the target is disguised.
 
-#### Haywire
+### Haywire
 _At-will tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 30 feet
 - **Duration:** Instantaneous
@@ -1587,9 +1579,9 @@ The power's damage increases by 1d6 when you reach 5th level (2d6), 11th level (
 
 
 
-#### Hold Droid
+### Hold Droid
 _2nd-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 60 feet
 - **Duration:** Concentration, up to 1 minute
@@ -1598,9 +1590,9 @@ You emit a paralyzing dart at a droid or construct that you can see within range
 
 ***Overcharge Tech.*** When you cast this power using a tech slot of 3rd level or higher, you can target one additional droid or construct for each slot level above 2nd. The targets must be within 30 feet of each other when you target them.
 
-#### Holding Cell
+### Holding Cell
 _4th-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 120 feet
 - **Duration:** Concentration, up to 1 minute
@@ -1613,9 +1605,9 @@ The sphere is weightless and just large enough to contain the creature or object
 
 A disintegrate power targeting the globe destroys it without harming anything inside it.
 
-#### Holographic Disguise
+### Holographic Disguise
 _1st-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Self
 - **Duration:** 1 hour
@@ -1628,9 +1620,9 @@ The illusion is only visual, so any sort of physical contact will only interact 
 
 
 
-#### Hologram
+### Hologram
 _1st-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 60 feet
 - **Duration:** Concentration, up to 10 minutes
@@ -1641,9 +1633,9 @@ You can use your action to cause the image to move to any spot within range. As 
 
 A creature that uses its action to examine the image can determine that it is an illusion with a successful Intelligence (Investigation) check against your tech save DC. If a creature discerns the illusion for what it is, the creature can see through the image.
 
-#### Homing Rockets
+### Homing Rockets
 _1st-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 120 feet
 - **Duration:** Instantaneous 
@@ -1652,9 +1644,9 @@ You lock on to one or more targets within range and expel a series of three smal
 
 ***Overcharge Tech.*** When you cast this power using a tech slot of 2nd level or higher, the power creates one more explosive for each slot level above 1st.
 
-#### Illusory Strike
+### Illusory Strike
 _At-will tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Varies
 - **Duration:** 1 round
@@ -1665,9 +1657,9 @@ This power creates multiple duplicates when you reach higher levels. At 5th leve
 
 
 
-#### Illusory Terrain
+### Illusory Terrain
 _4th-level tech power_
-___
+
 - **Casting Time:** 10 minutes
 - **Range:** 300 feet
 - **Duration:** 24 hours 
@@ -1676,9 +1668,9 @@ You make terrain in a 150-foot cube in range look, sound, and smell like some ot
 
 The tactile characteristics of the terrain are unchanged, so creatures entering the area are likely to see through the illusion. If the difference isn't obvious by touch, a creature carefully examining the illusion can attempt an Intelligence (Investigation) check against your tech save DC to disbelieve it. A creature who discerns the illusion for what it is, sees it as a vague image superimposed on the terrain.
 
-#### Immolate
+### Immolate
 _5th-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 90 feet
 - **Duration:** Concentration, up to 1 minute
@@ -1687,9 +1679,9 @@ Flames wreathe one creature you can see within range. The target must make a Dex
 
 If damage from this power kills a target, the target is turned to ash.
 
-#### Implant Message
+### Implant Message
 _2nd-level tech power_
-___
+
 - **Casting Time:** 1 minute
 - **Range:** 30 feet
 - **Duration:** Until dispelled
@@ -1704,9 +1696,9 @@ The triggering circumstance can be as general or as detailed as you like, though
 
 
 
-#### Incendiary Cloud
+### Incendiary Cloud
 _8th-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 150 feet
 - **Duration:** Concentration, up to 1 minute 
@@ -1717,9 +1709,9 @@ When the cloud appears, each creature in it must make a Dexterity saving throw. 
 
 The cloud moves 10 feet directly away from you in a direction that you choose at the start of each of your turns.
 
-#### Infiltrate
+### Infiltrate
 _2nd-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Touch
 - **Duration:** Concentration, up to 1 hour
@@ -1728,18 +1720,18 @@ A creature you touch becomes invisible. Anything the target is carrying is invis
 
 ***Overcharge Tech.*** You can target one additional creature for each slot level above 2nd.
 
-#### Invisibility to Cameras
+### Invisibility to Cameras
 _3rd-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 10 feet
 - **Duration:** Concentration, up to 1 minute
 
 Up to four creatures of your choice become undetectable to electronic sensors and cameras. Anything the target is wearing or carrying is also undetectable, so long as it's on the target's person. The target is still visible to regular vision.
 
-#### Invulnerability
+### Invulnerability
 _9th-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Self
 - **Duration:** Concentration, up to 10 minutes
@@ -1748,9 +1740,9 @@ A flickering blue aura shimmers into being around you. Until the power ends, you
 
 
 
-#### Ion Blast
+### Ion Blast
 _At-will tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 60 feet
 - **Duration:** Instantaneous
@@ -1759,9 +1751,9 @@ You create a blast of ion energy. Choose one creature within range that you can 
 
 This power's damage increases by 1d4 when you reach 5th level (2d4), 11th level (3d4), and 17th level (4d4).
 
-#### Ionic Bond
+### Ionic Bond
 _1st-level tech power_
-___
+
 - **Casting Time:** 1 bonus action
 - **Range:** 30 feet
 - **Duration:** Concentration, up to 1 minute 
@@ -1770,9 +1762,9 @@ A beam of ion energy lances out toward a creature within range, forming a sustai
 
 ***Overcharge Tech.*** When you cast this power using a tech slot of 2nd level or higher, the initial damage increases by 1d8 for each slot level above 1st.
 
-#### Ionic Strike
+### Ionic Strike
 _At-will tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Varies
 - **Duration:** 1 round
@@ -1785,9 +1777,9 @@ This power's damage increases when you reach higher levels. At 5th level, the me
 
 
 
-#### Jet of Flame
+### Jet of Flame
 _At-will tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Self (30-foot sphere)
 - **Duration:** 10 minutes
@@ -1798,9 +1790,9 @@ You can also attack with the flame, although doing so ends the power. When you c
 
 This power's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 
-#### Kolto Cloud
+### Kolto Cloud
 _3rd-level tech power_
-___
+
 - **Casting Time:** 1 bonus action
 - **Range:** 60 feet
 - **Duration:** Instantaneous
@@ -1809,9 +1801,9 @@ As you expel kolto, up to six creatures of your choice that you can see within r
 
 ***Overcharge Tech.*** When you cast this power using a tech slot of 4th level or higher, the healing increases by 1d4 for each slot level above 3rd.
 
-#### Kolto Dispenser
+### Kolto Dispenser
 _2nd-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 60 feet (5-foot cube)
 - **Duration:** Concentration, up to 1 minute
@@ -1826,9 +1818,9 @@ As a bonus action on your turn, you can move the station up to 30 feet to a spac
 
 
 
-#### Kolto Infusion
+### Kolto Infusion
 _6th-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 60 feet
 - **Duration:** Instantaneous
@@ -1837,9 +1829,9 @@ Choose a creature that you can see within range. A surge of kolto energy washes 
 
 ***Overcharge Tech.*** When you cast this power using a tech slot of 7th level or higher, the amount of healing increases by 10 for each slot level above 6th.
 
-#### Kolto Pack
+### Kolto Pack
 _1st-level tech power_
-___
+
 - **Casting Time:** 1 bonus action
 - **Range:** 60 feet
 - **Duration:** Instantaneous
@@ -1848,18 +1840,18 @@ A creature of your choice that you can see within range regains hit points equal
 
 ***Overcharge Tech.*** When you cast this power using a tech slot of 2nd level or higher, the healing increases by 1d4 for each slot level above 1st.
 
-#### Kolto Reserve
+### Kolto Reserve
 _4th-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Touch
 - **Duration:** 8 hours, or until the end of your next short or long rest; whichever happens first
 
 You touch a creature and grant it a small reserve of kolto. The first time the target would drop to 0 hit points as a result of taking damage, the target instead drops to 1 hit point, and the power ends. If the power is still in effect when the target is subjected to an effect that would kill it instantaneously without dealing damage, that effect is instead negated against the target, and the powers ends. This power has no effect on droids or constructs.
 
-#### Kolto Waves
+### Kolto Waves
 _9th-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 60 feet
 - **Duration:** Instantaneous 
@@ -1870,9 +1862,9 @@ A flood of kolto energy flows from you into injured creatures around you. You re
 
 
 
-#### Light
+### Light
 _At-will tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Touch
 - **Duration:** 1 hour
@@ -1881,9 +1873,9 @@ You touch one object that is no larger than 10 feet in any dimension. Until the 
 
 If you target an object held or worn by a hostile creature, that creature must succeed on a Dexterity saving throw to avoid the power.
 
-#### Lock
+### Lock
 _2nd-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Touch
 - **Duration:** Until dispelled
@@ -1892,9 +1884,9 @@ You touch a closed door, window, gate, chest, or other entryway, and it becomes 
 
 While affected by this power, the object is more difficult to break or force open; the DC to break it or pick any locks on it increases by 10.
 
-#### Magnetic Field
+### Magnetic Field
 _2nd-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Self
 - **Duration:** Concentration, up to 1 hour
@@ -1908,18 +1900,18 @@ The field has the following effects:
 
 
 
-#### Magnetic Hold
+### Magnetic Hold
 _2nd-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Touch
 - **Duration:** Concentration, up to 1 hour
 
 Until the power ends, one willing creature you touch gains the ability affix itself to and move along any metallic surface. It can move up, down, and across vertical surfaces and upside down along ceilings, all while leaving its hands free, at its normal walking speed.
 
-#### Mass Repair Droid
+### Mass Repair Droid
 _5th-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 60 feet
 - **Duration:** Instantaneous 
@@ -1928,18 +1920,18 @@ Choose up to six droids or constructs in a 30-foot-radius sphere centered on a p
 
 ***Overcharge Tech.*** When you cast this power using a tech slot of 6th level or higher, the healing increases by 1d8 for each slot level above 5th.
 
-#### Mending
+### Mending
 _At-will tech power_
-___
+
 - **Casting Time:** 1 minute
 - **Range:** Touch
 - **Duration:** Instantaneous
 
 This ability repairs a single break or tear in an object you touch, such as broken chain link, two halves of a broken key, a torn strap, or a leaking cup. As long as the break or tear is no larger than 1 foot in any dimension, you mend it, leaving no trace of the former damage. If you target a droid or construction with this feature, it can spend and roll one of its Hit Dice and regain that many hit points.
 
-#### Minor Defibrillation
+### Minor Defibrillation
 _At-will tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Touch
 - **Duration:** Instantaneous
@@ -1952,9 +1944,9 @@ This power's damage increases by 1d10 when you reach 5th level (2d10), 11th leve
 
 
 
-#### Minor Hologram
+### Minor Hologram
 _At-will tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 10 feet
 - **Duration:** Up to 1 hour
@@ -1969,9 +1961,9 @@ This ability is a minor tech trick that creates one of the following effects wit
 
 If you use this power multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.
 
-#### Mirror Image
+### Mirror Image
 _2nd-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Self
 - **Duration:** 1 minute
@@ -1988,9 +1980,9 @@ A creature is unaffected by this power if it can't see, if it relies on senses o
 
 
 
-#### Mislead
+### Mislead
 _5th-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Self
 - **Duration:** Concentration, up to 1 hour
@@ -2001,9 +1993,9 @@ You can use your action to move your illusory double up to twice your speed and 
 
 You can see through its eyes and hear through its ears as if you were located where it is. On each of your turns as a bonus action, you can switch from using its senses to using your own, or back again. While you are using its senses, you are blinded and deafened in regard to your own surroundings.
 
-#### Mobile Lights
+### Mobile Lights
 _At-will tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 120 feet
 - **Duration:** Concentration, up to 1 minute
@@ -2016,9 +2008,9 @@ As a bonus action on your turn, you can move the lights up to 60 feet to a new s
 
 
 
-#### Motivator Boost
+### Motivator Boost
 _2nd-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 30 feet
 - **Duration:** Concentration, up to 1 minute
@@ -2027,9 +2019,9 @@ You imbue a willing droid with heightened speed and maneuverability. Until the p
 
 ***Overcharge Tech.*** When you cast this power using a tech slot of 3rd level or higher, you can target one additional droid for each slot level above 2nd.
 
-#### Neurotoxin
+### Neurotoxin
 _7th-level tech power_
-___
+
 - **Casting Time:** 1 bonus action
 - **Range:** 30 feet
 - **Duration:** Instantaneous
@@ -2044,9 +2036,9 @@ You release a series of darts filled with neurotoxin. Choose any number of creat
 
 This power has no effect on droids or constructs.
 
-#### Oil Slick
+### Oil Slick
 _1st-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 60 feet
 - **Duration:** 1 minute
@@ -2059,18 +2051,18 @@ The oil is flammable. Any 5 foot square of the oil exposed to fire burns away in
 
 
 
-#### On/Off
+### On/Off
 _At-will tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 60 feet
 - **Duration:** Instantaneous
 
 This power allows you to activate or deactivate any electronic device within range, as long as the device is not being wielded by a creature, and has a clearly defined on or off function that can be easily accessed from the outside of the device. Any device that requires a software-based shutdown sequence to activate or deactivate cannot be affected by *on/off*.
 
-#### Overheat
+### Overheat
 _2nd-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 60 feet
 - **Duration:** Concentration, up to 1 minute 
@@ -2081,9 +2073,9 @@ If an object is held, worn, or integrated, and a creature takes the damage from 
 
 ***Overcharge Tech.*** When you cast this power using a tech slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.
 
-#### Overload
+### Overload
 _1st-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Self (15-foot cube)
 - **Duration:** Instantaneous
@@ -2096,9 +2088,9 @@ You expel a burst of power. Each creature in a 15-foot cube originating from you
 
 
 
-#### Override Interface
+### Override Interface
 _5th-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 60 feet
 - **Duration:** Concentration, up to 1 minute
@@ -2113,9 +2105,9 @@ Each time the target takes damage, it makes a new Intelligence saving throw agai
 
 ***Overcharge Tech.*** When you cast this power using a 6th-level tech slot, the duration is 10 minutes. When you use a 7th-level tech slot, the duration is 1 hour. When you use a tech slot of 8th level or higher, the duration is 8 hours.
 
-#### Paralyze Creature
+### Paralyze Creature
 _5th-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 90 feet
 - **Duration:** Concentration, up to 1 minute
@@ -2126,9 +2118,9 @@ You emit a paralyzing dart at a creature that you can see within range. The targ
 
 
 
-#### Paralyze Humanoid
+### Paralyze Humanoid
 _2nd-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 60 feet
 - **Duration:** Concentration, up to 1 minute
@@ -2137,9 +2129,9 @@ You emit a paralyzing dart at a humanoid that you can see within range. The targ
 
 ***Overcharge Tech.*** When you cast this power using a tech slot of 3rd level or higher, you can target one additional humanoid for each slot level above 2nd. The humanoids must be within 30 feet of each other when you target them.
 
-#### Pheromone Burst
+### Pheromone Burst
 _At-will tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Self (5-foot sphere)
 - **Duration:** Instantaneous
@@ -2148,9 +2140,9 @@ You expel a burst of mood-altering pheromones around you. Each creature within r
 
 This power's damage increases by 1d4 when you reach 5th level (2d4), 11th level (3d4), and 17th level (4d4).
 
-#### Poison Dart
+### Poison Dart
 _1st-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 60 feet
 - **Duration:** Instantaneous
@@ -2159,9 +2151,9 @@ Make a ranged tech attack against a creature within range. On hit, the target ta
 
 ***Overcharge Tech.*** When you cast this power using a tech slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.
 
-#### Poison Spray
+### Poison Spray
 _At-will tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 10 feet
 - **Duration:** Instantaneous
@@ -2174,9 +2166,9 @@ This power's damage increases by 1d12 when you reach 5th level (2d12), 11th leve
 
 
 
-#### Predictive AI
+### Predictive AI
 _9th-level tech power_
-___
+
 - **Casting Time:** 1 minute
 - **Range:** Touch
 - **Duration:** 8 hours, or until the end of your next short or long rest; whichever happens first
@@ -2185,18 +2177,18 @@ You touch a willing creature, granting them a limited AI companion that can pred
 
 This power immediately ends if you cast it again before its duration ends.
 
-#### Preparedness
+### Preparedness
 _1st-level tech power_
-___
+
 - **Casting Time:** 1 minute
 - **Range:** Touch
 - **Duration:** 8 hours, or until the end of your next short or long rest; whichever happens first
 
 You touch a willing creature. For the duration, the target can add 1d8 to its Initiative checks.
 
-#### Pressure Crush
+### Pressure Crush
 _At-will tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Touch
 - **Duration:** Instantaneous
@@ -2205,9 +2197,9 @@ You attempt to crush the body of a creature you touch. The target must make a St
 
 This power's damage increases by 1d12 when you reach 5th level (2d12), 11th level (3d12), and 17th level (4d12).
 
-#### Programmed Illusion
+### Programmed Illusion
 _6th-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 120 feet
 - **Duration:** Until dispelled
@@ -2224,9 +2216,9 @@ The triggering condition can be as general or as detailed as you like, though it
 
 Physical interaction with the image reveals it to be an illusion, because things can pass through it. A creature that uses its action to examine the image can determine that it is an illusion with a successful Intelligence (Investigation) check against your tech save DC. If a creature discerns the illusion for what it is, the creature can see through the image, and any noise it makes sounds hollow to the creature.
 
-#### Project Hologram
+### Project Hologram
 _7th-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 500 miles
 - **Duration:** Concentration, up to 24 hours
@@ -2239,9 +2231,9 @@ You can see through its eyes and hear through its ears as if you were in its spa
 
 Physical interaction with the image reveals it to be an illusion, because things can pass through it. A creature that uses its action to examine the image can determine that it is an illusion with a successful Intelligence (Investigation) check against your tech save DC. If a creature discerns the illusion for what it is, the creature can see through the image, and any noise it makes sounds hollow to the creature.
 
-#### Protection from Energy
+### Protection from Energy
 _3rd-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Touch
 - **Duration:** Concentration, up to 1 hour 
@@ -2252,9 +2244,9 @@ For the duration, the willing creature you touch has resistance to one damage ty
 
 
 
-#### Pyrotechnics
+### Pyrotechnics
 _2nd-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 60 feet
 - **Duration:** Instantaneous
@@ -2265,9 +2257,9 @@ Choose an area of unenhanced flame that you can see and that fits within a 5-foo
 
 ***Smoke.*** Thick black smoke spreads out from the target in a 20-foot radius, moving around corners. The area of the smoke is heavily obscured. The smoke persists for 1 minute or until a strong wind disperses it.
 
-#### Radiation
+### Radiation
 _4th-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 120 feet
 - **Duration:** Concentration, up to 10 minutes
@@ -2276,9 +2268,9 @@ Dim, greenish light spreads within a 30-foot-radius sphere centered on a point y
 
 When a creature moves into the power's area for the first time on a turn or starts its turn there, that creature must succeed on a Constitution saving throw or take 4d10 necrotic damage, and it suffers one level of exhaustion and emits a dim, greenish light in a 5-foot radius. This light makes it impossible for the creature to benefit from being invisible. The light and any levels of exhaustion caused by this power go away when the power ends.
 
-#### Read Memory
+### Read Memory
 _3rd-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 10 feet
 - **Duration:** 10 minutes
@@ -2289,18 +2281,18 @@ Until the power ends, you can ask up to five questions. Depending on what it wou
 
 
 
-#### Reboot
+### Reboot
 _At-will tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 60 feet
 - **Duration:** 1 round
 
 Choose a Medium or smaller droid or construct you can see. The target must make a Charisma saving throw. On a failed save, it is incapacitated until the start of your next turn. Each time the creature takes damage or is the target of a hostile power while incapacitated in this way, it can repeat this saving throw, ending the effect on a success.
 
-#### Release
+### Release
 _2nd-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 60 feet
 - **Duration:** Instantaneous 
@@ -2311,18 +2303,18 @@ A target that is held shut by a mundane lock or that is stuck or barred becomes 
 
 If you choose a target that is held shut with *lock*, that power is suppressed for 10 minutes, during which time the target can be opened and shut normally.
 
-#### Remove Virus
+### Remove Virus
 _3rd-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Touch
 - **Duration:** Instantaneous
 
 At your touch, all tech-based curses affecting one creature or object end. If the object is a cursed enhanced item, its curse remains, but the power breaks its owner's attunement to the object so it can be removed or discarded.
 
-#### Repair Droid
+### Repair Droid
 _1st-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Touch
 - **Duration:** Instantaneous 
@@ -2335,9 +2327,9 @@ A droid or construct you touch regains a number of hit points equal to 1d8 + you
 
 
 
-#### Reprogram Droid
+### Reprogram Droid
 _5th-level tech power_
-___
+
 - **Casting Time:** 1 minute
 - **Range:** 60 feet
 - **Duration:** 30 days
@@ -2348,9 +2340,9 @@ You can issue any command you choose, short of an activity that would result in 
 
 ***Overcharge Tech.*** When you cast this power using a tech slot of 7th or 8th level, the duration is 1 year. When you cast this power using a tech slot of 9th level, the power lasts until it is ended by *remove virus*.
 
-#### Rewrite Memory
+### Rewrite Memory
 _5th-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 30 feet
 - **Duration:** Concentration, up to 1 minute
@@ -2371,9 +2363,9 @@ A *remove virus* or similar power cast on the target restores its true memory.
 
 ***Overcharge Tech.*** If you cast this power using a tech slot of 6th level or higher, you can alter the target's memories of an event that took place up to 7 days ago (6th level), 30 days ago (7th level), 1 year ago (8th level), or any time in the creature's past (9th level).
 
-#### Rime Shot 
+### Rime Shot 
 _At-will tech power_
-___
+
 - **Casting Time:** 1 action 
 - **Range:** Varies
 - **Duration:** 1 round 
@@ -2382,9 +2374,9 @@ As part of the action used to cast this power, you must make a ranged weapon att
 
 This power deals additional damage when you reach higher levels. At 5th level the ranged attack deals an extra 1d6 cold damage. This damage increases by 1d6 again at 11th level and 17th level.
 
-#### Rime Strike
+### Rime Strike
 _At-will tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Varies
 - **Duration:** 1 round
@@ -2397,9 +2389,9 @@ This power's damage increases when you reach higher levels. At 5th level, the me
 
 
 
-#### Ring of Fire
+### Ring of Fire
 _1st-level tech power_
-___
+
 - **Casting Time:** 1 action 
 - **Range:** Self 
 - **Duration:** Concentration, up to 1 minute  
@@ -2408,9 +2400,9 @@ A wall of flames erupts out of the ground in a ring around you with a radius of 
 
 ***Overcharge Tech.*** When you cast this power using a tech slot of 2nd level or higher, the damage of the ring of fire increases by 1d6 for each slot level above 1st.
 
-#### Sabotage Charges
+### Sabotage Charges
 _3rd-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Self
 - **Duration:** Concentration, up to 10 minutes
@@ -2419,9 +2411,9 @@ You create six tiny sabotage charges that last for the power's duration. When yo
 
 ***Overcharge Tech.*** The number of charges created increases by two for each slot level above 3rd.
 
-#### Salvo
+### Salvo
 _4th-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 60 feet
 - **Duration:** Instantaneous
@@ -2434,9 +2426,9 @@ The power damages objects in the area and ignites flammable objects that aren't 
 
 
 
-#### Scan Area
+### Scan Area
 _4th-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Self
 - **Duration:** Concentration, up to 10 minutes
@@ -2445,9 +2437,9 @@ Program a creature or object that you are familiar with into your tech focus. Us
 
 The power can locate a specific creature or object known to you, or the nearest creature/object of a specific kind (such as a droid or a bothan), so long as you have seen such a creature up closeówithin 30 feetóat least once. 
 
-#### Scramble Interface
+### Scramble Interface
 _3rd-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 120 feet
 - **Duration:** Concentration, up to 1 minute
@@ -2456,9 +2448,9 @@ You choose one droid or construct you can see within range and scramble its abil
 
 Whenever the affected creature chooses another creature as a target, it must choose the target at random from among the creatures it can see within range of the attack, power, or other ability it's using. If an enemy provokes an opportunity attack from the affected creature, the creature must make that attack if it is able to.
 
-#### Scrambling Barrier
+### Scrambling Barrier
 _6th-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Self (10-foot radius)
 - **Duration:** Concentration, up to 1 minute 
@@ -2473,9 +2465,9 @@ Any tech power of 5th level or lower cast from outside the barrier can't affect 
 
 
 
-#### Scrambling Field
+### Scrambling Field
 _8th-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Self (10-foot-radius sphere)
 - **Duration:** Concentration, up to 1 hour
@@ -2502,9 +2494,9 @@ An enhanced weapon's properties and powers are suppressed if it is used against 
 
 
 
-#### Security Protocols
+### Security Protocols
 _6th-level tech power_
-___
+
 - **Casting Time:** 10 minutes
 - **Range:** Touch
 - **Duration:** 24 hours 
@@ -2534,9 +2526,9 @@ You can create a permanently guarded and secured structure by casting this power
 
 
 
-#### Sending
+### Sending
 _3rd-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Unlimited
 - **Duration:** 1 round 
@@ -2545,9 +2537,9 @@ You send a short message of twenty-five words or less to a creature with which y
 
 You can send the message across any distance and even to other planets, but if the target is on a different planet than you, there is a 5 percent chance that the message doesn't arrive.
 
-#### Sensor Probe
+### Sensor Probe
 _4th-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 30 feet
 - **Duration:** Concentration, up to 1 hour
@@ -2556,9 +2548,9 @@ You create a small, temporary, invisible probe that hovers in the air for the du
 
 As an action, you can move the probe up to 30 feet in any direction. There's no limit on how far away from you it can be. A solid barrier blocks the probe's movement, but it can pass through an opening at least 1 inch in diameter.
 
-#### Shared Shielding
+### Shared Shielding
 _2nd-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Touch
 - **Duration:** 1 hour
@@ -2569,9 +2561,9 @@ The power ends if you drop to 0 hit points or if you and the target become separ
 
 
 
-#### Shatter
+### Shatter
 _2nd-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 60 feet
 - **Duration:** Instantaneous 
@@ -2582,9 +2574,9 @@ An unenhanced object that isn't being worn or carried also takes the damage if i
 
 ***Overcharge Tech.*** When you cast this power using a tech slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.
 
-#### Shocking Ray
+### Shocking Ray
 _2nd-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 120 feet
 - **Duration:** Instantaneous 
@@ -2593,9 +2585,9 @@ You create three ionic rays and hurl them at targets within range. You can hurl 
 
 ***Overcharge Tech.*** When you cast this power using a tech slot of 3rd level or higher, you create one additional ray for each slot level above 2nd.
 
-#### Short Circuit
+### Short Circuit
 _At-will tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 120 feet
 - **Duration:** 1 round
@@ -2604,9 +2596,9 @@ You electrocute a creature within range. Make a ranged tech attack against the c
 
 This power's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 
-#### Shutdown 
+### Shutdown 
 _5th-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 120 feet
 - **Duration:** Concentration, up to 1 minute
@@ -2617,9 +2609,9 @@ You emit an electromagnetic pulse, shutting down all electronic devices, with th
 
 
 
-#### Skill Protocol
+### Skill Protocol
 _5th-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Touch
 - **Duration:** Concentration, up to 1 hour
@@ -2628,18 +2620,18 @@ You enhance a droid or construct's protocols. You touch one willing droid or con
 
 You must choose a skill in which the target is proficient and that isn't already benefiting from an effect, such as Expertise, that doubles its proficiency bonus.
 
-#### Slow-Release Medpac
+### Slow-Release Medpac
 _3rd-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Self (30-foot radius)
 - **Duration:** Concentration, up to 1 minute 
 
 Kolto energy radiates from you in an aura with a 30-foot radius. Until the power ends, the aura moves with you, centered on you. You can use a bonus action to cause one creature in the aura (including you) to regain 2d6 hit points. This power has no effect on droids or constructs.
 
-#### Smoke Cloud
+### Smoke Cloud
 _1st-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 120 feet
 - **Duration:** Concentration, up to 1 hour
@@ -2648,9 +2640,9 @@ You cause thick smoke to erupt from a point within range, filling a 20-foot-radi
 
 ***Overcharge Tech.*** When you cast this power using a tech slot of 2nd level or higher, the radius of the smoke cloud increases by 20 feet for each slot level above 1st.
 
-#### Smuggle
+### Smuggle
 _2nd-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Self
 - **Duration:** Concentration, up to 1 hour
@@ -2659,18 +2651,18 @@ You dampen sound and light and dull the scent from creatures in your vicinity. F
 
 
 
-#### Sonic Fists
+### Sonic Fists
 _1st-level tech power_
-___
+
 - **Casting Time:** 1 bonus action
 - **Range:** Self
 - **Duration:** 1 minute
 
 You enhance your fistsóor analogous appendagesówith sonic energy. For the duration, you have a natural weapon which deals 1d10 sonic damage on a hit. Every time you hit a creature that is no more than one size larger than you with a melee attack with this weapon, you can push it 5 feet away from you.
 
-#### Sonic Shot
+### Sonic Shot
 _At-will tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Varies
 - **Duration:** 1 round
@@ -2679,9 +2671,9 @@ As part of the action used to cast this power, you must make a ranged weapon att
 
 This power's damage increases when you reach higher levels. At 5th level, the ranged attack deals an extra 1d6 sonic damage to the target, and the damage the target takes for moving increases to 1d6 + your techcasting ability modifier.  Both damage rolls increase by an additional 1d6 at 11th and 17th level.
 
-#### Sonic Strike
+### Sonic Strike
 _At-will tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Varies
 - **Duration:** 1 round
@@ -2694,9 +2686,9 @@ This power's damage increases when you reach higher levels. At 5th level, the me
 
 
 
-#### Spectrum Bolt
+### Spectrum Bolt
 _1st-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 120 feet
 - **Duration:** Instantaneous
@@ -2718,9 +2710,9 @@ If you roll the same number on both d8s, the bolt leaps from the target to a dif
 
 ***Overcharge Tech.*** When you cast this power using a tech slot of 2nd level or higher, each target takes 1d6 extra damage of the type rolled for each slot level above 1st.
 
-#### Spectrum Ray
+### Spectrum Ray
 _At-will tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 60 feet
 - **Duration:** Instantaneous
@@ -2729,9 +2721,9 @@ You shoot a beam of energy at a creature that you can see within range. You choo
 
 This power's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8) and 17th level (4d8).
 
-#### Spot the Weakness
+### Spot the Weakness
 _1st-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 30 feet
 - **Duration:** Concentration, up to 1 minute
@@ -2744,9 +2736,9 @@ Up to three creatures of your choice that you can see within range must make Dex
 
 ***Overcharge Tech.*** When you cast this power with a tech slot of 3rd level or higher, you can target one additional creature for every two slot levels above 1st. When you cast this power at 3rd, 6th, or 9th level, the die increases to d6, d8, and d10, respectively.
 
-#### Stack the Deck
+### Stack the Deck
 _1st-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 30 feet
 - **Duration:** Concentration, up to 1 minute
@@ -2755,9 +2747,9 @@ You boost up to three creatures of your choice within range. Whenever a target m
 
 ***Overcharge Tech.*** When you cast this power with a tech slot of 3rd level or higher, you can target one additional creature for every two slot levels above 1st. When you cast this power at 3rd, 6th, or 9th level, the die increases to d6, d8, and d10, respectively.
 
-#### Storming Shot
+### Storming Shot
 _At-will tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Varies
 - **Duration:** 1 round
@@ -2766,9 +2758,9 @@ As a part of the action used to cast this power, you must make a ranged weapon a
 
 The power's damage increases when you reach higher levels. At 5th level, the effects of both the ranged weapon attack and discharge deal an extra 1d6 lightning damage. Both damage rolls increase by an additional 1d6 at 11th and 17th level.
 
-#### Stun Dart
+### Stun Dart
 _8th-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 60 feet
 - **Duration:** Instantaneous
@@ -2781,9 +2773,9 @@ The stunned target must make a Constitution saving throw at the end of each of i
 
 
 
-#### Superior Translation Program
+### Superior Translation Program
 _6th-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Touch
 - **Duration:** 7 days
@@ -2792,9 +2784,9 @@ You grant up to four willing creatures the ability to understand any registered 
 
 ***Overcharge Tech.*** When you cast this power using a tech slot of 7th level or higher, you can affect one additional creature for each slot level above 6th.
 
-#### Synchronicity
+### Synchronicity
 _4th-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Touch
 - **Duration:** Concentration, up to 1 hour
@@ -2805,9 +2797,9 @@ The power also grants advantage to stealth checks, since cover is always availab
 
 If two or more creatures under the effect of the power are attempting to avoid being inconvenienced by each other, the creatures make Charisma checks each time the effects would oppose each other. The higher check of the two's power takes effect.
 
-#### Tactical Advantage
+### Tactical Advantage
 _3rd-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 30 feet
 - **Duration:** Concentration, up to 1 minute
@@ -2816,9 +2808,9 @@ Choose a willing creature that you can see within range. Until the power ends, t
 
 When the power ends, the target can't move or take actions until after its next turn, as a wave of lethargy sweeps over it.
 
-#### Tactical Barrier
+### Tactical Barrier
 _1st-level tech power_
-___
+
 - **Casting Time:** 1 bonus action
 - **Range:** 60 feet
 - **Duration:** Concentration, up to 10 minutes 
@@ -2827,9 +2819,9 @@ A shimmering field appears and surrounds a creature of your choice within range,
 
 
 
-#### Tactical Superiority
+### Tactical Superiority
 _7th-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 30 feet
 - **Duration:** Concentration, up to 1 minute
@@ -2840,9 +2832,9 @@ When the power ends, each target can't move or take actions until after its next
 
 ***Overcharge Tech.*** When you cast this power using a tech slot of 8th-level or higher, you can target one additional creature for each slot level above 7th.
 
-#### Target Lock
+### Target Lock
 _1st-level tech power_
-___
+
 - **Casting Time:** 1 bonus action
 - **Range:** 90 feet
 - **Duration:** Concentration, up to 1 hour
@@ -2851,9 +2843,9 @@ You choose a creature you can see within range and mark it as your quarry. Until
 
 ***Overcharge Tech.*** When you cast this power using a tech slot of 3rd or 4th level, you can maintain your concentration on the power for up to 8 hours. When you use a tech slot of 5th level or higher, you can maintain your concentration on the power for up to 24 hours.
 
-#### Targeting Shot
+### Targeting Shot
 _At-will tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Varies
 - **Duration:** 1 round
@@ -2866,9 +2858,9 @@ This power deals additional damage when you reach higher levels. At 5th level, t
 
 
 
-#### Tech Override
+### Tech Override
 _3rd-level tech power_
-___
+
 - **Casting Time:** 1 reaction, which you take when you see a creature within 60 feet of you casting a tech power
 - **Range:** 60 feet
 - **Duration:** Instantaneous
@@ -2877,9 +2869,9 @@ You attempt to interrupt a creature in the process of casting a tech power. If t
 
 ***Overcharge Tech.*** When you cast this power using a tech slot of 4th level or higher, the interrupted power has no effect if its level is less than or equal to the level of the tech slot you used.
 
-#### Temporary Boost
+### Temporary Boost
 _At-will tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Touch
 - **Duration:** Concentration, up to 1 minute
@@ -2888,9 +2880,9 @@ You touch one willing creature. Once before the power ends, the target can roll 
 
 This power's die increases at higher levels: to a d6 at 5th level, a d8 at 11th level, and a d10 at 17th level.
 
-#### Tonal Translocate
+### Tonal Translocate
 _3rd-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 90 feet
 - **Duration:** Instantaneous
@@ -2903,9 +2895,9 @@ You can bring along objects as long as their weight doesn't exceed what you can 
 
 
 
-#### Toxic Cloud
+### Toxic Cloud
 _5th-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 120 feet
 - **Duration:** Concentration, up to 10 minutes
@@ -2918,9 +2910,9 @@ The fog moves 10 feet away from you at the start of each of your turns, rolling 
 
 ***Overcharge Tech.*** When you cast this power using a tech slot of 6th level or higher, the damage increases by 1d8 for each slot level above 5th.
 
-#### Toxin Purge
+### Toxin Purge
 _2nd-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Touch
 - **Duration:** 1 hour 
@@ -2929,18 +2921,18 @@ You touch a creature. If it is poisoned or diseased, you neutralize the poison o
 
 For the duration, the target has advantage on saving throws against being poisoned or diseased, and it has resistance to poison damage.
 
-#### Toxin Scan
+### Toxin Scan
 _1st-level tech power_
-___
+
 - **Casting Time:**	1 action 
 - **Range:** Self
 - **Duration:**	Concentration, up to 10 minutes
 
 For the duration, you can see the presence and location of poisons and diseases within 30 feet of you. You also identify the kind of poison or disease in each case.
 
-#### Tracer Bolt
+### Tracer Bolt
 _1st-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 120 feet
 - **Duration:** 1 round 
@@ -2953,9 +2945,9 @@ A flash of light streaks toward a creature of your choice within range. Make a r
 
 
 
-#### Tracker Droid Interface
+### Tracker Droid Interface
 _1st-level tech power_
-___
+
 - **Casting Time:** 1 hour
 - **Range:** 10 feet
 - **Duration:** Instantaneous
@@ -2972,9 +2964,9 @@ Finally, when you cast a tech power with a range of touch, your tracker can deli
 
 ***Overcharge Tech.*** When you cast this power using a tech slot of 3rd level or higher, you can maintain a link with one more tracker droid for every two slot levels above 1st. Multiple tracker droids act on the same initiative. You can only see through one droid's vision at a time, but you can toggle between droids as a bonus action. Each droid must still be within 100 feet of you.
 
-#### Tranquilizer
+### Tranquilizer
 _1st-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 90 feet
 - **Duration:** 1 minute 
@@ -2985,9 +2977,9 @@ You emit a tranquilizing dart that knocks a creature unconscious. Roll 5d8; if t
 
 
 
-#### Translation Program
+### Translation Program
 _1st-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Self
 - **Duration:** 1 hour
@@ -2996,18 +2988,18 @@ For the duration, you understand the literal meaning of any spoken registered la
 
 This power doesn't decode secret messages in a text, nor does it interpret a glyph, such as an ancient Sith rune, that isn't part of a written language.
 
-#### Translocate
+### Translocate
 _2nd-level tech power_
-___
+
 - **Casting Time:** 1 bonus action
 - **Range:** Self
 - **Duration:** Instantaneous
 
 Your form shimmers in a holographic configuration, and then collapses. You teleport up to 30 feet to an unoccupied space that you can see.
 
-#### Truth Serum
+### Truth Serum
 _2nd-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Touch
 - **Duration:** 10 minutes
@@ -3016,9 +3008,9 @@ You administer a poison to a creature you touched that prevents it from telling 
 
 An affected creature is aware of the power and can thus avoid answering questions to which it would normally respond with a lie. Such a creature can be evasive in its answers as long as it remains within the boundaries of the truth.
 
-#### Venomous Strike
+### Venomous Strike
 _At-will tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Varies
 - **Duration:** Instantaneous
@@ -3031,18 +3023,18 @@ This power's damage increases when you reach higher levels. At 5th level, the me
 
 
 
-#### Vertical Maneuvering
+### Vertical Maneuvering
 _3rd-level tech power_
-___
+
 - **Casting Time:** 1 action; or 1 reaction, which you take when you are falling and within 30 feet of a solid surface 
 - **Range:** Self
 - **Duration:** Concentration, up to 1 hour
 
 If you cast this power as a reaction, your fall is stopped, and you remain aloft. For the duration, as long as you are within 30 feet of a solid surface, you have a flying speed of 40 feet. In addition, you can't be knocked prone, and you have advantage on saving throws made against effects that would push you or pull you. When the power ends, you are gently lowered to the ground, if you are within 30 feet of it.
 
-#### Voltaic Shielding
+### Voltaic Shielding
 _1st-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Self
 - **Duration:** 1 hour 
@@ -3051,9 +3043,9 @@ A protective barrier surrounds you, manifesting as crackling lightning that cove
 
 ***Overcharge Tech.*** When you cast this power using a tech slot of 2nd level or higher, both the temporary hit points and the lightning damage increase by 5 for each slot.
 
-#### Vortex Shot
+### Vortex Shot
 _At-will tech power_
-___
+
 - **Casting Time:** 1 action 
 - **Range:** Varies 
 - **Duration:** Instantaneous  
@@ -3064,18 +3056,18 @@ This power deals additional damage when you reach higher levels. At 5th level, t
 
 
 
-#### Ward
+### Ward
 _At-will tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Self
 - **Duration:** 1 round
 
 You emit a powerful force field that deflects incoming attacks. Until the end of your next turn, you have resistance against kinetic, energy, and ion damage dealt by weapon attacks.
 
-#### Warding Shot
+### Warding Shot
 _At-will tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** Varies
 - **Duration:** 1 round
@@ -3084,9 +3076,9 @@ As part of the action used to cast this power, you must make a ranged weapon att
 
 This power's damage reduction increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
 
-#### Wire Bind
+### Wire Bind
 _4th-level tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 30 feet
 - **Duration:** 1 minute
@@ -3099,9 +3091,9 @@ A creature restrained by a wire can use its action to make a Strength or Dexteri
 
 A wire that misses its target or is escaped falls slack and disintegrates, as do all remaining wires when the power ends.
 
-#### Wire Line
+### Wire Line
 _At-will tech power_
-___
+
 - **Casting Time:** 1 action
 - **Range:** 30 feet
 - **Duration:** Instantaneous
