@@ -672,22 +672,22 @@ As an anzellan, you have the following special traits.
 > #### Visual Characteristics
 > 
 > |:--|:--|
-> |***Skin Color***|&nbsp;&nbsp;|Black, blue, green, or red|
-> |***Hair Color***|&nbsp;&nbsp;|Black, brown, or gray|
-> |***Eye Color***|&nbsp;&nbsp;|Black, blue, red, or brown|
-> |***Distinctions***|&nbsp;&nbsp;|Tusks, belligerent personalities, brawny stature|
+> |***Skin Color***|Black, blue, green, or red|
+> |***Hair Color***|Black, brown, or gray|
+> |***Eye Color***|Black, blue, red, or brown|
+> |***Distinctions***|Tusks, belligerent personalities, brawny stature|
 > 
 > #### Physical Characteristics
 > 
 > |:--|:--|:--:|
-> |***Height***|&nbsp;&nbsp;|5'5"|+2d10"|
-> |***Weight***|&nbsp;&nbsp;|140 lb.|x(2d4) lb.|
+> |***Height***|5'5"|+2d10"|
+> |***Weight***|140 lb.|x(2d4) lb.|
 > 
 > #### Sociocultural Characteristics
 > 
 > |:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Ando|
-> |***Language***|&nbsp;&nbsp;|Aqualish|
+> |***Homeworld***|Ando|
+> |***Language***|Aqualish|
 
 
 ### Biology and Appearance
@@ -826,22 +826,22 @@ As an arcona, you have the following special traits.
 > #### Visual Characteristics
 > 
 > |:--|:--|
-> |***Skin Color***|&nbsp;&nbsp;|Brown or black|
-> |***Hair Color***|&nbsp;&nbsp;|Brown to gray|
-> |***Eye Color***|&nbsp;&nbsp;|Brown or black|
-> |***Distinctions***|&nbsp;&nbsp;|Four arms, fur-covered, prehensile feet|
+> |***Skin Color***|Brown or black|
+> |***Hair Color***|Brown to gray|
+> |***Eye Color***|Brown or black|
+> |***Distinctions***|Four arms, fur-covered, prehensile feet|
 > 
 > #### Physical Characteristics
 > 
 > |:--|:--|:--:|
-> |***Height***|&nbsp;&nbsp;|3'2"|+2d8"|
-> |***Weight***|&nbsp;&nbsp;|50 lb.|x1 lb.|
+> |***Height***|3'2"|+2d8"|
+> |***Weight***|50 lb.|x1 lb.|
 > 
 > #### Sociocultural Characteristics
 > 
 > |:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Ardennia|
-> |***Language***|&nbsp;&nbsp;|Adrennian|
+> |***Homeworld***|Ardennia|
+> |***Language***|Adrennian|
 
 
 ### Biology and Appearance
@@ -1060,22 +1060,22 @@ As a balosar, you have the following special traits.
 > #### Visual Characteristics
 > 
 > |:--|:--|
-> |***Skin Color***|&nbsp;&nbsp;|Black, green, grey, or red|
-> |***Hair Color***|&nbsp;&nbsp;|None|
-> |***Eye Color***|&nbsp;&nbsp;|Black or red|
-> |***Distinctions***|&nbsp;&nbsp;|Four-fingered hands, two inch long teeth|
+> |***Skin Color***|Black, green, grey, or red|
+> |***Hair Color***|None|
+> |***Eye Color***|Black or red|
+> |***Distinctions***|Four-fingered hands, two inch long teeth|
 > 
 > #### Physical Characteristics
 > 
 > |:--|:--|:--:|
-> |***Height***|&nbsp;&nbsp;|5'7"|+2d10"|
-> |***Weight***|&nbsp;&nbsp;|140 lb.|x(2d4) lb.|
+> |***Height***|5'7"|+2d10"|
+> |***Weight***|140 lb.|x(2d4) lb.|
 > 
 > #### Sociocultural Characteristics
 > 
 > |:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Barab I|
-> |***Language***|&nbsp;&nbsp;|Barabel|
+> |***Homeworld***|Barab I|
+> |***Language***|Barabel|
 
 
 ### Biology and Appearance
@@ -1206,22 +1206,22 @@ As a baragwin, you have the following special traits.
 > #### Visual Characteristics
 > 
 > |:--|:--|
-> |***Skin Color***|&nbsp;&nbsp;|Brown or green|
-> |***Hair Color***|&nbsp;&nbsp;|None|
-> |***Eye Color***|&nbsp;&nbsp;|Yellow|
-> |***Distinctions***|&nbsp;&nbsp;|Bony headcrest, four arms, inflatable wattle|
+> |***Skin Color***|Brown or green|
+> |***Hair Color***|None|
+> |***Eye Color***|Yellow|
+> |***Distinctions***|Bony headcrest, four arms, inflatable wattle|
 > 
 > #### Physical Characteristics
 > 
 > |:--|:--|:--:|
-> |***Height***|&nbsp;&nbsp;|6'0"|+2d12"|
-> |***Weight***|&nbsp;&nbsp;|175 lb.|x(2d6) lb.|
+> |***Height***|6'0"|+2d12"|
+> |***Weight***|175 lb.|x(2d6) lb.|
 > 
 > #### Sociocultural Characteristics
 > 
 > |:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Ojom|
-> |***Language***|&nbsp;&nbsp;|Besalisk|
+> |***Homeworld***|Ojom|
+> |***Language***|Besalisk|
 
 
 ### Biology and Appearance
@@ -1351,22 +1351,22 @@ As a caamasi, you have the following special traits.
 > #### Visual Characteristics
 > 
 > |:--|:--|
-> |***Skin Color***|&nbsp;&nbsp;|Black, brown, or grey|
-> |***Hair Color***|&nbsp;&nbsp;|Black, brown, or grey|
-> |***Eye Color***|&nbsp;&nbsp;|Dark|
-> |***Distinctions***|&nbsp;&nbsp;|Large ears, flat noses with four nostrils|
+> |***Skin Color***|Black, brown, or grey|
+> |***Hair Color***|Black, brown, or grey|
+> |***Eye Color***|Dark|
+> |***Distinctions***|Large ears, flat noses with four nostrils|
 > 
 > #### Physical Characteristics
 > 
 > |:--|:--|:--:|
-> |***Height***|&nbsp;&nbsp;|2'8"|+2d8"|
-> |***Weight***|&nbsp;&nbsp;|35 lb.|x1 lb.|
+> |***Height***|2'8"|+2d8"|
+> |***Weight***|35 lb.|x1 lb.|
 > 
 > #### Sociocultural Characteristics
 > 
 > |:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Chad|
-> |***Language***|&nbsp;&nbsp;|Chadra-Fan|
+> |***Homeworld***|Chad|
+> |***Language***|Chadra-Fan|
 
 
 ### Biology and Appearance
@@ -1426,22 +1426,22 @@ As a chadra-fan, you have the following special traits.
 > #### Visual Characteristics
 > 
 > |:--|:--|
-> |***Skin Color***|&nbsp;&nbsp;|Light to dark blue|
-> |***Hair Color***|&nbsp;&nbsp;|None|
-> |***Eye Color***|&nbsp;&nbsp;|Black|
-> |***Distinctions***|&nbsp;&nbsp;|Horns (male), lethorns, black forked tongues|
+> |***Skin Color***|Light to dark blue|
+> |***Hair Color***|None|
+> |***Eye Color***|Black|
+> |***Distinctions***|Horns (male), lethorns, black forked tongues|
 > 
 > #### Physical Characteristics
 > 
 > |:--|:--|:--:|
-> |***Height***|&nbsp;&nbsp;|5'5"|+2d8"|
-> |***Weight***|&nbsp;&nbsp;|120 lb.|x(2d4) lb.|
+> |***Height***|5'5"|+2d8"|
+> |***Weight***|120 lb.|x(2d4) lb.|
 > 
 > #### Sociocultural Characteristics
 > 
 > |:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Champala|
-> |***Language***|&nbsp;&nbsp;|Chagri|
+> |***Homeworld***|Champala|
+> |***Language***|Chagri|
 
 
 ### Biology and Appearance
@@ -1499,22 +1499,22 @@ As a Chagrian, you have the following special traits.
 > #### Visual Characteristics
 > 
 > |:--|:--|
-> |***Skin Color***|&nbsp;&nbsp;|Grey|
-> |***Hair Color***|&nbsp;&nbsp;|Black, brown, blond, grey, or white (usually with age)|
-> |***Eye Color***|&nbsp;&nbsp;|Black|
-> |***Distinctions***|&nbsp;&nbsp;|Stocky build, large heads, long snouts, long arms, three-fingered hands, four-toed feet|
+> |***Skin Color***|Grey|
+> |***Hair Color***|Black, brown, blond, grey, or white (usually with age)|
+> |***Eye Color***|Black|
+> |***Distinctions***|Stocky build, large heads, long snouts, long arms, three-fingered hands, four-toed feet|
 > 
 > #### Physical Characteristics
 > 
 > |:--|:--|:--:|
-> |***Height***|&nbsp;&nbsp;|5'9"|+2d12"|
-> |***Weight***|&nbsp;&nbsp;|170 lb.|x(2d6) lb.|
+> |***Height***|5'9"|+2d12"|
+> |***Weight***|170 lb.|x(2d6) lb.|
 > 
 > #### Sociocultural Characteristics
 > 
 > |:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Vinsoth|
-> |***Language***|&nbsp;&nbsp;|Chevin|
+> |***Homeworld***|Vinsoth|
+> |***Language***|Chevin|
 
 
 ### Biology and Appearance
@@ -2334,22 +2334,22 @@ As a draethos, you have the following special traits.
 > #### Visual Characteristics
 > 
 > |:--|:--|
-> |***Skin Color***|&nbsp;&nbsp;|Brown, purple, gray, or red|
-> |***Hair Color***|&nbsp;&nbsp;|None|
-> |***Eye Color***|&nbsp;&nbsp;|Blue or yellow|
-> |***Distinctions***|&nbsp;&nbsp;|Arms used as legs and legs used as arms|
+> |***Skin Color***|Brown, purple, gray, or red|
+> |***Hair Color***|None|
+> |***Eye Color***|Blue or yellow|
+> |***Distinctions***|Arms used as legs and legs used as arms|
 > 
 > #### Physical Characteristics
 > 
 > |:--|:--|:--:|
-> |***Height***|&nbsp;&nbsp;|3'2"|+2d6"|
-> |***Weight***|&nbsp;&nbsp;|50 lb.|x(2d4) lb.|
+> |***Height***|3'2"|+2d6"|
+> |***Weight***|50 lb.|x(2d4) lb.|
 > 
 > #### Sociocultural Characteristics
 > 
 > |:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Malastare|
-> |***Language***|&nbsp;&nbsp;|Dug|
+> |***Homeworld***|Malastare|
+> |***Language***|Dug|
 
 
 
@@ -2793,22 +2793,22 @@ As a flesh raider, you have the following special traits.
 > #### Visual Characteristics
 > 
 > |:--|:--|
-> |***Skin Color***|&nbsp;&nbsp;|Varying shades of brown, green, and purple|
-> |***Hair Color***|&nbsp;&nbsp;|None|
-> |***Eye Color***|&nbsp;&nbsp;|Brown, black, green, or silver|
-> |***Distinctions***|&nbsp;&nbsp;|Exoskeletons, three-fingered hands|
+> |***Skin Color***|Varying shades of brown, green, and purple|
+> |***Hair Color***|None|
+> |***Eye Color***|Brown, black, green, or silver|
+> |***Distinctions***|Exoskeletons, three-fingered hands|
 > 
 > #### Physical Characteristics
 > 
 > |:--|:--|:--:|
-> |***Height***|&nbsp;&nbsp;|4'1"|+2d10"|
-> |***Weight***|&nbsp;&nbsp;|75 lb.|x(2d4) lb.|
+> |***Height***|4'1"|+2d10"|
+> |***Weight***|75 lb.|x(2d4) lb.|
 > 
 > #### Sociocultural Characteristics
 > 
 > |:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Gand|
-> |***Language***|&nbsp;&nbsp;|Gand|
+> |***Homeworld***|Gand|
+> |***Language***|Gand|
 
 
 
@@ -2935,22 +2935,22 @@ As a gank, you have the following special traits.
 > #### Visual Characteristics
 > 
 > |:--|:--|
-> |***Skin Color***|&nbsp;&nbsp;|Gray, green, or orange|
-> |***Hair Color***|&nbsp;&nbsp;|None|
-> |***Eye Color***|&nbsp;&nbsp;|Black|
-> |***Distinctions***|&nbsp;&nbsp;|Hive-based, winged semi-insectoids|
+> |***Skin Color***|Gray, green, or orange|
+> |***Hair Color***|None|
+> |***Eye Color***|Black|
+> |***Distinctions***|Hive-based, winged semi-insectoids|
 > 
 > #### Physical Characteristics
 > 
 > |:--|:--|:--:|
-> |***Height***|&nbsp;&nbsp;|5'5"|+2d4"|
-> |***Weight***|&nbsp;&nbsp;|60 lb.|x(2d4) lb.|
+> |***Height***|5'5"|+2d4"|
+> |***Weight***|60 lb.|x(2d4) lb.|
 > 
 > #### Sociocultural Characteristics
 > 
 > |:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Geonosis|
-> |***Language***|&nbsp;&nbsp;|Geonosian|
+> |***Homeworld***|Geonosis|
+> |***Language***|Geonosian|
 
 
 
@@ -3839,22 +3839,22 @@ As a hutt you have the following special traits.
 > #### Visual Characteristics
 > 
 > |:--|:--|
-> |***Skin Color***|&nbsp;&nbsp;|Pink|
-> |***Hair Color***|&nbsp;&nbsp;|None|
-> |***Eye Color***|&nbsp;&nbsp;|Black|
-> |***Distinctions***|&nbsp;&nbsp;|Horns, precognition, telepathy, thick pink skin|
+> |***Skin Color***|Pink|
+> |***Hair Color***|None|
+> |***Eye Color***|Black|
+> |***Distinctions***|Horns, precognition, telepathy, thick pink skin|
 > 
 > #### Physical Characteristics
 > 
 > |:--|:--|:--:|
-> |***Height***|&nbsp;&nbsp;|4'11"|+2d10"|
-> |***Weight***|&nbsp;&nbsp;|120 lb.|x(2d4) lb.|
+> |***Height***|4'11"|+2d10"|
+> |***Weight***|120 lb.|x(2d4) lb.|
 > 
 > #### Sociocultural Characteristics
 > 
 > |:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Iktotch, moon of Iktotchon|
-> |***Language***|&nbsp;&nbsp;|Iktotchese|
+> |***Homeworld***|Iktotch, moon of Iktotchon|
+> |***Language***|Iktotchese|
 
 
 
@@ -3915,22 +3915,22 @@ As an Iktotchi, you have the following special traits.
 > #### Visual Characteristics
 > 
 > |:--|:--|
-> |***Skin Color***|&nbsp;&nbsp;|Gray, white|
-> |***Hair Color***|&nbsp;&nbsp;|Gray, pale yellow, white|
-> |***Eye Color***|&nbsp;&nbsp;|Green, pink, red, yellow|
-> |***Distinctions***|&nbsp;&nbsp;|Athleticism, pale skin, piercing eyes|
+> |***Skin Color***|Gray, white|
+> |***Hair Color***|Gray, pale yellow, white|
+> |***Eye Color***|Green, pink, red, yellow|
+> |***Distinctions***|Athleticism, pale skin, piercing eyes|
 > 
 > #### Physical Characteristics
 > 
 > |:--|:--|:--:|
-> |***Height***|&nbsp;&nbsp;|4'9"|+2d10"|
-> |***Weight***|&nbsp;&nbsp;|95 lb.|x(2d4) lb.|
+> |***Height***|4'9"|+2d10"|
+> |***Weight***|95 lb.|x(2d4) lb.|
 > 
 > #### Sociocultural Characteristics
 > 
 > |:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Quarzite|
-> |***Language***|&nbsp;&nbsp;|Galactic Basic|
+> |***Homeworld***|Quarzite|
+> |***Language***|Galactic Basic|
 
 
 
@@ -3994,22 +3994,22 @@ As a kage, you have the following special traits.
 > #### Visual Characteristics
 > 
 > |:--|:--|
-> |***Skin Color***|&nbsp;&nbsp;|Orange, red, or yellow|
-> |***Hair Color***|&nbsp;&nbsp;|Black or brown|
-> |***Eye Color***|&nbsp;&nbsp;|Yellow|
-> |***Distinctions***|&nbsp;&nbsp;|Bone masks, elongated ears, flat nose, tusks|
+> |***Skin Color***|Orange, red, or yellow|
+> |***Hair Color***|Black or brown|
+> |***Eye Color***|Yellow|
+> |***Distinctions***|Bone masks, elongated ears, flat nose, tusks|
 > 
 > #### Physical Characteristics
 > 
 > |:--|:--|:--:|
-> |***Height***|&nbsp;&nbsp;|5'1"|+2d6"|
-> |***Weight***|&nbsp;&nbsp;|105 lb.|x(2d4) lb.|
+> |***Height***|5'1"|+2d6"|
+> |***Weight***|105 lb.|x(2d4) lb.|
 > 
 > #### Sociocultural Characteristics
 > 
 > |:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Kalee|
-> |***Language***|&nbsp;&nbsp;|Kaleesh|
+> |***Homeworld***|Kalee|
+> |***Language***|Kaleesh|
 
 
 
@@ -4261,22 +4261,22 @@ As a kaminoan, you have the following special traits.
 > #### Visual Characteristics
 > 
 > |:--|:--|
-> |***Skin Color***|&nbsp;&nbsp;|Blue, gray, or white|
-> |***Hair Color***|&nbsp;&nbsp;|None|
-> |***Eye Color***|&nbsp;&nbsp;|Black|
-> |***Distinctions***|&nbsp;&nbsp;|Multiple rows of sharp teeth, powerful jaws, shark-like heads|
+> |***Skin Color***|Blue, gray, or white|
+> |***Hair Color***|None|
+> |***Eye Color***|Black|
+> |***Distinctions***|Multiple rows of sharp teeth, powerful jaws, shark-like heads|
 > 
 > #### Physical Characteristics
 > 
 > |:--|:--|:--:|
-> |***Height***|&nbsp;&nbsp;|4'8"|+2d10"|
-> |***Weight***|&nbsp;&nbsp;|130 lb.|x(2d4) lb.|
+> |***Height***|4'8"|+2d10"|
+> |***Weight***|130 lb.|x(2d4) lb.|
 > 
 > #### Sociocultural Characteristics
 > 
 > |:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Karkaris|
-> |***Language***|&nbsp;&nbsp;|Karkaran|
+> |***Homeworld***|Karkaris|
+> |***Language***|Karkaran|
 
 
 
@@ -4414,22 +4414,22 @@ As a kiffar, you have the following special traits.
 > #### Visual Characteristics
 > 
 > |:--|:--|
-> |***Skin Color***|&nbsp;&nbsp;|Brown, chestnut, green, red, scarlet, or yellow|
-> |***Hair Color***|&nbsp;&nbsp;|None|
-> |***Eye Color***|&nbsp;&nbsp;|Black or orange|
-> |***Distinctions***|&nbsp;&nbsp;|Chitinous armor, mandibles projected<br> from face, four arms ending in long<br> three toed claws protrude from their<br> torsos|
+> |***Skin Color***|Brown, chestnut, green, red, scarlet, or yellow|
+> |***Hair Color***|None|
+> |***Eye Color***|Black or orange|
+> |***Distinctions***|Chitinous armor, mandibles projected<br> from face, four arms ending in long<br> three toed claws protrude from their<br> torsos|
 > 
 > #### Physical Characteristics
 > 
 > |:--|:--|:--:|
-> |***Height***|&nbsp;&nbsp;|4'9"|+2d10"|
-> |***Weight***|&nbsp;&nbsp;|110 lb.|x(2d4) lb.|
+> |***Height***|4'9"|+2d10"|
+> |***Weight***|110 lb.|x(2d4) lb.|
 > 
 > #### Sociocultural Characteristics
 > 
 > |:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Alderaan|
-> |***Language***|&nbsp;&nbsp;|Killik|
+> |***Homeworld***|Alderaan|
+> |***Language***|Killik|
 
 
 ### Biology and Appearance
@@ -4632,22 +4632,22 @@ As a Kubaz, you have the following special traits.
 > #### Visual Characteristics
 > 
 > |:--|:--|
-> |***Skin Color***|&nbsp;&nbsp;|White to light gray|
-> |***Hair Color***|&nbsp;&nbsp;|Typically white but varies based on<br> mood|
-> |***Eye Color***|&nbsp;&nbsp;|Typically blue, brown, or green|
-> |***Distinctions***|&nbsp;&nbsp;|Lagomorph, nimble, resilient|
+> |***Skin Color***|White to light gray|
+> |***Hair Color***|Typically white but varies based on<br> mood|
+> |***Eye Color***|Typically blue, brown, or green|
+> |***Distinctions***|Lagomorph, nimble, resilient|
 > 
 > #### Physical Characteristics
 > 
 > |:--|:--|:--:|
-> |***Height***|&nbsp;&nbsp;|2'11"|+2d4"|
-> |***Weight***|&nbsp;&nbsp;|35 lb.|x1 lb.|
+> |***Height***|2'11"|+2d4"|
+> |***Weight***|35 lb.|x1 lb.|
 > 
 > #### Sociocultural Characteristics
 > 
 > |:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Kushibah|
-> |***Language***|&nbsp;&nbsp;|Kushiban|
+> |***Homeworld***|Kushibah|
+> |***Language***|Kushiban|
 
 
 
@@ -4710,22 +4710,22 @@ As a Kushiban, you have the following special traits.
 > #### Visual Characteristics
 > 
 > |:--|:--|
-> |***Skin Color***|&nbsp;&nbsp;|Green, ranging from lighter olive shades to deep blue-green colors|
-> |***Hair Color***|&nbsp;&nbsp;|None|
-> |***Eye Color***|&nbsp;&nbsp;|Yellow|
-> |***Distinctions***|&nbsp;&nbsp;|Compound or slit-pupiled eyes, dense musculature, suffer from respiratory and vision problems in standard gravity environments|
+> |***Skin Color***|Green, ranging from lighter olive shades to deep blue-green colors|
+> |***Hair Color***|None|
+> |***Eye Color***|Yellow|
+> |***Distinctions***|Compound or slit-pupiled eyes, dense musculature, suffer from respiratory and vision problems in standard gravity environments|
 > 
 > #### Physical Characteristics
 > 
 > |:--|:--|:--:|
-> |***Height***|&nbsp;&nbsp;|5'9"|+2d8"|
-> |***Weight***|&nbsp;&nbsp;|140 lb.|x(2d4) lb.|
+> |***Height***|5'9"|+2d8"|
+> |***Weight***|140 lb.|x(2d4) lb.|
 > 
 > #### Sociocultural Characteristics
 > 
 > |:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Phatrong|
-> |***Language***|&nbsp;&nbsp;|Kyuzo|
+> |***Homeworld***|Phatrong|
+> |***Language***|Kyuzo|
 
 
 
@@ -4783,22 +4783,22 @@ As a Kyuzo, you have the following special traits.
 > #### Visual Characteristics
 > 
 > |:--|:--|
-> |***Skin Color***|&nbsp;&nbsp;|Blue, brown, green, orange, red, purple, yellow, or gray|
-> |***Hair Color***|&nbsp;&nbsp;|Brown, gray, or white|
-> |***Eye Color***|&nbsp;&nbsp;|Amber, blue, brown, gray, green, hazel, purple, or red|
-> |***Distinctions***|&nbsp;&nbsp;|Downward-sloping, large ears|
+> |***Skin Color***|Blue, brown, green, orange, red, purple, yellow, or gray|
+> |***Hair Color***|Brown, gray, or white|
+> |***Eye Color***|Amber, blue, brown, gray, green, hazel, purple, or red|
+> |***Distinctions***|Downward-sloping, large ears|
 > 
 > #### Physical Characteristics
 > 
 > |:--|:--|:--:|
-> |***Height***|&nbsp;&nbsp;|3'0"|+2d8"|
-> |***Weight***|&nbsp;&nbsp;|40 lb.|x1 lb.|
+> |***Height***|3'0"|+2d8"|
+> |***Weight***|40 lb.|x1 lb.|
 > 
 > #### Sociocultural Characteristics
 > 
 > |:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Lannik|
-> |***Language***|&nbsp;&nbsp;|Lannik|
+> |***Homeworld***|Lannik|
+> |***Language***|Lannik|
 
 
 
@@ -4860,22 +4860,22 @@ As a lannik, you have the following special traits.
 > #### Visual Characteristics
 > 
 > |:--|:--|
-> |***Skin Color***|&nbsp;&nbsp;|Grey or purple|
-> |***Hair Color***|&nbsp;&nbsp;|Purple or grey (with age)|
-> |***Eye Color***|&nbsp;&nbsp;|Green|
-> |***Distinctions***|&nbsp;&nbsp;|Impressive height, strength, and agility|
+> |***Skin Color***|Grey or purple|
+> |***Hair Color***|Purple or grey (with age)|
+> |***Eye Color***|Green|
+> |***Distinctions***|Impressive height, strength, and agility|
 > 
 > #### Physical Characteristics
 > 
 > |:--|:--|:--:|
-> |***Height***|&nbsp;&nbsp;|6'0"|+2d12"|
-> |***Weight***|&nbsp;&nbsp;|160 lb.|x(2d4) lb.|
+> |***Height***|6'0"|+2d12"|
+> |***Weight***|160 lb.|x(2d4) lb.|
 > 
 > #### Sociocultural Characteristics
 > 
 > |:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Lira San|
-> |***Language***|&nbsp;&nbsp;|Lasat|
+> |***Homeworld***|Lira San|
+> |***Language***|Lasat|
 
 
 ### Biology and Appearance
@@ -5153,22 +5153,22 @@ As a mikkian, you have the following special traits.
 > #### Visual Characteristics
 > 
 > |:--|:--|
-> |***Skin Color***|&nbsp;&nbsp;|Pale to brown|
-> |***Hair Color***|&nbsp;&nbsp;|Black, brown, grey, or white|
-> |***Eye Color***|&nbsp;&nbsp;|None|
-> |***Distinctions***|&nbsp;&nbsp;|Lack of physical eyes, inherent *force<br> sight*|
+> |***Skin Color***|Pale to brown|
+> |***Hair Color***|Black, brown, grey, or white|
+> |***Eye Color***|None|
+> |***Distinctions***|Lack of physical eyes, inherent *force<br> sight*|
 > 
 > #### Physical Characteristics
 > 
 > |:--|:--|:--:|
-> |***Height***|&nbsp;&nbsp;|4'8"|+2d10"|
-> |***Weight***|&nbsp;&nbsp;|110 lb.|x(2d4) lb.|
+> |***Height***|4'8"|+2d10"|
+> |***Weight***|110 lb.|x(2d4) lb.|
 > 
 > #### Sociocultural Characteristics
 > 
 > |:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Alpheridies|
-> |***Language***|&nbsp;&nbsp;|Miralukese|
+> |***Homeworld***|Alpheridies|
+> |***Language***|Miralukese|
 
 
 
@@ -5224,22 +5224,22 @@ As a miraluka, you have the following special traits.
 > #### Visual Characteristics
 > 
 > |:--|:--|
-> |***Skin Color***|&nbsp;&nbsp;|Green, olive, or yellow|
-> |***Hair Color***|&nbsp;&nbsp;|Black, blonde, brown, or red|
-> |***Eye Color***|&nbsp;&nbsp;|Blue, green, violet, grey, red, yellow, or orange|
-> |***Distinctions***|&nbsp;&nbsp;|Facial tattoos, flexible and agile|
+> |***Skin Color***|Green, olive, or yellow|
+> |***Hair Color***|Black, blonde, brown, or red|
+> |***Eye Color***|Blue, green, violet, grey, red, yellow, or orange|
+> |***Distinctions***|Facial tattoos, flexible and agile|
 > 
 > #### Physical Characteristics
 > 
 > |:--|:--|:--:|
-> |***Height***|&nbsp;&nbsp;|4'6"|+2d10"|
-> |***Weight***|&nbsp;&nbsp;|100 lb.|x(2d4) lb.|
+> |***Height***|4'6"|+2d10"|
+> |***Weight***|100 lb.|x(2d4) lb.|
 > 
 > #### Sociocultural Characteristics
 > 
 > |:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Mirial|
-> |***Language***|&nbsp;&nbsp;|Mirialan|
+> |***Homeworld***|Mirial|
+> |***Language***|Mirialan|
 
 
 
@@ -5370,22 +5370,22 @@ As a mustafarian, you have the following special traits.
 > #### Visual Characteristics
 > 
 > |:--|:--|
-> |***Skin Color***|&nbsp;&nbsp;|Light pink or white|
-> |***Hair Color***|&nbsp;&nbsp;|None|
-> |***Eye Color***|&nbsp;&nbsp;|Black or grey|
-> |***Distinctions***|&nbsp;&nbsp;|Three hearts, long limbs,<br> elongated heads|
+> |***Skin Color***|Light pink or white|
+> |***Hair Color***|None|
+> |***Eye Color***|Black or grey|
+> |***Distinctions***|Three hearts, long limbs,<br> elongated heads|
 > 
 > #### Physical Characteristics
 > 
 > |:--|:--|:--:|
-> |***Height***|&nbsp;&nbsp;|5'8"|+2d10"|
-> |***Weight***|&nbsp;&nbsp;|145 lb.|x(2d4) lb.|
+> |***Height***|5'8"|+2d10"|
+> |***Weight***|145 lb.|x(2d4) lb.|
 > 
 > #### Sociocultural Characteristics
 > 
 > |:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Scipio|
-> |***Language***|&nbsp;&nbsp;|Muun|
+> |***Homeworld***|Scipio|
+> |***Language***|Muun|
 
 
 ### Biology and Appearance
@@ -5590,22 +5590,22 @@ As a nikto, you have the following special traits.
 > #### Visual Characteristics
 > 
 > |:--|:--|
-> |***Skin Color***|&nbsp;&nbsp;|Bluish-gray|
-> |***Hair Color***|&nbsp;&nbsp;|None|
-> |***Eye Color***|&nbsp;&nbsp;|Brown|
-> |***Distinctions***|&nbsp;&nbsp;|Advanced olfactory senses, claws, hunting prowess.|
+> |***Skin Color***|Bluish-gray|
+> |***Hair Color***|None|
+> |***Eye Color***|Brown|
+> |***Distinctions***|Advanced olfactory senses, claws, hunting prowess.|
 > 
 > #### Physical Characteristics
 > 
 > |:--|:--|:--:|
-> |***Height***|&nbsp;&nbsp;|4'5"|+2d6"|
-> |***Weight***|&nbsp;&nbsp;|115 lb.|x(2d4) lb.|
+> |***Height***|4'5"|+2d6"|
+> |***Weight***|115 lb.|x(2d4) lb.|
 > 
 > #### Sociocultural Characteristics
 > 
 > |:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Honoghr|
-> |***Language***|&nbsp;&nbsp;|Honoghran|
+> |***Homeworld***|Honoghr|
+> |***Language***|Honoghran|
 
 
 
@@ -5747,22 +5747,22 @@ As a nothoiin, you have the following special traits.
 > #### Visual Characteristics
 > 
 > |:--|:--|
-> |***Skin Color***|&nbsp;&nbsp;|Light colors|
-> |***Hair Color***|&nbsp;&nbsp;|Light colors|
-> |***Eye Color***|&nbsp;&nbsp;|Yellow|
-> |***Distinctions***|&nbsp;&nbsp;|Stocky builds, trunklike noses, floppy ears, small mouths, brightly dyed fur|
+> |***Skin Color***|Light colors|
+> |***Hair Color***|Light colors|
+> |***Eye Color***|Yellow|
+> |***Distinctions***|Stocky builds, trunklike noses, floppy ears, small mouths, brightly dyed fur|
 > 
 > #### Physical Characteristics
 > 
 > |:--|:--|:--:|
-> |***Height***|&nbsp;&nbsp;|2'10"|+2d4"|
-> |***Weight***|&nbsp;&nbsp;|50 lb.|x1 lb.|
+> |***Height***|2'10"|+2d4"|
+> |***Weight***|50 lb.|x1 lb.|
 > 
 > #### Sociocultural Characteristics
 > 
 > |:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Orto|
-> |***Language***|&nbsp;&nbsp;|Ortolan|
+> |***Homeworld***|Orto|
+> |***Language***|Ortolan|
 
 
 ### Biology and Appearance
@@ -6215,22 +6215,22 @@ As a pyke, you have the following special traits.
 > #### Visual Characteristics
 > 
 > |:--|:--|
-> |***Skin Color***|&nbsp;&nbsp;|Orange, pink, purple, or red|
-> |***Hair Color***|&nbsp;&nbsp;|None|
-> |***Eye Color***|&nbsp;&nbsp;|Blue or green|
-> |***Distinctions***|&nbsp;&nbsp;|Four tentacles that protrude from their jaws, finned or suction-cup tipped fingers, able to spit out clouds of ink in defense|
+> |***Skin Color***|Orange, pink, purple, or red|
+> |***Hair Color***|None|
+> |***Eye Color***|Blue or green|
+> |***Distinctions***|Four tentacles that protrude from their jaws, finned or suction-cup tipped fingers, able to spit out clouds of ink in defense|
 > 
 > #### Physical Characteristics
 > 
 > |:--|:--|:--:|
-> |***Height***|&nbsp;&nbsp;|4'9"|+2d10"|
-> |***Weight***|&nbsp;&nbsp;|105 lb.|x(2d4) lb.|
+> |***Height***|4'9"|+2d10"|
+> |***Weight***|105 lb.|x(2d4) lb.|
 > 
 > #### Sociocultural Characteristics
 > 
 > |:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Mon Cala|
-> |***Language***|&nbsp;&nbsp;|Quarrenese|
+> |***Homeworld***|Mon Cala|
+> |***Language***|Quarrenese|
 
 
 
@@ -6447,22 +6447,22 @@ As a rakata, you have the following special traits.
 > #### Visual Characteristics
 > 
 > |:--|:--|
-> |***Skin Color***|&nbsp;&nbsp;|Chalk-white|
-> |***Hair Color***|&nbsp;&nbsp;|Brown, grey or white|
-> |***Eye Color***|&nbsp;&nbsp;|Grey or white|
-> |***Distinctions***|&nbsp;&nbsp;|Near-human features, white skin, usually with a bald head, often tattooed|
+> |***Skin Color***|Chalk-white|
+> |***Hair Color***|Brown, grey or white|
+> |***Eye Color***|Grey or white|
+> |***Distinctions***|Near-human features, white skin, usually with a bald head, often tattooed|
 > 
 > #### Physical Characteristics
 > 
 > |:--|:--|:--:|
-> |***Height***|&nbsp;&nbsp;|4'4"|+2d10"|
-> |***Weight***|&nbsp;&nbsp;|90 lb.|x(2d4) lb.|
+> |***Height***|4'4"|+2d10"|
+> |***Weight***|90 lb.|x(2d4) lb.|
 > 
 > #### Sociocultural Characteristics
 > 
 > |:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Rattatak|
-> |***Language***|&nbsp;&nbsp;|Rattataki|
+> |***Homeworld***|Rattatak|
+> |***Language***|Rattataki|
 
 
 
@@ -6521,22 +6521,22 @@ As a rattataki, you have the following special traits.
 > #### Visual Characteristics
 > 
 > |:--|:--|
-> |***Skin Color***|&nbsp;&nbsp;|Yellow|
-> |***Hair Color***|&nbsp;&nbsp;|Brown or white|
-> |***Eye Color***|&nbsp;&nbsp;|Brown or yellow|
-> |***Distinctions***|&nbsp;&nbsp;|Sound mimicry, enhanced hearing and sight|
+> |***Skin Color***|Yellow|
+> |***Hair Color***|Brown or white|
+> |***Eye Color***|Brown or yellow|
+> |***Distinctions***|Sound mimicry, enhanced hearing and sight|
 > 
 > #### Physical Characteristics
 > 
 > |:--|:--|:--:|
-> |***Height***|&nbsp;&nbsp;|4'2"|+2d12"|
-> |***Weight***|&nbsp;&nbsp;|60 lb.|x(2d4) lb.|
+> |***Height***|4'2"|+2d12"|
+> |***Weight***|60 lb.|x(2d4) lb.|
 > 
 > #### Sociocultural Characteristics
 > 
 > |:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Rishi|
-> |***Language***|&nbsp;&nbsp;|Rishii|
+> |***Homeworld***|Rishi|
+> |***Language***|Rishii|
 
 
 
@@ -6809,22 +6809,22 @@ As a selonian, you have the following special traits.
 > #### Visual Characteristics
 > 
 > |:--|:--|
-> |***Skin Color***|&nbsp;&nbsp;|Black or light to dark brown|
-> |***Hair Color***|&nbsp;&nbsp;|Black, light to dark brown, grey (usually with age)|
-> |***Eye Color***|&nbsp;&nbsp;|Black or gray|
-> |***Distinctions***|&nbsp;&nbsp;|Lupine appearance, enhanced senses, increased speed, increased strength, healing ability|
+> |***Skin Color***|Black or light to dark brown|
+> |***Hair Color***|Black, light to dark brown, grey (usually with age)|
+> |***Eye Color***|Black or gray|
+> |***Distinctions***|Lupine appearance, enhanced senses, increased speed, increased strength, healing ability|
 > 
 > #### Physical Characteristics
 > 
 > |:--|:--|:--:|
-> |***Height***|&nbsp;&nbsp;|5'7"|+2d8"|
-> |***Weight***|&nbsp;&nbsp;|140 lb.|x(2d4) lb.|
+> |***Height***|5'7"|+2d8"|
+> |***Weight***|140 lb.|x(2d4) lb.|
 > 
 > #### Sociocultural Characteristics
 > 
 > |:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Uvena Prime|
-> |***Language***|&nbsp;&nbsp;|Shistavanen|
+> |***Homeworld***|Uvena Prime|
+> |***Language***|Shistavanen|
 
 
 
@@ -6886,22 +6886,22 @@ As a shistavanen, you have the following special traits.
 > #### Visual Characteristics
 > 
 > |:--|:--|
-> |***Skin Color***|&nbsp;&nbsp;|Pink|
-> |***Hair Color***|&nbsp;&nbsp;|White, gray, black, brown, blue, violet, or red|
-> |***Eye Color***|&nbsp;&nbsp;|Blue, yellow, red, or brown|
-> |***Distinctions***|&nbsp;&nbsp;|Curious, overconfident, hagglers|
+> |***Skin Color***|Pink|
+> |***Hair Color***|White, gray, black, brown, blue, violet, or red|
+> |***Eye Color***|Blue, yellow, red, or brown|
+> |***Distinctions***|Curious, overconfident, hagglers|
 > 
 > #### Physical Characteristics
 > 
 > |:--|:--|:--:|
-> |***Height***|&nbsp;&nbsp;|2'11"|+2d4"|
-> |***Weight***|&nbsp;&nbsp;|45 lb.|x1 lb.|
+> |***Height***|2'11"|+2d4"|
+> |***Weight***|45 lb.|x1 lb.|
 > 
 > #### Sociocultural Characteristics
 > 
 > |:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Skor II|
-> |***Language***|&nbsp;&nbsp;|Squibbian|
+> |***Homeworld***|Skor II|
+> |***Language***|Squibbian|
 
 
 
@@ -7040,22 +7040,22 @@ As a ssi-ruu, you have the following special traits.
 > #### Visual Characteristics
 > 
 > |:--|:--|
-> |***Skin Color***|&nbsp;&nbsp;|Gray, pink, or light green|
-> |***Hair Color***|&nbsp;&nbsp;|Brown|
-> |***Eye Color***|&nbsp;&nbsp;|Black or brown|
-> |***Distinctions***|&nbsp;&nbsp;|Large ears, scarns, ultra-sensitive hearing, jet-black eyes, two flaps of jowls around their cheeks|
+> |***Skin Color***|Gray, pink, or light green|
+> |***Hair Color***|Brown|
+> |***Eye Color***|Black or brown|
+> |***Distinctions***|Large ears, scarns, ultra-sensitive hearing, jet-black eyes, two flaps of jowls around their cheeks|
 > 
 > #### Physical Characteristics
 > 
 > |:--|:--|:--:|
-> |***Height***|&nbsp;&nbsp;|3'11"|+2d12"|
-> |***Weight***|&nbsp;&nbsp;|60 lb.|x(2d4) lb.|
+> |***Height***|3'11"|+2d12"|
+> |***Weight***|60 lb.|x(2d4) lb.|
 > 
 > #### Sociocultural Characteristics
 > 
 > |:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Sullust|
-> |***Language***|&nbsp;&nbsp;|Sullestese| 
+> |***Homeworld***|Sullust|
+> |***Language***|Sullestese| 
 
 
 
@@ -7113,22 +7113,22 @@ As a sullustan, you have the following special traits.
 > #### Visual Characteristics
 > 
 > |:--|:--|
-> |***Skin Color***|&nbsp;&nbsp;|Black or grey|
-> |***Hair Color***|&nbsp;&nbsp;|Grey, pink, or white|
-> |***Eye Color***|&nbsp;&nbsp;|Black, dark blue, or dark red|
-> |***Distinctions***|&nbsp;&nbsp;|Covered in fur, four eyes, unable to speak Galactic Basic|
+> |***Skin Color***|Black or grey|
+> |***Hair Color***|Grey, pink, or white|
+> |***Eye Color***|Black, dark blue, or dark red|
+> |***Distinctions***|Covered in fur, four eyes, unable to speak Galactic Basic|
 > 
 > #### Physical Characteristics
 > 
 > |:--|:--|:--:|
-> |***Height***|&nbsp;&nbsp;|6'5"|+2d10"|
-> |***Weight***|&nbsp;&nbsp;|180 lb.|x(2d6) lb.|
+> |***Height***|6'5"|+2d10"|
+> |***Weight***|180 lb.|x(2d6) lb.|
 > 
 > #### Sociocultural Characteristics
 > 
 > |:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Orto Plutonia|
-> |***Language***|&nbsp;&nbsp;|Talzzi|
+> |***Homeworld***|Orto Plutonia|
+> |***Language***|Talzzi|
 
 ### Biology and Appearance
 Talz are large, bulky, bipedal creatures, that are covered head to toe in thick white fur, which provides exceptional insulation against their frozen world. Talz have four eyes, which are also adaptations to their native environment. The larger set of eyes are shut during the day, when sunlight reflects off the snow with dazzling brightness—able to blind sensitive optical organs—leaving the smaller set to navigate with. Alternatively, during the deep darkness of their homeworld's moonless night, the larger pair are utilized to provide the Talz with adequate vision. Talz use a small proboscis to eat and communicate, creating high-pitched chirps and buzzes.
@@ -7698,22 +7698,22 @@ As a togorian, you have the following special traits.
 > #### Visual Characteristics
 > 
 > |:--|:--|
-> |***Skin Color***|&nbsp;&nbsp;|Blue, green, grey, or pink|
-> |***Hair Color***|&nbsp;&nbsp;|None|
-> |***Eye Color***|&nbsp;&nbsp;|Black, brown, or green|
-> |***Distinctions***|&nbsp;&nbsp;|Two wings, facial tusks, snout, three fingers and toes on appendages|
+> |***Skin Color***|Blue, green, grey, or pink|
+> |***Hair Color***|None|
+> |***Eye Color***|Black, brown, or green|
+> |***Distinctions***|Two wings, facial tusks, snout, three fingers and toes on appendages|
 > 
 > #### Physical Characteristics
 > 
 > |:--|:--|:--:|
-> |***Height***|&nbsp;&nbsp;|3'3"|+2d8"|
-> |***Weight***|&nbsp;&nbsp;|40 lb.|x1 lb.|
+> |***Height***|3'3"|+2d8"|
+> |***Weight***|40 lb.|x1 lb.|
 > 
 > #### Sociocultural Characteristics
 > 
 > |:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Toydaria|
-> |***Language***|&nbsp;&nbsp;|Toydarian|
+> |***Homeworld***|Toydaria|
+> |***Language***|Toydarian|
 
 
 ### Biology and Appearance
@@ -7773,22 +7773,22 @@ As a toydarian, you have the following special traits.
 > #### Visual Characteristics
 > 
 > |:--|:--|
-> |***Skin Color***|&nbsp;&nbsp;|Varying shades of pink|
-> |***Hair Color***|&nbsp;&nbsp;|White|
-> |***Eye Color***|&nbsp;&nbsp;|Black and red|
-> |***Distinctions***|&nbsp;&nbsp;|Diminutive stature, porcine features, technological affinity|
+> |***Skin Color***|Varying shades of pink|
+> |***Hair Color***|White|
+> |***Eye Color***|Black and red|
+> |***Distinctions***|Diminutive stature, porcine features, technological affinity|
 > 
 > #### Physical Characteristics
 > 
 > |:--|:--|:--:|
-> |***Height***|&nbsp;&nbsp;|3'1"|+2d12"|
-> |***Weight***|&nbsp;&nbsp;|40 lb.|x1 lb.|
+> |***Height***|3'1"|+2d12"|
+> |***Weight***|40 lb.|x1 lb.|
 > 
 > #### Sociocultural Characteristics
 > 
 > |:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Gentes|
-> |***Language***|&nbsp;&nbsp;|Ugnaught|
+> |***Homeworld***|Gentes|
+> |***Language***|Ugnaught|
 
 
 
@@ -8003,22 +8003,22 @@ As an umbaran, you have the following special traits.
 > #### Visual Characteristics
 > 
 > |:--|:--|
-> |***Skin Color***|&nbsp;&nbsp;|Green|
-> |***Hair Color***|&nbsp;&nbsp;|None|
-> |***Eye Color***|&nbsp;&nbsp;|Black or red|
-> |***Distinctions***|&nbsp;&nbsp;|Hive-based insectoids, radio wave senses, technological aptitude, hardened carapace, short snouts, and small, toothless mouths|
+> |***Skin Color***|Green|
+> |***Hair Color***|None|
+> |***Eye Color***|Black or red|
+> |***Distinctions***|Hive-based insectoids, radio wave senses, technological aptitude, hardened carapace, short snouts, and small, toothless mouths|
 > 
 > #### Physical Characteristics
 > 
 > |:--|:--|:--:|
-> |***Height***|&nbsp;&nbsp;|5'9"|+2d8"|
-> |***Weight***|&nbsp;&nbsp;|80 lb.|x(2d4) lb.|
+> |***Height***|5'9"|+2d8"|
+> |***Weight***|80 lb.|x(2d4) lb.|
 > 
 > #### Sociocultural Characteristics
 > 
 > |:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Roche asteroid field|
-> |***Language***|&nbsp;&nbsp;|Verpine|
+> |***Homeworld***|Roche asteroid field|
+> |***Language***|Verpine|
 
 
 
@@ -8149,22 +8149,22 @@ As a voss, you have the following special traits.
 > #### Visual Characteristics
 > 
 > |:--|:--|
-> |***Skin Color***|&nbsp;&nbsp;|Dark blues, greens, greys, or reds|
-> |***Hair Color***|&nbsp;&nbsp;|None|
-> |***Eye Color***|&nbsp;&nbsp;|Black|
-> |***Distinctions***|&nbsp;&nbsp;|Bulbous eyes, head crests, three-fingered hands|
+> |***Skin Color***|Dark blues, greens, greys, or reds|
+> |***Hair Color***|None|
+> |***Eye Color***|Black|
+> |***Distinctions***|Bulbous eyes, head crests, three-fingered hands|
 > 
 > #### Physical Characteristics
 > 
 > |:--|:--|:--:|
-> |***Height***|&nbsp;&nbsp;|5'9"|+2d8"|
-> |***Weight***|&nbsp;&nbsp;|130 lb.|x(2d4) lb.|
+> |***Height***|5'9"|+2d8"|
+> |***Weight***|130 lb.|x(2d4) lb.|
 > 
 > #### Sociocultural Characteristics
 > 
 > |:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Sembla|
-> |***Language***|&nbsp;&nbsp;|Semblan|
+> |***Homeworld***|Sembla|
+> |***Language***|Semblan|
 
 
 ### Biology and Appearance
