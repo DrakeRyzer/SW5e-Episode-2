@@ -38,7 +38,7 @@ What led you to take up the adventuring life? Were you lured to settled planets 
 ### Quick Build
 You can make a berserker quickly by following these suggestions. First, put your highest ability score in Strength, followed by Constitution. Second, choose the mercenary background.
 
-#### The Berserker
+## The Berserker
 
 |	Level	|	Proficiency<br> Bonus	|	Features	|	Rages	|	Rage<br> Damage	| Berserker<br> Instincts |
 |	:--:	|	:--:	|	:--	|	:--:	|	:--:	| :--: |
@@ -169,64 +169,64 @@ Additionally, you can enter rage an unlimited number of times, and entering rage
 
 
 
-### Berserker Instincts
+## Berserker Instincts
 The instincts are presented in alphabetical order. 
 
-#### Acklay's Instinct
+### Acklay's Instinct
 While raging, you have advantage on Constitution saving throws.
 
-#### Bantha's Instinct
+### Bantha's Instinct
 _**Prerequisite:** 7th level_<br>
 Your carrying capacity and the weight you can push, drag, or lift doubles. If it would already double, it instead triples. Additionally, you have advantage on Strength checks made to push, pull, lift, or break objects.
 
-#### Blurrg's Instinct
+### Blurrg's Instinct
 Whether mounted or on foot, your travel pace is doubled, as is the travel pace of up to ten companions while they're within 60 feet of you and you're not incapacitated. 
 
-#### Boggdo's Instinct
+### Boggdo's Instinct
 _**Prerequisite:** 13th level_<br>
 While raging you have a flying speed equal to your current walking speed, though you fall if you end your turn in the air and nothing else is holding you aloft.
 
-#### Chirodactyl's Instinct
+### Chirodactyl's Instinct
 _**Prerequisite:** 7th level_<br>
 While raging, you have blindsight to a range of 30 feet, and you have advantage on Wisdom (Perception) checks that rely on sound, as long as you aren't deafened.
 
-#### Dewback's Instinct
+### Dewback's Instinct
 Choose three damage types other than true damage. While raging, you have resistance to the chosen damage types.
 
-#### Fighter's Instinct
+### Fighter's Instinct
 You adopt a particular style of fighting as your specialty. Choose one of the Fighting Style options, detailed in Chapter 6. 
 
-#### Fyrnock's Instinct
+### Fyrnock's Instinct
 While raging, you can use your bonus action to leap up to 30 feet to an empty space you can see. When you land you deal kinetic damage equal to your Strength modifier to each creature within 5 feet of where you land. You can use this feature twice. You gain an additional use at 5th, 9th, 13th, and 17th level. You regain all expended uses when you complete a long rest.
 
-#### Hawk's Instinct
+### Hawk's Instinct
 _**Prerequisite:** 7th level_<br>
 You can see up to 1 mile away with no difficulty. You are able to discern even fine details as though looking at something no more than 100 feet away from you. Additionally, dim light doesn't impose disadvantage on your Wisdom (Perception) checks.
 
-#### Katarn's Instinct
+### Katarn's Instinct
 You gain a climbing speed equal to your movement speed.
 
-#### Loth-cat's Instinct
+### Loth-cat's Instinct
 While you're raging, other creatures have disadvantage on opportunity attack rolls against you, and you can take the Dash action as a bonus action on your turn.
 
-#### Predator's Instinct
+### Predator's Instinct
 Your speed increases by 10 feet.
 
-#### Rancor's Instinct
+### Rancor's Instinct
 _**Prerequisite:** 13th level_<br>
 While you're raging any creature within 5 feet of you that's hostile to you has disadvantage on attack rolls against targets other than you or another character with this feature. An enemy is immune to this effect if it can't see or hear you or if it can't be frightened.
 
-#### Tactician's Instinct
+### Tactician's Instinct
 When you use your Reckless Attack feature, you can choose to not have advantage on your attack rolls this turn. If you do so, friendly creatures within 5 feet of a hostile creature that is within 5 feet of you have advantage on attack rolls against that creature.
 
-#### Tracker's Instinct
+### Tracker's Instinct
 _**Prerequisite:** 7th level_<br>
 You can track other creatures while traveling at a fast pace, and you can move stealthily while traveling at a normal pace.
 
-#### Terentatek's Instinct
+### Terentatek's Instinct
 _**Prerequisite:** 13th level_<br>
 When you are forced to make a saving throw against a force power, you can immediately use your reaction to move up to half your speed towards the source power's caster. If you end this movement within 5 feet of the target, you can immediately make one melee weapon attack against the target as a part of that reaction.
 
-#### Varactyl's Instinct
+### Varactyl's Instinct
 _**Prerequisite:** 13th level_<br>
 While raging, you have advantage on Dexterity checks, your attack rolls can't suffer from disadvantage, and each slowed level only reduces your speed by 5 feet, unless it would reduce your speed to 0.
