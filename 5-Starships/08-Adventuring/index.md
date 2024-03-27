@@ -116,6 +116,7 @@ While traveling in realspace, a starship can move at a normal, fast, or slow pac
 You can use the following **Sample Realspace Travel Times** table to determine travel times in realspace for an average starship traveling at a normal pace.
 
 #### Sample Realspace Travel Times
+
 |Distance|Time Required|
 |:--|--:|
 |Surface of planet to orbit|1-5 minutes|
@@ -182,8 +183,9 @@ If a character already had a flying speed, they instead do not treat zero gravit
 
 
 #### Base Hyperspace Travel Times (Hours)   
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***Region Traveling to*** 
-|***Region <br>Traveling from***|**Deep<br> Core**|**Core**|**Colonies**|**Inner<br> Rim**|**Expansion <br>Region**|**Mid <br>Rim**|**Outer<br> Rim**|**Wild<br> Space**|**Unknown<br> Regions**|
+
+###### ***Region Traveling to*** 
+|***Region Traveling from***|**Deep Core**|**Core**|**Colonies**|**Inner Rim**|**Expansion Region**|**Mid Rim**|**Outer Rim**|**Wild Space**|**Unknown Regions**|
 |:--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 |**Deep Core**       | 12| 18| 24| 48| 72| 96|120|144|168|
 |**Core**            | 24|  6| 24| 36| 60| 84| 96|120|144|
@@ -219,6 +221,7 @@ You can use the above **Base Hyperspace Travel Times** table to determine travel
 Plotting a hyperspace course requires incredibly difficult calculations. Before jumping to hyperspace, a ship must plot a course via astrogation by completing 10 astrogation equations. When not under stress, a crewmember can take 10 minutes to carefully make these calculations and check them, resulting in automatic success. When under duress, such as in combat situations, a crewmember can calculate astronavigation with an Intelligence (Astrogation) check as an action on their turn, and then consults the **Astrogation Results** table.
 
 #### Astrogation Results
+
 |d20|	Result|
 |:--:|:--|
 |9 or lower | Your calculations fail, resulting in no completed equations.|
@@ -253,7 +256,8 @@ When a starship enters or exits hyperspace, it generates a short burst of Cronau
 
 
 #### Hyperspace Mishaps
-|D20&emsp;|Result|
+
+|D20|Result|
 |:--:|:--|
 |20+    |   The ship suffers no adverse consequences.|
 |18-19    | The ship encounters dumped cargo, setting off a collision alarm. The Pilot must make a DC 15 Constitution save.  On a failure, the ship takes 3 hull dice of damage;  the ship takes half damage on a suc-<br>cess. The cargo is salvageable, it consists of 10d10 tons of cargo, each with a value of 10d10x10 credits.|
@@ -265,7 +269,7 @@ When a starship enters or exits hyperspace, it generates a short burst of Cronau
 |1-2    | The hyperdrive suffers a catastrophic failure, and is rendered unusable until the ship is refitted.|
 
 
->**The BoSS:** In addition to their duties of regulating information regarding ship ownership, the BoSS also maintains a database of astrogation information. Each time a ship docks in a major spaceport, they can update their astrogation data for a 150 credit fee. Astrogation data is routinely updated and is rarely more than a week old.
+> **The BoSS:** In addition to their duties of regulating information regarding ship ownership, the BoSS also maintains a database of astrogation information. Each time a ship docks in a major spaceport, they can update their astrogation data for a 150 credit fee. Astrogation data is routinely updated and is rarely more than a week old.
 
 
 
@@ -278,8 +282,8 @@ Ships have a minimum and maximum crew capacity determined by their size, modific
 Ships other than Tiny have a minimum number of required crewmembers to operate effectively. A small ship has a minimum effective crew of 1. For medium and larger ships, the minimum effective crew is determined by a ship's Intelligence modifier and its size, as shown below in the **Starship Minimum Effective Crew by Size** table.  
 
 #### Starship Minimum Effective Crew by Size 
-######  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;***Ship Size*** 
-|***Ship Intelligence<br> Modifier***|**Medium**|**Large**|**Huge**|**Gargantuan**|
+
+|***Ship Intelligence Modifier***|**Medium**|**Large**|**Huge**|**Gargantuan**|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 |**-2**| 6| 800| 10,000|120,000|
 |**-1**| 5| 600| 8,000|100,000|
@@ -380,7 +384,7 @@ NPC crewmembers may be used for more than just reaching minimum crew requirement
 
 
 #### Officer NPC Costs 
-######  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;***Salaried Officers***&emsp;&emsp;&emsp;***Droid Officers*** 
+
 |***Ship Tier***|**Prof. Bonus**|**Hiring Bonus**|**Daily Salary**|**Purchase Cost**|**Maint. Cost**|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 |**0**|+2| 600cr| 12cr|1,800cr|3cr|
@@ -396,8 +400,6 @@ Starting up a starship requires many systems to boot, diagnostics to run, and me
 
 
 #### Starships Start-Up Time
-
-
 
 |Ship Size |Start-Up Time|
 |:--|:--|
@@ -416,6 +418,7 @@ Starting up a starship requires many systems to boot, diagnostics to run, and me
 When under duress, such as in combat situations, a pilot can lead their crew through an emergency start-up procedure by having a number of crew equal to the minimum crew size spend an action to complete initiation procedures.  On their turn, the pilot leading the effort makes an Intelligence (Piloting) check as an action on their turn, and then consults the **Start-Up Procedures Results** table.
 
 #### Start-Up Procedures Results
+
 |d20|	Result|
 |:--:|:--|
 |9 or lower | Your procedures fail, resulting in no completed initiation procedures.|
@@ -447,11 +450,12 @@ A start-up procedure, even an emergency one, can always be rushed, being made be
 
 
 #### Start-Up Mishaps
+
 |d20|Result|
 |:--:|:--|
 |20+    |    The ship suffers no adverse consequences.|
-|18-19  | The ship's navcomputer is disabled until the<br> ship recharges. |
-|15-17  | The ship gains one level of slowed until the<br> ship recharges. |
+|18-19  | The ship's navcomputer is disabled until the ship recharges. |
+|15-17  | The ship gains one level of slowed until the ship recharges. |
 |12-14  | The ship is blinded until the ship recharges.|
 |9-11 | The ship gains one level of system damage.|
 |6-8  | The ship gains two levels of system damage.|
@@ -518,7 +522,8 @@ At the end of refitting, a ship regains all lost hull and shield points, expende
 
 
 #### Starship Size Refitting Time
-|Starship Size|Time&nbsp;&nbsp;|
+
+|Starship Size|Time|
 |:--|--:|
 |Tiny|4 hours|
 |Small|8 hours|
