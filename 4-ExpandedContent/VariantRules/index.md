@@ -223,6 +223,7 @@ In order to make a called shot, you must first be making an attack roll with adv
 When you hit with a called shot, you can choose to deal normal weapon damage and then roll a d100 to determine the effect of the shot randomly using the Called Shot Effects table below. Alternatively, you can choose to roll your damage dice twice and take the lesser total. If you do so, you can choose the effect you want to cause on the Called Shot Effects table below, instead of determining it randomly.
 
 ##### Called Shot Effects
+
 |d100|Effect|
 |:--:|:--|
 |01-45|***Leg Shot.*** The creature gains 1 slowed level until the end of its next turn.|
@@ -357,9 +358,6 @@ The character immediately unlearns the power they are trying to replace, and the
 |2|16|
 |3|18|
 |4|20|
-
-|Power Level|Check DC|
-|:--:|:--:|
 |5|22|
 |6|24|
 |7|26|
@@ -648,9 +646,6 @@ In order to strengthen their bond, bond-mates must remain with a certain distanc
 |3rd|15|300 feet|
 |4th|16|1 mile|
 |5th|17|10 miles|
-
-|Tier|DC|Bond Distance|
-|:--:|:--:|--:|
 |6th|19|100 miles|
 |7th|20|1,000 miles|
 |8th|21|10,000 miles|
@@ -723,6 +718,7 @@ Only unenhanced weapons of the same type can be combined, and you can't combine 
 You can only combine a number of weapons up to your proficiency bonus. Combining weapons takes one hour and requires an ability check with the appropriate tools, as shown in the Item Specific Tools table in Wretched Hives. The DC for the check is determined by the number of weapons being combined, as shown below in the Combination/Separation DC by Weapons table.
 
 ##### Combination/Separation DC by Weapons
+
 |Weapons|Combination/Separation DC|
 |:--:|:--:|
 |2|10|
@@ -874,6 +870,7 @@ If a character has a score and performs an opposing act, instead of gaining poin
 As you earn Light/Dark Points, you reach certain tiers of Alignment Score that manifest themselves in varying ways. If you ever fall below the Light/Dark Points threshold for a Major tier, you immediately lose that tier's benefits. You regain the benefits when you meet the criteria again. Minor tier effects are permanent unless another similar effect occurs.
 
 #### Force Alignment
+
 | Alignment<br> Score | Features |
 |:---:|:---|
 |<div style="color:blue">100</div>|<div style="color:blue">Luminous Being (Major Benevolence Tier V)</div>|
@@ -902,6 +899,7 @@ As you earn Light/Dark Points, you reach certain tiers of Alignment Score that m
 At certain tiers of Light/Dark Points, you risk manifesting Minor Traits, as shown in the Force Alignment table. When you would earn a Minor Trait, you must first make a saving throw (Charisma for Benevolence, Wisdom for Corruption), the DC of which varies depending on the tier of the Minor Trait, as shown in the Minor Benevolence/Corruption Save DC table below. On a failed save, you must roll on a Minor Benevolence/Corruption tables, depending on the tier of the Minor Benevolence/Corruption. You can choose to fail this saving throw, if you wish.
 
 ##### Minor Benevolence/Corruption Save DC
+
 | Minor Benevolence/Corruption Tier | Save DC |
 |:--|:-:|
 | Minor Benevolence/Corruption (Tier I)     | 12 |
@@ -911,6 +909,7 @@ At certain tiers of Light/Dark Points, you risk manifesting Minor Traits, as sho
 | Minor Benevolence/Corruption (Tier V)     | 20 |
 
 #### Minor Benevolence (Tier I)
+
 | d4 | Minor Benevolence|
 |:-:|:--|
 | 1 | Your eyes tend to brighten during moments of satisfaction. | 
@@ -919,6 +918,7 @@ At certain tiers of Light/Dark Points, you risk manifesting Minor Traits, as sho
 | 4 | Tame animals seem less uneasy around you.| 
 
 #### Minor Benevolence (Tier II)
+
 | d4 | Minor Benevolence |  
 |:-:|:--|
 | 1 | Your eyes become more stark and vibrant. |
@@ -927,6 +927,7 @@ At certain tiers of Light/Dark Points, you risk manifesting Minor Traits, as sho
 | 4 | Your hair gains subtle highlights of gold or silver that occasionally reflect light. | 
 
 #### Minor Benevolence (Tier III)
+
 | d4 | Minor Benevolence | 
 |:-:|:--|
 | 1 | Your eyes gain flecks of an unusual, complimenting color, such as amber or emerald. | 
@@ -935,6 +936,7 @@ At certain tiers of Light/Dark Points, you risk manifesting Minor Traits, as sho
 | 4 | Wild animals become significantly less prone to attacking you. | 
 
 #### Minor Benevolence (Tier IV)
+
 | d4 | Minor Benevolence | 
 |:-:|:--|
 | 1 | Your eyes permanently take on an unusual, complimenting color, such as green becoming bright emerald. | 
@@ -943,6 +945,7 @@ At certain tiers of Light/Dark Points, you risk manifesting Minor Traits, as sho
 | 4 | Your hair takes on visible streaks of gold or silver. | Your hair begins to wither and fall out. |
 
 #### Minor Benevolence (Tier V)
+
 | d4 | Minor Benevolence | 
 |:-:|:--|
 | 1 | Your eyes permanently gain a faint glow.| 
@@ -951,6 +954,7 @@ At certain tiers of Light/Dark Points, you risk manifesting Minor Traits, as sho
 | 4 | You appear 1d10 years more youthful than you actually are. This does not change your actual life span.  | 
 
 #### Minor Corruption (Tier I)
+
 | d4 | Minor Corruption|
 |:-:|:--|
 | 1 | Your eyes turn a pale yellow during moments of anger. |
@@ -959,6 +963,7 @@ At certain tiers of Light/Dark Points, you risk manifesting Minor Traits, as sho
 | 4 | Your hair starts to lose its color, with gray streaks appearing throughout it. |
 
 #### Minor Corruption (Tier II)
+
 | d4 | Minor Corruption |
 |:-:|:--|
 | 1 | Your eyes turn a luminous, sulfuric yellow with fiery red rims around the irises during moments of anger. |
@@ -967,6 +972,7 @@ At certain tiers of Light/Dark Points, you risk manifesting Minor Traits, as sho
 | 4 | Your hair becomes predominantly gray. |
 
 #### Minor Corruption (Tier III)
+
 | d4 | Minor Corruption |
 |:-:|:--|
 | 1 | Your eyes permanently turn a luminous, sulfuric yellow with fiery red rings around the irises. |
@@ -975,6 +981,7 @@ At certain tiers of Light/Dark Points, you risk manifesting Minor Traits, as sho
 | 4 | Your hair loses its color entirely, turning a stark white. |
 
 #### Minor Corruption (Tier IV)
+
 | d4 | Minor Corruption |
 |:-:|:--|
 | 1 | Your eyes permanently turn a luminous, dark orange with fiery red rings around the irises. 
@@ -983,6 +990,7 @@ At certain tiers of Light/Dark Points, you risk manifesting Minor Traits, as sho
 | 4 | Your hair begins to wither and fall out. |
 
 #### Minor Corruption (Tier V)
+
 | d4 | Minor Corruption |
 |:-:|:--|
 | 1 | Your eyes permanently turn a luminous, blood red with fiery red rings around the irises. |
@@ -1049,7 +1057,6 @@ Casting dark side force powers of 1st level or higher costs 1 fewer force point,
 #### Dark Entity (Tier V)
 You have become a physical manifestation of the dark side of the Force, gaining one of the following boons. Your GM can choose the boon for you, or roll a die to determine it randomly.
 
-
 | d6 | Boon   |
 |:-:|:---|
 | 1 | Deathbringer |
@@ -1058,8 +1065,6 @@ You have become a physical manifestation of the dark side of the Force, gaining 
 | 4 | Quick Casting |
 | 5 | Recovery |
 | 6 | Power Mastery |
-
-</div>
 
 ***Deathbringer.*** Your maximum force points increases by 10.
 
@@ -1241,6 +1246,7 @@ You can attempt to damage, and potentially destroy, a weapon held by a hostile c
 A weapon's hit points are presented both as Hit Dice and hit points. A weapon has a number of Hit Dice equal to twice its damage dice. For instance, a blaster rifle has a 1d8 damage die, so it has 2 Hit Dice, which are d8s. A weapon's hit points are determined by taking the average of its hit dice. For instance, a blaster has 2 Hit Dice, which are d8s, so it has 9 hit points on average, as shown in the Hit Dice Average table below.
 
 #### Hit Dice Average
+
 |Hit Die|Average Hit Points per Hit Die|
 |:--:|:--:|
 |d4|2.5|
