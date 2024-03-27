@@ -1473,7 +1473,8 @@ By 20th level, your companion<br> has reached the peak of its<br> capabilities. 
 
 
 ##### The Follower
-|Level|Proficiency<br> Bonus|Features|
+
+|Level|Proficiency Bonus|Features|
 |:-:|:-:|:--|
 | 1st|+2|Companion Traits (two traits)|
 | 2nd|+2|Helpful|
@@ -1512,9 +1513,6 @@ You may choose your companion's class from the following options or roll on the 
 |3|Engineer|
 |4|Fighter|
 |5|Guardian|
-
-|d10|Companion Class|
-|:--:|:--|
 |6|Monk|
 |7|Operative|
 |8|Scholar|
