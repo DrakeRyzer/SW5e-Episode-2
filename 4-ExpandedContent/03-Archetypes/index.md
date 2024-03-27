@@ -15,7 +15,7 @@ nav_order: 3
 
 
 
-||
+
 |:--|
 |Berserker||
 |&emsp;Addicted Approach        |
@@ -329,7 +329,7 @@ _**Bloodstorm Approach:** 10th level_<br>
 You learn to throw creatures as easily as you throw your weapons. When you successfully grapple a creature, you may immediately throw the creature.
 
 #### Throw Friend
-If the creature is a willing ally and volunteers<br> to be grappled, you throw the target into any unoccupied space within 60 feet. That creature<br> may immediately use its reaction to make one<br> melee weapon attack, adding your Strength<br> modifier to the attack's damage roll.
+If the creature is a willing ally and volunteers to be grappled, you throw the target into any unoccupied space within 60 feet. That creature may immediately use its reaction to make one melee weapon attack, adding your Strength modifier to the attack's damage roll.
 
 #### Throw Foe
 If the creature is an opponent, you throw the target into any unoccupied space within 30 feet, where it takes damage equal to your Strength modifier and falls prone.
@@ -364,7 +364,7 @@ Some of your reckless strikes require your target to make a saving throw to resi
 ___
 
 
-**Reckless Strike save DC** = 8 + your proficiency bonus + <br>your Strength modifier
+**Reckless Strike save DC** = 8 + your proficiency bonus + your Strength modifier
 
 
 ___
@@ -433,7 +433,7 @@ ___
 
 
 
-**Maneuver save DC** = 8 + your proficiency bonus + <br>your maneuver ability modifier
+**Maneuver save DC** = 8 + your proficiency bonus + your maneuver ability modifier
 
 
 
@@ -448,7 +448,8 @@ When you use your Reckless Attack feature, you have advantage on superiority die
 
 
 ##### Champion Superiority
-|Level|Maneuvers<br> Known|Superiority<br> Dice Quantity|Superiority<br> Dice Size|
+
+|Level|Maneuvers Known|Superiority Dice Quantity|Superiority Dice Size|
 |:--:|:--:|:--:|:--:|
 | 3rd| 2|2| d4|
 | 4th| 2|2| d4|
@@ -498,9 +499,9 @@ For some berserkers, rage is a means to an end—that end being violence. The Fr
 _**Frenzied Approach:** 3rd level_<br>
 You can go into a frenzy when you enter your rage. If you do so, for the duration of your rage you can make a single melee weapon attack as a bonus action on each of your turns after this one.
 
-The first time you use this feature, you suffer no ill effect. If you use this feature again before you finish<br> a long rest, you suffer one level of exhaustion<br> when your rage ends each time you use<br> it.
+The first time you use this feature, you suffer no ill effect. If you use this feature again before you finish a long rest, you suffer one level of exhaustion when your rage ends each time you use it.
 
-When you finish a long rest, you<br> reduce your exhaustion level by 2,<br> instead of 1. Additionally, any<br> effect that removes exhaustion<br> reduces your exhaustion by 1<br> additional level.
+When you finish a long rest, you reduce your exhaustion level by 2, instead of 1. Additionally, any effect that removes exhaustion reduces your exhaustion by 1 additional level.
 
 ### Maniacal Rage
 _**Frenzied Approach:** 3rd level_<br>
@@ -508,11 +509,11 @@ While raging, you have advantage on Charisma (Intimidation) checks.
 
 ### Mindless Rage
 _**Frenzied Approach:** 6th level_<br>
-You can't be charmed or frightened while raging.<br> If you are charmed or frightened when you enter<br> your rage, the effect is suspended for the duration<br> of the rage.
+You can't be charmed or frightened while raging. If you are charmed or frightened when you enter your rage, the effect is suspended for the duration of the rage.
 
 ### Intimidating Presence
 _**Frenzied Approach:** 10th level_<br>
-You can use your action to frighten someone with<br> your menacing presence. When you do so, choose<br> one creature that you can see within 30 feet of you. If the creature can see or hear you, it must succeed on a Wisdom saving throw (DC = 8 + your proficiency bonus + your Charisma modifier) or be frightened of you until the end of your next turn. On subsequent turns, you can use your action to extend the duration of this effect on the frightened creature until the end of your next turn. This effect ends if the creature ends its turn out of line of sight or more than 60 feet away from you. While raging, you add double your proficiency bonus to the save DC, instead of your normal proficiency bonus.
+You can use your action to frighten someone with your menacing presence. When you do so, choose one creature that you can see within 30 feet of you. If the creature can see or hear you, it must succeed on a Wisdom saving throw (DC = 8 + your proficiency bonus + your Charisma modifier) or be frightened of you until the end of your next turn. On subsequent turns, you can use your action to extend the duration of this effect on the frightened creature until the end of your next turn. This effect ends if the creature ends its turn out of line of sight or more than 60 feet away from you. While raging, you add double your proficiency bonus to the save DC, instead of your normal proficiency bonus.
 
 If the creature succeeds on its saving throw, it becomes immune to this feature for 24 hours.
 
@@ -554,11 +555,11 @@ ___
 
 
 
-**Tech save DC** = 8 + your proficiency bonus + <br>your Intelligence modifier
+**Tech save DC** = 8 + your proficiency bonus + your Intelligence modifier
 
 ___
 
-**Tech attack modifier** = your proficiency bonus + <br>your Intelligence modifier
+**Tech attack modifier** = your proficiency bonus + your Intelligence modifier
 
 
 
@@ -598,7 +599,8 @@ When you are reduced to 0 hit points but not killed outright, and you have at le
 
 
 ##### Industrial Techcasting
-| Level | Tech Powers<br> Known | Tech<br> Points | Max Power<br> Level |
+
+| Level | Tech Powers Known | Tech Points | Max Power Level |
 |:---:|:---:|:---:|:---:|
 |  3rd |  3 |  2 | 1st |
 |  4th |  4 |  2 | 1st |
@@ -705,7 +707,7 @@ While you have temporary hit points, you can add half your Wisdom or Charisma mo
 
 ### Life Eternal
 _**Way of Confluence:** 10th level_<br>
-You can use your powerful connection to the<br> Force to keep fighting when others would fall.<br> When you are reduced to 0 hit<br> points but not killed outright,<br> you can spend 5 force points to<br> drop to 1 hit point instead. 
+You can use your powerful connection to the Force to keep fighting when others would fall. When you are reduced to 0 hit points but not killed outright, you can spend 5 force points to drop to 1 hit point instead. 
 
 
 
@@ -741,9 +743,9 @@ Additionally, as an action, you can gain resistance to kinetic and energy damage
 
 ### Retaliation Strike
 _**Way of Endurance:** 6th, 9th, 13th, and 17th level_<br>
-You learn to turn an opponent's<br> aggression back on them. When<br> you deal damage with a force power<br> or a melee weapon attack, if you took<br> damage since the start of your last turn,<br> you deal an extra 1d6 damage. The damage<br> is the same type as the power or weapon's<br> damage.
+You learn to turn an opponent's aggression back on them. When you deal damage with a force power or a melee weapon attack, if you took damage since the start of your last turn, you deal an extra 1d6 damage. The damage is the same type as the power or weapon's damage.
 
-This die increases when you reach certain levels<br> in this class: to 1d8 at 9th level, to 1d10 at 13th level, and to 1d12 at 17th level.
+This die increases when you reach certain levels in this class: to 1d8 at 9th level, to 1d10 at 13th level, and to 1d12 at 17th level.
 
 ### Boundless Vitality
 _**Way of Endurance:** 10th level_<br>
@@ -787,7 +789,7 @@ Additionally, while your Saber Storm is active, and at least one animated weapon
 - You gain a bonus to your AC equal to your Wisdom or Charisma modifier (your choice, minimum of +1) if it doesn't already include that modifier.
 - You gain a bonus to any Constitution saving throw you make to maintain your concentration on a power. The bonus equals your Wisdom or Charisma modifier (your choice, minimum of +1).
 
-This feature can animate more than one weapon when you reach higher levels: two weapons<br> at 5th level, three weapons at 11th level,<br> and four weapons at 17th level. When<br> you use your action to attack with your<br> weapons, you can direct them at the<br> same target or at different ones. Make a<br> separate attack roll for each weapon.
+This feature can animate more than one weapon when you reach higher levels: two weapons at 5th level, three weapons at 11th level, and four weapons at 17th level. When you use your action to attack with your weapons, you can direct them at the same target or at different ones. Make a separate attack roll for each weapon.
 
 At 5th level, the distance your weapon can travel increases to 20 feet. This distance increases to 30 feet at 11th level, and 40 feet at 17th level.
 
@@ -918,7 +920,7 @@ At 7th level, you learn two additional tech powers of 1st or 2nd level. At 13th 
 
 ### Ionized Weave
 _**Way of Technology:** 10th level_<br>
-When you cast a damage-dealing force power that requires a force attack or saving throw, you can spend force points to cause that power to instead deal ion damage. The number of force points equals half the power's level (round down, minimum of one). If the power would call for a saving throw other than Dexterity, it instead calls for a Dexterity saving<br> throw. 
+When you cast a damage-dealing force power that requires a force attack or saving throw, you can spend force points to cause that power to instead deal ion damage. The number of force points equals half the power's level (round down, minimum of one). If the power would call for a saving throw other than Dexterity, it instead calls for a Dexterity saving throw. 
 
 
 
@@ -949,11 +951,11 @@ Your potency with the telekinetic power of the Force heightens. You can manipula
 _**Way of Telekinetics:** 6th, 11th, and 17th level_<br>
 Your force powers batter and blast your enemies with the strength of a hurricane. When you cast a force power of 1st level or higher that deals force or kinetic damage, one creature of your choice damaged by that power must make a Strength saving throw against your universal force save DC or be knocked prone. 
 
-This feature can affect additional creatures when you reach higher levels: two creatures at 11th<br> level and three creatures at 17th level.
+This feature can affect additional creatures when you reach higher levels: two creatures at 11th level and three creatures at 17th level.
 
 ### Size Matters Not
 _**Way of Telekinetics:** 10th level_<br>
-You can manipulate creatures of Huge size or<br> smaller with your force powers and Way of<br> Telekinetics features.
+You can manipulate creatures of Huge size or smaller with your force powers and Way of Telekinetics features.
 
 
 
@@ -1001,9 +1003,9 @@ At 11th level, your companion must be within 30 feet of you to benefit from this
 
 ### Strength Flows from the Force
 _**Way of Tutelage:** 6th level_<br>
-When you cast a power that affects only<br> your companion, you can choose to treat<br> the power as if cast at your Max Power<br> Level.
+When you cast a power that affects only your companion, you can choose to treat the power as if cast at your Max Power Level.
 
-You can use this feature a number of<br> times equal to your proficiency bonus, as shown in the consular table. You regain all<br> expended uses when you finish a<br> long rest.
+You can use this feature a number of times equal to your proficiency bonus, as shown in the consular table. You regain all expended uses when you finish a long rest.
 
 
 
@@ -1223,11 +1225,7 @@ Whenever a droid or construct other than you starts its turn within 5 feet of yo
 Whenever you or a friendly creature within 10 feet of you are forced to make a saving throw by a tech power, the creature gains a bonus to the saving throw equal to your Intelligence modifier (minimum of +1). 
 
 #### Targeting Field
-You and friendly creatures within 5 feet of you gain a bonus to the first ranged weapon damage rolls you 
-
-
-
-make each round equal to your Intelligence modifier (minimum of +1). 
+You and friendly creatures within 5 feet of you gain a bonus to the first ranged weapon damage rolls you make each round equal to your Intelligence modifier (minimum of +1). 
 
 ### Potent Electromagnetism
 _**Astrotech Engineering:** 3rd level_<br>
@@ -1492,9 +1490,9 @@ Whenever you take damage while playing your song, you must make a Constitution s
 
 When you cast a damage dealing tech power while playing your song that requires an attack roll or saving throw, you can cause that power to instead deal sonic damage. If you do so, instead of an attack roll or saving throw, the power instead requires a Constitution saving throw.
 
-Your song ends early if you are incapacitated<br> or die, or if you are no longer holding<br> your modified instrument.
+Your song ends early if you are incapacitated or die, or if you are no longer holding your modified instrument.
 
-You can initiate playing an enhanced<br> song twice. You regain all expended<br> songs when you finish a short or<br> long rest.
+You can initiate playing an enhanced song twice. You regain all expended songs when you finish a short or long rest.
 
 
 
@@ -1678,13 +1676,13 @@ Your biochemist's pack is enhanced, requires attunement, can only be used by you
 
 Some modification effects require saving throws. When you use such an effect from this class, the DC equals your tech save DC.
 
-Your modified biochemist's pack comes equipped with a chemical distribution system, complete with three chemical mixtures: corrosive, invigorating, and noxious. As an action, you can activate your distributor and target a creature within 30 feet, with an<br> effect determined by the mixture.
+Your modified biochemist's pack comes equipped with a chemical distribution system, complete with three chemical mixtures: corrosive, invigorating, and noxious. As an action, you can activate your distributor and target a creature within 30 feet, with an effect determined by the mixture.
 
 #### Corrosive Mixture
-Your distributor emits a burst of acid.<br> The target must make a Dexterity sav-<br>ing throw. On a failed save, a creature<br> takes 1d6 + your Intelligence modifier acid<br> damage. This mixture's damage increases by<br> 1d6 when you reach 5th level (2d6), 11th level<br> (3d6), and 17th level (4d6).
+Your distributor emits a burst of acid. The target must make a Dexterity saving throw. On a failed save, a creature takes 1d6 + your Intelligence modifier acid damage. This mixture's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
 
 #### Invigorating Mixture
-Your distributor emits a bolt of kolto. The target<br> gains 1d6 + your Intelligence modifier temporary<br> hit points, which last until the end of your next<br> turn. The temporary hit points granted by this<br> mixture increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+Your distributor emits a bolt of kolto. The target gains 1d6 + your Intelligence modifier temporary hit points, which last until the end of your next turn. The temporary hit points granted by this mixture increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
 
 
 
@@ -1708,7 +1706,7 @@ Once you've used this feature, you must complete a short or long rest before you
 
 ### Masterful Mixtures
 _**Biochem Engineering:** 18th level_<br>
-When you deal acid or poison damage using a tech power or class feature, you ignore resistance and treat<br> immunity as resistance.
+When you deal acid or poison damage using a tech power or class feature, you ignore resistance and treat immunity as resistance.
 
 <!--- <img src='https://www.gmbinder.com/images/oTDSfb9.png' style='position:absolute;bottom:0px;right:65px;width:445px;z-index:1000;' /> --->
 
@@ -1745,12 +1743,7 @@ Additionally, while your detachable distributor is within 100 feet of you, when 
 #### Drone Distribution System
 You upgrade your distributor, interfacing it with the target of your *tracker droid interface* power. When you use your action to activate your distributor, while your tracker droid is within 100 feet of you, you can choose to have your tracker droid deliver the mixture. Your tracker droid must use its reaction to deliver the mixture.
 
-You can use this feature twice. You gain an additional use at 5th, 9th, 13th, and 17th level. You 
-
-
-
-
-regain all expended uses when you complete a short or long rest.
+You can use this feature twice. You gain an additional use at 5th, 9th, 13th, and 17th level. You regain all expended uses when you complete a short or long rest.
 
 #### Expanded Chemicals: Combustibles
 _**Prerequisite:** 5th level_<br>
@@ -2131,11 +2124,214 @@ Your ability with your portable structures has reached untold superiority. You g
 - Your structures no longer take double damage from the siege property.
 - Your structures no longer automatically fail Strength, Dexterity, and Constitution saving throws. Instead, your structure adds your proficiency bonus to the d20 roll when it makes one of these saving throws.
 
+> This version of Cybertech has some typo and minor fixes over the officially released one found [here](https://sw5e.com/characters/archetypes/Cybertech%20Engineering). The most major change is to the Explosive Amplifier Mk II and III modifications.
+
+# Cybertech Engineering
+
+<!--- <img src='../../../../zzImages/Classes/Cybertech.png' style='float:right; width:300px;'> --->
+
+Those engineers who choose the Cybertech Engineering discipline focus on the ability to enhance their primary wristpad in order to augment and empower their techcasting abilities.
+
+### Bonus Proficiencies
+***Cybertech Engineering:** 3rd level* <br>
+You gain proficiency in cybertech's implements. Additionally, when you engage in crafting with cybertech's implements, the rate at which you craft doubles.
+
+### Cyberpad
+***Cybertech Engineering:** 3rd level* <br>
+Over the course of a long rest, you can modify your wristpad. You must have a wristpad and cybertech's implements in order to perform this modification.
+
+Your wristpad requires attunement, can only be used by you, and counts as a tech focus for your tech powers while you are attuned to it. Your modified wristpad has 4 modification slots, and it gains more at higher levels, as shown in the Modification Slots column of the engineer class table. For each modification installed in excess of your proficiency bonus, your tech point maximum is reduced by 1. Over the course of a long rest, you can replace or remove a number of modifications up to your Intelligence modifier (minimum of one).
+
+Some modification effects require saving throws. When you use such an effect from this class, the DC equals your tech save DC.
+
+### Insightful Casting
+***Cybertech Engineering:** 3rd level* <br>
+You can expend uses of your Potent Aptitude to gain additional tech points, or expend tech points to gain additional Potent Aptitude uses. 
+
+*Creating Tech Points.* You can transform a single use of Potent Aptitude into two tech points as a bonus action on your turn. These additional tech points can exceed your maximum. Any tech points you create with this feature vanish when you finish a short rest.
+
+*Creating Potent Aptitude.* As a bonus action on your turn, you can expend two tech points to gain a single use of your Potent Aptitude.
+
+### Quickslice
+***Cybertech Engineering:** 6th level* <br>
+When a creature you can see casts a tech power, you may use your reaction to attempt to download that tech power to your wristpad for later use if it is of a level for which you can cast. 
+
+Make an ability check using your techcasting ability with proficiency. The DC equals 10 + two times the power’s level. On a success you store the power for later use. On a failure, the power is not stored. You can cast powers stored in your wristpad as if you had learned them and they do not count against your tech powers known.
+
+Once you have used this feature on a creature, you cannot do so again on the same creature until you complete a short or long rest.
+
+You can store an amount of levels worth of tech powers equal to your engineer level at a time. Additionally, you can choose replace or remove one or more tech powers learned by this feature each time you use it.
+
+### Severe Fallout
+***Cybertech Engineering:** 14th level* <br>
+Whenever a creature rolls a natural 1 on a saving throw against one of your tech powers they take double damage from that power. If the power doesn't deal damage, instead they have disadvantage on their next saving throw against a tech power you cast.
+
+### Maximum Output
+***Cybertech Engineering:** 18th level* <br>
+When you cast a tech power, you can choose to deal maximum damage or provide maximum healing with that power.
+
+Once you've used this feature, you must complete a short or long rest before you can use it again.
+
+## Cybertech Modifications
+If a modification has prerequisites, you must meet them to install it. You can install the modification at the same time that you meet its prerequisites. 
+
+#### Arakyd Vector
+_**Prerequisite:** 5th level_<br>
+You gain a +1 bonus to tech attack rolls. This bonus increases to +2 at 11th level and +3 at 17th level.
+
+#### Careful Subroutine
+When you cast a power that forces other creatures to make a saving throw, you can protect some of those creatures from the power’s full force. To do so, you spend 1 additional tech point and choose a number of those creatures up to your Intelligence modifier (minimum of one). A chosen creature automatically succeeds on its saving throw against the power.
+
+You can use only one Subroutine modification on a power when you cast it, unless otherwise noted.
+
+#### Cryo Amplifier
+When a creature takes cold damage from a tech power that you cast that requires an attack roll or saving throw, you deal additional cold damage equal to your Intelligence modifier (minimum of +1).
+
+#### Cryo Amplifier Mk II
+_**Prerequisite:** 7th level, Cryo Amplifier_<br>
+When you deal damage to a creature with this amplifier, the creature gains one level of slowed until the end of your next turn. If the tech power already imposes levels of slowed, the number of slowed levels imposed increases by 1.
+
+You can use this feature a number of times equal to your Intelligence modifier (minimum of 1). You regain all expended uses when you complete a long rest.
+
+#### Cryo Amplifier Mk III
+_**Prerequisite:** 13th level, Cryo Amplifier Mk II_<br>
+When you expend a use of your Cryo Amplifier Mk II, when the creature fails Constitution saving throw it instead becomes restrained until the start of your next turn.
+
+#### Distant Subroutine
+When you cast a power that has a range of 5 feet or greater, you can spend 1 additional tech point to double the range of the power.
+
+Alternatively, when you cast a power that has a range of touch, you can spend 1 additional tech point to make the range of the power 30 feet.
+
+You can use only one Subroutine modification on a power when you cast it, unless otherwise noted.
+
+#### Electrical Amplifier
+When a creature takes lightning damage from a tech power that you cast that requires an attack roll or saving throw, you deal additional lightning damage equal to your Intelligence modifier (minimum of +1).
+
+#### Electrical Amplifier Mk II
+_**Prerequisite:** 7th level, Electrical Amplifier_<br>
+When you deal damage to a creature with this amplifier, the creature must succeed at a Constitution saving throw or become shocked until the end of your next turn.
+
+You can use this feature a number of times equal to your Intelligence modifier (minimum of 1). You regain all expended uses when you complete a long rest.
+
+#### Electrical Amplifier Mk III
+_**Prerequisite:** 13th level, Electrical Amplifier Mk II_<br>
+When you expend a use of your Electrical Amplifier Mk II, when the creature fails Constitution saving throw it instead becomes stunned until the start of your next turn.
+
+#### Extended Subroutine
+When you cast a power that has a duration of 1 minute or longer, you can spend 1 additional tech point to double its duration, to a maximum duration of 24 hours. 
+
+You can use only one Subroutine modification on a power when you cast it, unless otherwise noted.
+
+#### Evaluation scanner
+You can cast the *Analyze* power without using tech points. If you use this on a tech focus, you learn what tech powers, if any, are within it.
+
+#### Explosive Amplifier
+When a creature takes fire damage from a tech power that you cast that requires an attack roll or saving throw, you deal additional fire damage equal to your Intelligence modifier (rounded up, minimum of +1).
+
+#### Explosive Amplifier Mk II
+_**Prerequisite:** 7th level, Explosive Amplifier_<br>
+When you deal damage to a creature with this amplifier, it becomes *ignited* (your techcasting ability modifier) until the end of it's next turn.
+
+You can use this feature a number of times equal to your Intelligence modifier (minimum of 1). You regain all expended uses when you complete a long rest.
+
+#### Explosive Amplifier Mk III
+_**Prerequisite:** 13th level, Explosive Amplifier Mk II_<br>
+When a creature is *ignited* with a use of your Explosive Amplifier Mk II or a tech power you cast and that creature takes any fire damage while *ignited*, other than the ignited damage, the creature has disadvantage on the next Dexterity saving throw it makes before the start of it's next turn.
+
+#### Elemental Absorbtion
+You can cast the *Absorb Energy* power once without expending Tech Points. You can't do so again until you finish a short or long rest.
+
+#### Elemental Ingenuity
+_**Prerequisite:** 11th level_<br>
+When you cast a power that deals fire, lightning, or cold damage, you can spend 1 additional tech point and choose to swap the damage type to fire, lightning, or cold damage.
+
+#### Elemental Ingenuity Mk II
+_**Prerequisite:** 13th level, Elemental Ingenuity_<br>
+When you cast a power that deals acid, ion, poison, or sonic damage, you can expend 1 additional tech point and choose to swap the damage type to fire, lightning, or cold damage.
+
+#### Elemental Shielding
+_**Prerequisite:** 11th level, Cryo Amplifier, Explosive Amplifier, or Electrical Amplifier_<br>
+You gain resistance to damage types for which you have a matching amplifier modification installed.
+
+#### Frailcasting Dynamics
+_**Prerequisite:** 5th level_<br>
+While using your wristpad as a tech focus, you gain a +1 bonus to the tech save DC of powers you cast that requires a Strength or Constitution saving throw. This bonus increases to +2 at 9th level and +3 at 13th level.
+
+#### Hasty Translation
+You can cast the *Translation Program* power once without expending Tech Points. You can't do so again until you finish a short or long rest.
+
+#### Heightened Subroutine
+_**Prerequisite:** 5th level_<br>
+When you cast a power that forces a creature to make a saving throw to resist its effects, you can spend 2 additional tech points to give one target of the power disadvantage on its first saving throw made against the power. 
+
+You can use only one Subroutine modification on a power when you cast it, unless otherwise noted.
+
+#### Improved Subroutine
+When you roll damage for a power, you can spend 1 additional tech point to reroll a number of the damage dice up to your Intelligence modifier (minimum of one). You must use the new rolls.
+
+You can use Improved Subroutine even if you have already used a different Subroutine modification during the casting of the power. 
+
+#### Lingering Subroutine
+_**Prerequisite:** 5th level_<br>
+WWhen you cast a power that requires concentration to maintain you can choose to spend 3 additional tech points. If you do, when you lose concentration on the power, the power will not end until the end of your next turn.
+
+You can use only one Subroutine modification on a power when you cast it, unless otherwise noted.
+
+#### Long Range Comms
+_**Prerequisite:** 5th level_<br>
+You can cast the *Sending* power, targeting a creature whose frequency is in your wristpad, without using tech points. A willing creature can use its action to register its comm frequency on your device, which can contain a number of frequencies equal to your proficiency bonus.
+
+As an action, you can remove a frequency on the device by deleting it.
+
+#### Pinpoint Subroutine
+When you cast a power that allows you to force creatures in an area to make a saving throw you can instead spend 1 tech point and make a ranged tech attack against a single target that would be in the range. On a hit the target suffers the effects as though they failed their saving throw. 
+
+You can use only one Subroutine modification on a power when you cast it, unless otherwise noted.
+
+#### Quickened Subroutine
+_**Prerequisite:** 5th level_<br>
+When you cast a power that has a casting time of 1 action, you can spend 2 additional tech points to change the casting time to 1 bonus action for this casting. 
+
+You can use only one Subroutine modification on a power when you cast it, unless otherwise noted.
+
+#### Refocused Subroutine
+_**Prerequisite:** 5th level_<br>
+When you are forced to make a Constitution saving throw to maintain concentration on a power you can use your reaction and spend 2 tech points to automatically succeed on the saving throw.
+
+You can use Refocused Subroutine even if you have already used a different Subroutine modification during the casting of the power.
+
+#### Rendcasting Dynamics
+_**Prerequisite:** 5th level_<br>
+While using your wristpad as a tech focus, you gain a +1 bonus to the tech save DC of powers you cast that requires a Dexterity or Intelligence saving throw. This bonus increases to +2 at 9th level and +3 at 13th level.
+
+#### Seeking Subroutine
+_**Prerequisite:** 5th level_<br>
+If you miss with a tech power that calls for an attack roll, you can spend 2 tech points to reroll the attack. You must use the new roll.
+
+You can use Seeking Subroutine even if you have already used a different Subroutine modificatio during the casting of the power.
+
+#### Thermodynamic Conservation
+Once per round when you take cold, fire, or lightning damage from a force or tech power, you gain temporary hit points equal to twice the power's level to potentially absorb the damage (minimum of 1). These points last until the end of your next turn.
+
+If the Mk II upgrade of the affecting amplifier is installed, the temporary hit points gained increase by an amount equal to your Intelligence modifier (minimum of 1).
+
+#### Twinned Subroutine
+_**Prerequisite:** 5th level_<br>
+When you cast a power that can only have one target and doesn’t have a range of self, you can spend a number of additional tech points equal to the power’s level to choose a second target in range with the same power (1 tech point if the power is at-will).
+
+You can use only one Subroutine modification on a power when you cast it, unless otherwise noted.
+
+#### Voltaic Screen
+You can cast the *Voltaic Shielding* power once without expending Tech Points. You can't do so again until you finish a short or long rest.
+
+#### Withercasting Dynamics
+_**Prerequisite:** 5th level_<br>
+While using your wrist as a tech focus, you gain a +1 bonus to the tech save DC of powers you cast that requires a Wisdom or Charisma saving throw. This bonus increases to +2 at 9th level and +3 at 13th level.
 
 
 
+## Cybertech Engineering (Deprecated)
 
-## Cybertech Engineering
 Those engineers who choose the Cybertech Engineering discipline focus on the ability to craft reusable consumables and items that augment and complement their techcasting abilities.
 
 ### Bonus Proficiencies
@@ -2333,11 +2529,11 @@ ___
 
 
 
-**Force save DC** = 8 + your proficiency bonus + <br>your forcecasting ability modifier
+**Force save DC** = 8 + your proficiency bonus + your forcecasting ability modifier
 
 ___
 
-**Force attack modifier** = your proficiency bonus + <br>your forcecasting ability modifier
+**Force attack modifier** = your proficiency bonus + your forcecasting ability modifier
 
 
 
@@ -2364,7 +2560,8 @@ Your constant blur of motion and attacks becomes an unending barrage as you buil
 
 
 ##### Adept Forcecasting
-| Level | Force Powers<br> Known | Force<br> Points | Max Power<br> Level |
+
+| Level | Force Powers Known | Force Points | Max Power Level |
 |:---:|:---:|:---:|:---:|
 | 3rd| 4| 3|1st|
 | 4th| 6| 4|1st|
@@ -2416,9 +2613,9 @@ You gain proficiency in demolitions kit. Additionally, when you would install a 
 _**Demolitions Specialist:** 3rd, 7th, and 15th level_<br>
 You learn to create a number of small explosives known as charges. Over the course of a short or long rest, you can create a number of charges equal to your Intelligence modifier. You must have a demolitions kit in order to create these charges. Your charges can only be used by you, and they lose their potency at the end of your next short or long rest.
 
-Once per turn, when you would make a ranged weapon attack, you can instead throw one of your charges. Your charges have a range equal to 30 feet + your Strength modifier x 5. You can throw a charge at a point you can see within range. Each creature within<br> 5 feet must make a Dexterity saving throw (DC =<br> 8 + your proficiency bonus + your Intelligence modifier). A creature takes 2d4 + your<br> Intelligence modifier kinetic damage on a<br> failed save, or half as much on a successful one. 
+Once per turn, when you would make a ranged weapon attack, you can instead throw one of your charges. Your charges have a range equal to 30 feet + your Strength modifier x 5. You can throw a charge at a point you can see within range. Each creature within 5 feet must make a Dexterity saving throw (DC = 8 + your proficiency bonus + your Intelligence modifier). A creature takes 2d4 + your Intelligence modifier kinetic damage on a failed save, or half as much on a successful one. 
 
-The damage of your charges increases to 3d4<br> at 7th level and 4d4 at 15th level.
+The damage of your charges increases to 3d4 at 7th level and 4d4 at 15th level.
 
 ### Cause and Effect
 _**Demolitions Specialist:** 7th level_<br>
@@ -2476,7 +2673,7 @@ ___
 
 
 
-**Ammunition save DC** = 8 + your proficiency bonus + <br>your Dexterity modifier
+**Ammunition save DC** = 8 + your proficiency bonus + your Dexterity modifier
 
 
 
@@ -2603,7 +2800,7 @@ You've perfected a fighting style that allows you to stylishly dominate the fiel
 - You can add half your Charisma modifier (minimum of one) to any weapon attack roll you make against the marked target that doesn't already include that modifier.
 - If the marked target is reduced to 0 hit points, you can use your reaction to mark a new creature within 30 feet of you. The duration of the new mark is equal to the remaining duration of the existing mark.
 
-This effect ends early if<br> you're incapacitated or die. Once you've<br> used this feature, you can't use it<br> again until you finish a long rest. 
+This effect ends early if you're incapacitated or die. Once you've used this feature, you can't use it again until you finish a long rest. 
 
 <!--- <img src='https://www.gmbinder.com/images/TPUYOZz.png' style='position:absolute;bottom:11px;right:-10px;width:300px;z-index:1000'/> --->
 
@@ -2651,7 +2848,8 @@ This effect ends early if either you or your ally are incapacitated or die. Once
 
 
 ##### Fireteam Superiority
-|Level|Maneuvers<br> Known|Superiority<br> Dice Quantity|
+
+|Level|Maneuvers Known|Superiority Dice Quantity|
 |:---:|:---:|:---:|:---:|
 | 3rd| 4| 4|
 | 4th| 5| 4|
@@ -2740,7 +2938,8 @@ While your companion is within 5 feet of you, you can use your bonus action to b
 
 
 ##### Fireteam Superiority
-|Level|Maneuvers<br> Known|Superiority<br> Dice Quantity|
+
+|Level|Maneuvers Known|Superiority Dice Quantity|
 |:---:|:---:|:---:|:---:|
 | 3rd| 4| 4|
 | 4th| 5| 4|
@@ -2873,9 +3072,9 @@ You gain proficiency in one of the following skills of your choice: Insight, Lor
 
 ### Fighting Spirit
 _**Praetorian Specialist:** 3rd level_<br>
-Your intensity in battle can shield you and help you strike true. As a bonus action on your turn, you can give yourself advantage on all weapon attack rolls until the end of the current turn. When you do so, you also gain 5 temporary hit points. The number of hit points increases when you reach certain levels in this class, increasing to 10 at<br> 10th level and 15 at 15th level.
+Your intensity in battle can shield you and help you strike true. As a bonus action on your turn, you can give yourself advantage on all weapon attack rolls until the end of the current turn. When you do so, you also gain 5 temporary hit points. The number of hit points increases when you reach certain levels in this class, increasing to 10 at 10th level and 15 at 15th level.
 
-You can use this feature three times.<br> You regain all expended uses when you<br> finish a long rest.
+You can use this feature three times. You regain all expended uses when you finish a long rest.
 
 ### Resilient Retainer
 _**Praetorian Specialist:** 7th level_<br>
@@ -2969,18 +3168,18 @@ Additionally, you can invoke the totem as a bonus action to enter a state of hyp
 _**Totem Specialist:** 3rd level_<br>
 You can channel the power of your Force awareness temporarily. As a bonus action, you can gain the following benefits for 1 minute. You can invoke a totem as a part of this same bonus action.
 - Your carrying capacity and the weight you can push, drag, or lift doubles. If it would already double, it instead triples.
-- You have advantage on Strength checks<br> and Strength saving throws.
-- Your weapon attacks deal an extra<br> 1d6 damage.
+- You have advantage on Strength checks and Strength saving throws.
+- Your weapon attacks deal an extra 1d6 damage.
 
-This effect ends early if you are<br> incapacitated or die. You can use<br> this feature twice. You regain all<br> expended uses of it when you<br> finish a long rest.
+This effect ends early if you are incapacitated or die. You can use this feature twice. You regain all expended uses of it when you finish a long rest.
 
 ### Guardian Spirit
 _**Totem Specialist:** 7th level_<br>
-You learn to invoke your totems to<br> protect your allies. When another<br> creature you can see within 60<br> feet of you is hit by an attack roll,<br> you can use your reaction to<br> grant a bonus to the creature's<br> AC against that attack. The<br> bonus equals 1 + your Wisdom or<br> Charisma modifier (your choice,<br> minimum of +2).
+You learn to invoke your totems to protect your allies. When another creature you can see within 60 feet of you is hit by an attack roll, you can use your reaction to grant a bonus to the creature's AC against that attack. The bonus equals 1 + your Wisdom or Charisma modifier (your choice, minimum of +2).
 
 ### Primal Avatar
 _**Totem Specialist:** 10th level_<br>
-You learn a third totem. Additionally, the bonus damage of your Totemic Might feature increases<br> to 1d8. Lastly, you have advantage on Lore checks<br> you make about tribal cultures.
+You learn a third totem. Additionally, the bonus damage of your Totemic Might feature increases to 1d8. Lastly, you have advantage on Lore checks you make about tribal cultures.
 
 
 
@@ -2990,7 +3189,7 @@ You can invoke each of your totems twice, instead of once. You regain all expend
 
 ### Blessing of the Tree of Light
 _**Totem Specialist:** 18th level_<br>
-You learn how to share your totem's power with your allies. When you use your Totemic Might feature, you can choose one willing creature you can see within 60 feet of you. The chosen creature<br> also gains the benefits of your Totemic Might feature.<br> If you are incapacitated or killed, this effect immediately ends for both of you.
+You learn how to share your totem's power with your allies. When you use your Totemic Might feature, you can choose one willing creature you can see within 60 feet of you. The chosen creature also gains the benefits of your Totemic Might feature. If you are incapacitated or killed, this effect immediately ends for both of you.
 
 <!--- <img src='https://www.gmbinder.com/images/MuHNLvq.png' style='position:absolute;bottom:-130px;right:0px;width:770px;z-index:1000;' /> --->
 
@@ -3207,10 +3406,10 @@ _**Juyo/Vaapad Form:** 15th level_<br>
 You gain one of the following features. Choose Devastating Critical for Juyo or Their Power, My Strength for Vaapad.
 
 #### Devastating Critical
-When you score a critical hit with a melee weapon attack, you gain a bonus to that weapon's damage<br> roll equal to your guardian level.
+When you score a critical hit with a melee weapon attack, you gain a bonus to that weapon's damage roll equal to your guardian level.
 
 #### Their Power, My Strength
-When you are dealt damage by a force power, you<br> can reduce that damage by an amount equal to your guardian level (no action required).
+When you are dealt damage by a force power, you can reduce that damage by an amount equal to your guardian level (no action required).
 
 You can use this feature five times. You gain an additional use at 17th level. You regain all expended uses when you complete a short or long rest.
 
@@ -3242,7 +3441,7 @@ You gain the Shii-Cho lightsaber form, detailed in Chapter 6 of the Player's Han
 _**Shii-Cho Form:** 3rd level_<br>
 As a bonus action, you can enter a frenetic stance for one minute. While in this stance, the first time you hit a creature with a melee weapon attack on your turn, it has disadvantage on the next melee attack roll it makes against you before the start of your next turn. Additionally, if that creature is within 5 feet of you, it must make a Strength saving throw (DC = 8 + your proficiency bonus + your Strength or Dexterity modifier). On a failed save, it is pushed back 5 feet, and you can immediately move into the space it just vacated without provoking opportunity attacks.
 
-This effect ends early if you are incapacitated<br> or die. Once you've used this feature, you can't<br> use it again until you finish a long rest.
+This effect ends early if you are incapacitated or die. Once you've used this feature, you can't use it again until you finish a long rest.
 
 ### Channel the Force
 _**Shii-Cho Form:** 3rd level_<br>
@@ -3301,7 +3500,7 @@ _**Sokan Form:** 3rd level_<br>
 You gain the following Channel the Force option.
 
 #### High Ground Defense
-When an opponent within 5 feet of you makes a<br> melee attack against you, you can use your<br> reaction and expend a use of your Channel the<br> Force to move to another space within 5<br> feet of that creature without provoking<br> opportunity attacks, imposing disadvantage<br> on the roll. If the attack misses, you can<br> attempt to shove the creature up to 10<br> feet away from you as a part of that<br> same reaction.
+When an opponent within 5 feet of you makes a melee attack against you, you can use your reaction and expend a use of your Channel the Force to move to another space within 5 feet of that creature without provoking opportunity attacks, imposing disadvantage on the roll. If the attack misses, you can attempt to shove the creature up to 10 feet away from you as a part of that same reaction.
 
 
 
@@ -3323,7 +3522,7 @@ You are an unrelenting force on the field of battle. Your Strength and Wisdom or
 - You ignore effects that would reduce your speed.
 - Once per turn, when you push a creature, you can move up to 10 feet as a part of this push without provoking opportunity attacks. If you end this movement within 5 feet of that creature, you can make one melee weapon attack (no action required).
 
-This effect ends early if you are incapacitated<br> or die. Once you've used this feature, you can't<br> use it again until you complete a long rest.
+This effect ends early if you are incapacitated or die. Once you've used this feature, you can't use it again until you complete a long rest.
 
 <!--- <img src='https://www.gmbinder.com/images/dF0zRmv.png' style='position:absolute;bottom:15px;right:-120px;width:740px;z-index:1000;'/> --->
 
@@ -3608,11 +3807,11 @@ ___
 
 
 
-**Force save DC** = 8 + your proficiency bonus + <br>your forcecasting ability modifier
+**Force save DC** = 8 + your proficiency bonus + your forcecasting ability modifier
 
 ___
 
-**Force attack modifier** = your proficiency bonus + <br>your forcecasting ability modifier
+**Force attack modifier** = your proficiency bonus + your forcecasting ability modifier
 
 
 
@@ -3628,7 +3827,8 @@ You can cast the *phasestrike* force power without expending force points. When 
 
 
 ##### Aing-Tii Order Forcecasting
-| Level | Force Powers<br> Known | Force<br> Points | Max Power<br> Level |
+
+| Level | Force Powers Known | Force Points | Max Power Level |
 |:---:|:---:|:---:|:---:|
 | 3rd| 4| 3|1st|
 | 4th| 6| 4|1st|
@@ -3721,11 +3921,11 @@ Once per turn, when you would make a weapon attack or unarmed strike, you can in
 _**Kage Order:** 6th level_<br>
 Once per turn, when you hit a creature with a melee weapon attack when you have advantage, or it fails a saving throw against an effect that you control, you can choose to roll a Martial Arts die and deal additional psychic damage equal to the amount rolled.
 
-You can use this feature a<br> number of times equal to your<br> proficiency bonus, as shown in the monk table. You regain any<br> expended uses when you finish a short or<br> long rest.
+You can use this feature a number of times equal to your proficiency bonus, as shown in the monk table. You regain any expended uses when you finish a short or long rest.
 
 ### One With Darkness
 _**Kage Order:** 11th level_<br>
-You have learned to become one with the<br> shadows. When you are in an area of dim light or darkness, you can use your action<br> to become invisible. You remain<br> invisible until you make an<br> attack, cast a power,<br> otherwise take a hostile<br> action, or are in an area<br> of bright light.
+You have learned to become one with the shadows. When you are in an area of dim light or darkness, you can use your action to become invisible. You remain invisible until you make an attack, cast a power, otherwise take a hostile action, or are in an area of bright light.
 
 
 
@@ -3745,9 +3945,9 @@ Monks of the Kyuzo Order turn weapon throwing into a true art form. Inspired by 
 
 ### Intercept
 _**Kyuzo Order:** 3rd level_<br>
-You gain proficiency in vibroweapons with<br> the thrown property and they become monk<br> weapons for you. Additionally, when you throw an improvised weapon, you are considered proficient in it, and it uses your Martial Arts die instead of its 1d4. 
+You gain proficiency in vibroweapons with the thrown property and they become monk weapons for you. Additionally, when you throw an improvised weapon, you are considered proficient in it, and it uses your Martial Arts die instead of its 1d4. 
 
-Additionally, you've learned to use thrown weapons to intercept projectiles traveling towards your allies. When you are wielding a weapon with which you are<br> proficient, and a creature within your weapon's<br> normal thrown range is hit by a ranged<br> attack, you can use your reaction to throw<br> your weapon to intercept the projectile. When<br> you do so, the damage the creature takes from<br> the attack is reduced by 1d10 + your Dexterity<br> modifier + your monk level. If the weapon has<br> the returning property, it then returns to your<br> hand.
+Additionally, you've learned to use thrown weapons to intercept projectiles traveling towards your allies. When you are wielding a weapon with which you are proficient, and a creature within your weapon's normal thrown range is hit by a ranged attack, you can use your reaction to throw your weapon to intercept the projectile. When you do so, the damage the creature takes from the attack is reduced by 1d10 + your Dexterity modifier + your monk level. If the weapon has the returning property, it then returns to your hand.
 
 ### Scattering Stance
 _**Kyuzo Order:** 6th level_<br>
@@ -3755,7 +3955,7 @@ When you take the Dodge action, until the start of your next turn you gain a num
 
 ### Curved Throw
 _**Kyuzo Order:** 11th level_<br>
-You can curve your throws behind cover.<br> When you make an attack roll with a<br> weapon with the thrown property, you<br> can spend 1 focus point to cause<br> the target to gain no benefit from<br> shields or cover, unless that cover<br> is full cover.
+You can curve your throws behind cover. When you make an attack roll with a weapon with the thrown property, you can spend 1 focus point to cause the target to gain no benefit from shields or cover, unless that cover is full cover.
 
 
 
@@ -3782,7 +3982,7 @@ You gain the ability to bend the elements to your will. As an action, you can ma
 
 This range increases to 30 feet at 11th level and 60 feet at 17th level.
 
-Additionally, as a bonus action on your turn, you can spend 1 focus point to conjure a weapon made of<br> one of the four elements—air, earth, fire, or<br> water—which lasts for 1 minute. Your weapon<br> takes an appearance of your choice, it can only<br> be used by you, and you can't be disarmed of it<br> while you are conscious. You are proficient in this weapon, which counts as a monk weapon for you<br> and uses your Martial Arts die for its damage rolls.<br> You can only have one of these weapons at a time,<br> and if you summon a new one the old one<br> immediately disappears.
+Additionally, as a bonus action on your turn, you can spend 1 focus point to conjure a weapon made of one of the four elements—air, earth, fire, or water—which lasts for 1 minute. Your weapon takes an appearance of your choice, it can only be used by you, and you can't be disarmed of it while you are conscious. You are proficient in this weapon, which counts as a monk weapon for you and uses your Martial Arts die for its damage rolls. You can only have one of these weapons at a time, and if you summon a new one the old one immediately disappears.
 
 #### Air
 Your whistling weapon has the returning property, the thrown property with a range of 20/60, and deals sonic damage on a hit. Additionally, when you hit a creature with the weapon, it is deafened until the end of its next turn.
@@ -3972,7 +4172,7 @@ You have a number of tech points equal to half of your monk level (rounded up), 
 #### Max Power Level
 Many tech powers can be overcharged, consuming more tech points to create a greater effect. You can overcharge these powers to a maximum level, which increases at higher levels, as shown in the Max Power Level column of the Rakatan Order Techcasting table.
 
-You may only cast tech powers at 4th-level once.<br> You regain the ability to do so after a long rest.
+You may only cast tech powers at 4th-level once. You regain the ability to do so after a long rest.
 
 #### Techcasting Ability
 Intelligence, Wisdom, or Charisma is your techcasting ability for your tech powers (your choice). You use this ability whenever a power refers to your techcasting ability. Additionally, you use this ability modifier when setting the saving throw DC for a tech power you cast and when making an attack roll with one.
@@ -3981,11 +4181,11 @@ ___
 
 
 
-**Tech save DC** = 8 + your proficiency bonus + <br>your techcasting ability modifer
+**Tech save DC** = 8 + your proficiency bonus + your techcasting ability modifer
 
 ___
 
-**Tech attack modifier** = your proficiency bonus + <br>your techcasting ability modifer
+**Tech attack modifier** = your proficiency bonus + your techcasting ability modifer
 
 
 
@@ -4007,7 +4207,8 @@ Additionally, when you use a Focus feature, you gain the following tech enhancem
 
 
 ##### Rakatan Techcasting
-| Level | Tech Powers<br> Known | Tech<br> Points | Max Power<br> Level |
+
+| Level | Tech Powers Known | Tech Points | Max Power Level |
 |:---:|:---:|:---:|:---:|
 |  3rd |  3 |  2 | 1st |
 |  4th |  4 |  2 | 1st |
@@ -4069,7 +4270,7 @@ While you have no remaining uses of this feature, you can instead expend 1 focus
 
 ### Steel Hands Form
 _**Teras Kasi Order:** 6th level_<br>
-You can draw upon<br> your focus to utilize an<br> array of practiced<br> techniques to strike<br> your opponents with<br> precision and power.<br> You can use your<br> bonus action to enter<br> this stance, and<br> when you do so,<br> you can also enter<br> your Forredari<br> Stance as a part of<br> this same bonus<br> action. This form<br> lasts for 1 minute.<br> While you are in this<br> stance, you gain the<br> following benefits:
+You can draw upon your focus to utilize an array of practiced techniques to strike your opponents with precision and power. You can use your bonus action to enter this stance, and when you do so, you can also enter your Forredari Stance as a part of this same bonus action. This form lasts for 1 minute. While you are in this stance, you gain the following benefits:
 
 
 
@@ -4137,7 +4338,7 @@ Monks of the Whills Order hold the secrets of the Force sacred, and dedicate the
 _**Whills Order:** 3rd level_<br>
 You gain proficiency in blaster pistols, blaster rifles, ion pistols, ion rifles, and the lightbow, which are your Whills weapons and are monk weapons for you. When you are wielding a Whills weapon, you gain the following benefits:
 - Your Whills weapons count as melee weapons for you, and when you make a melee weapon attack with them, you deal kinetic damage equal to your Martial Arts Damage Die.
-- When you would make an unarmed strike<br> using your Martial Arts bonus action<br> or as a part of<br> your<br> Flurry of Blows, you can instead attack with a Whills weapon you are wielding. You roll a d4 in place of the normal damage of your Whills weapon when attacking in this way. This die changes as you gain monk levels, as shown in the Martial Arts column of the monk table.
+- When you would make an unarmed strike using your Martial Arts bonus action or as a part of your Flurry of Blows, you can instead attack with a Whills weapon you are wielding. You roll a d4 in place of the normal damage of your Whills weapon when attacking in this way. This die changes as you gain monk levels, as shown in the Martial Arts column of the monk table.
 - When you would make a ranged weapon attack with a Whills weapon, you can instead reload the weapon.
 
 ### The Force is With You
@@ -4246,10 +4447,10 @@ ___
 #### Constrict
 You attempt to choke the target into unconsciousness. The target must make a Constitution saving throw or be restrained until the end of your following turn.  
 
-If you maintain this technique for 1 minute,<br> the target falls unconscious for 1 hour. Droids and constructs can not be knocked unconscious in this<br> way.
+If you maintain this technique for 1 minute, the target falls unconscious for 1 hour. Droids and constructs can not be knocked unconscious in this way.
 
 #### Disarm
-You attempt to disarm a weapon or other object<br> the target is holding. The target must make a Strength saving throw. On a failed save, it releases the object. If you have a free hand, you can catch the object. Otherwise, it lands at your feet.
+You attempt to disarm a weapon or other object the target is holding. The target must make a Strength saving throw. On a failed save, it releases the object. If you have a free hand, you can catch the object. Otherwise, it lands at your feet.
 
 
 
@@ -4293,7 +4494,7 @@ You can use this feature twice. You gain an additional use at 5th, 9th, 13th, an
 
 ### Trick Shooter
 _**Gunslinger Practice:** 3rd level_<br>
-You learn a number of trick shots you can use to debilitate enemies and impress allies. When you deal Sneak Attack damage to a creature,<br> you may choose to forgo<br> two of your Sneak Attack<br> dice to make the attack a trick shot. 
+You learn a number of trick shots you can use to debilitate enemies and impress allies. When you deal Sneak Attack damage to a creature, you may choose to forgo two of your Sneak Attack dice to make the attack a trick shot. 
 
 Some of your trick shots require your target to make a saving throw to resist the trick shot's effects. The saving throw DC is calculated as follows: 
 
@@ -4301,7 +4502,7 @@ ___
 
 
 
-**Trick Shot save DC** = 8 + your proficiency bonus + <br>your Dexterity modifier
+**Trick Shot save DC** = 8 + your proficiency bonus + your Dexterity modifier
 
 
 
@@ -4330,7 +4531,7 @@ You learn how to work all the angles. Once per turn, when you take the Attack ac
 _**Gunslinger Practice:** 17th level_<br>
 You learn to perform miracles with just a blaster and some nerve. On your first turn in combat, if you aren't surprised, you can use your action to attack creatures that have not yet acted. Choose up to six such creatures that you can see, making a ranged weapon attack against each. On a hit, you deal normal weapon damage and can apply a single trick shot to each attack made this way. 
 
-Once you've used this feature, you must<br> complete a short or long rest before you<br> can use it again.
+Once you've used this feature, you must complete a short or long rest before you can use it again.
 
 <!--- <img src='https://www.gmbinder.com/images/XjjiVJp.png' style='position:absolute;bottom:8px;right:-115px;width:730px;transform:scaleX(-1);z-index:1000;' /> --->
 
@@ -4366,7 +4567,7 @@ ___
 
 
 
-**Maneuver save DC** = 8 + your proficiency bonus + <br>your maneuver ability modifier
+**Maneuver save DC** = 8 + your proficiency bonus + your maneuver ability modifier
 
 
 
@@ -4385,7 +4586,8 @@ When a creature fails a saving throw or ability check against you or an effect y
 
 
 ##### Maverick Superiority
-|Level|Maneuvers<br> Known|Superiority<br> Dice Quantity|Superiority<br> Dice Size|
+
+|Level|Maneuvers Known|Superiority Dice Quantity|Superiority Dice Size|
 |:--:|:--:|:--:|:--:|
 | 3rd| 2|2| d4|
 | 4th| 2|2| d4|
@@ -4446,7 +4648,7 @@ ___
 
 
 
-**Dazzling Step save DC** = 8 + your proficiency bonus + <br>your Charisma modifier
+**Dazzling Step save DC** = 8 + your proficiency bonus + your Charisma modifier
 
 
 
@@ -4459,7 +4661,7 @@ You defend yourself from further attack. Roll two Sneak Attack dice. You gain te
 You twist and twirl around the target. The target must make a Strength saving throw. A Huge or larger creature automatically succeeds. On a failed save, it is pushed back 5 feet, and you can immediately move into the space it just vacated without provoking opportunity attacks.
 
 #### Offensive Step
-Choose another creature that you can see<br> within your reach. The creature must make a<br> Dexterity saving throw. On a failed save, roll<br> two Sneak Attack dice. The creature takes<br> damage equal to the amount rolled. This<br> damage is of the same as your weapon's<br> damage.
+Choose another creature that you can see within your reach. The creature must make a Dexterity saving throw. On a failed save, roll two Sneak Attack dice. The creature takes damage equal to the amount rolled. This damage is of the same as your weapon's damage.
 
 
 
@@ -4505,7 +4707,7 @@ ___
 
 
 
-**Blitz Attack save DC** = 8 + your proficiency bonus + <br>your Strength or Dexterity modifier (your choice)
+**Blitz Attack save DC** = 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice)
 
 
 
@@ -4565,7 +4767,7 @@ ___
 
 
 
-**Nimble Step save DC** = 8 + your proficiency bonus + <br>your Dexterity modifier.
+**Nimble Step save DC** = 8 + your proficiency bonus + your Dexterity modifier.
 
 
 
@@ -4625,20 +4827,20 @@ You have a number of tech points equal to half of your operative level, as shown
 #### Max Power Level
 Many tech powers can be overcharged, consuming more tech points to create a greater effect. You can overcharge these powers to a maximum level, which increases at higher levels, as shown in the Max Power Level column of the Saboteur Practice Techcasting table.
 
-You may only cast tech powers at 4th-level once.<br> You regain the ability to do so after a long rest.
+You may only cast tech powers at 4th-level once. You regain the ability to do so after a long rest.
 
 #### Techcasting Ability
-Intelligence is your techcasting ability for your tech powers. You use your Intelligence whenever a<br> power refers to your techcasting ability.<br> Additionally, you use your Intelligence modifier when setting the saving throw DC for a tech power you cast and when making an attack roll with one.
+Intelligence is your techcasting ability for your tech powers. You use your Intelligence whenever a power refers to your techcasting ability. Additionally, you use your Intelligence modifier when setting the saving throw DC for a tech power you cast and when making an attack roll with one.
 
 ___
 
 
 
-**Tech save DC** = 8 + your proficiency bonus + <br>your Intelligence modifier
+**Tech save DC** = 8 + your proficiency bonus + your Intelligence modifier
 
 ___
 
-**Tech attack modifier** = your proficiency bonus + <br>your Intelligence modifier
+**Tech attack modifier** = your proficiency bonus + your Intelligence modifier
 
 
 
@@ -4681,7 +4883,8 @@ As a bonus action on your turn, you can expend one or more of your tracker droid
 
 
 ##### Saboteur Techcasting
-| Level | Tech Powers<br> Known | Tech<br> Points | Max Power<br> Level |
+
+| Level | Tech Powers Known | Tech Points | Max Power Level |
 |:---:|:---:|:---:|:---:|
 |  3rd |  3 |  2 | 1st |
 |  4th |  4 |  2 | 1st |
@@ -4799,7 +5002,7 @@ ___
 
 
 
-**Upper Hand save DC** = 8 + your proficiency bonus + <br>your Charisma modifier
+**Upper Hand save DC** = 8 + your proficiency bonus + your Charisma modifier
 
 
 
@@ -4860,7 +5063,7 @@ ___
 
 
 
-**Dark Arts save DC** = 8 + your proficiency bonus + <br>your Intelligence modifier
+**Dark Arts save DC** = 8 + your proficiency bonus + your Intelligence modifier
 
 
 
@@ -4934,11 +5137,11 @@ ___
 
 
 
-**Force save DC** = 8 + your proficiency bonus + <br>your forcecasting ability modifier
+**Force save DC** = 8 + your proficiency bonus + your forcecasting ability modifier
 
 ___
 
-**Force attack modifier** = your proficiency bonus + <br>your forcecasting ability modifier
+**Force attack modifier** = your proficiency bonus + your forcecasting ability modifier
 
 
 
@@ -4947,7 +5150,8 @@ ___
 
 
 ##### Archaeologist Forcecasting
-| Level | Force Powers<br> Known | Force<br> Points | Max Power<br> Level |
+
+| Level | Force Powers Known | Force Points | Max Power Level |
 |:---:|:---:|:---:|:---:|
 | 3rd| 4| 3|1st|
 | 4th| 6| 4|1st|
@@ -5406,14 +5610,14 @@ _**Occultist Pursuit:** 9th level_<br>
 Over the course of an hour, which can be done during a short rest, you can perform a ritual to construct an effigy of a creature. In order to do so, you must have at least heard of or seen the creature before, and the target must be in the same system as you. At the end of the hour, the creature must make a Wisdom saving throw against your maneuver save DC. This saving throw is modified by how well you know the target and the sort of physical connection you have to it, as shown in the Knowledge Save Modifier and Connection Save Modifier tables below. 
 
 ##### Knowledge Save Modifier
-|||
+
 |:--|--:|
 |Secondhand (you have heard of the target) |+5|
 |Firsthand (you have met the target) |+0|
 |Familiar (you know the target well) |-5|
 
 ##### Connection Save Modifier
-|||
+
 |:--|--:|
 |Likeness or picture |-2|
 |Curse of Objurgation |-3|
@@ -5511,11 +5715,11 @@ ___
 
 
 
-**Tech save DC** = 8 + your proficiency bonus + <br>your Intelligence modifier
+**Tech save DC** = 8 + your proficiency bonus + your Intelligence modifier
 
 ___
 
-**Tech attack modifier** = your proficiency bonus + <br>your Intelligence modifier
+**Tech attack modifier** = your proficiency bonus + your Intelligence modifier
 
 
 
@@ -5529,7 +5733,8 @@ You use a wristpad (found in chapter 5 of the Player's Handbook) as a tech focus
 
 
 ##### Slicer Techcasting
-| Level | Tech Powers<br> Known | Tech<br> Points | Max Power<br> Level |
+
+| Level | Tech Powers Known | Tech Points | Max Power Level |
 |:---:|:---:|:---:|:---:|
 |  3rd |  3 |  2 | 1st |
 |  4th |  4 |  2 | 1st |
@@ -5634,7 +5839,7 @@ In addition to its traits and features, your beast companion gains additional be
 
 Lastly, while bonded and within 10 feet of you, your beast companion gains a bonus to ability checks, armor class, attack rolls, damage rolls, and saving throws equal to half your Critical Analysis ability modifer (minimum of +1).
 
-This radius increases to 30 feet at 11th level,<br> and 60 feet at 17th level.
+This radius increases to 30 feet at 11th level, and 60 feet at 17th level.
 
 <!--- <img src='https://www.gmbinder.com/images/AlnLVfr.png' style='position:absolute;bottom:-19px;right:-20px;width:800px;z-index:1000;' /> --->
 
@@ -5754,7 +5959,7 @@ You can now expend two uses of your Modular Munitions feature when you cast a te
 - **Knockout:** Each creature damaged by this power must succeed on a Strength saving throw or be knocked prone.
 - **Static:** Each creature damaged by this power must succeed on an Intelligence saving throw or become shocked until the start of your next turn.
 
-Additionally,<br> when you would<br> spend 1 tech point<br> to apply an empowerment<br> effect, it no longer<br> reduces your<br> maximum tech<br> points.
+Additionally, when you would spend 1 tech point to apply an empowerment effect, it no longer reduces your maximum tech points.
 
 <!--- <img src='https://www.gmbinder.com/images/mckPwzx.png' style='position:absolute;bottom:21px;right:15px;width:310px;z-index:1000;' /> --->
 
@@ -5781,12 +5986,12 @@ Create your turret companion as detailed in the Companions section of the Custom
 
 In addition to its traits and features, your turret companion gains additional benefits while it is bonded to you:
 - Your turret is a valid target of the *tracker droid interface* tech power.
-- Your turret gains two additional traits. It gains one more additional trait when you reach 11th level in this class. For each turret trait in excess of your proficiency bonus, your tech point maximum is<br> reduced by 1. Over the course of a long<br> rest, you can install, replace, or remove a<br> number of turret traits equal to half<br> your Intelligence modifier (rounded<br> up, minimum of one).
-- When you would make a weapon<br> attack, you can let your turret make<br> a weapon attack instead.
+- Your turret gains two additional traits. It gains one more additional trait when you reach 11th level in this class. For each turret trait in excess of your proficiency bonus, your tech point maximum is reduced by 1. Over the course of a long rest, you can install, replace, or remove a number of turret traits equal to half your Intelligence modifier (rounded up, minimum of one).
+- When you would make a weapon attack, you can let your turret make a weapon attack instead.
 
-Lastly, while your turret<br> is bonded, within 10 feet<br> of you, and the target of<br> your *tracker droid interface*<br> tech power, when you cast a<br> tech power with a range of 5<br> feet or greater, you can cast it as if<br> you were in your turret's space, and<br> the range increases to 10 feet if it<br> isn't greater.
+Lastly, while your turret is bonded, within 10 feet of you, and the target of your *tracker droid interface* tech power, when you cast a tech power with a range of 5 feet or greater, you can cast it as if you were in your turret's space, and the range increases to 10 feet if it isn't greater.
 
-Both the range and radius<br> increase to 30 feet at 11th level,<br> and 60 feet at 17th level.
+Both the range and radius increase to 30 feet at 11th level, and 60 feet at 17th level.
 
 
 
@@ -5842,7 +6047,7 @@ ___
 
 
 
-**Maneuver save DC** = 8 + your proficiency bonus + <br>your maneuver ability modifier
+**Maneuver save DC** = 8 + your proficiency bonus + your maneuver ability modifier
 
 
 
@@ -5861,7 +6066,8 @@ Attack rolls made against you on your turn are made with disadvantage.
 
 
 ##### Deadeye Superiority
-|Level|Maneuvers<br> Known|Superiority<br> Dice Quantity|Superiority<br> Dice Size|
+
+|Level|Maneuvers Known|Superiority Dice Quantity|Superiority Dice Size|
 |:--:|:--:|:--:|:--:|
 | 3rd| 2|2| d4|
 | 4th| 2|2| d4|
@@ -5951,9 +6157,9 @@ You learn two additional powers at 5th, 9th, 13th, and 17th level. Whenever you 
 _**Inquisitor Technique:** 3rd, 11th, and 17th level_<br>
 When the target of your Ranger's Quarry feature is within 15 feet of you, you gain the following benefits:
 - Whenever the creature casts a force power, it must first succeed on a Constitution saving throw against your tech save DC to maintain concentration. On a failed save, the casting is disrupted, the force power fails, and the force points are wasted.
-- Whenever the creature starts its turn while concentrating on a force power, it must make a Constitution saving throw against your tech save DC<br> to maintain concentration. On a failed save, it loses<br> concentration on the power.
+- Whenever the creature starts its turn while concentrating on a force power, it must make a Constitution saving throw against your tech save DC to maintain concentration. On a failed save, it loses concentration on the power.
 
-The radius of this feature increases to 30<br> feet at 11th level and 60 feet at 17th<br> level.
+The radius of this feature increases to 30 feet at 11th level and 60 feet at 17th level.
 
 ### Sense Force
 _**Inquisitor Technique:** 7th, 9th, 13th, and 17th level_<br>
@@ -6079,7 +6285,8 @@ Additionally, whenever you deal ion damage to a creature, you can spend a tech p
 
 
 ##### Mechanist Techcasting
-| Level | Tech Powers<br> Known | Tech<br> Points | Max Power<br> Level |
+
+| Level | Tech Powers Known | Tech Points | Max Power Level |
 |:---:|:---:|:---:|:---:|
 |  3rd |  7 |  5 | 2nd |
 |  4th |  8 |  6 | 2nd |
@@ -6147,7 +6354,7 @@ You learn to employ all the knowledge you've accumulated to create and customize
 Create your tracker droid companion as detailed in the Companions section of the Customization Options document for Expanded Content. You must have astrotech's implements in order to create your droid.
 
 In addition to its traits and features, your tracker droid companion gains an additional benefit while it is bonded to you:
-- Your tracker droid gains two additional traits. It<br> gains one more additional trait when you reach 11th level in this class. For each droid trait in excess of your proficiency bonus, your tech point maximum is reduced by 1. Over the course of a long rest, you can install, replace, or remove a number of droid traits equal to half your Intelligence modifier (minimum of one).
+- Your tracker droid gains two additional traits. It gains one more additional trait when you reach 11th level in this class. For each droid trait in excess of your proficiency bonus, your tech point maximum is reduced by 1. Over the course of a long rest, you can install, replace, or remove a number of droid traits equal to half your Intelligence modifier (minimum of one).
 
 <!--- <img src='https://www.gmbinder.com/images/2DWzzeB.png' style='position:absolute;transform:scaleX(1);bottom:-40px;right:-90px;width:700px;z-index:1000' /> --->
 
@@ -6165,7 +6372,8 @@ As a bonus action, you can cause the target of your Ranger's Quarry to emit an i
 
 
 ##### Mechanist Techcasting
-| Level | Tech Powers<br> Known | Tech<br> Points | Max Power<br> Level |
+
+| Level | Tech Powers Known | Tech Points | Max Power Level |
 |:---:|:---:|:---:|:---:|
 |  3rd |  7 |  5 | 2nd |
 |  4th |  8 |  6 | 2nd |
@@ -6607,7 +6815,7 @@ When you reduce a hostile creature to 0 hit points with a tech power, you can re
 
 ### Reflective Shield
 _**Path of Synthesis:** 18th level_<br>
-When you use your Force-Empowered Tech features, a barrier for energy shimmers into existence, surrounding you until the end of your next turn. When you take damage, you can mitigate the<br> incoming energy and potentially<br> reflect it back at your attacker.<br> You use your reaction to<br> have resistance<br> against the<br> triggering<br> damage, and<br> if the source of the<br> damage is within 5<br> feet of you, they take<br> half of the total damage<br> dealt as ion.
+When you use your Force-Empowered Tech features, a barrier for energy shimmers into existence, surrounding you until the end of your next turn. When you take damage, you can mitigate the incoming energy and potentially reflect it back at your attacker. You use your reaction to have resistance against the triggering damage, and if the source of the damage is within 5 feet of you, they take half of the total damage dealt as ion.
 
 <!--- <img src='https://www.gmbinder.com/images/jSndBjr.png' style='position:absolute;bottom:24px;right:70px;width:265px;z-index:1000' /> --->
 
@@ -6624,7 +6832,7 @@ You learn the *saber ward* force power, which does not count against your total 
 
 ### Kinetic Ward
 _**Path of Tenacity:** 3rd level_<br>
-You can use your reaction to deflect a strike when you are dealt damage by a melee weapon attack. When you do so, the damage you take from the attack is reduced by 1d10 + your Dexterity modifier + your sentinel level.<br><br><br><br><br> If you reduce the damage to 0, you can redirect it at another target if you have a weapon capable of doing so. You can spend 1 force point to make a melee weapon attack at a target within 5 feet of you with the weapon, as part of the same reaction. You make this attack with proficiency, regardless of your weapon proficiencies, and if the attack hits it uses your Kinetic Combat die for its damage roll. If *saber ward* is active, you have advantage on the attack roll.
+You can use your reaction to deflect a strike when you are dealt damage by a melee weapon attack. When you do so, the damage you take from the attack is reduced by 1d10 + your Dexterity modifier + your sentinel level. If you reduce the damage to 0, you can redirect it at another target if you have a weapon capable of doing so. You can spend 1 force point to make a melee weapon attack at a target within 5 feet of you with the weapon, as part of the same reaction. You make this attack with proficiency, regardless of your weapon proficiencies, and if the attack hits it uses your Kinetic Combat die for its damage roll. If *saber ward* is active, you have advantage on the attack roll.
 
 ### Kinetic Bulwark
 _**Path of Tenacity:** 7th level_<br>
@@ -6671,7 +6879,7 @@ Your familiar has an AC equal to your universal force save DC, 1 hit point, and 
 - When you take the Attack action on your turn, any attack you make with that action can originate from your space or the familiar's space. You make this choice for each attack.
 - When a creature that you can see within 5 feet of your familiar moves at least 5 feet away from it, you can use your reaction to make an opportunity attack against that creature as if you were in the familiar's space.
 
-Starting at 11th level, you can summon your<br> familiar when you deal damage with any force<br> power, instead of just necrotic. Additionally,<br> you can summon your familiar when you use<br> a Force-Empowered Self option on your turn.
+Starting at 11th level, you can summon your familiar when you deal damage with any force power, instead of just necrotic. Additionally, you can summon your familiar when you use a Force-Empowered Self option on your turn.
 
 
 
