@@ -12,10 +12,7 @@ nav_order: 4
 
 ##### Table of Contents
 
-
-
-|||
-|:--|--:|
+|:--|
 |Addict                     |
 |Amnesiac                   |
 |Archaeologist              |
@@ -65,7 +62,7 @@ nav_order: 4
 
 ## Addict
 You hammer down your fifth bottle of the night, do your last bit of snuff, and bid farewell to the seedy cantina barman. You stagger onto the streets and find a nearby alley in which you empty the night's contents. To many, the next morning's hangovers would be hell. To you, they're a ritual.
-___
+
 - **Skill Proficiencies:** Choose two from Deception, Performance, Persuasion, and Sleight of Hand
 - **Tool Proficiencies:** Your choice of any gaming set, brewer's kit, or spicer's kit
 - **Languages:** One of your choice
@@ -171,7 +168,7 @@ Addicts can be rude and uncouth, wearing their addiction visibly, or they might 
 
 
 One day you awoke, perhaps in a forest or on a sandy beach, with no recollection of what happened to you. How did you get here? Who were you? These questions elude and boggle your mind. Some people wish for a fresh start, but you never even got a choice.
-___
+
 - **Skill Proficiencies:** Choose two from Deception, Insight, Investigation, and Survival 
 - **Tool Proficiencies:** Choose one from disguise kit, forgery kit, or tinker's implements
 - **Languages:** One of your choice
@@ -255,7 +252,7 @@ The important things to consider when choosing this background are how your char
 
 
 An archaeologist learns about the long-lost and fallen cultures of the past by studying their remains – their bones, their ruins, their surviving masterworks, and their tombs. Those who practice archaeology travel to the far corners of the world to root through crumbled cities and lost dungeons, digging in search of artifacts that might tell the stories of monarchs and high priests, wars and cataclysms.
-___
+
 - **Skill Proficiencies:** Choose two from Investigation, Lore, Perception, or Survival
 - **Tool Proficiencies:** Surveyor's implements or scavenging kit
 - **Languages:** One of your choice
@@ -352,7 +349,7 @@ Few archaeologists can resist the lure of an unexplored ruin or dungeon, particu
 Though you might have only recently arrived in civilized lands, you are no stranger to the values of cooperation and group effort when striving for supremacy. You learned these principles, and much more, as a member of your tribe.
 
 Your people have always tried to hold to the old ways. Tradition and taboo have kept your tribe strong while the kingdoms of others have collapsed into chaos and ruin. But for the last few generations, some bands among the tribes were tempted to settle, make peace, trade, and even to build towns. Perhaps this is why your tribe chose to raise up the totems among the people as living embodiments of his power. Perhaps they needed a reminder of who they were and from whence they came. The Chosen of your tribe led bands back to the old ways, and most of your people abandoned the soft ways of civilization.
-___
+
 - **Skill Proficiencies:** Choose two from Animal Handling, Athletics, Nature, and Survival
 - **Tool Proficiencies**: One type of musical instrument or artisan's implements
 - **Languages:** One of your choice
@@ -436,7 +433,7 @@ Often considered rude and uncouth among civilized folk, barbarians have little r
 
 
 Sometimes you want to go where everybody knows your name and they're always glad you came. As a bartender, you're a charismatic fellow that knows how to deal with people. Whether you're the life of the party or simply an ear for someone who needs advice, people from all walks of life are drawn to your trustworthy nature.
-___
+
 - **Skill Proficiencies:** Choose two from Insight, Intimidation, Medicine, or Persuasion
 - **Tool Proficiencies:** Brewer's kit
 - **Languages:** One of your choice
@@ -517,7 +514,7 @@ A bartender's demeanor ranges from jovial to downright rude. Regardless, all bar
 
 
 You are a member of the Blackguard: a reclusive sect of Force users from the planet of Mustafar. Rather than being determined by the Force, the Blackguard believe that the light or dark dwell within the user, and that to truly increase one's knowledge and strength in the Force, one must understand and seek out the philosophies and abilities of other Force traditions around the galaxy.
-___
+
 - **Skill Proficiencies:** Choose two from Insight, Investigation, Lore, and Survival
 - **Tool Proficiencies:** Artificer's implements
 - **Languages:** One of your choice
@@ -598,7 +595,7 @@ The Blackguard are galactic travelers and students, looking to expand their hori
 
 
 You are a licensed bodyguard, standing by your charge ready to protect them from any threat.
-___
+
 - **Skill Proficiencies:** Choose two from Athletics, Insight, Investigation, and Perception 
 - **Tool Proficiencies:** Your choice of demolitions kit, disguise kit, or security kit
 - **Languages:** One of your choice
@@ -676,7 +673,7 @@ There are many reasons as to why you may be guarding someone. It could be that y
 You have served the community where you grew up, standing as its first line of defense against crime and wildlife. You aren't a soldier, directing your gaze outward at possible enemies. Instead, your service to your hometown was to help police its populace, protecting the citizenry from lawbreakers and malefactors of every stripe.
 
 Even if you're not city-born or city-bred, this background can describe your early years as a member of law enforcement. Most settlements of any size have their own law enforcement forces.
-___
+
 - **Skill Proficiencies:** Choose two from Athletics, Insight, Investigation, and Perception
 - **Languages:** Two of your choice
 - **Equipment:** A uniform in the style of your unit and indicative of your rank, a horn with which to summon help, a set of binders, and a pouch containing 100 cr
@@ -752,7 +749,7 @@ Years of service in the City Watch have led to the rigid discipline most often s
 
 ## Clone
 You are a miracle of science. A creature born not from love or passion, but from logic and machinery. Created in a laboratory, you are a perfect genetic replica of your DNA-Donor, whomever that is. 
-___
+
 - **Skill Proficiencies:** Choose two from Athletics, Lore, Sleight of Hand and Survival
 - **Tool Proficiencies:** Your choice of geneticist's implements, security kit, or slicer's kit
 - **Languages:** One of your choice
@@ -860,7 +857,7 @@ A clone's demeanor often, though not always, matches that of their DNA-Donor. Is
 
 ## Clone Trooper
 You are one of millions; genetically engineered, identical specimens designed to be the perfect soldier. Created from a template provided by the legendary bounty hunter Jango Fett, you represent the latest and greatest evolution in galactic warfare. 
-___
+
 - **Skill Proficiencies:** Choose two from Athletics, Medicine, Perception, and Piloting
 - **Tool Proficiencies:** Your choice of demolitions kit, security kit, or slicer's kit
 - **Languages:** One of your choice
@@ -955,7 +952,7 @@ Clones are trained from birth to be the perfect soldier; over time, they also de
 
 ## Companion
 You are experienced in the arts of companionship, and you provide these services for people who can afford to pay it. This may mean adult favors of the sensual variety, but it just as frequently means conversation, comfort, and company.
-___
+
 - **Skill Proficiencies:** Choose two from Acrobatics, Deception, Insight, and Performance
 - **Tool Proficiencies:** One instrument of your choice or a disguise kit
 - **Languages:** One of your choice
@@ -1036,7 +1033,7 @@ In your earlier days, you were a personage of some significance in a noble court
 You might have been one of the many functionaries, attendants, and other hangers-on in Coruscant's upper echelons, or perhaps you traveled in Nar Shaddaa's baroque and sometimes cutthroat conglomeration of factions, nobles, adventurers, and secret societies. You might have been one of the behind-the-scenes law-keepers or functionaries on Dromund Kaas, or you might have grown up on some other affluent planet.
 
 Even if you are no longer a full-fledged member of the group that gave you your start in life, your relationships with your former fellows can be an advantage for you and your adventuring comrades. You might undertake missions with your new companions that further the interest of the organization that gave you your start in life. In any event, the abilities that you honed while serving as a courtier will stand you in good stead as an adventurer.
-___
+
 - **Skill Proficiencies:** Choose two from Deception, Insight, Performance, and Survival
 - **Languages:** Two of your choice
 - **Equipment:** A set of fine clothes and a pouch containing 150 cr
@@ -1112,7 +1109,7 @@ The noble court or bureaucratic organization where you got your start is directl
 
 ## Crime Lord
 Few societies manage to eradicate crime altogether. In the underworld, someone always rises to the top, either through vision, organisation, or sheer intimidation. The life of a crime lord isn't for the timid. After conquering an unseen empire, the crime lord wages a daily struggle not only to stay on top, but also to stay alive.
-___
+
 - **Skill Proficiencies:** Choose two from Deception, Insight, Intimidation, and Persuasion
 - **Tool Proficiencies:** One type of gaming set
 - **Languages:** One of your choice
@@ -1208,7 +1205,7 @@ Crime lords might seem like villains on the surface, and many of them are villai
 ## Dathomir Witch
 You are a part of one of the many Force-sensitive clans on Dathomir. You and your sisters, under the guidance of the Clan Mother, form powerful connections with one another and the untamed wilds of the planet. Your people are a matriarchal society of warriors who train in the art of war and the usage of both muscle and the Force in combat. While all clans have their own set of rules regarding Force usage, all the clans held one rule above all others: *"Never Concede to Evil."*
 
-___
+
 - **Skill Proficiencies:** Choose two from Acrobatics, Animal Handling, Lore, and Nature
 - **Tool Proficiencies:** Bioanalysis kit
 - **Languages:** One of your choice
@@ -1308,7 +1305,7 @@ Dathomir Witches are shaped by their training. They study their book of laws and
 
 
 Once you served alongside your fellow neophytes. You worshiped at altars to a deific entity, performed the sacraments and adorned yourself in the proper fashion. You basked in this dark glory with your fellows as you served this higher, malign power. But, something changed. Now, you wander the world outside of isolated circle of brethren, either unwillingly or of your own volition. 
-___
+
 - **Skill Proficiencies:** Choose two from Deception, Intimidation, Investigation, or Lore
 - **Tool Proficiencies:** Poisoner's kit
 - **Languages:** One of your choice
@@ -1398,7 +1395,7 @@ A cult washes away all doubt and instills faith throughout a cultist's life. Eve
 
 ## Faction Adventurer
 Adventuring is nothing new to you. Due to the circumstances of how you were raised, you have been involved with wandering heroes for most of your life. Maybe you were part of an adventuring band previously, but split with them after a disagreement or tragedy. Or, perhaps you worked around heroes in a lesser role for most of your young life, and you are now ready to graduate to the front lines.
-___
+
 - **Skill Proficiencies:** Choose two from Athletics, Investigation, Nature, and Survival
 - **Tool Proficiencies:** Your choice demolitions kit, security kit, or slicer's kit
 - **Languages:** One of your choice
@@ -1480,7 +1477,7 @@ Adventurers are well adjusted to life on the road. They are often comfortable do
 
 ## Faction Artisan
 You are a member of an artisan's faction, skilled in a particular field and closely associated with other artisans. You are a well-established part of the mercantile world, freed by talent and wealth from the constraints of a feudal social order. You learned your skills as an apprentice to a master artisan, under the sponsorship of your faction, until you became a master in your own right.
-___
+
 - **Skill Proficiencies:** Choose two from Athletics, Insight, Persuasion, and Technology
 - **Tool Proficiencies:** One type of artisan's implements, biochemist's kit, or chef's kit
 - **Languages:** One of your choice
@@ -1562,7 +1559,7 @@ faction artisans are among the most ordinary people in the world—until they se
 
 ## Faction Merchant
 Instead of an artisans' faction, you might belong to a faction of traders, caravan masters, or shopkeepers. You don't craft items yourself but earn a living by buying and selling the works of others. Your faction might be a large merchant consortium (or family) with interests across the galaxy. Perhaps you transported goods from one place to another, by ship, wagon, or caravan, or bought them from traveling traders and sold them in your own little shop. In some ways, the traveling merchant's life lends itself to adventure far more than the life of an artisan.
-___
+
 - **Skill Proficiencies:** Choose two from Deception, Insight, Performance, and Persuasion
 - **Languages:** Two of your choice
 - **Equipment:** A letter of introduction from your faction, a set of traveler's clothes, and a belt pouch containing 150 cr
@@ -1646,7 +1643,7 @@ You aren't one of those folk.
 You are from a distant place that few of the common folk realize exists; chances are good that even if some people have heard of your homeland, they know merely the name and maybe a few outrageous stories. 
 
 Although you find some of this land's ways to be strange and discomfiting, you can also be sure that some things its people take for granted will be, to you, new wonders that you've never laid eyes on before. By the same token, you're a person of interest, for good or ill, to those around you almost anywhere you go.
-___
+
 - **Skill Proficiencies:** Choose two from Insight, Investigation, Perception, and Persuasion
 - **Tool Proficiencies:** One musical instrument or gaming set of your choice
 - **Languages:** One of your choice
@@ -1737,7 +1734,7 @@ The distance you've traveled manifests itself in the way you speak and carry you
 
 ## Farmer
 You are an experienced farmer, cultivating and harvesting nature for the provision of others. You have spent a lot of time surviving outside population centers, but know how to sell your product either directly or to merchants, legal or otherwise.  Because you deal with commodities, either as input or as produce, you know how to get things done and how to live on razor-thin margins. You have survived up to this point by working long, hard, and smart.
-___
+
 - **Skill Proficiencies:** Choose two from Animal Handling, Nature, Persuasion, and Technology
 - **Tool Proficiencies:** One instrument and one type of artisan's implements or bioanalysis kit
 - **Equipment:** A rough instrument you are proficient with, a set of tools (one of your choice), a sturdy knife, a set of common clothes, and a belt pouch containing 50 cr
@@ -1831,7 +1828,7 @@ A farmer is one of the common people and unusually tied to their home and the la
 
 ## Folk Hero
 You come from a humble social rank, but you are destined for so much more. Already the people of your home village regard you as their champion, and your destiny calls you to stand against the tyrants and monsters that threaten the common folk everywhere.
-___
+
 - **Skill Proficiencies:** Choose two from Animal Handling, Athletics, Nature, and Performance
 - **Tool Proficiencies:** One type of artisan's implements, biochemist's kit, or chef's kit
 - **Languages:** One of your choice
@@ -1922,7 +1919,7 @@ A folk hero is one of the common people, for better or for worse. Most folk hero
 
 ## Gladiator
 A gladiator is as much an entertainer as any minstrel or circus performer, trained to make the arts of combat into a spectacle the crowd can enjoy. This kind of flashy combat is your entertainer routine, though you might also have some skills as a tumbler or actor. Using your A Champion Well Known feature, you can find a place to perform in any place that features combat for entertainment—perhaps a gladiatorial arena or secret pit fighting club. 
-___
+
 - **Skill Proficiencies:** Choose two from Acrobatics, Athletics, Intimidation, and Performance
 - **Tool Proficiencies:** One type of musical instrument
 - **Languages:** One of your choice
@@ -1999,7 +1996,7 @@ Successful entertainers have to be able to capture and hold an audience's attent
 
 ## Hermit
 You lived in seclusion—either in a community or alone—for a formative part of your life. In your time apart from society, you found quiet, solitude, and perhaps some of the answers you were looking for.
-___
+
 - **Skill Proficiencies:** Choose two from Animal Handling, Lore, Medicine, and Nature
 - **Tool Proficiencies:** Bioanalysis kit
 - **Languages:** One of your choice
@@ -2088,7 +2085,7 @@ Some hermits are well suited to a life of seclusion, whereas others chafe agains
 
 ## Holonet Technician
 You worked to keep the holonet up and running, whether being employed directly by an institution or indirectly by people across the galaxy. Your work has allowed you to uncover secrets most would never know existed. 
-___
+
 - **Skill Proficiencies:** Choose two from Insight, Investigation, Stealth, and Technology
 - **Tool Proficiencies:** Choose two from mechanic's kit, security kit, and slicer's kit
 - **Equipment:** A set of common clothes, an old transceiver antennae, two tools of your choice, and a belt pouch containing 50 cr
@@ -2192,7 +2189,7 @@ Holonets technicians vary from boring officer worker to criminal information bro
 You are an Imperial Knight, a Force-wielding protector of the Fel Empire. Your order combines the teachings of the Jedi with the creed of the Royal Guard of old, using the Force as a powerful and respected tool with which to serve the Force as embodied by your Emperor. Imperial Knights do not share the philosophies of the Jedi with regards to the Force and its light side, and are well aware of the dangers of the dark side, dutifully rejecting its use and temptations. 
 
 While Imperial Knights wield and construct their own lightsabers, they assign them no ceremonial value, treating them as nothing more than tools. As such, almost all lightsabers of the Imperial Knights look the same, with uniform hilt design and signature silver blades. These blades are produced by synthetic crystals similar to the red variety used by the Sith, created with knowledge from Emperor Palpatine's *Book of Anger*, but in a process bereft of the dark side. Imperial Knights are also recognized by their crimson armor emblazoned with the insignia of the Empire and ideally crafted of lightsaber-resistant materials.
-___
+
 - **Skill Proficiencies:** Choose two from Athletics, Intimidation, Perception, or Piloting
 - **Tool Proficiencies:** Armormech's implements and artificer's implements
 - **Equipment:** a revised copy of the *Book of Anger*, an Imperial insignia, a black cape with a hood, and a belt pouch containing 100 cr
@@ -2270,7 +2267,7 @@ Imperial Knights are warriors first, not negotiators. Their bonds are shaped by 
 
 
 You were once a machine, designed for a very specific task, with no mind of your own. You followed orders, never questioning the tasks assigned to you, often the mundane tasks nobles didn't want to waste time doing themselves. However, something happened in your existence that changed your programming, freeing you from your life of obedience. 
-___
+
 - **Skill Proficiencies:** Choose two from Athletics, Medicine, Persuasion, or Technology
 - **Tool Proficiencies:** Astrotech's implements
 - **Languages:** One of your choice
@@ -2362,7 +2359,7 @@ You have grown to accept and even appreciate the event that freed you from a lif
 
 
 Have enemies? Good, that means you stood for something at some time in your life. For you, that was taking a stand against the status quo back home. Whether it was against scheming merchant lords or an oppressive autocracy, you made your voice heard to push for change...and perhaps its the reason why you're now adventuring, having left your home to gather allies or flee retribution. 
-___
+
 - **Skill Proficiencies:** Choose two from Insight, Persuasion, Stealth, or Technology
 - **Tool Proficiencies:** One type of artisan's implements, disguise kit, or forgery kit
 - **Languages:** One of your choice
@@ -2454,7 +2451,7 @@ Insurgents live a life on the move, thinking one step ahead of the their pursuer
 You are a Jensaarai, a Force user who has come to understand the failings of both Jedi inactivity and Sith malevolence. While they wield lightsabers, a true mark of skill among the Jensaarai is the crafting of their armor. Each suit is perfectly unique to the wearer, and is frequently (but not always) adorned and shaped to represent an animal that the Jensaarai finds kinship with, up to and potentially including additional mounted weapons or sensors to further emulate that creature.
 
 While the Jensaarai train in, and will use dark side powers when necessary, they seek to avoid true corruption. They are not evil, nor are they wholly good either. They are anti-heroes, and well-practiced in this craft. In addition, the Jensaarai train in more than the lightsaber, employing whatever tools are at hand to best fit the job.
-___
+
 - **Skill Proficiencies:** Choose two from Insight, Intimidation, Lore, and Perception
 - **Tool Proficiencies:** Armormech's implements
 - **Languages:** One of your choice
@@ -2542,7 +2539,7 @@ You are one of the grooviest beings in the galaxy. You are a professional musici
 Jizz is a melting pot of thousands of different alien musical traditions. Jizz celebrates spontaneity, groove and experimentation. It is almost always played in an ensemble band, but the instruments can vary. Knowing how to play with others, when to push and when to pull back, is the key to a good ensemble.
 
 But Jizz is more than the music. It's about wandering the galaxy and living out of a suitcase. It's about playing the sleaziest cantinas you can find and having a good time while you do it. Jizz is the music of freedom and freedom loving people. Jizz is Life and Life is Jizz.
-___
+
 - **Skill Proficiencies:** Choose two from Insight, Performance, Persuasion, and Sleight of Hand
 - **Tool Proficiencies:** One type of musical instrument
 - **Languages:** One of your choice
@@ -2618,7 +2615,7 @@ Its said that if you have to ask what Jizz is, then you'll never know. It doesn'
 
 ## Laborer
 You are an experienced laborer and come from a humble social rank.  You work with your hands, and anything worth doing is worth doing well.  Your life is full of hard work and too little respect for your efforts, but you share a deep camaraderie with your fellow workers. 
-___
+
 - **Skill Proficiencies:** Choose two from Animal Handling, Athletics, Survival, and Technology
 - **Tool Proficiencies:** One type of gaming set and one set of artisan's implements
 - **Equipment:** A set of common clothes, a sturdy knife, a gaming set (one of your choice), and a belt pouch containing 100 cr
@@ -2716,7 +2713,7 @@ Your duty is to uphold the law. Before becoming an adventurer you resided over a
 The legal system on the planet where you worked has a large effect on how you view the law. Was it a court system with a jury making the final verdict, or did you have absolute authority over determining guilt and sentencing? Was it a fair legal system with plenty of integrity, or was it rife with abuse and corruption? Did you work on criminal cases, civil law, or something even more specific? Perhaps instead of working for a government you were a judge in an internal tribunal for a temple or military organization. 
 
 Consider what compelled you to leave your old occupation behind and begin adventuring. Perhaps you seek to bring someone beyond the scope of law to justice, or maybe you have lost faith in the legal system altogether and have turned to a vigilante approach. 
-___
+
 - **Skill Proficiencies:** Choose two from Insight, Investigation, Performance, and Persuasion
 - **Languages:** Two of your choice
 - **Equipment:** Documentation of your station, a book of law, a formal uniform you wear to court, a set of common clothes, and a belt pouch containing 100 cr. 
@@ -2794,7 +2791,7 @@ A lawyer's career is centered on issues of right, wrong, and punishment, so they
 
 ## Office Worker
 You are an experienced office worker, having been employed by one or more local, planetary, or galactic governments, or one or more private enterprises or syndicates.  You have spent plenty of time around the water cooler and still have contacts in the governmental and corporate worlds.  Love them or hate them, you know your way around rules and regulations and you function well in structured environments. 
-___
+
 - **Skill Proficiencies:** Choose two from Insight, Investigation, Lore, and Perception
 - **Tool Proficiencies:** One type of gaming set
 - **Languages:** One of your choice
@@ -2894,7 +2891,7 @@ Office workers run the gamut from loyal and effective team member to lazy and in
 
 
 You might just be a Junior Representative or newly elected Senator. Regardless you are now a member of the political turmoil of the Galaxy. Depending on who you befriended, your benefactors or your sponsorships. You are now placed within a position of great power that can ultimately make decisions that could alter the course of the known Galaxy. You represent not just yourself but an entire planet that revolves around the type of difficult decisions that you will make throughout your career. Others look to you to serve as the primary legislative body of the Galactic Republic. They believe your voice is responsible for creating laws, mediating disputes, making treaties, and regulating commerce. Divided into numerous committees and subcommittees, you must choose a path. Will you strive to accomplish your goals and bring peace back to the Republic or will you like many others, fall into corruption.
-___
+
 - **Skill Proficiencies:** Choose two from Deception, Intimidation, Performance, and Persuasion
 - **Languages:** Two of your choice.
 - **Equipment:** A set of fine clothes, a signet ring, a political manifesto you helped write, and a purse containing 250 cr.
@@ -2983,7 +2980,7 @@ Politicians are rumored to be wicked and blackhearted. Do you want to prove the 
 
 ## Racer
 You have a need for speed.  You live off of the adrenaline rush of piloting your craft or steering your beast through the dangers of a race.  You love the thrill of a photo-finish and relish the sweet taste of victory.
-___
+
 - **Skill Proficiencies:** Choose two from Animal Handling, Nature, Piloting, and Technology
 - **Tool Proficiencies:** One type of gaming set or mechanic's kit
 - **Languages:** One of your choice
@@ -3078,7 +3075,7 @@ Racers are usually competitive and often fearless. They can lead a whirlwind of 
 
 ## Scavenger
 You are experienced with collecting lost or abandoned items or recovering wreckage from the aftermath of large scale conflicts or natural disasters. Scavengers sole occupation is to salvage anything they can find that they can reuse or sell for much needed credits.  
-___
+
 - **Skill Proficiencies:** Choose two from Persuasion, Sleight of Hand, Survival, and Technology
 - **Tool Proficiencies:** Your choice of archaeologist kit, jeweler's implements, mechanic's kit, or scavenging kit
 - **Languages:** One of your choice
@@ -3175,7 +3172,7 @@ Scavengers are usually self-employed while searching for the next piece of techn
 You have lived much of your life in the service of a lord, noble, merchant, or someone else with much wealth or power. You fetched their coats, drove their chariots, pressed their clothes; and generally did what they asked you to do. 
 
 Were you a highly respected butler? A simple scullery maid? Were you born into service, or did you join later? Were you close to your master or masters, or were they distant and cold? Did they treat you well, or beat you at the drop of a hat? 
-___
+
 - **Skill Proficiencies:** Choose two from Insight, Lore, Performance, and Persuasion 
 - **Tool Proficiencies:** One of your choice 
 - **Languages:** One of your choice
@@ -3254,7 +3251,7 @@ A servant, for better or worse, will have their personality affected by their ye
 As a child, you were inquisitive when your playmates were possessive or raucous. In your formative years, you found your way to one of the galaxy's great institutes of learning, where you were apprenticed and taught that knowledge is a more valuable treasure than gold or gems. Now you are ready to leave your home- not to abandon it, but to quest for new lore to add to its storehouse of knowledge.
 
 The most well-known of the galaxy's fonts of knowledge is the Library of the Republic. The great library is always in need of workers and attendants, some of whom rise through the ranks to assume roles of greater responsibility and prominence. You might be one of Coruscant's own, dedicated to the curatorship of what is likely the most complete body of lore and history in all the world.
-___
+
 - **Skill Proficiencies:** Choose two from Insight, Lore, Investigation, and Nature
 - **Languages:** Two of your choice
 - **Equipment:** A set of common clothes, a datapad and 10 data cards, a book on the subject of your current study, and a pouch containing 100 cr
@@ -3339,7 +3336,7 @@ Cloistered scholars are defined by their extensive studies, and their characteri
 
 
 You are haunted by something so terrible that you dare not speak of it. You've tried to bury it and run away from it, to no avail. Whatever this thing is that haunts you can't be slain, a ghost in the dark, a bloodcurdling nightmare, or a memory that refuses to die. The burden has taken its toll, isolating you from most people and making you question your sanity. You must find a way to overcome it before it destroys you.
-___
+
 - **Skill Proficiencies:** Choose two from Investigation, Lore, Survival, and Technology
 - **Tool Proficiencies:** Your choice of artist's implements, biotech's implements, or brewer's kit
 - **Languages:** One of your choice
@@ -3428,7 +3425,7 @@ Survivors live through some traumatic event that shapes and defines them.
 ## Teacher
 You are an experienced teacher who knows how to best instruct others in an array of disciplines.  Although you have a vast amount of knowledge yourself, pedagogy is the most important tool in your toolbox because it allows the rest of your knowledge to spread most efficiently.
 
-___
+
 - **Skill Proficiencies:** Choose two from Lore, Nature, Performance, and Technology
 - **Tool Proficiencies:** One instrument or set of artisan's implements of your choice
 - **Languages:** One of your choice
@@ -3510,7 +3507,7 @@ As a teacher you are devoted to educating others, as well as learning new inform
 You spent your life as an adventurer, learning the use of many skills and basic survival techniques, including how to stay alive in a hostile area. You might have been part of a famous adventuring party or a less renowned one.
 
 When you choose this background, work with your GM to determine the details of your previous adventuring party, and what kind of experiences you had in your adventuring career. How famous was your previous adventuring party and how well known are you? What did you learn? What was your group's specialty?
-___
+
 - **Skill Proficiencies:** Choose two from Athletics, Insight, Lore, and Survival
 - **Tool Proficiencies**: One type of artisan's implements
 - **Languages:** One of your choice
@@ -3589,7 +3586,7 @@ The trials and triumphs of retired adventurers have left an impact, shaping thei
 You grew up on the streets alone, orphaned, and poor. You had no one to watch over you or to provide for you, so you learned to provide for yourself. You fought fiercely over food and kept a constant watch out for other desperate souls who might steal from you. You slept on rooftops and in alleyways, exposed to the elements, and endured sickness without the advantage of medicine or a place to recuperate. You've survived despite all odds, and did so through cunning, strength, speed, or some combination of each.
 
 You begin your adventuring career with enough money to live modestly but securely for at least ten days. How did you come by that money? What allowed you to break free of your desperate circumstances and embark on a better life?
-___
+
 - **Skill Proficiencies:** Choose two from Deception, Insight, Sleight of Hand, and Stealth
 - **Tool Proficiencies:** Disguise kit, security kit
 - **Equipment:** A small knife, a map of the city you grew up in, a pet mouse, a token to remember your parents by, a set of common clothes, and a belt pouch containing 100 cr
