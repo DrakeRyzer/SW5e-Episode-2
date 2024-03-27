@@ -25,6 +25,7 @@ Each enhanced item has a rarity: standard, premium, prototype, advanced, legenda
 Rarity provides a rough measure of an item's power relative to other enhanced items. Each rarity corresponds to a character level, as shown below in the Enhanced Item Rarity and Identification table. A character doesn't typically find a prototype enhanced item, for instance, until 5th-level or later. That said, rarity shouldn't get in the way of your campaign's story. If you want the darksaber to fall into the hands of 1st-level character, so be it. No doubt a great story will arise from that event.
 
 ##### Enhanced Item Rarity and Identification
+
 |Rarity|Character Level|Identification DC|
 |:--:|:--:|:--:|
 |<font style="color:#4a5568">Standard</font>|1st or higher|10|
@@ -172,6 +173,7 @@ In the future, if you choose an item of a rarity that's not available in the cur
 
 
 ##### Minor Enhanced Items by Rarity
+
 |Character<br> Level|<font style="color:#4a5568">Standard</font>|<font style="color:green">Premium</font>|<font style="color:blue">Prototype</font>|<font style="color:purple">Advanced</font>|<font style="color:#dd6b20">Legendary</font>|<font style="color:red">Artifact</font>|Total|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 |1-4|6|3|ó|ó|ó|ó|9|
@@ -182,6 +184,7 @@ In the future, if you choose an item of a rarity that's not available in the cur
 |Total|16|19|16|15|10|4|80|
 
 ##### Major Enhanced Items by Rarity
+
 |Character<br> Level|<font style="color:#4a5568">Standard</font>|<font style="color:green">Premium</font>|<font style="color:blue">Prototype</font>|<font style="color:purple">Advanced</font>|<font style="color:#dd6b20">Legendary</font>|<font style="color:red">Artifact</font>|Total|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 |1-4|1|2|ó|ó|ó|ó|3|
@@ -221,6 +224,7 @@ The value of an enhanced item varies depending on the rarity of the item, as sho
 Using the Enhanced Item Value by Rarity table, you then assign prices to the available items, based on their rarity. Halve the price of any consumable item, such as a medpac or explosive, or item modification when using the table to determine an item's value.
 
 ##### Enhanced Item Value by Rarity
+
 |Rarity|Value|
 |:--:|:--:|
 |<font style="color:#4a5568">Standard</font>|up to 1,000 cr|
@@ -234,14 +238,15 @@ Using the Enhanced Item Value by Rarity table, you then assign prices to the ava
 Alternatively, you can determine the value of enhanced items randomly. To do so, you should first roll percentile dice twice, keeping the higher total. Then, you should multiply the result by the modifier, depending on the item's rarity, as shown below in the Value Modifier by Rarity table.
 
 ##### Value Modifier by Rarity
-|Rarity|Value Modifier&emsp;&emsp;|
+
+|Rarity|Value Modifier|
 |:--:|--:|
-|<font style="color:#4a5568">Standard</font>|10 cr&emsp;&emsp;&emsp;&emsp;|
-|<font style="color:green">Premium</font>|50 cr&emsp;&emsp;&emsp;&emsp;|
-|<font style="color:blue">Prototype</font>|250 cr&emsp;&emsp;&emsp;&emsp;|
-|<font style="color:purple">Advanced</font>|1,000 cr&emsp;&emsp;&emsp;&emsp;|
-|<font style="color:#dd6b20">Legendary</font>|5,000 cr&emsp;&emsp;&emsp;&emsp;|
-|<font style="color:red">Artifact</font>|25,000 cr&emsp;&emsp;&emsp;&emsp;|
+|<font style="color:#4a5568">Standard</font>|10 cr|
+|<font style="color:green">Premium</font>|50 cr|
+|<font style="color:blue">Prototype</font>|250 cr|
+|<font style="color:purple">Advanced</font>|1,000 cr|
+|<font style="color:#dd6b20">Legendary</font>|5,000 cr|
+|<font style="color:red">Artifact</font>|25,000 cr|
 
 If item value falls below the base threshold for that rarity, you might instead use the base for that rarity. For instance, if I want to determine the value of a prototype item, I first roll percentile dice twice. I get the results of 63 and 22, so I keep the 63 since it's the higher number. I then multiply that number by the value modifier for prototype (250 cr), ending up with an item value of 15,750 cr (63 x 250 cr). If I instead had rolled 11 and 16 on the percentile dice rolls, however, I would have ended up with an item value of 4,000 cr (16 x 250 cr). Since this falls below the minimum value threshold for prototype items (5,000 cr), you could instead use the minimum.
 
@@ -263,6 +268,7 @@ Modifying an item requires three key components: a modifiable item chassis, a mo
 Every item chassis comes with at least four modification slots, increasing to six at higher rarities, as determined by the chassis's rarity, as shown below in the Modification Slots by Rarity table.
 
 ##### Modification Slots by Rarity
+
 |Rarity|Modification Slots|
 |:--:|:--:|
 |<font style="color:#4a5568">Standard</font>|4|
@@ -284,6 +290,7 @@ Installing a modification takes one hour and requires an ability check with the 
 
 
 ##### Installation/Removal DC by Rarity
+
 |Rarity|Installation/Removal DC|
 |:--:|:--:|
 |<font style="color:#4a5568">Standard</font>|10|
@@ -317,6 +324,7 @@ On a success, the modifiable item chassis is upgraded to the new rarity. On a fa
 In addition to the modifications unique to themselves, all lightweapons come with a slot for a color crystal. Typically, newly created lightweapons come with one of the more common color variants, such as green, blue, or red. Occasionally, a character might come across a more scarce color crystal. When determining what color crystal a lightweapon comes with, the GM can choose for the player, or have the player make a universal forcecasting ability check with proficiency. The result of the check affects the color of the crystal, as shown below in the Forcecasting Color Crystal Modifier table.
 
 ##### Forcecasting Color Crystal Modifier
+
 |Forcecasting<br> Ability Check DC|d100 Roll<br>Item modifier|
 |:--:|:--:|
 | 1|-15|
@@ -390,14 +398,15 @@ Typically, only beasts and humanoids are valid targets for augmentations. A crea
 It takes 8 hours to install an augmentation in a Medium creature. The time it takes to install an augmentation in a creature of another size varies based on the size of the target, as shown below in the Creature Size Time Modifier table below.
 
 ##### Creature Size Time Modifier
+
 | Creature Size | Time Modifier |
 |:----:|:-------------|
-| Tiny  |&emsp;&emsp;x 0.25 |
-| Small |&emsp;&emsp;x 0.5 |
-| Medium |&emsp;&emsp;x 1 |
-| Large |&emsp;&emsp;x 2 |
-| Huge |&emsp;&emsp;x 5 |
-| Gargantuan |&emsp;&emsp;x 10 |
+| Tiny  |x 0.25 |
+| Small |x 0.5 |
+| Medium |x 1 |
+| Large |x 2 |
+| Huge |x 5 |
+| Gargantuan |x 10 |
 
 For instance, to install an augmentation in a Medium creature takes 8 hours. To install an augmentation in a Huge creature, however, it takes 40 hours (5 x 8).
 
@@ -457,14 +466,15 @@ Only droids are valid targets for droid customizations. A droid's motor can supp
 It takes 8 hours to install a customization in a Medium droid. The time it takes to install a customization in a droid of another size varies based on the size of the target, as shown in the Droid Size Time Modifier table below.
 
 ##### Droid Size Time Modifier
+
 | Droid Size | Time Modifier |
 |:----:|:-------------|
-| Tiny  |&emsp;&emsp;x 0.25 |
-| Small |&emsp;&emsp;x 0.5 |
-| Medium |&emsp;&emsp;x 1 |
-| Large |&emsp;&emsp;x 2 |
-| Huge |&emsp;&emsp;x 5 |
-| Gargantuan |&emsp;&emsp;x 10 |
+| Tiny  |x 0.25 |
+| Small |x 0.5 |
+| Medium |x 1 |
+| Large |x 2 |
+| Huge |x 5 |
+| Gargantuan |x 10 |
 
 For instance, to install a customization in a Medium droid takes 8 hours. To install an augmentation in a Huge droid, however, it takes 40 hours (5 x 8).
 
@@ -474,12 +484,13 @@ The installer works 8 hours per day. It costs 100 credits per hour if the operat
 A droid's motor can be upgraded to support more customizations, up to a maximum of six customizations. To upgrade the motor in a Medium droid, it takes 8 hours and a number of credits depending on the total number of slots the upgraded motor grants, as shown below  in the Total Slots Upgrade Cost table.
 
 ##### Total Slots Upgrade Cost
-|Total Slots|Upgrade Cost&emsp;&emsp;&emsp;|
+
+|Total Slots|Upgrade Cost|
 |:--:|--:|
-|3| 2,000 cr&emsp;&emsp;&emsp;&emsp;|
-|4| 10,000 cr&emsp;&emsp;&emsp;&emsp;|
-|5| 50,000 cr&emsp;&emsp;&emsp;&emsp;|
-|6| 200,000 cr&emsp;&emsp;&emsp;&emsp;|
+|3| 2,000 cr|
+|4| 10,000 cr|
+|5| 50,000 cr|
+|6| 200,000 cr|
 
 
 
