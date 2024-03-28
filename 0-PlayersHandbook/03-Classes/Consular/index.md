@@ -155,6 +155,8 @@ Your attunement to the Force is absolute. Your Wisdom or Charisma score increase
 
 If you want to cast it at a higher level, you must expend force points as normal.
 
+___
+
 ## Force-Empowered Castings
 The castings are presented in alphabetical order.
 
