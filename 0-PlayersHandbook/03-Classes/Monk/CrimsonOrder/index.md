@@ -1,7 +1,7 @@
 ---
 title: Crimson Order
 parent: Monk
-grand_parent: Guardian
+grand_parent: Class
 has_children: true
 ---
 
