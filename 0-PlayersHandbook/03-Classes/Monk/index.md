@@ -9,7 +9,7 @@ has_children: true
 
 <img src='../../../zzImages/Classes/monk_01.png' style='float:right; width:400px;'>
 
-Her vibrostaff a blur as they deflect an incoming hail of</span> blaster bolts, a human springs over a barricade and throws herself into the massed ranks of pirates on the other side. She whirls among them, knocking their blows aside and sending them reeling, until at last she stands alone.
+Her vibrostaff a blur as they deflect an incoming hail of blaster bolts, a human springs over a barricade and throws herself into the massed ranks of pirates on the other side. She whirls among them, knocking their blows aside and sending them reeling, until at last she stands alone.
 
 Taking a deep breath, a zabrak covered in tattoos settles into a battle stance. As the first charging mercenaries reach him, he exhales and a blast of negative energy courses from his hands, engulfing his foes.
 
