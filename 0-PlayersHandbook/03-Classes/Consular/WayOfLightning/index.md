@@ -1,5 +1,5 @@
 ---
-title: Way of Balance
+title: Way of Lightning
 parent: Consular
 grand_parent: Classes
 has_children: true
