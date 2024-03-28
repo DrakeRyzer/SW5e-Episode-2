@@ -161,3 +161,8 @@ _**Engineer:** 20th level_<br>
 Your mastery of technology is unrivaled. Your Constitution and Intelligence scores increase by 2. Your maximum for those scores increases by 2.
 
 Additionally, when you roll initiative and have no uses of Potent Aptitude left, you regain one use.
+
+___
+
+## Engineering Disciplines
+Each discipline focuses on maximizing the personal use of a certain tool. Your discipline grants you features at 3rd, 6th, 14th, and 18th level.
