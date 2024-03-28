@@ -4,6 +4,8 @@ parent: Species
 grand_parent: Player's Handbook
 ---
 
+<img src='../../../zzImages/Species/Bith.png' style='float:right; width:200px;'>
+
 > ## Bith
 > 
 > #### Visual Characteristics
@@ -26,7 +28,7 @@ grand_parent: Player's Handbook
 > |***Homeworld***|Clak'dor VII|
 > |***Language***|Bith|
 
-<img src='../../../zzImages/Species/Bith.png' style='float:right; width:200px;'>
+
 
 ### Biology and Appearance
 Bith are craniopods with pale pink, yellow, or green skin, large heads, large lidless eyes, toeless feet, and long fingers. Their thumb and small finger were both fully opposable. The bith's internal systems are different from most humanoids, as the bith have only one lung, and exhale through their skin. Bith also lack a proper nose, instead having highly sensitive olfactory organs hidden in the skin-flaps of their cheeks.
