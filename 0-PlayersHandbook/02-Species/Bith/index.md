@@ -6,25 +6,25 @@ grand_parent: Player's Handbook
 
 # Bith
 
-> #### Visual Characteristics
-> 
-> |:--|:--|
-> |***Skin Color***|Green, pink, white, or yellow|
-> |***Hair Color***|None|
-> |***Eye Color***|Black|
-> |***Distinctions***|Large cranium, acute senses of smell and hearing|
-> 
-> #### Physical Characteristics
-> 
-> |:--|:--|:--:|
-> |***Height***|4'9"|+2d6"|
-> |***Weight***|100 lb.|x(2d4) lb.|
-> 
-> #### Sociocultural Characteristics
-> 
-> |:--|:--|
-> |***Homeworld***|Clak'dor VII|
-> |***Language***|Bith|
+#### Visual Characteristics
+
+|:--|:--|
+|***Skin Color***|Green, pink, white, or yellow|
+|***Hair Color***|None|
+|***Eye Color***|Black|
+|***Distinctions***|Large cranium, acute senses of smell and hearing|
+
+#### Physical Characteristics
+
+|:--|:--|:--:|
+|***Height***|4'9"|+2d6"|
+|***Weight***|100 lb.|x(2d4) lb.|
+
+#### Sociocultural Characteristics
+
+|:--|:--|
+|***Homeworld***|Clak'dor VII|
+|***Language***|Bith|
 
 <img src='../../../zzImages/Species/Bith.png' style='float:right; float:top; width:200px;'>
 
