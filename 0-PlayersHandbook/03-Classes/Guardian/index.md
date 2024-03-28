@@ -190,5 +190,7 @@ Whenever a friendly creature starts its turn within 5 feet of you, that creature
 ### Aura of Warding
 You and friendly creatures within 5 feet of you have resistance to damage from force powers.
 
+___
+
 ## Guardian Foci
 Different guardians focus on different lightsaber styles, called Forms, as they hone their powers. Your focus grants you features at 3rd, 7th, 15th, and 20th level.
