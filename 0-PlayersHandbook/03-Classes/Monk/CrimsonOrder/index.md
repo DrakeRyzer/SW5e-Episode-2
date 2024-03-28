@@ -2,7 +2,6 @@
 title: Crimson Order
 parent: Monk
 grand_parent: Classes
-has_children: true
 ---
 
 ## Crimson Order
