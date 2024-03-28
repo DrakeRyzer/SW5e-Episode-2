@@ -164,6 +164,8 @@ You are the master of combat. Your Strength or Dexterity score increases by 2, a
 
 Additionally, you can attack four times, instead of three times, whenever you take the Attack action on your turn.
 
+___
+
 ## Fighter Strategies
 The strategies are presented in alphabetical order.
 
@@ -202,3 +204,9 @@ You gain proficiency in a skill and a tool, or two tools.
 
 ### Style Strategist
 You adopt a second fighting style. Choose one of the fighting style options, detailed in Chapter 6. When you complete a long rest, you can change this style out for another one. 
+
+___
+
+
+## Fighter Specialties
+Different fighters choose different approaches to perfecting their fighting prowess. The fighter specialty you choose to emulate reflects your approach. Your specialty grants you features at 3rd, 7th, 10th, 15th, and 18th level.
