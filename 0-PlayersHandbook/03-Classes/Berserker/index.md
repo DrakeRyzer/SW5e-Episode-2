@@ -230,3 +230,8 @@ When you are forced to make a saving throw against a force power, you can immedi
 ### Varactyl's Instinct
 _**Prerequisite:** 13th level_<br>
 While raging, you have advantage on Dexterity checks, your attack rolls can't suffer from disadvantage, and each slowed level only reduces your speed by 5 feet, unless it would reduce your speed to 0.
+
+___
+
+## Berserker Approaches
+For berserkers, rage is an internal reservoir where pain, grief, and anger are forged into a fury hard as steel. Your approach grants you features at 3rd, 6th, 10th, and 14th level.
