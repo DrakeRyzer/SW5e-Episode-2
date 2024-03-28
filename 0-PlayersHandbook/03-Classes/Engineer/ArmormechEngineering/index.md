@@ -45,7 +45,7 @@ You can use this feature five times. You gain an additional use at 17th level. Y
 _**Armormech Engineering:** 18th level_<br>
 Your suit is like a second skin. Ability checks and saving throws you make that use Strength, Dexterity, or Constitution gain a minimum roll threshold, discussed in chapter 7. You must be wearing your modified armor or wielding your modified shield to gain this benefit.
 
-<!--- <img src='https://www.gmbinder.com/images/68MyqCJ.png' style='position:absolute;bottom:28px;left:-23px;width:480px;z-index:1000;transform:scaleX(-1)' /> --->
+___
 
 ## Armormech Modifications
 The modifications are presented in alphabetical order.
