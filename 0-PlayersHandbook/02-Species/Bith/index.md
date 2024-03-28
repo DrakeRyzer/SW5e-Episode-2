@@ -4,8 +4,8 @@ parent: Species
 grand_parent: Player's Handbook
 ---
 
-> # Bith
-> 
+# Bith
+
 > #### Visual Characteristics
 > 
 > |:--|:--|
