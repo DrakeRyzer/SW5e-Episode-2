@@ -1,5 +1,5 @@
 ---
-title: Ballistic Approach
+title: Maruader Approach
 parent: Berserker
 grand_parent: Classes
 has_children: true
