@@ -41,17 +41,19 @@ Once you've used this feature, you must complete a short or long rest before you
 _**Politician Pursuit:** 17th level_<br>
 Humanoids within 60 feet are particularly susceptible to your presence. Humanoids within range have disadvantage on saving throws against any charm or fear effects that originate from you. 
 
-### Politician Discoveries
+___
+
+## Politician Discoveries
 When you select this pursuit, you gain access to new discoveries which reflect the progress of your studies into the political world. Whenever you learn a new discovery, you can choose from any of the following as well. The discoveries are listed in alphabetical order.
 
-#### Charming Feint
+### Charming Feint
 Allies within range of your Motivating Diplomat feature also gain a bonus to their damage rolls equal to half your Critical Analysis ability modifier.
 
-#### Demanding Leader
+### Demanding Leader
 _**Prerequisite:** 5th level_<br> 
 The range of each of your maneuvers increases by 10 feet. If the range is touch, it becomes 10 feet.
 
-#### Dominating Presence
+### Dominating Presence
 _**Prerequisite:** 15th level_<br>
 As a bonus action, you can call out to a humanoid who can understand you that is charmed by you or frightened of you to direct their next action. The target must succeed a Wisdom saving throw against your maneuver save DC. On a failed save, until the end of your next turn, the creature takes only the actions you choose, and doesn't do anything that you don't allow it to do.
 
@@ -59,16 +61,16 @@ During this time you can use your reaction to force the creature to use its reac
 
 Once you've used this feature, you must complete a short or long rest before you can use it again.
 
-#### Influencer
+### Influencer
 _**Prerequisite:** 5th level_<br>
 The range on the your Motivating Diplomat feature is increased to 15 feet. 
 
-#### Reliable Words
+### Reliable Words
 _**Prerequisite:** 9th level_<br>
 Charisma (Deception, Intimidation, or Persuasion) checks you make gain a minimum roll threshold, discussed in chapter 7.
 
-#### Social Opportunist
+### Social Opportunist
 You can add half your proficiency bonus to any Charisma check you make that doesn't already include your proficiency bonus.
 
-#### Tyrant's Ferocity
+### Tyrant's Ferocity
 You have advantage on any attack against a creature that is charmed by you or frightened of you.
