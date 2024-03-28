@@ -44,30 +44,30 @@ ___
 ## Gambler Discoveries
 When you select this pursuit, you gain access to new discoveries which reflect your deep understanding of chance. Whenever you learn a new discovery, you can choose from any of the following as well. The discoveries are listed in alphabetical order. 
 
-#### Ace Up Your Sleeve
+### Ace Up Your Sleeve
 Whenever you make a Dexterity (Sleight of Hand) or Charisma (Deception) check, you can expend a superiority die, adding the result to your total for the check.
 
-#### Against the House
+### Against the House
 Whenever you would make a Charisma (Persuasion) check involving haggling, you can instead challenge the target to a game of chance. If they accept your offer, you can make an ability check with an available gaming set. If you win the challenge, you automatically succeed on the Charisma (Persuasion) check.
 
-#### Ante Up
+### Ante Up
 When you roll initiative, are not surprised, and end up first in the initiative order, you can take one additional action on top of your regular action and a possible bonus action during your first turn in combat.
 
-#### Calculated Bluff
+### Calculated Bluff
 When you make an ability check using Charisma, you can choose to instead make the check using your Intelligence or Wisdom modifier (your choice).
 
-#### Cold Read
+### Cold Read
 _**Prerequisite:** 5th level_<br>
 As an action, you may make a Wisdom (Insight) check contested by a target's Charisma (Deception) check. On a success, you know the next action the target intends to take, so long as the situation does not change dramatically.
 
-#### Feeling the Pressure
+### Feeling the Pressure
 _**Prerequisite:** 13th level_<br>
 Whenever you roll a 4 or higher on your Risk Versus Reward feature, the target of your Critical Analysis feature also has disadvantage on attack rolls made against you until the start of your next turn.
 
-#### Take a Chance
+### Take a Chance
 _**Prerequisite:** 9th level_<br>
 Before making an attack roll, you can expend a superiority die. On a miss, you lose that superiority die and do not benefit from it in any way. On a hit, you can choose two other maneuvers that you know, and subject the target to both maneuvers, without expending additional superiority dice.
 
-#### The Magic Number
+### The Magic Number
 _**Prerequisite:** 7th level_<br>
 Whenever you roll a 7 on an ability check or saving throw, you can reroll the ability check or saving throw with advantage.
