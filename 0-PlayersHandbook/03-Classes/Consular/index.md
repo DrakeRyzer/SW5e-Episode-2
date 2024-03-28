@@ -158,43 +158,43 @@ If you want to cast it at a higher level, you must expend force points as normal
 ## Force-Empowered Castings
 The castings are presented in alphabetical order.
 
-#### Careful Power
+### Careful Power
 When you cast a power that forces other creatures to make a saving throw, you can protect some of those creatures from the power's full force. To do so, you spend 1 additional force point and choose a number of those creatures up to your Wisdom or Charisma modifier (your choice, minimum of one). A chosen creature automatically succeeds on its saving throw against the power.
 
-#### Distant Power
+### Distant Power
 When you cast a power that has a range of 5 feet or greater, you can spend 1 additional force point to double the range of the power.
 
 Alternatively, when you cast a power that has a range of touch, you can spend 1 additional force point to make the range of the power 30 feet.
 
-#### Extended Power
+### Extended Power
 When you cast a power that has a duration of 1 minute or longer, you can spend 1 additional force point to double its duration, to a maximum duration of 24 hours.
 
-#### Heightened Power
+### Heightened Power
 When you cast a power that forces a creature to make a saving throw to resist its effects, you can spend 3 additional force points to give one target of the power disadvantage on its first saving throw made against the power.
 
-#### Improved Power
+### Improved Power
 When you roll damage for a power, you can spend 1 additional force point to reroll a number of the damage dice up to your Wisdom or Charisma modifier (your choice, minimum of one). You must use the new rolls.
 
 You can use Improved Power even if you have already used a different Force-Empowered Casting option during the casting of the power.
 
-#### Lingering Power
+### Lingering Power
 When you cast a power that requires concentration to maintain you can choose to spend 3 additional force points. If you do, when you lose concentration on the power, the power will not end until the end of your next turn.
 
-#### Pinpoint Power 
+### Pinpoint Power 
 When you cast a power that allows you to force creatures in an area to make a saving throw you can instead spend 1 force point and make a ranged force attack against a single target that would be in the range. On a hit the target suffers the effects as though they failed their saving throw.
 
-#### Quickened Power
+### Quickened Power
 When you cast a power that has a casting time of 1 action, you can spend 2 additional force points to change the casting time to 1 bonus action for this casting.
 
-#### Refocused Power 
+### Refocused Power 
 When you are forced to make a Constitution saving throw to maintain concentration on a power you can use your reaction and spend 2 force points to automatically succeed on the saving throw.
 
 You can use Refocused Power even if you have already used a different Force-Empowered Casting option during the casting of the power.
 
-#### Seeking Power
+### Seeking Power
 If you miss with a force power that calls for an attack roll, you can spend 2 force points to reroll the attack. You must use the new roll.
 
 You can use Seeking Power even if you have already used a different Force-Empowered Casting option during the casting of the power.
 
-#### Twinned Power
+### Twinned Power
 When you cast a power that can only have one target and doesn't have a range of self, you can spend a number of additional force points equal to the power's level to choose a second target in range with the same power (1 force point if the power is at-will).
