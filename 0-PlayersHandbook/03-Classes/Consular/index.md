@@ -198,3 +198,8 @@ You can use Seeking Power even if you have already used a different Force-Empowe
 
 ### Twinned Power
 When you cast a power that can only have one target and doesn't have a range of self, you can spend a number of additional force points equal to the power's level to choose a second target in range with the same power (1 force point if the power is at-will).
+
+___
+
+## Consular Traditions
+Different consulars select different traditions, called Ways, to follow as they hone their powers. Your tradition grants you features at 3rd, 6th, 10th, 14th, and 18th level.
