@@ -4,7 +4,7 @@ parent: Species
 grand_parent: Player's Handbook
 ---
 
-> ## Bith
+> # Bith
 > 
 > #### Visual Characteristics
 > 
@@ -28,15 +28,15 @@ grand_parent: Player's Handbook
 
 <img src='../../../zzImages/Species/Bith.png' style='float:right; float:top; width:200px;'>
 
-### Biology and Appearance
+## Biology and Appearance
 Bith are craniopods with pale pink, yellow, or green skin, large heads, large lidless eyes, toeless feet, and long fingers. Their thumb and small finger were both fully opposable. The bith's internal systems are different from most humanoids, as the bith have only one lung, and exhale through their skin. Bith also lack a proper nose, instead having highly sensitive olfactory organs hidden in the skin-flaps of their cheeks.
 
 The other bith senses are also acute. Bith can sense the tonal qualities of sound as well as other species sensed colors. Their eyes, as big as a Menahuun's, can see microscopic details of nearby objects, but are extremely nearsighted as a result. An interesting side effect of their incredible sensors is the effect of sonic grenades, or screamers, on them. It is described as causing their heads to explode. Similarly, bith have high manual dexterity which helps them manipulate fine tools, though their physical prowess with gross motor skills was only average.
 
-### Society and Culture
+## Society and Culture
 Bith are one of the galaxy's most ancient civilizations, with a history going back millions of years. This antiquity garners respect in certain quarters, such as among the Gree, who gave them more respect than other, "younger" species. Their society is highly regimented, with everything from mate selection to political leadership controlled by sophisticated computer programs.
 
-### Names
+## Names
 Bith names are quite diverse. Some names look complicated and difficult to pronounce, while others are quite simple. 
 
 **Male Names.** Fedu, Jenkiss, Kabadons, Ph'teumkiass 
@@ -45,7 +45,7 @@ Bith names are quite diverse. Some names look complicated and difficult to prono
 
 **Surnames.** D'intes, Hern, K'sarorn, Nimum, Rumo
 
-### Bith Traits
+## Bith Traits
 As a bith, you have the following special traits.
 
 ***Ability Score Increase.*** Your Intelligence score increases by 2, and your Dexterity score increases by 1.
