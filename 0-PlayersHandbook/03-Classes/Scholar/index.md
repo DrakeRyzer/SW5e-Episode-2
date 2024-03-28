@@ -1,13 +1,13 @@
 ---
-title:
-parent:
-grand_parent:
+title: Scholar
+parent: Classes
+grand_parent: Player's Handbook
 has_children: true
 ---
 
 # Scholar
 
-<img src='../../../' style='float:right; width:400px;'>
+<img src='../../../zzImages/Classes/scholar_01.png' style='float:right; width:400px;'>
 
 An overwhelming horde of tusken raiders bears down on a</span> chiss and her fellow adventurers. She gives the order and her allies unleash a single coordinated attack cutting deep into their lines. Under her command the enemy is quickly routed against all odds, all according to plan.
 
