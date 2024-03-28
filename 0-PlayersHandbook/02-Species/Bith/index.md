@@ -48,28 +48,28 @@ Bith names are quite diverse. Some names look complicated and difficult to prono
 ## Bith Traits
 As a bith, you have the following special traits.
 
-***Ability Score Increase.*** <br> Your Intelligence score increases by 2, and your Dexterity score increases by 1.
+***Ability Score Increase*** <br> Your Intelligence score increases by 2, and your Dexterity score increases by 1.
 
-***Age.*** <br> Bith reach adulthood in their late teens and live less than a century.
+***Age*** <br> Bith reach adulthood in their late teens and live less than a century.
 
-***Alignment.*** <br> Biths' benevolent nature causes them to tend toward the light side, though there are exceptions.
+***Alignment*** <br> Biths' benevolent nature causes them to tend toward the light side, though there are exceptions.
 
-***Size.*** <br> Bith typically stand 5 to 6 feet tall and generally weigh about 120 lbs. Regardless of your position in that range, your size is Medium.
+***Size*** <br> Bith typically stand 5 to 6 feet tall and generally weigh about 120 lbs. Regardless of your position in that range, your size is Medium.
 
-***Speed.*** <br> Your base walking speed is 30 feet.
+***Speed*** <br> Your base walking speed is 30 feet.
 
-***Detail Oriented.*** <br> You are practiced at scouring for details. You have advantage on Intelligence (Investigation) checks within 5 feet.
+***Detail Oriented*** <br> You are practiced at scouring for details. You have advantage on Intelligence (Investigation) checks within 5 feet.
 
-***Keen Hearing and Smell.*** <br> You have advantage on Wisdom (Perception) checks that involve hearing or smell.
+***Keen Hearing and Smell*** <br> You have advantage on Wisdom (Perception) checks that involve hearing or smell.
 
-***Musician.*** <br> You are proficient in one musical instrument of your choice.
+***Musician*** <br> You are proficient in one musical instrument of your choice.
 
-***Programmer.*** <br> Whenever you make an Intelligence (Technology) check related to computers, you are considered to have expertise in the Technology skill.
+***Programmer*** <br> Whenever you make an Intelligence (Technology) check related to computers, you are considered to have expertise in the Technology skill.
 
-***Sonic Sensitivity.*** <br> Your powerful sense of hearing makes you especially vulnerable to deafening sounds. You have disadvantage on saving throws against effects that would deal sonic damage (explained in chapter 9).
+***Sonic Sensitivity*** <br> Your powerful sense of hearing makes you especially vulnerable to deafening sounds. You have disadvantage on saving throws against effects that would deal sonic damage (explained in chapter 9).
 
-***Trance.*** <br> You only need 3 hours of sleep during a long rest to gain its benefits, instead of 6. Additionally, if your long rest would be interrupted, you only need to complete the long rest instead of restarting it to gain its benefits.
+***Trance*** <br> You only need 3 hours of sleep during a long rest to gain its benefits, instead of 6. Additionally, if your long rest would be interrupted, you only need to complete the long rest instead of restarting it to gain its benefits.
 
-***Languages.*** <br> You can speak, read, and write Galactic Basic, Bith, and one more language of your choice.
+***Languages*** <br> You can speak, read, and write Galactic Basic, Bith, and one more language of your choice.
 
 <!--- <img src='https://www.gmbinder.com/images/0VxWnHw.png' style='position:absolute;top:58px;right:150px;width:192px;transform:scaleX(-1);z-index:1000' /> --->
