@@ -1,3 +1,10 @@
+---
+title: Cyclone Approach
+parent: Berserker
+grand_parent: Classes
+has_children: true
+---
+
 ## Cyclone Approach
 
 <img src='../../../../zzImages/Classes/berserker_cyclone.png' style='float:right; width:400px;'>
