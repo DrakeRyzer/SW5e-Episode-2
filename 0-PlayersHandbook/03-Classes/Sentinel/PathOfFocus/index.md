@@ -6,9 +6,10 @@ has_children: true
 ---
 
 ## Path of Focus
-The ways of the Force can reveal themselves to a sentinel through intense concentration and, most importantly, focus. Those sentinels who follow the Path of Focus use debilitating bursts of lightsaber strikes and force powers to exhaust their foes, crushing any hopes they had of mounting an effective defense.
 
 <img src='../../../../zzImages/Classes/sentinel_focus.png' style='float:right; width:400px;'>
+
+The ways of the Force can reveal themselves to a sentinel through intense concentration and, most importantly, focus. Those sentinels who follow the Path of Focus use debilitating bursts of lightsaber strikes and force powers to exhaust their foes, crushing any hopes they had of mounting an effective defense.
 
 ### Focused Burst
 _**Path of Focus:** 3rd level_<br>
