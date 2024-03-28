@@ -46,7 +46,7 @@ You can use this feature five times. You gain an additional use at 17th level. Y
 _**Armstech Engineering:** 18th level_<br>
 When you use your Targeting Matrix feature, and the tech power would affect more than one creature, you can instead attack each affected creature that would be in the range of the power. Make a separate attack roll for each target. On a hit, each target suffers the effects as though they failed their saving throw.
 
-<!--- <img src='https://www.gmbinder.com/images/96P54SK.png' style='position:absolute;bottom:14px;right:-80px;width:685px;z-index:1000;transform:scaleX(-1)' /> --->
+___
 
 ## Armstech Modifications
 The modifications are presented in alphabetical order.
