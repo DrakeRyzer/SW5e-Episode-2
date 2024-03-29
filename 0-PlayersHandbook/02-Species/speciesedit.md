@@ -1,10 +1,3 @@
----
-title: 
-parent: Species
-grand_parent: Player's Handbook
----
-
-
 # Bith
 
 #### Visual Characteristics
