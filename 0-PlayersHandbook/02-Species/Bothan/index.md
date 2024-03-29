@@ -4,7 +4,7 @@ parent: Species
 grand_parent: Player's Handbook
 ---
 
-## Bothan
+# Bothan
 
 #### Visual Characteristics
 
@@ -28,15 +28,15 @@ grand_parent: Player's Handbook
 
 <img src='../../../zzImages/Species/Both.png' style='float:right; float:top; width:200px;'>
 
-### Biology and Appearance
+## Biology and Appearance
 Bothans are a short species of furry humanoids. Bothans are covered in fur which shifted in response to their emotional state by way of gentle ripplings. It is this trait, named Wrendui, that betrays them when members of their kind intend to be duplicitous in their dealings with others. They possess tapered pointed ears, and both males and females were known to sport beards. 
 
 Bothans are able to interbreed with the other species, though it is rare that they do so. Such hybrids somewhat resembled baseline humans with haunches, hooves, fur, pointed ears and a long tail.
 
-### Society and Culture
+## Society and Culture
 Bothan culture is guided by the philosophy and principles from the ancient text known as The Way, written by Golm Fervse'dra. In this "Bothan Way", the pursuit of power and influence is paramount. Thus, individual bothans put their own political and economic success above all other concerns, and as a species, bothans put their own advancement ahead of other intergalactic interests. The volume of backstabbing, subtle character assassination and political maneuvering in bothan society is dizzying, and results in many species stereotyping bothans as untrustworthy. In fact, most bothans are habitually paranoid, believing that anyone who's not working with them, is working against them. In times of crisis, the focus of bothan society shifts to a survivalist state known as "ar'krai". When engaged in ar'krai, all fit bothans volunteer to defend their species from impending extinction. 
 
-### Names
+## Names
 Male bothan names are often trickey while female's are soft. Surnames are familial.
 
 **Male Names.** Garc, Hibriak, Nith, Tramom, Ventagt 
@@ -45,7 +45,7 @@ Male bothan names are often trickey while female's are soft. Surnames are famili
 
 **Surnames.** Bwif'livi, Gra'kit, Hia'faitu, Main'dil
 
-### Bothan Traits
+## Bothan Traits
 As a bothan, you have the following special traits.
 
 ***Ability Score Increase.*** <br> Your Intelligence score increases by 2, and your Dexterity score increases by 1.
