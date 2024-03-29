@@ -7,7 +7,7 @@ nav_order: 2
 
 ## Species
 
-<img src='../../../zzImages/Species/000_species.png' style='float:right; float:top; width:400px;'>
+<img src='../../zzImages/Species/000_species.png' style='float:right; float:top; width:400px;'>
 
 A visit to any of the great cities in the worlds of *Star Wars* overwhelms the senses. Voices chatter in countless different languages. The smells of cooking in dozens of different cuisines mingle with the odors of crowded streets and poor sanitation. Buildings in myriad architectural styles display the diverse origins of their inhabitants. 
 And the people themselves-people of varying size, shape, and color, dressed in a dazzling spectrum of styles and hues-represent many different species, from diminutive bothans and stalwart cereans to majestic twi'leks and towering wookiees, mingling among a variety of human ethnicities.
