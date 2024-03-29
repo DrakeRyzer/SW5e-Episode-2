@@ -4,7 +4,7 @@ parent: Species
 grand_parent: Player's Handbook
 ---
 
-## Cerean
+# Cerean
 
 #### Visual Characteristics
 
@@ -28,13 +28,13 @@ grand_parent: Player's Handbook
 
 <img src='../../../zzImages/Species/Cerean.png' style='float:right; float:top; width:200px;'>
 
-### Biology and Appearance
+## Biology and Appearance
 The Cereans' enlarged skulls, extending above their foreheads, house complex binary brains, provided with sufficient blood by an extra heart in their heads. The binary structure of Cerean thinking helps them to ponder two sides of an issue at once. It also enables them to process information and solve problems rapidly and provides a highly advanced capacity for concentration and meditation. Because of their thoughtful nature, they tend to be calm, rational and analytical, preferring peaceful philosophies and a lifestyle which works in harmony with nature. Though the quick-thinking Cereans have equally quick reflexes, they are commonly not as well coordinated as humans. 
 
-### Society and Culture
+## Society and Culture
 Cereans developed a low-tech society on their homeworld and prefer to live in isolation from the wider galaxy. Preserving the natural beauty of Cerea, the planet is home to many Outsider Citadels where it is permissible to use offworld technology, though it could not be removed from the Citadel. Meditation is a core part of a Cerean's daily rituals, with many employing specially-forged kasha crystals as a focusing tool. By focusing one's thoughts while in contact with such crystals, distractions are eliminated, creating an exceptional meditation environment. Cerean Jedi sometimes incorporate these crystals into their lightsabers, providing great focus, even during intense physical combat.
 
-### Names
+## Names
 Cerean male first names are often hyphenated, while females are not. Surnames are familial.
 
 **Male Names.** Ji-Cheelia, Ki-Adi, Pick-toh, Sauli-Fanz
@@ -43,7 +43,7 @@ Cerean male first names are often hyphenated, while females are not. Surnames ar
 
 **Surnames.** Codux, Emkom, Kyureft, Lonnik, Mundi
 
-### Cerean Traits
+## Cerean Traits
 As a cerean, you have the following special traits.
 
 ***Ability Score Increase.*** <br> Your Intelligence score increases by 2, and your Wisdom score increases by 1.
