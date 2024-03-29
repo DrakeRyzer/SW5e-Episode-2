@@ -26,6 +26,8 @@ grand_parent: Player's Handbook
 |***Homeworld***|Cathar|
 |***Language***|Catharese|
 
+<img src='../../../zzImages/Species/Cathar.png' style='float:right; float:top; width:200px;'>
+
 ### Biology and Appearance
 The Cathar have fur-covered bodies with thick manes as well as prominent, retractable claws that can deliver powerful killing attacks on foes and prey. Their bodies also possess rapid healing abilities. These traits make them the perfect hand-to-hand specialists.
 
