@@ -1,6 +1,6 @@
 ---
 title: Fireteam Specialist (Companion)
-parent: Figther
+parent: Fighter
 grand_parent: Archetypes
 ---
 
