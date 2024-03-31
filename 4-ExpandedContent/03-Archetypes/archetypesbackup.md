@@ -6,7 +6,7 @@ grand_parent: Archetypes
 
 # Addicted Approach
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 For some, the consumption of substances is the entirety of their life. For berserkers of the Addicted Approach, substances cause their fury to burn stronger and deeper, granting significant benefits.
 
@@ -44,7 +44,7 @@ grand_parent: Archetypes
 
 # Armored Approach
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 Many berserkers forgo armor and rely on their own fortitude. Berserkers of the Armored Approach, however, embrace the use of armor. Each one customizes their own suit of armor to be used both defensively and offensively, so that the suit becomes an extension of the berserker's own might and fury.
 
@@ -105,7 +105,7 @@ grand_parent: Archetypes
 
 # Beastmaster Approach
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 Many berserkers feel a primal attunement to nature. For berserkers of the Beastmaster Approach, that attunement manifests itself in bestial marks and manifestations that grant the berserker newfound abilities.
 
@@ -151,7 +151,7 @@ grand_parent: Archetypes
 
 # Beastmaster Approach (Companion)
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 Many berserkers feel a primal attunement to nature. For berserkers of the Beastmaster Approach, that attunement manifests itself in a bond with a beast companion that accompanies a berserker on his journey.
 
@@ -209,7 +209,7 @@ grand_parent: Archetypes
 
 # Bloodstorm Approach
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 The Bloodstorm Approach is said to have originated from the ancient wookiee Hroufrasnooohn clan (which loosely translates to Bloodstorm in Galactic Basic), whose warriors performed gravity-defying feats with their flying vibroaxes through a combination of unorthodox techniques and a mystical belief in their own abilities. A berserker who follows this approach can hurl their devastating weapons at enemies with such power and skill that it completely blurs the line between melee and ranged combat.
 
@@ -256,7 +256,7 @@ grand_parent: Archetypes
 
 # Brawling Approach
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 Most berserkers require weapons. For berserkers of the Brawling Approach, however, everything is their weapon.
 
@@ -322,7 +322,7 @@ grand_parent: Archetypes
 
 # Champion Approach
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 Some berserkers revel in battle for battle's sake. For berserkers of the Champion Approach, this revelry is the goal to which they constantly strive.
 
@@ -413,7 +413,7 @@ grand_parent: Archetypes
 
 # Frenzied Approach
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 For some berserkers, rage is a means to an end—that end being violence. The Frenzied Approach is that of untrammeled fury, slick with blood. As you enter the berserker's rage, you thrill in the chaos of battle, heedless of your own health or well-being.
 
@@ -456,7 +456,7 @@ grand_parent: Archetypes
 
 # Industrial Approach
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 While some berserkers are content to surrender to their rage, others prefer a more tactful approach. Berserkers of the Industrial Approach augment their rage with the versatility of technology, adding elemental explosions to their already fearsome arsenal.
 
@@ -563,7 +563,7 @@ grand_parent: Archetypes
 
 # Precision Approach
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 Some berserkers have learned to channel their rage into a method of increasing their focus and precision to supernatural levels. Those berserkers who choose the Precision Approach hone their rage to a fine point, becoming agile warriors who ruthlessly dispatch their foes.
 
@@ -600,7 +600,7 @@ grand_parent: Archetypes
 
 # Warchief Approach
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 For some berserkers, it is their duty or birthright to lead their tribe and kin to battle and victory. The Warchief Approach is one forged from alliances, bonds, and strategy. In combat, your rages are less mindless, and more focused. Ignoring the distractions of unimportant events, your attention hones in on the battlefield and how best to direct and control it. You guide your allies' strikes, and your presence is enough to wash away their fatigue.
 
@@ -644,7 +644,7 @@ grand_parent: Archetypes
 
 # Way of Confluence
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 The Force binds us, creating an intangible bridge connecting all living things. Those consulars who follow the Way of Confluence master this power, manipulating those connections to both sustain and torment.
  
@@ -687,7 +687,7 @@ grand_parent: Archetypes
 
 # Way of Endurance
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 The Force manifests in myriad ways; while some use the Force to manipulate the world around them, others use it to enhance themselves. Those consulars who follow the Way of Endurance channel the Force to allow them to overcome and reflect the most grievous of injuries.
  
@@ -742,7 +742,7 @@ grand_parent: Archetypes
 
 # Way of Manipulation
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 The power of the Force is both vast and diverse, with uses varying drastically based on their wielder. Those consulars who follow the Way of Manipulation learn to control their weapons with the Force, maneuvering them across the battlefield.
 
@@ -794,7 +794,7 @@ grand_parent: Archetypes
 
 # Way of Negation
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 Some force users seek mastery over the fundamentals of energy manipulation, known as tutaminis. Those consulars who follow the Way of Negation harness this power to limit the havoc that other force-wielders might wreak.
 
@@ -844,7 +844,7 @@ grand_parent: Archetypes
 
 # Way of the Seer
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 The Force guides us in innumerable ways, often manifesting as visions. Those consulars who follow the Way of Seer attempt to harness these visions in an attempt to work towards the best possible future, as they see it.
 
@@ -893,7 +893,7 @@ grand_parent: Archetypes
 
 # Way of Technology
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 While many Forcewielders eschew the use of technology, other choose to embrace it. Those consulars who follow the Way of Technology pair their mastery of the Force with the versatility of technology, applying the knowledge in tandem to perform unseen feats.
  
@@ -938,7 +938,7 @@ grand_parent: Archetypes
 
 # Way of Telekinetics
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 The consular knows how to manipulate the essence of the surrounding elements with the power of the Force. Those consulars who follow the Way of Telekinetics create torrential gusts of telekinetic energy, forming a potent combination that can pummel even the toughest adversaries into submission.
 
@@ -987,7 +987,7 @@ grand_parent: Archetypes
 
 # Way of Tutelage  
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 With the Force, knowledge is most often passed from a master to an apprentice. Those consulars who follow the Way of Tutelage know the strength of working together exceeds that of working alone.
 
@@ -1051,7 +1051,7 @@ grand_parent: Archetypes
 
 # Artificer Engineering
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 Those engineers who choose the Artificer Engineering discipline focus on building and modifying lightsabers, while tapping into the latent presence of the Force in these lightsaber crystals.
 
@@ -1220,7 +1220,7 @@ grand_parent: Archetypes
 
 # Astrotech Engineering
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 Those engineers who choose the Astrotech Engineering discipline focus on utilizing their vast knowledge of droid technology to confuse, confound, and destroy enemy tech, droids and constructs.
 
@@ -1442,7 +1442,7 @@ grand_parent: Archetypes
 
 # Astrotech Engineering (Companion)
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 Those engineers who choose the Astrotech Engineering discipline focus on crafting and upgrading their droid companions.
 
@@ -1499,7 +1499,7 @@ grand_parent: Archetypes
 
 # Audiotech Engineering
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 Those engineers who choose the Audiotech Engineering discipline focus on using a specially modified instrument to use music to assist their allies and disrupt their enemies.
 
@@ -1701,7 +1701,7 @@ grand_parent: Archetypes
 
 # Biochem Engineering
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 Those engineers who choose the Biochem Engineering discipline focus on utilizing their vast knowledge of medicine and chemistry to supply allies with potent healing and enemies with debilitating poisons and acids.
 
@@ -1882,7 +1882,7 @@ grand_parent: Archetypes
 
 # Biotech Engineering
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 Those engineers who choose the Biotech Engineering discipline focus on the skill of modifying and upgrading the body through the use of cybernetic limbs and implants.
 
@@ -2099,7 +2099,7 @@ grand_parent: Archetypes
 
 # Construction Engineering
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 Those engineers who choose the Construction Engineering discipline create portable, pre-built battlements that allow them to command the battlefield.
 
@@ -2185,7 +2185,7 @@ Your ability with your portable structures has reached untold superiority. You g
 
  Cybertech Engineering
 
-<!--- <img src='../../../../../zzImages/Classes/Cybertech.png' style='float:right; width:300px;'> --->
+<!--- <img src='../../../../zzImages/Classes/../zzImages/Classes/Cybertech.png' style='float:right; width:300px;'> --->
 
 Those engineers who choose the Cybertech Engineering discipline focus on the ability to enhance their primary wristpad in order to augment and empower their techcasting abilities.
 
@@ -2570,7 +2570,7 @@ grand_parent: Archetypes
 
 # Adept Specialist
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 Those fighters who choose to become Adept Specialists tap into a latent Force-sensitivity to augment their martial prowess, blending the two to accelerate their bodies and blows. An adept speeds across the battlefield, attacking opponents in a flurry of blows before dashing off again.
 
@@ -2679,7 +2679,7 @@ grand_parent: Archetypes
 
 # Demolitions Specialist
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 Those fighters who choose to become Demolitions Specialists are experts in using explosives in combat. They have an explosive for every situation, whether it be breaching a fortified bunker, taking down a walker, or simply demonstrating that in combat, standing too close to your squadmates can be fatal.
 
@@ -2727,7 +2727,7 @@ grand_parent: Archetypes
 
 # Enhancement Specialist
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 Those fighters who choose to become Enhancement Specialists learn to apply their technological prowess to their blasters. With their deep understanding of both their weapon and how to manipulate its ammunition on the fly, they can often turn the tides of a battle with a single shot.
 
@@ -2843,7 +2843,7 @@ grand_parent: Archetypes
 
 
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 
 Those fighters who choose to become Exhibition Specialists can't help but show off. Even where there isn't an audience, these warriors take command of the battlefield as though it were a stage.
@@ -2910,7 +2910,7 @@ grand_parent: Archetypes
 
 # Fireteam Specialist
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 
 
@@ -2998,7 +2998,7 @@ grand_parent: Archetypes
 
 # Fireteam Specialist (Companion)
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 
 
@@ -3095,7 +3095,7 @@ grand_parent: Archetypes
 
 # Heavy Weapons Specialist
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 Some manned instruments of war require their user to have superior physical prowess to overcome their weight and encumbrance. Those fighters who choose to become Heavy Weapons Specialists use their powerful bodies, and powerful armaments, to overwhelm their foes.
 
@@ -3139,7 +3139,7 @@ grand_parent: Archetypes
 
 # Mounted Specialist
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 Those fighters who choose to become Mounted Specialists excel at mounted combat. Mounted Specialists are most dangerous from the seat of a speeder or saddle of a varactyl, though they can hold their own from the ground. Their versatility often has them leading the charge or protecting the team.
 
@@ -3196,7 +3196,7 @@ grand_parent: Archetypes
 
 # Praetorian Specialist
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 Those fighters who choose to become Praetorian Specialists seek perfection of both body and mind. These warriors master the art of warfare, and are often sought as bodyguards for the galaxy's elite. They are engines of destruction and resilience, able to fight on to their last breath.
 
@@ -3246,7 +3246,7 @@ grand_parent: Archetypes
 
 # Totem Specialist
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 Those fighters who become Totem Specialists tap into a primal attunement to the Force, applying tribal ceremony to create powerful talismans that enhance their abilities.
 
@@ -3346,7 +3346,7 @@ grand_parent: Archetypes
 
 # Aqinos Form
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 Aqinos Form, also know as Adaptation Form, is named after a Jedi Master who sought to merge technology with Force use. Those guardians who focus on Aqinos Form adopt these tenets to employ clever exploits using technology and the aid of a droid companion.
 
@@ -3415,7 +3415,7 @@ grand_parent: Archetypes
 
 # Ataru Form
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 Ataru Form, also know as Aggression Form, is a kinetically active form that relies on speed, acrobatics, and power. Those guardians who focus on Ataru Form utilize high energy tactics to confuse and distract their opponents, quickly moving about the battlefield.
 
@@ -3472,7 +3472,7 @@ grand_parent: Archetypes
 
 # Jar'Kai Form
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 Jar'Kai Form, also known as Domination Form, utilizes two weapons to overwhelm their foes. Those guardians who focus on Jar'Kai Form know that two weapons offer greater versatility than one, and capitalize on the twin angles from which they attack to subdue their enemies.
 
@@ -3528,7 +3528,7 @@ grand_parent: Archetypes
 
 # Juyo/Vaapad Form
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 Juyo/Vaapad Form, also known as Ferocity Form, revels in the satisfaction of battle and victory. Those guardians who focus on Juyo/Vaapad Form channel their emotions into their fighting, making heavy, sweeping strikes.
 
@@ -3611,7 +3611,7 @@ grand_parent: Archetypes
 
 # Shii-Cho Form
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 Shii-Cho Form, also known as Determination Form, uses wild, unpredictable attacks designed to distract and disarm their foes. Those guardians who focus on Shii-Cho Form make seemingly random, yet deliberate, attacks to knock their opponents off-balance.
 
@@ -3667,7 +3667,7 @@ grand_parent: Archetypes
 
 # Sokan Form
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 Sokan Form, also known as Persistence Form, uses determined movements followed by swift strokes to keep their opponents' footing unsteady. Those guardians who focus on Persistence Form make use of the terrain, trying to maneuver their opponents into vulnerable areas before dispatching them.
 
@@ -3727,7 +3727,7 @@ grand_parent: Archetypes
 
 # Trakata Form
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 Trakata Form, also known as Deception Form, capitalizes on a lightweapon's ability to quickly be toggled on and off. Those guardians who focus on Trakata Form perform dazzling tricks with their lightweapon, confusing their opponents before dispatching them.
 
@@ -3783,7 +3783,7 @@ grand_parent: Archetypes
 
 # Vonil/Ishu Form
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 
 
@@ -3857,7 +3857,7 @@ grand_parent: Archetypes
 
 
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 
 Vonil/Ishu Form, also known as Unity Form, focuses on fighting in tandem with a partner as a warpair. Those guardians who focus on Vonil/Ishu Form utilize teamwork to move swiftly, strike quickly, and protect each other. 
@@ -3949,7 +3949,7 @@ grand_parent: Archetypes
 
 # Ysannanite Form
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 Ysannanite Form, also know as the Unorthodox Form, pairs the use of lightsaber with blasters, seamlessly blending the two weapons to perform impressive feats. Those guardians who focus on the Ysannanite Form are able to cut enemies down as efficiently with blaster as with blade.
 
@@ -4011,7 +4011,7 @@ grand_parent: Archetypes
 
 # Aing-Tii Order
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 Monks of the Aing-Tii Order blend an attunement to the Force with their supreme focus to become a blur of motion in the heat of battle.
 
@@ -4105,7 +4105,7 @@ grand_parent: Archetypes
 
 # Jal Shey Order
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 Monks of the Jal Shey order, driven by the pursuit of knowledge, maintain one of the most well-respected and heavily guarded repositories of history and knowledge across the galaxy: the Archives of the Jal Shey. Here, young folk of all species seeking the clarity of truth and the strength of knowledge pledge to learn the arts of seeking enlightenment by understanding the world around them, and mastering the techniques to defend it. To become a Jal Shey monk is to give one's self to the quest for unveiling the deepest mysteries of the galaxy, to bring light to the secrets of the dark, and guard the most powerful and dangerous of truths.
   
@@ -4153,7 +4153,7 @@ grand_parent: Archetypes
 
 # Kage Order
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 Monks of the Kage Order, known as Kage warriors, have mastered fighting in darkness, using that which others fear as a weapon against them. Kage warriors learn tricks to create darkness where none exists, fighting using their intuition rather than relying on sight.
 
@@ -4193,7 +4193,7 @@ grand_parent: Archetypes
 
 # Kyuzo Order
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 Monks of the Kyuzo Order turn weapon throwing into a true art form. Inspired by the skill of native kyuzo wielding their war helmets as both shield and weapon, these monks utilize any thrown object they can find to defend themselves and others while they attack enemies from angles both surprising and devastating.
 
@@ -4230,7 +4230,7 @@ grand_parent: Archetypes
 
 # Kro Var Order
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 Monks of the Kro Var Order—known as shapers—utilize a unique power to bend the four elements to their will, creating effects as small as a floating flame to quakes that sunder the earth.
 
@@ -4422,7 +4422,7 @@ grand_parent: Archetypes
 
 # Rakatan Order
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 
 
@@ -4526,7 +4526,7 @@ grand_parent: Archetypes
 
 # Teras Kasi Order
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 
 
@@ -4583,7 +4583,7 @@ grand_parent: Archetypes
 
 # Trickster Order
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 Monks of the Trickster Order embody the archetypal role of the "trickster"— one who seemingly bumbles their way into good fortune. They employ a unique fighting style composed of slips, trips, and falls to confuse and frustrate their enemies to no end. Whether your movements are actual foibles on your part or calculated strokes, they will surely leave others guessing long after your time is past.
 
@@ -4624,7 +4624,7 @@ grand_parent: Archetypes
 
 # Whills Order  
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 Monks of the Whills Order hold the secrets of the Force sacred, and dedicate their lives to defending ancient  knowledge of the Force and its artifacts. They master the use of ranged weapons, often crafting their own weapons in respectful admiration of the Jedi tradition of crafting lightweapons.
 
@@ -4668,7 +4668,7 @@ grand_parent: Archetypes
 
 # Bolstering Practice
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 Those operatives who choose the Bolstering Practice use precise strikes and brilliant use of small unit tactics to overwhelm enemies through superior teamwork.
 
@@ -4727,7 +4727,7 @@ grand_parent: Archetypes
 
 # Disabling Practice
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 Those operatives who choose the Disabling Practice utilize a variety of pushes, pulls, weight shifts, and joint locks to immobilize their opponent. They use these techniques to manipulate their opponent, moving them across the battlefield before incapacitating them.
 
@@ -4797,7 +4797,7 @@ grand_parent: Archetypes
 
 # Gunslinger Practice
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 
 
@@ -4865,7 +4865,7 @@ grand_parent: Archetypes
 
 # Maverick Practice
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 
 
@@ -4962,7 +4962,7 @@ grand_parent: Archetypes
 
 # Performance Practice
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 Some operatives choose to master finesse and timing through performance art. Those operatives who choose the Performance Practice become skilled performers who prove especially deadly in close combat, able to find the rhythm of an attacker's strikes as easily as any song.
 
@@ -5029,7 +5029,7 @@ grand_parent: Archetypes
 
 # Pugnacity Practice
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 Those operatives who choose the Pugnacity Practice apply an atypical versatility to their actions, comfortably dispatching foes from afar or face to face.
 
@@ -5095,7 +5095,7 @@ grand_parent: Archetypes
 
 # Ruffian Practice
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 Those operatives who choose the Ruffian Practice use rough-and-tumble tactics to handle any fight, big or small. They incite chaos and make devious moves that keep their enemies reeling.
 
@@ -5164,7 +5164,7 @@ grand_parent: Archetypes
 
 # Saboteur Practice
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 Those operatives who choose the Saboteur Practice enhance their fine-honed skills of stealth and agility with tech, using advanced technology with the aid of a tracker droid to sustain a longer assault.
 
@@ -5286,7 +5286,7 @@ grand_parent: Archetypes
 
 # Sawbones Practice
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 Those operatives who choose the Sawbones Practice have studied the humanoid body on a more intimate level than other operatives. While others may know where best to stab in order to kill, you also know how to repair the wounds you inflict, as well as how to make them even deeper. You delve into the secrets of the body, learning as much medical knowledge as you can get your hands on, regardless of how dirty the work becomes.
 
@@ -5356,7 +5356,7 @@ grand_parent: Archetypes
 
 # Scrapper Practice
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 Those operatives who choose the Scrapper Practice don't have the time or patience for the fair fight. They utilize close-quarters blaster combat blended with underhanded tactics to surprise and disable their foes.
 
@@ -5420,7 +5420,7 @@ grand_parent: Archetypes
 
 # Shadow Killer Practice
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 
 
@@ -5494,7 +5494,7 @@ grand_parent: Archetypes
 
 # Archaeologist Pursuit
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 
 
@@ -5648,7 +5648,7 @@ grand_parent: Archetypes
 
 # Chef Pursuit
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 
 
@@ -5762,7 +5762,7 @@ grand_parent: Archetypes
 
 # Detective Pursuit
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 
 
@@ -5847,7 +5847,7 @@ grand_parent: Archetypes
 
 # Explorer Pursuit
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 
 
@@ -5921,7 +5921,7 @@ grand_parent: Archetypes
 
 # Geneticist Pursuit
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 Throughout the galaxy there exists scientists who focus on unraveling the mysteries contained within the bodies of the divese sentients of the galaxy. Those scholars who choose the Geneticist Pursuit put their knowledge into practice, splicing their own genetic material to become superior beings... or monsters.
 
@@ -6012,7 +6012,7 @@ grand_parent: Archetypes
 
 # Occultist Pursuit
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 
 
@@ -6120,7 +6120,7 @@ grand_parent: Archetypes
 
 # Slicer Pursuit
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 
 
@@ -6263,7 +6263,7 @@ grand_parent: Archetypes
 
 # Zoologist Pursuit
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 
 
@@ -6364,7 +6364,7 @@ grand_parent: Archetypes
 
 # Artillerist Technique
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 
 
@@ -6429,7 +6429,7 @@ grand_parent: Archetypes
 
 # Artillerist Technique (Companion)
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 
 
@@ -6487,7 +6487,7 @@ grand_parent: Archetypes
 
 # Deadeye Technique
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 
 
@@ -6581,7 +6581,7 @@ grand_parent: Archetypes
 
 # Illusionist Technique
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 Among the galaxy you may find the various infiltrators and agents who make ample use of holographic technology to get themselves in and out of danger. Followers of the Illusionist Technique make use of this holographic technology to give themselves an illusory edge in combat.
 
@@ -6629,7 +6629,7 @@ grand_parent: Archetypes
 
 # Inquisitor Technique
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 Across history, there have been those who live to hunt those who wield the Force, be they Jedi or Sith. Followers of the Inquisitor Technique combine technology with force techniques to track down and eliminate force-wielders. For those practitioners of the Force, they are the greatest adversary.
 
@@ -6685,7 +6685,7 @@ grand_parent: Archetypes
 
 # Mastermind Technique
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 Preparation, preparation, preparation. Some scouts are serious students of battle and any creatures they might encounter. Followers of the Mastermind Technique focus on being prepared for any eventuality, and using their breadth of knowledge to gain insights into their enemies.
 
@@ -6736,7 +6736,7 @@ grand_parent: Archetypes
 
 # Mechanist Technique
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 
 
@@ -6831,7 +6831,7 @@ grand_parent: Archetypes
 
 # Mechanist Technique (Companion)
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 
 
@@ -6931,7 +6931,7 @@ grand_parent: Archetypes
 
 # Predator Technique
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 Some scouts work in solitude, while others prefer the strength of a group. Followers of the Predator Technique find power lies with the pack; they distract their prey, while their allies go for the kill.
 
@@ -6982,7 +6982,7 @@ grand_parent: Archetypes
 
 # Teleportation Technique
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 Whether through experimentation or discovery of an ancient technology, followers of the Teleportation Technique have learned to create brief teleportation portals, allowing them to ;maneuver and attack both quickly and unpredictably throughout the battlefield.
 
@@ -7032,7 +7032,7 @@ grand_parent: Archetypes
 
 # Triage Technique
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 With every conflict comes death and destruction. Followers of the Triage Technique excel at keeping their comrades in the fight with quick thinking and fast-acting medicine.
 
@@ -7085,7 +7085,7 @@ grand_parent: Archetypes
 
 # Path of Aggression
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 
 
@@ -7129,7 +7129,7 @@ grand_parent: Archetypes
 
 # Path of Communion
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 Those who master the Force can transcend death, persisting beyond their natural experation. Those sentinels who follow the Path of Communion bond with a Force ghost, developing a symbiotic relationship which alters the way they perceive their surroundings.
 
@@ -7189,7 +7189,7 @@ grand_parent: Archetypes
 
 # Path of Ethereality
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 In the distant reaches of the galaxy obscure knowledge and forgotten secrets of the Force can sometimes be found. While other Force-sensitive may find themselves touched by this secret knowledge of the Force, those sentinels who follow the Path of Ethereality instead find themselves grabbed. Held onto by mysterious aspects of the Force that refuse to let go, these sentinels find themselves able to manipulate the universe around them.
 
@@ -7232,7 +7232,7 @@ grand_parent: Archetypes
 
 # Path of Iron 
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 
 
@@ -7297,7 +7297,7 @@ grand_parent: Archetypes
 
 # Path of Meditation
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 Throughout the Force, there is both symphonic harmony, and discordant chaos. Those sentinels who follow the Path of Meditation embody these concepts, empowering their allies and hindering their enemies through the use of the ancient Force technique of battle meditation.
 
@@ -7349,7 +7349,7 @@ grand_parent: Archetypes
 
 # Path of Synthesis
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 There is power in diversity unknown to those of narrow mind. Those sentinels who follow the Path of Synthesis blend their intricate mastery of the Force with their understanding of technology, creating unique effects to overcome their obstacles.
 
@@ -7412,7 +7412,7 @@ grand_parent: Archetypes
 
 # Path of Tenacity
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 The tenacious are ever mindful that the Force ebbs and flows, and uses this knowledge to great advantage. Those sentinels who follow the Path of Tenacity use their connection to the Force to draw the opposition's attention while also warding off their attacks, serving as an effective bulwark against even the most implacable of foes.
 
@@ -7457,7 +7457,7 @@ grand_parent: Archetypes
 
 # Path of Witchcraft
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 
 
@@ -7521,7 +7521,7 @@ grand_parent: Archetypes
 
 # Path of Witchcraft (Companion)
 
-<img src='../../../../' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
 
 
 
