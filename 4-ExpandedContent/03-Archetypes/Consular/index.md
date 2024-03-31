@@ -2,6 +2,7 @@
 title: Consular
 parent: Archetypes
 grand_parent: Expanded Content
+has_children: true
 ---
 
 # Consular Traditions
