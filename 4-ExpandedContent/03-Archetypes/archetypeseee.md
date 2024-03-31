@@ -1,9 +1,3 @@
----
-title: 
-parent: 
-grand_parent: Archetypes
----
-
 # Addicted Approach
 
 <img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
