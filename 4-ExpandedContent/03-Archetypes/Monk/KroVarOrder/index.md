@@ -6,7 +6,7 @@ grand_parent: Archetypes
 
 # Kro Var Order
 
-<img src='../../../../zzImages/Classes/monk_krovar.png' style='float:right; width:400px;'>
+<!--- no image <img src='../../../../zzImages/Classes/' style='float:right; width:400px;'> --->
 
 Monks of the Kro Var Order—known as shapers—utilize a unique power to bend the four elements to their will, creating effects as small as a floating flame to quakes that sunder the earth.
 
