@@ -1,12 +1,12 @@
 ---
-title: 
-parent: 
+title: Pugnacity Practice
+parent: Operative
 grand_parent: Archetypes
 ---
 
 # Pugnacity Practice
 
-<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
+<img src='../../../../zzImages/Classes/operative_pugnacity.png' style='float:right; width:400px;'>
 
 Those operatives who choose the Pugnacity Practice apply an atypical versatility to their actions, comfortably dispatching foes from afar or face to face.
 
