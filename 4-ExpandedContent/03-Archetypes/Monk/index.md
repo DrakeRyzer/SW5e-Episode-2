@@ -1,5 +1,5 @@
 ---
-title:
+title: Monk
 parent: Archetypes
 grand_parent: Expanded Content
 has_children: true
