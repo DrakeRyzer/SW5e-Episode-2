@@ -1,15 +1,12 @@
 ---
-title: 
-parent: 
+title: Rakatan Order
+parent: Monk
 grand_parent: Archetypes
 ---
 
 # Rakatan Order
 
-<img src='../../../../zzImages/Classes/' style='float:right; width:400px;'>
-
-
-
+<!--- no image available <img src='../../../../zzImages/Classes/' style='float:right; width:400px;'> --->
 
 Monks of the Rakatan Order believe in the harmony of self with technology. They use tech to push themselves beyond their body's natural limits.
 
