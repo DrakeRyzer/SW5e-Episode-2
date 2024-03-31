@@ -1,6 +1,6 @@
 ---
 title: Triage Technique
-parent: Scholar
+parent: Scout
 grand_parent: Archetypes
 ---
 
