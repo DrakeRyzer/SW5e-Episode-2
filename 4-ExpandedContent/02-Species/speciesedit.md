@@ -1,5 +1,10 @@
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Abyssin
+Abyssin
 
 #### Visual Characteristics
 
@@ -22,6 +27,8 @@
 |***Language***|Abyssin|
 
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 The hulking abyssin have long limbs and a single large eye that dominates their foreheads. Typically well-muscled, the abyssin's stooping gait results in a slightly hunched appearance. 
@@ -67,8 +74,13 @@ As an abyssin, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Advozse
+Advozse
 
 #### Visual Characteristics
 
@@ -90,6 +102,8 @@ As an abyssin, you have the following special traits.
 |***Homeworld***|Riflor|
 |***Language***|Advb|
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Advozsec evolved from herbivorous reptile-analogs which fed on the vegetation known to form around Riflor's hot springs. Evolving into a class of reptomammal, advozsec have a single horn at the crown of their heads, four digits on each hand and foot, pointed ears, and large eyes. Advozsec are strictly vegetarian, unable to properly digest meat. The geothermal hot springs that appear on their homeworld forced the species to evolve thick skin in order to survive. The large eyes of the advozsec are adaptations to the clouds of volcanic ash which darken Riflor's skies. 
@@ -138,8 +152,13 @@ As an advozse, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Aing-Tii
+Aing-Tii
 
 #### Visual Characteristics
 
@@ -162,6 +181,8 @@ As an advozse, you have the following special traits.
 |***Language***|Non-verbal communication  via taste, smell, and touch|
 
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 The aing-tii are a species of sentient, toothless mammals who stand on two clawed feet with two spindly arms, each with three large digits. Their bodies are covered in jointed white, bony plates covered in unique painted motifs. The aing-tii head is small and juts out perpendicularly from their chest, featuring two large eyes and six long, thin, green tongues extending from their mouths. They have a long, prehensile tail. The species is incapable of producing sound and conveys information via tasting, smelling and touching each other with their tongues.
@@ -213,8 +234,13 @@ As an aing-tii, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Aleena
+Aleena
 
 #### Visual Characteristics
 
@@ -236,6 +262,8 @@ As an aing-tii, you have the following special traits.
 |***Homeworld***|Aleen|
 |***Language***|Aleena|
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Aleena are short, reptilian bipeds with large eyes and wide mouths full of small, sharp teeth. Aleena's bodies are long compared to their short arms and stubby legs. Warm-blooded reptiles, they possess exceptional reflexes as well as a fast metabolism which allow them to convert food into energy very rapidly in order to escape predators on their harsh home planet. 
@@ -291,8 +319,13 @@ As an aleena, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Anomid
+Anomid
 
 #### Visual Characteristics
 
@@ -315,6 +348,8 @@ As an aleena, you have the following special traits.
 |***Language***|Anomid Sign Language|
 
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Anomid are a species of humanoids with translucent, purple-hued skin that is smooth but wrinkles with age. They have large, slender hands with six fingers on each: two end fingers, two center fingers and two thumbs, with a sharp claw on each. The fingers are paired in twos and slightly spaced apart from the others. The eyes of the anomids are solid, with no visible irises or pupils and have been seen in varying shades of yellow or blue. The anomids have pointed, fin-like ears that protrude from the sides of their heads. Anomid hair is often long and well kept, and is always found in shades of black, gray or white.
@@ -370,8 +405,13 @@ As an anomid, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Anx
+Anx
 
 #### Visual Characteristics
 
@@ -394,6 +434,8 @@ As an anomid, you have the following special traits.
 |***Language***|Anx|
 
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 The anx are a bipedal, reptilian species discernible by their height, their tall crests, and their tails. Originating from a world with higher-than-average gravity, the anx possess a stooped stature. Their heads are tall and blade-shaped, with a soaring crest which acts as a sinus cavity. While their crests change color to reflect their moods, its primary function gives anx a low rumbling voice. An anx's large, muscular tail serves as a counterbalance for running.
@@ -447,8 +489,13 @@ As an anx, you have the following special traits:
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Anzellan
+Anzellan
 
 #### Visual Characteristics
 
@@ -471,6 +518,8 @@ As an anx, you have the following special traits:
 |***Language***|Anzellan|
 
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 The anzellans are a diminutive species hailing from the secluded planet Anzella. Their eyes have floating corneal micro-lenses that allow them to see microscopic details. Anzellans are a bubbly and receptive people. They are a jovial and trusting people that tend to welcome strangers with open arms.
@@ -531,8 +580,13 @@ As an anzellan, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Aqualish
+Aqualish
 
 #### Visual Characteristics
 
@@ -554,6 +608,8 @@ As an anzellan, you have the following special traits.
 |***Homeworld***|Ando|
 |***Language***|Aqualish|
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 An amphibious species native to the planet Ando, the Aqualish people have two facial tusks which curve down over their mouths; a trait which added to their appearance as arachnids. These facial tusks are highly sensitive to heat and cold and are used for cracking open the hard shells of shellfish or burrowing through the swampy loam of their homeworld. Having finned hands and two bulbous black eyes, Aqualish are unable to manipulate most machinery or equipment developed by the galaxy's many species which designed these tools for beings with digits. As a result, Aqualish tend to remain on their homeworld. Aqualish are well known for their hair-trigger tempers that flare without reason.
@@ -606,8 +662,13 @@ As an Aqualish, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Arcona
+Arcona
 
 #### Visual Characteristics
 
@@ -630,6 +691,8 @@ As an Aqualish, you have the following special traits.
 |***Language***|Arconese|
 
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Arcona have anvil-shaped heads, claws, marble-like eyes, and protective skin. Cona is always hot, and has very little water, but the atmosphere is filled with ammonia vapor. Arcona adapted to this environment by eating the ammonia-converting roots of flora as a source of water. Arcona depended on the ammonia to live and, as a result, arcona living offworld have to take ammonia supplements. Despite their large eyes, arcona have very poor eyesight. Their eyes, made up of thousands of photoreceptors, can not detect fine shapes, only seeing blurry objects. To aid this, they have a small sensory organ between their eyes. Often mistaken for their nose, this organ detects heat patterns from living beings. Thus, arcona can recognize things by its heat pattern.
@@ -685,8 +748,13 @@ As an arcona, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Ardennian
+Ardennian
 
 #### Visual Characteristics
 
@@ -708,6 +776,8 @@ As an arcona, you have the following special traits.
 |***Homeworld***|Ardennia|
 |***Language***|Adrennian|
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Ardennians are sentient humanoid simians hailing from the tropical paradise of Ardennia. They are covered in fur from head to their wrists and ankles, with brown and grey being the most common fur colors. Ardennians sport four arms and prehensile feet. All six of their limbs are equally dexterous.
@@ -764,8 +834,13 @@ As an Ardennian, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Arkanian
+Arkanian
 
 #### Visual Characteristics
 
@@ -788,6 +863,8 @@ As an Ardennian, you have the following special traits.
 |***Language***|Arkanian|
 
 <!--- <div style='margin-top:84px'></div--->
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Arkanians are a robust near-human species with solid white eyes and clawed, four-fingered hands.
@@ -844,8 +921,13 @@ As an arkanian, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Balosar
+Balosar
 
 #### Visual Characteristics
 
@@ -868,6 +950,8 @@ As an arkanian, you have the following special traits.
 |***Language***|Balosur|
 
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Physically similar to humans, balosars appear to be sickly and gaunt when compared with the galaxy's most common species due to the heavy pollution of their homeworld. The most striking difference between balosars and humanity is a pair of antennapalps which sprouts from underneath the thick, coarse hair on their skulls. Retractable, these atennapalps allow them to listen into the subsonic range and give the species physical intuition and preternatural reflexes, which members of the Jedi Order sometimes mistook for Force-sensitivity. Balosars also possess an acute tolerance for poisonous substances, a byproduct of life on their toxic homeworld.
@@ -919,8 +1003,13 @@ As a balosar, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Barabel
+Barabel
 
 #### Visual Characteristics
 
@@ -942,6 +1031,8 @@ As a balosar, you have the following special traits.
 |***Homeworld***|Barab I|
 |***Language***|Barabel|
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Barabel are a bipedal species of reptilians who are covered in very tough dark colored scales. Evolved from nocturnal lizards, the Barabel adapted a thick layer of fat which allowed them to remain active and not sluggish when temperatures dropped. A blaster set on stun would not damage them at all or slow them down, as it would merely bounce off their scales. Barabel are able to shed their tails if necessary, an ability that proved the undoing of many startled foes. They also possess heavy retractable claws along with needle sharp teeth which can grow to be 2 inches in length. A carnivorous species, Barabel possess two stomachs in order to process the massive amount of food they required to survive.
@@ -992,8 +1083,13 @@ As a barabel, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Baragwin
+Baragwin
 
 #### Visual Characteristics
 
@@ -1015,6 +1111,8 @@ As a barabel, you have the following special traits.
 |***Homeworld***|Old Barag|
 |***Language***|Baragwinian|
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 A hunchbacked species of sentient reptilians, the bipedal baragwin are easily recognized across the galaxy. Noted for their thick, wrinkled skin which can resist most physical attacks and their shuffling gait, the large-headed race have no obvious differences between male and female baragwin. An acute sense of smell give the species enough sensitivity to detect another being's mood and feelings. This leads some of them into careers as big-game hunters, or even as bounty hunters. Due to their ponderous movement, many non-baragwin believe the race to be a dull-witted people while, in fact, they are quite intelligent. Despite this fact, the baragwin frequently keep this intelligence hidden, using the misconceptions of others to their own advantage.
@@ -1065,8 +1163,13 @@ As a baragwin, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Besalisk
+Besalisk
 
 #### Visual Characteristics
 
@@ -1088,6 +1191,8 @@ As a baragwin, you have the following special traits.
 |***Homeworld***|Ojom|
 |***Language***|Besalisk|
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Male Besalisks' heads sported prominent crests and four arms hung at their sides; females of the species could have as many as eight arms, but like Humans had a primary hand and a limited range of functionality with the others. The addition of the extra appendages required a hearty metabolism, and these bulky beings were able to store food and water for many days, and if the need arose, they could survive for long periods without either. Scruffy sensory whiskers lined the area below their noses, just above the robust wattle most adult Besalisks possessed.
@@ -1136,8 +1241,13 @@ As a Besalisk, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Caamasi
+Caamasi
 
 #### Visual Characteristics
 
@@ -1160,6 +1270,8 @@ As a Besalisk, you have the following special traits.
 |***Language***|Caamasi|
 
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 A species of furry mammalians, the caamasi are covered in dense fur and have a spicy, woody body scent that is similar to that of Corellian whiskey. They have long arms with three-fingered hands, and pointed ears which stick out from the sides of their heads. They also have extremely acute senses of smell, with their nose positioned at the end of a tooth-filled snout. Caamasi have the interesting ability to share vivid memories called memnii with their near relatives and Force-sensitives. A memnis is as vivid to one who receives it as it was to the one who participated in the event remembered. Their peace-loving natures are in part due to memnii, as having a memory of killing or harming will be particularly strong, becoming unbearable in time, and something caamasi will seek to avoid except in defense of themselves or others, for which case they would accept their burden.
@@ -1210,8 +1322,13 @@ As a caamasi, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Chadra-Fan
+Chadra-Fan
 
 #### Visual Characteristics
 
@@ -1233,6 +1350,8 @@ As a caamasi, you have the following special traits.
 |***Homeworld***|Chad|
 |***Language***|Chadra-Fan|
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Chadra-Fan are covered from head to foot in fur. Their species evolved from small, arboreal rodents. The two different sexes of Chadra-Fan are indistinguishable to other species, though the Chadra-Fan could readily tell the difference using their powerful sense of smell. Chadra-Fan also have involuntary pheromones that conveyed information about their family line and created an aura of attractiveness. Other voluntary pheromones often conveyed a Chadra-Fan's state of emotion-anger, fear, or joy. Chadra-Fan even create more complex messages using their pheromones, though the pheromones when mixed sometimes caused confusion. They are unique in the fact that they had clear blood.
@@ -1285,8 +1404,13 @@ As a chadra-fan, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Chagrian
+Chagrian
 
 #### Visual Characteristics
 
@@ -1308,6 +1432,8 @@ As a chadra-fan, you have the following special traits.
 |***Homeworld***|Champala|
 |***Language***|Chagri|
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Chagrians are born as tadpoles in clutches of three or more and raised in tubs of water in a family's private home. During this time, their arms, legs, and air-breathing lungs develop. Adult Chagrians are truly amphibious, retaining their ability to breathe underwater while also able to function without difficulty in air. They also possess acute low-light vision.
@@ -1358,8 +1484,13 @@ As a Chagrian, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Chevin
+Chevin
 
 #### Visual Characteristics
 
@@ -1381,6 +1512,8 @@ As a Chagrian, you have the following special traits.
 |***Homeworld***|Vinsoth|
 |***Language***|Chevin|
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Chevin have long snouts which hang down nearly to their ankles. Combined with their intellect, this makes them skilled hunters of animals such as backshin, because they can smell out their prey or feed while keeping their eyes on the horizon. It is also their hunting prowess which allowed them to dominate their homeworld and conquer the Chevs. Chevin have thick legs, massive wide bodies, thin rope-like tails, and arms so long their three-fingered hands often brushed the ground.
@@ -1429,8 +1562,13 @@ As a Chevin, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Chironian
+Chironian
 
 #### Visual Characteristics
 
@@ -1452,6 +1590,8 @@ As a Chevin, you have the following special traits.
 |***Homeworld***|Chiron|
 |***Language***|Chironan|
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 The chironian lower body has four legs, similar to that of a horse, and each ends in a dainty, cloven hoof. A chironian can sit down by folding his or her horse-like legs underneath the body. Chironians can also kick backward with both hind legs; this strong kick is sufficient to knock over other beings. A chironian's pace can vary between a walk, a canter, and a gallop.
@@ -1500,8 +1640,13 @@ As a chironian, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Clawdite
+Clawdite
 
 #### Visual Characteristics
 
@@ -1523,6 +1668,8 @@ As a chironian, you have the following special traits.
 |***Homeworld***|Zolan|
 |***Language***|Clawdite|
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 In their natural form, clawdites resemble reptilian humanoids, having evolved from reptomammals. They have sunken cheeks with a narrow nose, a small mouth, large eyes with slit-like pupils, and a thin line that runs down their foreheads, creasing their nose. Clawdites possess an extremely rare ability to change their appearance. They can change the color and texture of their skin and eyes, and even grow hair, to mimic other species, though they cannot add significant physical mass to their bodies. 
@@ -1575,8 +1722,13 @@ As a clawdite, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Codru-Ji
+Codru-Ji
 
 #### Visual Characteristics
 
@@ -1598,6 +1750,8 @@ As a clawdite, you have the following special traits.
 |***Homeworld***|Munto Codru|
 |***Language***|Codruese|
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Codru-Ji are humanoids generally near-human in their adult appearances, save for their four arms. While their hair, eye, and skin pigmentations tend towards earthen hues, brighter colorations such as blonde hair or blue eyes, though uncommon, also exist. Rarer still, some adults maintain a light coat of fur or elongated, pointed ears. These eccentric attributes result from their unusual childhood forms.
@@ -1650,8 +1804,13 @@ As a codru-ji, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Colicoid
+Colicoid
 
 #### Visual Characteristics
 
@@ -1673,6 +1832,8 @@ As a codru-ji, you have the following special traits.
 |***Homeworld***|Colla IV|
 |***Language***|Colicoid|
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Colicoids are tall insectoids that held multiple appendages. Their bodies are chitinous and include a powerful stinging tail. A colicoid's physiology allows them to curl up into a protective ball and unfurl suddenly which allow them to catch their prey unaware. This rolling method of locomotion is second nature to the colicoids. Their insectoid minds provide them a natural defense against mind tricks. 
@@ -1725,8 +1886,13 @@ As a colicoid, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Culisetto
+Culisetto
 
 #### Visual Characteristics
 
@@ -1748,6 +1914,8 @@ As a colicoid, you have the following special traits.
 |***Homeworld***|Culiset|
 |***Language***|Culisetto|
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 The culisetto are an insectoid species, with a close resemblance to the common fly. Their long snouts are not truly proboscises, but function much the same, allowing them to drain blood with the aid of two tendrils, one on either side of the snout. They move by crawling about on their hands and feet, and are adept at leaping and climbing.
@@ -1811,8 +1979,13 @@ As a culisetto, you have the following traits:
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Dashade
+Dashade
 
 #### Visual Characteristics
 
@@ -1835,6 +2008,8 @@ As a culisetto, you have the following traits:
 |***Language***|Dashadi|
 
 <!--- <div style='margin-top:159px'></div--->
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Dashade are a hulking reptillian species known for their strength and aggression. They have three fingers on each hand, each tipped with a long, curving claw.
@@ -1887,8 +2062,13 @@ As a dashade, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Defel
+Defel
 
 #### Visual Characteristics
 
@@ -1911,6 +2091,8 @@ As a dashade, you have the following special traits.
 |***Language***|Defel|
 
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 While defel appear to be visually similar to the shistavanen, they are very different on a biological level. Defel have the ability to bend waves of light in such a manner that it renders them practically invisible to the human eye. Despite this ability, they could be still be spotted by force-users and keen-eyed individuals.
@@ -1973,8 +2155,13 @@ As a defel, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Diathim
+Diathim
 
 #### Visual Characteristics
 
@@ -1997,6 +2184,8 @@ As a defel, you have the following special traits.
 |***Language***|Galactic Basic|
 
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Diathim are a mysterious species of winged sentients famed for their radiance and beauty. They often make appearances as angelic figures in the folklore of numerous species. Their bodies naturally give off an intense light, obfuscating their physical forms to the naked eye. They have three pairs of thin, translucent wings that appear fragile, but are more than capable of flight. Diathim have been known to survive in the vacuum of space without the need for protective gear, and have a mild hypnotic effect on others in their presence, adding to the legends surrounding them.
@@ -2050,8 +2239,13 @@ As a diathim, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Dowutin, Young
+Dowutin, Young
 
 #### Visual Characteristics
 
@@ -2074,6 +2268,8 @@ As a diathim, you have the following special traits.
 |***Language***|Dowuta|
 
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 The Dowutin species evolved from a type of omnivorous herd animal on the planet Dowut. They were large, aggressive-looking humanoids with chin horns, sharp claws, thick skin, and had poor eyesight but superior senses of hearing and smell. Dowutin are massive humanoids who can live for centuries, and dying of old age is unheard of for them. While most other species become frail as they age, Dowutin never stop growing and getting stronger. As teenagers, Dowutin resemble Wookiees in size and strength, but by their fifth century, they are a mountain of muscle weighing a metric ton, with loud footsteps and voices warning other species away.
@@ -2121,8 +2317,13 @@ As a dowutin, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Draethos
+Draethos
 
 #### Visual Characteristics
 
@@ -2144,6 +2345,8 @@ As a dowutin, you have the following special traits.
 |***Homeworld***|Draethos|
 |***Language***|Draethos|
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Draethos possess large teeth, which grow outside of their mouths. Coupled with their lack of lips, this leads to the appearance of an overbite. Their scaly skin ranged in color from blue to purple to black. Their hands retain an interstitial web between the fingers. Their fingers end in narrow tips which resemble claws. They possess low-light vision, springing from their cave-dwelling ancestors.
@@ -2193,8 +2396,13 @@ As a draethos, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Dug
+Dug
 
 #### Visual Characteristics
 
@@ -2217,6 +2425,8 @@ As a draethos, you have the following special traits.
 |***Language***|Dug|
 
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Dugs are slender, powerfully built beings with a somewhat humanoid build and a unique method of walking that hailed from the high gravity world Malastare. Their primary means of locomotion is their strong arms, and their lower limbs and feet were used for grappling and other fine motor manipulation. They hardly ever walk on their lower limbs. Although most Dugs may walk on all four limbs, others like to use their strong arms as legs and their feet as hands like they would normally do.
@@ -2274,8 +2484,13 @@ As a dug, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Echani
+Echani
 
 #### Visual Characteristics
 
@@ -2298,6 +2513,8 @@ As a dug, you have the following special traits.
 |***Language***|Galactic Basic|
 
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Echani are characterized by their white skin, hair, and eyes, and their remarkable tendency to look very much alike one another to outside observers, particularly amongst family members. It is thought that their origins stem from Arkanian experimentation on the human genome, a hypothesis that could explain their physical conformity.
@@ -2351,8 +2568,13 @@ As an Echani, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Esh-Kha
+Esh-Kha
 
 #### Visual Characteristics
 
@@ -2375,6 +2597,8 @@ As an Echani, you have the following special traits.
 |***Language***|Kharan|
 
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Esh-kha are a gray-skinned humanoid species with equine features, including muzzles and digitigrade legs. They also have small black eyes. 
@@ -2422,8 +2646,13 @@ As an esh-kha, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Falleen
+Falleen
 
 #### Visual Characteristics
 
@@ -2444,6 +2673,8 @@ As an esh-kha, you have the following special traits.
 |:--|:--|
 |***Homeworld***|Falleen|
 |***Language***|Falleen|
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 The Falleen are distinguished by their mottled green or red skin, ridged skulls, and their long, black hair which they typically wear in ponytails. The sleek symmetry of their features, calculating and cold demeanors, their exotic looks, and their ability to alter their skin pigmentation make the Falleen often considered to be among the most aesthetically pleasing beings in the galaxy. In addition to their strikingly beautiful appearance, the Falleen exude pheromones which makes them all but irresistible to both sexes.
@@ -2496,8 +2727,13 @@ As a Falleen, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Felucian
+Felucian
 
 #### Visual Characteristics
 
@@ -2519,6 +2755,8 @@ As a Falleen, you have the following special traits.
 |***Homeworld***|Felucia|
 |***Language***|Felucianese|
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Felucians are a tall, bipedal species. Both their arms and legs end in four, large webbed digits with suction-cup fingertips. Springing from the underside of each forearm is a second short arm, ending in three large and agile fingers. A Felucian's head is a thick mass of long flexible tendrils featuring illuminated tips. The eyes and mouth appear as black holes or openings within this mass.
@@ -2572,8 +2810,13 @@ As a Felucian, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Flesh Raider
+Flesh Raider
 
 #### Visual Characteristics
 
@@ -2596,6 +2839,8 @@ As a Felucian, you have the following special traits.
 |***Language***|Rakata|
 
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Flesh raiders are a more primitive, and more physically imposing subspecies of rakata that mutated prior to the end of the Infinite Empire. A life above ground and in caves has led the flesh raiders to lose their more amphibian traits, and are now more humanoid in their biological needs, though they seem to only be able to digest meats and flesh.
@@ -2652,8 +2897,13 @@ As a flesh raider, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Gand
+Gand
 
 #### Visual Characteristics
 
@@ -2676,6 +2926,8 @@ As a flesh raider, you have the following special traits.
 |***Language***|Gand|
 
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Gand are sentient, stocky humanoids whose insectoid bodies are covered in a chitinous exoskeleton. The natural armor allow the Gand to shrug off injuries that would cripple most other species. The exoskeleton provides extra protection in the clavicle region, which prevented most nerve or pressure-point strikes to the neck and shoulders. In addition, Gands have the remarkable ability to regrow lost limbs. If a Gand is dismembered, it can regrow a lost limb in a few days. 
@@ -2723,8 +2975,13 @@ As a Gand, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Gank
+Gank
 
 #### Visual Characteristics
 
@@ -2747,6 +3004,8 @@ As a Gand, you have the following special traits.
 |***Language***|Gank|
 
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 The ganks are a species of fur-covered carnivores. The typical member of the species has a face that is squared-off and yellow in color, the expression trapped in a perpetual snarl that non-ganks find unattractive. Small, mean-looking eyes peer from above the maw, their head sitting atop a thick neck between broad, strong shoulders. These cap two thickset, powerful arms, which terminate in hands with five fingers each. Their heavy build affords ganks great strength, yet they are also spry runners. They augment their bodies with cybernetics, making them a species of cyborgs.
@@ -2794,8 +3053,13 @@ As a gank, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Geonosian
+Geonosian
 
 #### Visual Characteristics
 
@@ -2818,6 +3082,8 @@ As a gank, you have the following special traits.
 |***Language***|Geonosian|
 
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Geonosians have a hard chitin exoskeleton that provided protection from physical impacts and bouts of radiation that occasionally shower their world. Geonosians are strong despite their thin builds, and are capable of constructing massive hives and factories in concert. The head of a Geonosian is elongated and large with their skulls ridged on the top and by the side where they have bulbous, thick-lidded eyes. Both are physically strong and covered with bony ridges which protected their arms, legs, and vital organs. 
@@ -2866,8 +3132,13 @@ As a geonosian, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Givin
+Givin
 
 ##### Visual Characteristics
 
@@ -2890,6 +3161,8 @@ As a geonosian, you have the following special traits.
 |***Language***|Givin|
 
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 The Givin are a species of white-skinned, hairless humanoids who are quite frequently likened to animated skeletons. Their facial features include many sharp downward angles, large triangular eye sockets, and sloped-up brows that meet together in the middle, lending them an appearance of permanent anguish. Because of the harsh environment of their homeworld, the Givins' organs are sealed against atmospheric exposure; thanks to this complex system, they can survive for about a day in a vacuum.
@@ -2939,8 +3212,13 @@ As a Givin, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Gormak
+Gormak
 
 #### Visual Characteristics
 
@@ -2962,6 +3240,8 @@ As a Givin, you have the following special traits.
 |***Homeworld***|Voss|
 |***Language***|Gormak|
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 The gormak are green humanoids with flat, noseless faces adorned with frills, collecting in whorls on the sides of their heads. They have clawed, three-fingered, frilled hands, and tend to possess a muscular build. Females are slightly shorter than males and lacked a whorl located above their nose. 
@@ -3011,8 +3291,13 @@ As a gormak, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Gotal
+Gotal
 
 #### Visual Characteristics
 
@@ -3035,6 +3320,8 @@ As a gormak, you have the following special traits.
 |***Language***|Antarian|
 
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Gotals possess cranial horns as receptors to sense electromagnetism and other energy emissions. These nerve-ending filled cones can sense the natural electromagnetic fields produced by Antar 4's<brmagnetite-rich crust, allowing the species to operate<breven in total darkness. Their senses also pick up the<brelectromagnetic auras from other life forms. When<brclose to their hunting targets, they can ascertain<brinformation on its mood, awareness, and state of<brmind. Electronic devices can also be sensed by Gotals;<brin fact, most droids give off enough electromagnetic<bremissions to at least annoy a Gotal, and at worst to<brseriously disorient the horned beings, making them<brnotoriously distrustful of droids. Gotals rely heavily on<brtheir cones, with their eyesight and hearing being<brquite weak, and their sense of smell almost completely<brabsent. 
@@ -3080,8 +3367,13 @@ As a Gotal, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Gran
+Gran
 
 #### Visual Characteristics
 
@@ -3103,6 +3395,8 @@ As a Gotal, you have the following special traits.
 |***Homeworld***|Kinyen|
 |***Language***|Gran|
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Gran can easily be identified by their three eyes and their goat-like snout. Female Gran also have three breasts. They have excellent vision, able to resolve more colors than most species, and even able to see into the infrared, thus they are able to sense one another's emotions and disposition by noting subtle changes in body heat and skin color. Gran have two stomachs, having evolved from herbivorous grazing animals who lived in herds on the mountains and highlands of Kinyen. A single meal can take almost an entire day to finish, after that a Gran does not often need to eat for several days.
@@ -3154,8 +3448,13 @@ As a Gran, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Half-human
+Half-human
 <div class='wide' style='column-count:3'>
 
 |||
@@ -3287,6 +3586,8 @@ As a Gran, you have the following special traits.
 |Zygerrian|Darkvision|
 
 
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
+
 ## Biology and Appearance
 The appearance and biological features of half-humans vary drastically by each species, but tend to fall somewhere in the middle. A common side-effect of a species interbreeding with humans is the loss of darkvision and tails.
 
@@ -3322,8 +3623,13 @@ As a half-human, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Harch
+Harch
 
 #### Visual Characteristics
 
@@ -3346,6 +3652,8 @@ As a half-human, you have the following special traits.
 |***Language***|Harchese|
 
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 The Harch possess a large-fanged mouth between two prominent chelicerae, above which they have six red eyes arranged in a semicircle. The two lowest eyes are larger and roughly twice the size of the four smaller eyes. Harch walk on two legs and have six arms, with the second and third set of arm protruding from behind the first pair rather than directly above or below them. These arms are covered in thick hair and end in three-fingered hands.
@@ -3395,8 +3703,13 @@ As a Harch, you have the following special traits:
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Herglic
+Herglic
 
 ##### Visual Characteristics
 |||
@@ -3418,6 +3731,8 @@ As a Harch, you have the following special traits:
 |***Homeworld***| Giju|
 |***Language***| Herglese|
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 The herglic are a massive race of creatures descended<brfrom aquatic mammals, breathing though a blowhole<bron top of their heads. They are tall and wide, and have<brsmooth, hairless skin that ranged in color from pale<brblue to black, though some rare individuals may<brappear pink or have white markings on their sides.<brTheir girth tends to leave them feeling out of place among smaller species; herglic tend to take up two chairs or fill the entire doorway of any establishment they enter that does not cater to beings their size.
@@ -3469,8 +3784,13 @@ As a herglic, you have the following special traits:
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Ho'din
+Ho'din
 
 #### Visual Characteristics
 
@@ -3493,6 +3813,8 @@ As a herglic, you have the following special traits:
 |***Language***|Ho'Din|
 
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Ho'dins are tall humanoids with multi-colored skin, naturally webbed and suction cup-tipped fingers and toes, and temperature-sensing red-violet "snake hair". Ho'dins are, on average, over nine feet tall—nearly a full head taller than wookiees. Renowned throughout the galaxy as botanists and healers, the ho'din claim an ancestry derived from the plants of their home planet, Moltok—in fact, "ho'din" translates as "walking flower" in Galactic Basic. They are, in fact, reptilian, as their natural climbing skills and cold-bloodedness seem to indicate, and boast a second heart to enhance their survivability. Their "snake hair" is temperature-sensitive, allowing ho'din to sense changes in ambient temperature.
@@ -3550,8 +3872,13 @@ As a ho'din, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Houk
+Houk
 
 #### Visual Characteristics
 
@@ -3573,6 +3900,8 @@ As a ho'din, you have the following special traits.
 |***Homeworld***|Lijuter|
 |***Language***|Houkese|
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Houk are hulking bipeds with thick skin, hairless heads marked with bony ridges and a pronounced brow, flabby jowls, beady yellow eyes, and no visible ears or nose. They are very powerful due to their large bulk of pure muscle. 
@@ -3620,8 +3949,13 @@ As a houk, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Hutt, Adolescent
+Hutt, Adolescent
 
 #### Visual Characteristics
 
@@ -3644,6 +3978,8 @@ As a houk, you have the following special traits.
 |***Language***|Huttese|
 
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Hutts are a massive slug-like species who have large mouths and stubby arms. They have three lungs and thick leathery skin, which is wrinkled and slimy. Hutts often have watery eyes and lack facial expressions.  Their tails are supported by a skeletal spine.  Despite their legendary size, hutts start out as tiny huttlets less than half a foot in height, and continually grow over the long lives.
@@ -3698,8 +4034,13 @@ As a hutt you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Iktotchi
+Iktotchi
 
 #### Visual Characteristics
 
@@ -3722,6 +4063,8 @@ As a hutt you have the following special traits.
 |***Language***|Iktotchese|
 
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Iktotchi do not have hair, but rather they had a very resistant skin which protected them from the violent winds which crossed the satellite. Both males and females have down-curved cranial horns, which gave them an aggressive aspect. The males' horns are generally a little larger, a remnant from their mountain-dwelling, caprinaen ancestors. The horns are able to regenerate if damaged.
@@ -3774,8 +4117,13 @@ As an Iktotchi, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Kage
+Kage
 
 #### Visual Characteristics
 
@@ -3798,6 +4146,8 @@ As an Iktotchi, you have the following special traits.
 |***Language***|Galactic Basic|
 
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 The kage are a pale-skinned sentient species native to the caverns in the planet of Quarzite. The kage have a long-time conflict with the belugans, consistently at odds with them. During the Clone Wars, Otua Blank ordered the capture of Pluma Sodi to marry her, she was later given back to the Kage Warriors by Asajj Ventress. 
@@ -3853,8 +4203,13 @@ As a kage, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Kaleesh
+Kaleesh
 
 #### Visual Characteristics
 
@@ -3877,6 +4232,8 @@ As a kage, you have the following special traits.
 |***Language***|Kaleesh|
 
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Tusks protrude from a Kaleesh's upper jaw, and shorter ones jut from their chins. Kaleesh have large pointed ears and long nostrils that stretched close to their eyes. They have very keen olfactory sense and were able to produce pheromones. Most of their facial features are obscured behind the traditional masks they wear, and outsiders rarely see Kaleesh unmasked. They are known to practice polygyny, a form of polygamy, where a male courts multiple wives. 
@@ -3968,8 +4325,13 @@ Kalloran will lose Keen Hearing.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Kalleran
+Kalleran
 
 #### Visual Characteristics
 
@@ -3992,6 +4354,8 @@ Kalloran will lose Keen Hearing.
 |***Language***|Kall|
 
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Kallerans evolved from a semi-amphibious species on Kaller. Kallerans are tall and flexible; their hands and feet have three prehensile digits on each, which leeds kallerans to avoid wearing shoes or boots. The majority of kallerans have green skin patterned with distinctive black stripes. The species have dense muscles that assist them in the protection of their otherwise delicate bodies. The kalleran head is distinguished by fin-like folds on the tops and sides of their faces. These fins augment a kalleran's hearing, allowing sound to bounce back and be picked up by the two antenna crowning their head. These antenna are sensory organs that serve as olfactory and aural receptors. Kallerans have lungs adapted to breathe above water, though the majority of their respiration is done through their skin. A holdover from their amphibious past, their skin can draw oxygen in from the air and filter out carbon dioxide. Their respiratory system requires them to consume more water than other species their size to keep their skin moist and supple. Because they do not primarily breathe through their mouths, kallerans did not evolve noses.
@@ -4045,8 +4409,13 @@ As a kalleran, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Kaminoan
+Kaminoan
 
 #### Visual Characteristics
 
@@ -4069,6 +4438,8 @@ As a kalleran, you have the following special traits.
 |***Language***|Kaminoan, Galactic Basic|
 
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Kaminoans' evolution from aquatic creatures in the vast oceans of Kamino is reflected in their tall shape, glassy coated eyes, near luminescent skin, and long, thin necks. The almond-shaped eyes of kaminoans are also able to see color in the ultraviolet spectrum. While female kaminoans are bald, males possess headcrests and fin ridges along the rear of their small, bulbous skulls.
@@ -4120,8 +4491,13 @@ As a kaminoan, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Karkarodon
+Karkarodon
 
 #### Visual Characteristics
 
@@ -4144,6 +4520,8 @@ As a kaminoan, you have the following special traits.
 |***Language***|Karkaran|
 
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 The amphibious Karkarodons have tall, slim bodies with webbed hands and feet. Their shark-like heads have pointed noses, gill slits, and many rows of razor-sharp teeth, which they use when attacking and eating. Karkarodons are skilled and fast swimmers. They attack by grabbing the target and used their jaws for ripping and tearing.
@@ -4197,8 +4575,13 @@ As a karkarodon, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Kiffar
+Kiffar
 
 #### Visual Characteristics
 
@@ -4220,6 +4603,8 @@ As a karkarodon, you have the following special traits.
 |***Homeworld***|Kiffu, Kiffex|
 |***Language***|Galactic Basic|
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 The kiffar are very closely related to humans, enough that they can interbreed, though kiffar typically have darker hair. The biggest visual difference between the two is that the kiffar always wear tattoos, that represent their clan. Kiffar are more likely to be Force-sensitive, which is typically manifested in psychometry, a rare Force power that about one percent of the kiffar population can use. Using psychometry, kiffar can touch objects and receive visions from the Force that show them the object’s past. 
@@ -4273,8 +4658,13 @@ As a kiffar, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Killik
+Killik
 
 #### Visual Characteristics
 
@@ -4296,6 +4686,8 @@ As a kiffar, you have the following special traits.
 |***Homeworld***|Alderaan|
 |***Language***|Killik|
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Killiks possess a strong chitinous exoskeleton that is glossy and greenish with their carcasses capable of surviving thousands of years of erosion as seen by the colonists of Alderaan. The exoskeleton also contains a number of spiracles which served as their way of breathing. Typically, these Human-sized hive creatures have four arms with each ending in a powerful three-fingered claw. They stand on two stout legs that are capable of leaping great distances. Killiks can communicate with other Killiks through use of pheromones.
@@ -4341,8 +4733,13 @@ As a Killik, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Klatooinian
+Klatooinian
 
 #### Visual Characteristics
 
@@ -4363,6 +4760,8 @@ As a Killik, you have the following special traits.
 |:--|:--|
 |***Homeworld***|Klatooine|
 |***Language***|Huttese, Klatooinian|
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Klatooinians are a humanoid species with canine features, having short muzzles over toothy overbites. They are also notable for their heavy brows and ridges along the tops of their heads. 
@@ -4414,8 +4813,13 @@ As a klatooinian, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Kubaz
+Kubaz
 
 #### Visual Characteristics
 
@@ -4438,6 +4842,8 @@ As a klatooinian, you have the following special traits.
 |***Language***|Kubazian|
 
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Kubaz are distinctive for their short, prehensile facial snouts which were used for reaching insects within their hives. They have adapted to their sun-scorched, vegetation-deprived world by learning to survive off their world's native insect population. Filled with two rows of teeth for gnashing their food, the Kubaz trunk also functions as a highly sensitive nose.  Due to living on their homeworld of Kubindi—a planet which orbits a blue star—Kubaz are highly sensitive to red wavelengths; when traveling to planets with a red or yellow star, Kubaz are forced to don protective eyewear to avoid damaging their sensitive eyes.
@@ -4491,8 +4897,13 @@ As a Kubaz, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Kushiban
+Kushiban
 
 #### Visual Characteristics
 
@@ -4515,6 +4926,8 @@ As a Kubaz, you have the following special traits.
 |***Language***|Kushiban|
 
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Kushibans are four-limbed lagomorphs native to the planet Kushibah. They are diminutive, unimposing, and typically weaker than most humanoids, but they are also quite difficult to track due to their natural speed and stealth.
@@ -4569,8 +4982,13 @@ As a Kushiban, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Kyuzo
+Kyuzo
 
 #### Visual Characteristics
 
@@ -4593,6 +5011,8 @@ As a Kushiban, you have the following special traits.
 |***Language***|Kyuzo|
 
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 A lanky, bipedal humanoid species, the Kyuzo originate on the gravity-heavy Outer Rim world of Phatrong. Kyuzo are tall and slender, though their appearance belies their strength and quickness. Due to the uncommon makeup of their homeworld's atmosphere, Kyuzo frequently wear corrective lenses and a highly pressurized filter mask over their faces to protect their sensitive respiratory systems and assist them in coping with uncomfortable climates like galactic standard habitable environments. As well as causing respiratory and vision problems, exposure to such conditions causes a Kyuzo to become ill within in a short period of time, interfering with their ability to concentrate and slowing them down.
@@ -4642,8 +5062,13 @@ As a Kyuzo, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Lannik
+Lannik
 
 #### Visual Characteristics
 
@@ -4666,6 +5091,8 @@ As a Kyuzo, you have the following special traits.
 |***Language***|Lannik|
 
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Lannik are short, bipedal humanoids with droopy, long ears. Males and females are equally tall, although the latter have a considerably less strong complexity. Their species is, however, much more vigorous and resistant than what its size could suggest. A Lannik's skin tends to be of colours similar to his or her eyes and hair. The species has evolved long pointy ears which allow them to hear better than human ears. 
@@ -4719,8 +5146,13 @@ As a lannik, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Lasat
+Lasat
 
 #### Visual Characteristics
 
@@ -4742,6 +5174,8 @@ As a lannik, you have the following special traits.
 |***Homeworld***|Lira San|
 |***Language***|Lasat|
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 A humanoid sentient species, Lasats are notable for their impressive height, strength, and agility, with their muscular digitigrade legs enabling them to run faster, jump higher and farther, and move more quietly than humans. Their large finger pads and prehensile toes assist them in climbing. In addition, their large eyes and ears afford them superior sight and hearing over humans. They had the strength to open a powered-down blast door. A height of two meters tall was considered below-average for a Lasat.
@@ -4794,8 +5228,13 @@ As a lasat, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Lurmen
+Lurmen
 
 #### Visual Characteristics
 
@@ -4818,6 +5257,8 @@ As a lasat, you have the following special traits.
 |***Language***|Lurmese|
 
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Lurmen's bodies are covered entirely in fur, which range in color from a dark brown to a white-gray, though they do wear garments. They can walk either upright on their two legs, and can also use their arms and legs for faster movement. Many lurmen have the ability to roll themselves into a wheeled shape; this allows them to cover distances at great speed. They may have learned this ability from the native amani on Maridun. 
@@ -4868,8 +5309,13 @@ As a lurmen, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-#  Massassi
+ Massassi
 
 #### Visual Characteristics
 
@@ -4891,6 +5337,8 @@ As a lurmen, you have the following special traits.
 |  *Homeworld* | | Korriban, Yavin 4 (adopted) |
 |  *Language* | Sith |
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 The warrior caste of the sith purebloods, the massassi have genetically turned into the perfect warrior. While some looked like their sith pureblood brothers, others have more extreme physical differences, including fin-like growths, a taller form and tough skin. These imposing figures live much shorter lives than other species. They, like the few other creatures that inhabit Korriban, derive sustenance directly from the dark side of the Force, in part of a natural symbiotic relationship where sith—like the massassi—feed on the dark side, and empower it in turn. Thus the massassi have such a high rate of Force-sensitivity that they are considered a naturally Force-sensitive species.
@@ -4942,8 +5390,13 @@ As a massassi, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Mikkian
+Mikkian
 
 #### Visual Characteristics
 
@@ -4966,6 +5419,8 @@ As a massassi, you have the following special traits.
 |***Language***|Mikkian|
 
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Mikkians are a species of brightly colored humanoids. The mikkians' most distinctive feature are their motile head-tendrils, with the number, form, and pattern varying between individuals. These head-tendrils primarily serve as sensory organs, particularly detecting sound as a replacement for an ear common in other species. Mikkian head-tendrils also could detect other information, such as humidity, temperature, magnetic direction and radiation. This radiation detection can be detected to the extent that mikkians can "see" light and dark, although their eyes are still their primary visual organs. 
@@ -5012,8 +5467,13 @@ As a mikkian, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Miraluka
+Miraluka
 
 #### Visual Characteristics
 
@@ -5036,6 +5496,8 @@ As a mikkian, you have the following special traits.
 |***Language***|Miralukese|
 
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 The Miraluka are a near-human species that differs from Humans in that they lack eyes, only retaining vestigial eye sockets, and perceive the environment around them through *force sight* instead of regular vision. This vision is so strong that if a Miraluka looks upon a Jedi or Sith, they can "see" Force radiating off them. The strength of a Miraluka's connection to the Force varies by individual.
@@ -5083,8 +5545,13 @@ As a miraluka, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Mirialan
+Mirialan
 
 #### Visual Characteristics
 
@@ -5107,6 +5574,8 @@ As a miraluka, you have the following special traits.
 |***Language***|Mirialan|
 
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Mirialans are a near-human species native to the planet Mirial. They have green to yellow skin and tattoos on their faces. The Mirialans are known for their spirituality and strong connection with the world around them. Mirialans are very flexible and agile, making them fast and formidable foes.
@@ -5155,8 +5624,13 @@ As a mirialan, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Mustafarian
+Mustafarian
 
 #### Visual Characteristics
 
@@ -5179,6 +5653,8 @@ As a mirialan, you have the following special traits.
 |***Language***|Mustafarian|
 
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Mustafarians are an insectoid species of sentients native to the volcanic planet of Mustafar. They are divided into two subspecies: the lanky northern mustafarians, and the stocky southern mustafarians. The southern mustafarians were notable for their greater strength, making them more suited to manual labor. Both subspecies shared many traits, particularly their hardened exoskeletons and leathery skin, which acclimated them to the extreme heat of their volcanic environment.
@@ -5229,8 +5705,13 @@ As a mustafarian, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Muun
+Muun
 
 #### Visual Characteristics
 
@@ -5252,6 +5733,8 @@ As a mustafarian, you have the following special traits.
 |***Homeworld***|Scipio|
 |***Language***|Muun|
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Muuns are tall, gaunt humanoids with thin bodies, long<brlimbs, and elongated hairless heads. They typically<brhave pale pink or white skin, most likely derived from<brtheir propensity for staying indoors. Muuns have tiny<brears on the middle of the sides of their heads, flat<brnoses, and slim mouths which leads to a<brcommonly nasally voice.
@@ -5301,8 +5784,13 @@ As a muun, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Neimoidian
+Neimoidian
 
 #### Visual Characteristics
 
@@ -5324,6 +5812,8 @@ As a muun, you have the following special traits.
 |***Homeworld***|Neimoidia|
 |***Language***|Pak Pak|
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Neimoidians are distant genetic relatives of the duros and retain many similarities to them, including basic form, noseless faces, and green-blue skin (though neimoidians tend to be grayer). Their eyes also have pupils that split horizontally, and they are distinguished by small lumps on their foreheads and down-turned mouths. Instead of noses, they have olfactory glands underneath their eyes. These genetic differences are attributed to the distinct features of their homeworld, Neimoidia, including its gravity, which is markedly heavier than duro.
@@ -5372,8 +5862,13 @@ As a neimoidian, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Nikto
+Nikto
 
 #### Visual Characteristics
 
@@ -5396,6 +5891,8 @@ As a neimoidian, you have the following special traits.
 |***Language***|Nikto, Huttese|
 
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Nikto are reptilian humanoids that are noted for their leathery skin. They hold a limited range of facial expressions because they lack the necessary anatomical infrastructure. Their eyes are covered by a protective membrane, being a thin transparent pellicle that protects their eyes underwater and during windstorms. As a result, they are noted for their "staring" eyes and a seemingly blank expression which leads to many underestimating nikto intelligence.
@@ -5449,8 +5946,13 @@ As a nikto, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Noghri
+Noghri
 
 #### Visual Characteristics
 
@@ -5473,6 +5975,8 @@ As a nikto, you have the following special traits.
 |***Language***|Honoghran|
 
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Noghri are a primitive humanoid species hailed from the planet Honoghr with steely gray-blue skin that are renowned assassins. A natural gift for stealth and<brhand-to-hand combat, Noghri are efficient killing<brmachines with their rending claws and strong olfactory<brsense that can often determine familial lineage. Their smaller size belies their ruthlessness and potent<brhunting skills.
@@ -5528,8 +6032,13 @@ As a noghri, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Nothoiin
+Nothoiin
 
 #### Visual Characteristics
 
@@ -5551,6 +6060,8 @@ As a noghri, you have the following special traits.
 |***Homeworld***| Nothoiin |
 |***Language***| Notho |
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Near-humans possessing golden, flaky skin, nothoiins feature fair to brown hair with brown eyes and typically have physical heights and builds common to humans.  Nothoiins' appearance has earned their species the nickname of "Goldskins."
@@ -5606,8 +6117,13 @@ As a nothoiin, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Ortolan
+Ortolan
 
 #### Visual Characteristics
 
@@ -5629,6 +6145,8 @@ As a nothoiin, you have the following special traits.
 |***Homeworld***|Orto|
 |***Language***|Ortolan|
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Ortolans are squat, heavily-built humanoid bipeds with long, trunklike noses and beady black eyes. They possess floppy ears, which are extremely sensitive to sound waves. They have two hands, each ending in<brfour chubby fingers and a thumb, which is not<bropposable. A thick, baggy hide covered in fuzz<brresembling velvet hangs off of the Ortolan body.<brOrtolans have a keen sense of smell to help them<brforage for food. In fact, they are handicapped in their<brbusiness affairs by their attachment to food,<brsometimes accepting otherwise unfavorable contracts<brwhen promised enough to eat. Their twin obsessions<brare food and music; offworld, many Ortolans find<brsuccess as chefs or musicians. 
@@ -5684,8 +6202,13 @@ As an ortolan, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Pa'lowick
+Pa'lowick
 
 ##### Visual Characteristics
 | | |
@@ -5708,6 +6231,8 @@ As an ortolan, you have the following special traits.
 |***Language***|Lowickese|
 
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 The pa'lowick are a species of humanoid amphibians who live in the coastal salt marshes of Lowick. They have compact but rotund midsections that top a pair of long, spindly legs ending in anisodactylic feet—three toes pointing forward, one back. This configuration, combined with their powerful lungs, enabled them to swim.
@@ -5764,8 +6289,13 @@ As a pa'lowick, you have the following special traits:
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Pantoran
+Pantoran
 
 #### Visual Characteristics
 
@@ -5788,6 +6318,8 @@ As a pa'lowick, you have the following special traits:
 |***Language***|Pantoran|
 
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Pantorans are a sentient species native to Pantora, a moon orbiting the planet Orto Plutonia. At first glance, they only differ from the otherwise similar humans in their blue skin and yellow eyes. The pantorans share many traits with other blue-skinned races, especially the wroonians, and, to a lesser extent, the chiss. The pantorans also seem to have a greater resilience to low temperatures than humans, since they only needed light wardrobe even under extreme cold weather conditions. 
@@ -5842,8 +6374,13 @@ As a pantoran, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Patrolian
+Patrolian
 
 #### Visual Characteristics
 
@@ -5866,6 +6403,8 @@ As a pantoran, you have the following special traits.
 |***Language***|Patrolian|
 
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Patrolians are fish-like in appearance, covered in pale, pastel-colored scales and possessing numerous fins on their long limbs and face, as well as a notable dorsal fin which often require modified clothing to accommodate. 
@@ -5926,8 +6465,13 @@ As a patrolian, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Pau'an
+Pau'an
 
 #### Visual Characteristics
 
@@ -5950,6 +6494,8 @@ As a patrolian, you have the following special traits.
 |***Language***|Utapese|
 
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Pau'ans have large, sunken black eyes in red eye sockets and jagged, fang-like teeth used for tearing into raw meat, as they are carnivores. The species has pale, wrinkled skin, due to the fact that they lived in the sinkholes of Utapau, giving them limited access to light. These traits cause some to view them as frightening. However, Pau'ans as a society are generally friendly, and are happy to welcome guests to their often overlooked world. Pau'ans have long lifespans, living up to 700 years, much longer than the Utai. This earned them the nickname of "Ancients".
@@ -6001,8 +6547,13 @@ style='position:absolute;top:25px;right:110px;width:212.5px;transform:scaleX(1);
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Pyke
+Pyke
 
 #### Visual Characteristics
 
@@ -6025,6 +6576,8 @@ style='position:absolute;top:25px;right:110px;width:212.5px;transform:scaleX(1);
 |***Language***|Pyke|
 
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 A sentient species, the pykes are humanoid, although slimmer and taller than most humans. They have two long, lanky legs, and two arms that end in three-fingered hands. Their heads are large and elongated, with a tapered skull and an undersized face, a feature which some other species find unsettling. Pykes had two narrow, almond-shaped eyes which could be magenta or blue in color.
@@ -6074,8 +6627,13 @@ As a pyke, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Quarren
+Quarren
 
 #### Visual Characteristics
 
@@ -6098,6 +6656,8 @@ As a pyke, you have the following special traits.
 |***Language***|Quarrenese|
 
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 The Quarren are squid-like with four facial tentacles which protrude from their lower jaw. They have a pair of deep, turquoise eyes and finned hands with suction-tipped fingers. As an amphibious species, they are strong swimmers. They are also bipedal beings that can walk and sit upright. In the two long protrusions that extended from either side of their faces, Quarren have gill-like structures that are actually hearing organs. The Quarren are also capable of spitting out clouds of ink as a defensive measure.
@@ -6151,8 +6711,13 @@ As a quarren, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Quermian
+Quermian
 
 #### Visual Characteristics
 
@@ -6175,6 +6740,8 @@ As a quarren, you have the following special traits.
 |***Language***|Quermian|
 
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Created by arkanian scientists from the DNA of the xexto species, the quermians were designed to be taller than their fore-bearers and were left to evolve without any predators on their terraformed garden homeworld. Equipped with long necks for peering over vegetation mats, bulbous heads with a permanently bemused smile, and two sets of spindly arms, they also have two brains, one located in the chest cavity. Their two brains can cause mental problems when each brain developed a different personality, but also gives them a type of "telepathy" which they attribute to an ability to better observe and understand body language. Possessing no noses, the olfactory glands of this species are found in the hands.
@@ -6226,8 +6793,13 @@ As a quermian, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Rakata
+Rakata
 
 #### Visual Characteristics
 
@@ -6249,6 +6821,8 @@ As a quermian, you have the following special traits.
 |***Homeworld***|Lehon|
 |***Language***|Rakata|
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 In appearance, rakata are smooth skinned amphibian-like humanoids that had tall craniums along with eyes that protruded from each side of their heads on short stalks. These bipedal beings have three digit hands that are tipped with claws for digging through packed dirt. As a species, they are uniformly lean and tall; while most rakata have a similar height and weight, females tend to be more slender than males, though just as tall. Rakata are primarily carnivorous, likely stemming from the fact that they are cannibalistic, often making a meal of other species.
@@ -6306,8 +6880,13 @@ As a rakata, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Rattataki
+Rattataki
 
 #### Visual Characteristics
 
@@ -6330,6 +6909,8 @@ As a rakata, you have the following special traits.
 |***Language***|Rattataki|
 
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 The Rattataki are a near-human species characterized by their nimble movements, chalk-white skin and oft-bald heads. Virtually isolated from the rest of the galaxy, the Rattataki developed a violent society on their home planet of Rattatak, which involves extensive gladiatorial combat. 
@@ -6380,8 +6961,13 @@ As a rattataki, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Rishii
+Rishii
 
 #### Visual Characteristics
 
@@ -6404,6 +6990,8 @@ As a rattataki, you have the following special traits.
 |***Language***|Rishii|
 
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Rishii are a sentient, avian species of carnivores which possess two legs ending in four-toed feet, two arms, a tail, and a head. The species' two arms consist of feathered wings ending in nimble humanoid hands, capable of manipulating tools. The wings grant the Rishii the ability to fly at great speeds, which is their method of travel equivalent to running in land-based species. A Rishii's head contained a beak between two yellow eyes framed by a large brow. Rishii were capable of mimicking anything said to them perfectly, and also possessed extremely strong senses, particularly hearing and sight. 
@@ -6445,8 +7033,13 @@ As a rishii, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Ryn
+Ryn
 
 #### Visual Characteristics
 
@@ -6469,6 +7062,8 @@ As a rishii, you have the following special traits.
 |***Language***|Ryn|
 
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Their homeworld long lost from memory and time, the ryn are a humanoid race of musicians, vagabonds and travelers. The ryn's bodies are covered in soft, short fur, with a head of white hair which is matched by a tuft of hair at the end of their long prehensile tails, excellent for grasping things. Very uniquely ryn in nature, are their beak-like noses that contain fluted holes. These holes allow the ryn to play their 'beaks' like flutes. This talent has been used to communicate between ryn and has uniquely been observed in communication with droids.
@@ -6520,8 +7115,13 @@ As a ryn, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Selkath
+Selkath
 
 #### Visual Characteristics
 
@@ -6544,6 +7144,8 @@ As a ryn, you have the following special traits.
 |***Language***|Selkatha|
 
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology & Appearance
 The Selkath are an aquatic species, known for being skilled swimmers and diplomats. Their heads resemble sting rays and they have a blue, pink, or green skin naturally patterned as an underwater camouflage. Their mouths are bracketed by cephalic lobes. Female Selkath differed from males due to the presence of tendrils on the back of their heads.
@@ -6595,8 +7197,13 @@ As a selkath, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Selonian
+Selonian
 
 #### Visual Characteristics
 
@@ -6619,6 +7226,8 @@ As a selkath, you have the following special traits.
 |***Language***|Mandaba|
 
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 The selonians are carnivores who are believed to have descended from aquatic mammals. Their bodies are covered by a sleek fur and they normally do not wear clothing. However, when working or visiting offworld, they wear appropriate outfits. Their long bodies are equally comfortable walking on either two or four legs. Their long tails serve as a counterbalance for their bodies when standing upright. These tails are equally capable of being used as potent bludgeoning weapons in combat. At the end of their paw-like hands are retractable claws which not only gives them the capacity to dig but also makes them excellent climbers. They have long pointed faces with bristly whiskers as well as long teeth. Most selonians born are infertile females. One in every hundred are male, and one in every five hundred are fertile females.
@@ -6668,8 +7277,13 @@ As a selonian, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Shistavanen
+Shistavanen
 
 #### Visual Characteristics
 
@@ -6692,6 +7306,8 @@ As a selonian, you have the following special traits.
 |***Language***|Shistavanen|
 
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Shistavanen have pronounced muzzles, sharp claws, long pointed teeth, and pointed ears set on top of their heads. Shistavanen also possess large glowing eyes, and can also run at high speeds for long periods without getting tired, alternately using two or four limbs. As predators, they possess keen hearing and smell and excellent night vision.
@@ -6745,8 +7361,13 @@ As a shistavanen, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Squib
+Squib
 
 #### Visual Characteristics
 
@@ -6769,6 +7390,8 @@ As a shistavanen, you have the following special traits.
 |***Language***|Squibbian|
 
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Squibs are small, sentient, humanoid mammals with both rodent and canine characteristics. Their pink skin is covered in fur that offers some protection from cold weather, but, more importantly, it serves as an<brolfactory organ, able to pick up scents at a distance<brand ascertain intrinsic details—such as penetrating<brthrough a disguise or identifying a forgery—when<brrubbed against. The species has both male and female<brsexes, although non-Squibs often have difficulty<brdetermining the sex of a Squib based on appearance<bralone. Their mouths are full of forbidding, sharp, white<brteeth, and their flexible cheeks were capable of storing<britems.
@@ -6822,8 +7445,13 @@ As a squib, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Ssi-Ruu 
+Ssi-Ruu 
 
 #### Visual Characteristics
 
@@ -6846,6 +7474,8 @@ As a squib, you have the following special traits.
 |***Language***|Ssi-ruuvi|
 
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Ssi-ruuk are a predatory, warm-blooded saurian species gifted with ferocious strength, remarkable speed, and sharp fangs and claws, traits that serve them well in the volcanic jungles of their homeworld of Lwhekk. Their muscular forms combined with their powerful tails make them very agile hunters, and their colorfully-scaled hides have been proven to be resistant even to blaster bolts. From their nostrils, two scent-tongues protrude that grant them enhanced olfactory senses, compensating for the poor vision afforded them by their dark, three-lidded eyes. No Ssi-ruu has ever been known to be Force-sensitive.
@@ -6899,8 +7529,13 @@ As a ssi-ruu, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Sullustan
+Sullustan
 
 #### Visual Characteristics
 
@@ -6923,6 +7558,8 @@ As a ssi-ruu, you have the following special traits.
 |***Language***|Sullestese| 
 
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 A diminutive species of near-humans, Sullustans bear round, tapered skulls. Sullustans are distinguishable for their almond-shaped black eyes, facial jowls called dewflaps and large, round ears. Their wide earlobes provide excellent hearing, and their large eyes provide exceptional low-light vision. Due to their relative lack of exposure to natural light, Sullustans begin to suffer from corneal defects after 30 standard years. Many choose to wear special visors to prevent further damage. Some Sullustans tattoo their heads as a form of individual expression.
@@ -6972,8 +7609,13 @@ As a sullustan, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Talz
+Talz
 
 #### Visual Characteristics
 
@@ -6994,6 +7636,8 @@ As a sullustan, you have the following special traits.
 |:--|:--|
 |***Homeworld***|Orto Plutonia|
 |***Language***|Talzzi|
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Talz are large, bulky, bipedal creatures, that are covered head to toe in thick white fur, which provides exceptional insulation against their frozen world. Talz have four eyes, which are also adaptations to their native environment. The larger set of eyes are shut during the day, when sunlight reflects off the snow with dazzling brightness—able to blind sensitive optical organs—leaving the smaller set to navigate with. Alternatively, during the deep darkness of their homeworld's moonless night, the larger pair are utilized to provide the Talz with adequate vision. Talz use a small proboscis to eat and communicate, creating high-pitched chirps and buzzes.
@@ -7042,8 +7686,13 @@ As a talz, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Tarasin
+Tarasin
 
 #### Visual Characteristics
 
@@ -7066,6 +7715,8 @@ As a talz, you have the following special traits.
 |***Language***|Tarasinese|
 
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Tarasins are tall reptilians covered in translucent scales that allows the species' color-changing skin below to show through. Tarasins also have a colorful fan of flesh and scales—known as a kampo—that opens around their heads when they experience strong emotional distress, which can be a detriment to negotiations, as it is difficult for a tarasin to hide discomfort. This color-changing ability is useful for camouflage and communication, and the scales naturally repel heat. Some examples of colors they take on include being brown when calm and in a comfortable environment, or becoming red after extended exertion or when excited. Tarasins also have short spines that protrude from their forearms—known as a sa'tosin—which give the creatures the ability to sense the use of the Force. Tarasins are naturally curious and protective but also slow to anger. What they lack in sheer physical strength they make up for with a brilliant intellect.
@@ -7111,8 +7762,13 @@ As a tarasin, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Taung
+Taung
 
 #### Visual Characteristics
 | | |
@@ -7134,6 +7790,8 @@ As a tarasin, you have the following special traits.
 |***Homeworld***| Coruscant, Mandalore (adopted)
 |***Language***| Mando'a
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Taung are a humanoid species of tall and strong sentient simians. Physically, the taung are extremely resilient and are able to endure hardships many other species are unable to, which benefits their warlike nature as well as their tendencies to conquer planets.
@@ -7191,8 +7849,13 @@ As a taung, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Theelin
+Theelin
 
 #### Visual Characteristics
 
@@ -7215,6 +7878,8 @@ As a taung, you have the following special traits.
 |***Language***|Galactic Basic|
 
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 The original appearance of the theelin is officially uncertain, as almost all known "theelin" are not full-blooded specimens, but hybrids. It is possible that some aspects of these individuals' appearances are not from their theelin genes, but from other near-human ancestors. Most, however, have vividly colored hair and pale skin, often mottled with colorful spots. Unfortunately, a series of mutations arose among later generations of theelin. These mutations have led to genetic incompatibilities within their species, making it impossible to produce offspring. Even attempts to continue their species by cross-breeding with other near-humans could not stop the theelin slide towards extinction, due to the high infant mortality rates such couplings suffer from. Theelin began inevitably dwindling in number—only a few million theelin and part-theelin remain by the time the Republic fell, and pure theelin are presumed extinct by the fall of the Empire. Some of their greatest works are produced in these years, however, as an epitaph for a dying people. 
@@ -7269,8 +7934,13 @@ As a theelin, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Thisspiasian
+Thisspiasian
 
 #### Visual Characteristics
 
@@ -7292,6 +7962,8 @@ As a theelin, you have the following special traits.
 |***Homeworld***|Thisspias|
 |***Language***|Thisspiasian|
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Thisspiasians are easily recognized by their abundant beards and their long tails, which often reach over six feet. These tails are very strong and are commonly used to carry large objects. When meditating or at rest, a thisspiasian will coil their tail beneath their torso, reducing their height by several feet. They also possess four arms, with the upper set being stronger and larger. Each of their four hands have five fingers, and each finger is tipped with a long, sturdy claw. It is thought unsophisticated or unseemly by upper-class thisspiasians to have the bottom two visible in public, so they are generally hidden from sight via larger garments, with the smaller limbs sometimes even bound to their bodies. Thisspiasians need very little sleep to function normally, resting for only two hours a day, with brief meditative moments scattered throughout the day to refocus.
@@ -7345,8 +8017,13 @@ As a thisspiasian, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Tiss'shar
+Tiss'shar
 
 #### Visual Characteristics
 
@@ -7369,6 +8046,8 @@ As a thisspiasian, you have the following special traits.
 |***Language***|Tiss'shar|
 
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Tiss'shar are bipedal therapods descended from predatory reptilians native to the humid jungle continents of Tiss'sharl. They are relatively strong and agile, with long necks, slender torsos, wider hips, and a short but wiry tail. Their mouths are filled with short, sharp teeth, and their large tongues are pink and constantly moving. Their large eyes appear glassy as a result of the clear, resilient film that covered and protected them. Many tiss'shar have prominent sickle-shaped claws on the first toe of their feet; some also possessed a crest of feathers atop their heads.
@@ -7415,8 +8094,13 @@ As a tiss'shar, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Tognath
+Tognath
 
 #### Visual Characteristics
 
@@ -7439,6 +8123,8 @@ As a tiss'shar, you have the following special traits.
 |***Language***|Tognath|
 
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Tognath are a sentient species native to Yar Togna. Yar Togna is a foul-smelling, high-gravity planet with a toxic, fume-saturated atmosphere. As a result, tognath wear a breathing apparatus to process the oxygen content in a planet's atmosphere. The tognath have a striking look thanks to their insectoid and mammalian characteristics; another factor is their having both an endo- and exoskeleton. They also possess a very primitive nervous system, which provides them with immunity to most pain (a helpful trait in combat). Tognath begin life as larvae born from egg clutches hatched in a suspension jelly, and latch onto one of their parents, feeding directly from their bloodstream. While in that jelly, two or more eggs (not necessarily from the same parent) sometimes graft together, thus creating a bond that continues throughout the life of the eggmates. Six months later, parents visit a nursery tree, where the young detatch from them and spin a cocoon. Within, the offspring undergo a metamorphosis, developing both their skeletons to resist the high gravity and pressures of Yar Togna.
@@ -7486,8 +8172,13 @@ As a tognath, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Togorian
+Togorian
 
 >##### Visual Characteristics
 | | |
@@ -7510,6 +8201,8 @@ As a tognath, you have the following special traits.
 |***Language***| Togorese |
 
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 The Togorian people are a feline warrior species native to the planet Togoria. They are large, heavy-framed bipeds, with retractable claws on their hands and feet. Female Togorians grow up to 7 feet tall, while adult males can reach up to 9 feet. They're covered in gray-white, black, brown, or orange fur, often with colorful spots or stripes. 
@@ -7557,8 +8250,13 @@ As a togorian, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Toydarian
+Toydarian
 
 #### Visual Characteristics
 
@@ -7580,6 +8278,8 @@ As a togorian, you have the following special traits.
 |***Homeworld***|Toydaria|
 |***Language***|Toydarian|
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 A mammalian species of winged, stout bodied humanoids, the Toydarians have stubby facial tusks which protruded from their lower jaw and framed a short pudgy trunk. While their stubby legs can support their body weight, Toydarians' primary mode of locomotion was their use of the wings on their upper back. Though their wings can beat as fast as ten times a second, the effort burned up large amounts of energy, causing the species to need to replenish itself often through regularly eating mass quantities of food. In order to fuel this hyperactive metabolism, Toydarians eat concentrated foods and egg-seeds. Most of the bloodiest wars in their history were fought over food supplies. 
@@ -7632,8 +8332,13 @@ As a toydarian, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Ugnaught
+Ugnaught
 
 #### Visual Characteristics
 
@@ -7656,6 +8361,8 @@ As a toydarian, you have the following special traits.
 |***Language***|Ugnaught|
 
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Ugnaughts are diminutive, porcine humanoids who have pink skin, upturned noses, white hair, and thick layers of jowls. Some have tusks that they use in blood duels. They are strong and resilient, and their life-spans reached up to 200 standard years. They notably eat genteslugs.
@@ -7715,8 +8422,13 @@ As an ugnaught, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Ugor
+Ugor
 
 #### Visual Characteristics
 
@@ -7738,6 +8450,8 @@ As an ugnaught, you have the following special traits.
 |***Homeworld***|Paradise System|
 |***Language***|Ugor|
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Ugors are sentient, unicellular protozoans. Considered exotic for being one of the few sentient species to fall outside the standard classificiations of birds, mammals, etc. Their bodies consist of cytoplasm, which can vary in colors and shade, bound by a slime-coated membrane. Being amorphic, ugors can assume nearly any shape, and can exude pseudopodia limbs such as crude arms, mouths, and sensory organs, although a globular form was the most comfortable and easy to maintain. Due to their unique physiology and evolution, they are able to digest substances that would prove toxic to other species, and can subsist on other species' trash. While most maintain globular form, some who interact with humanoid species will wear EVA suits or armor to give themselves a humanoid appearence. 
@@ -7785,8 +8499,13 @@ As an ugor, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Umbaran
+Umbaran
 
 #### Visual Characteristics
 
@@ -7809,6 +8528,8 @@ As an ugor, you have the following special traits.
 |***Language***|Umbaran|
 
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Umbarans, called the "Shadow People" by some, are a<brnear-human species characterized by their pale, bluish<brskin and colorless, sunken eyes. Their homeworld,<brUmbara, is situated deep within the Ghost Nebula, and<brreceives almost no direct light from the planet's<brprimary star. As a result, Umbaran eyes are well-<br>adjusted to seeing in low light, and can see into the<brultraviolet spectrum, but can be disoriented by bright<brlight.
@@ -7862,8 +8583,13 @@ As an umbaran, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Verpine
+Verpine
 
 #### Visual Characteristics
 
@@ -7886,6 +8612,8 @@ As an umbaran, you have the following special traits.
 |***Language***|Verpine|
 
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Verpine are thin bipedal insectoids whose heads are dominated by large compound eyes. They also have two antennae, one located behind each eye. Their hardened carapace, composed of a green chitinous substance called carahide, is as flexible as the skin of other creatures, yet tough enough to deflect a blade or even absorb a glancing blaster bolt. The Verpine circulatory system does not contain a heart.
@@ -7935,8 +8663,13 @@ As a verpine, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Voss
+Voss
 
 #### Visual Characteristics
 
@@ -7959,6 +8692,8 @@ As a verpine, you have the following special traits.
 |***Language***|Voss|
 
 <!--- <div style='margin-top:50px'></div--->
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Voss are humanoid sentients with a high rate of Force-sensitivity who display prominent sexual dimorphism. The male Voss have blue skin and bright orange eyes, while the females have red skin and azure eyes. The Voss do not have hair or distinct pupils, and posess unique patterns of markings on their face, neck, and body, a trace of their shared ancestry with Gormak. Their voices have a slight mechanical tinge to them, making them sound somewhat like a droid or machine. Voss undogo a physical, developmental change during their marriage ceremonies (known as the Rite of Ardor) and do not develop sexually prior to the performance of these rituals.
@@ -8008,8 +8743,13 @@ As a voss, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Vurk
+Vurk
 
 #### Visual Characteristics
 
@@ -8031,6 +8771,8 @@ As a voss, you have the following special traits.
 |***Homeworld***|Sembla|
 |***Language***|Semblan|
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Vurks are the predominant sentient species of the planet Sembla. They are tall, reptilian humanoids with bulbous dark eyes and sweeping head crests. Their hands and feet have three digits each, one of which was opposable. They have distinguishing gray-green, leathery skin. Being able to breathe both water and air, they are perfectly adapted to travel Sembla's warm, shallow seas dotted with volcanic islands. They share a strong nomadic instinct with their amphibious ancestors.  
@@ -8084,8 +8826,13 @@ As a vurk, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Xexto
+Xexto
 
 #### Visual Characteristics
 
@@ -8108,6 +8855,8 @@ As a vurk, you have the following special traits.
 |***Language***|Xextese|
 
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Xexto are spindly invertebrates with four arms with six fingers and two legs with ten toes. Almond-shaped eyes dominate a small head perched atop a long neck. Their brain is split between two parts of their body; the part located in the skull controls primitive emotions and basic body functions, while another portion in their chest controls higher functions such as creative thinking and logic. It's believed that xexto's body structure and lightning-fast reflexes developed to help them escape predators while pursuing their own prey, there is no question that genetic manipulation forever altered their evolutionary development.
@@ -8163,8 +8912,13 @@ As a xexto, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Yevetha
+Yevetha
 
 #### Visual Characteristics
 
@@ -8187,6 +8941,8 @@ As a xexto, you have the following special traits.
 |***Language***|Yevethan|
 
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Physically, the Yevetha are tall beings with a ghoulish appearance that is bereft of any body hair, being described as being so gaunt as to seem skeletal due to their pallid gray skin and lithe builds. The species possesses six fingered hands that have retractable dewclaws. Each one is located on the inside of the wrist above their six-fingered hands. Their dewclaws shoot from a sheath of a skin beneath their cadaverous hands and are capable of being retracted. When extended fully, the wrist blades reach about a foot in length, and are used in close combat and blood sacrifices. The Yevetha also possess a greater tolerance for g-forces when compared to Human pilots.
@@ -8232,8 +8988,13 @@ As a yevetha, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Zeltron
+Zeltron
 
 #### Visual Characteristics
 
@@ -8255,6 +9016,8 @@ As a yevetha, you have the following special traits.
 |***Homeworld***|Zeltros|
 |***Language***|Galactic Basic|
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 Zeltrons are one of the few near-human species that differentiated from the baseline stock enough to be considered a new species of the Human genus, rather than simply a subspecies. They possess two biological traits of note. The first is that they all produce potent pheromones, similar to the Falleen species, which enhanced their attractiveness and likeability. The second is a limited telepathic ability, used to project emotions onto others, as well as allowing them to read and even feel the emotions of others; some Zeltrons have been hired by the Exchange for this ability. Because of their telepathic ability, positive emotions such as happiness, love and pleasure are very important to them, while negative ones such as anger, fear, or depression are shunned.
@@ -8304,8 +9067,13 @@ As a zeltron, you have the following special traits.
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Zilkin
+Zilkin
 
 #### Visual Characteristics
 
@@ -8327,6 +9095,8 @@ As a zeltron, you have the following special traits.
 |***Homeworld***|Zilk|
 |***Language***|Zilkin|
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 The zilkins are a bipedal, amphibious species discernible by their diminutive stature and stalk eyes. Their homeworld, Zilk, has many dense jungles and swamps deemed impossible to navigate by most species. Only the zilkins themselves, evolved from worm-like creatures, were able to easily slip through the gaps in the tangled, coarse foliage. Their powerful legs make them adept at swimming and leaping.
@@ -8387,8 +9157,13 @@ As a zilkin, you have the following special traits:
 
 
 
+---
+title: 
+parent: Species
+grand_parent: Expanded Content
+---
 
-# Zygerrian
+Zygerrian
 
 #### Visual Characteristics
 
@@ -8411,6 +9186,8 @@ As a zilkin, you have the following special traits:
 |***Language***|Zygerrian|
 
 
+
+<img src='../../../zzImages/Species/' style='float:right; float:top; width:200px;'>
 
 ## Biology and Appearance
 The Zygerrians are a bipedal, sentient humanoid species. Feline in appearance, the species possesses strong, angular features, with long fangs jutting from their jaws and claws extending from their hands. The Zygerrians' faces and their pointed ears are almost entirely covered with fur; males usually have more hair than females, with bands of fur growing on their cheeks. Male Zygerrians also display a number of bony spurs protruding from the chin, which females typically lack. Zygerrians usually have sallow complexions and are physically strong, but some suffer from obesity. 
