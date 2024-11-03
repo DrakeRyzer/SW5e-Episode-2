@@ -5,27 +5,27 @@ grand_parent: Classes
 has_children: true
 ---
 
-## Tactical Specialist
+# Tactical Specialist
 
 <img src='../../../../zzImages/Classes/fighter_tactical.png' style='float:right; width:400px;'>
 
 Those fighters who choose to become Tactical Specialists employ martial techniques passed down through generations. To a Tactical Specialist, combat is an academic field, sometimes including subjects beyond battle such as armstech or armormech. Not every fighter absorbs the lessons of history, theory, and artistry that are reflected in the Tactical Specialty, but those who do are well-rounded fighters of great skill and knowledge.
 
-### Bonus Proficiencies
+## Bonus Proficiencies
 _**Tactical Specialist:** 3rd level_<br>
 You gain proficiency in your choice of artisan's implements.
 
-### Improved Combat Superiority
+## Improved Combat Superiority
 _**Tactical Specialist:** 3rd level_<br>
 Your tactical skill in combat improves, granting bonuses to your Combat Superiority.
 
-#### Improved Maneuvers 
+### Improved Maneuvers 
 You know four maneuvers of your choice, instead of two, and you earn more at higher levels, as shown in the Maneuvers Known column of the Tactical Superiority table.
 
-#### Improved Superiority Dice
+### Improved Superiority Dice
 You have four superiority dice, instead of two, and you earn more at higher levels, as shown in the Superiority Dice Quantity column of the Tactical Superiority table.
 
-#### Tactical Superiority
+### Tactical Superiority
 
 Level|Maneuvers<br> Known|Superiority<br> Dice Quantity|
 |:---:|:---:|:---:|:---:|
@@ -48,13 +48,13 @@ Level|Maneuvers<br> Known|Superiority<br> Dice Quantity|
 |19th|23|12|
 |20th|24|12|
 
-### Maneuver Versatility
+## Maneuver Versatility
 _**Tactical Specialist:** 3rd level_<br>
 You can use each maneuver twice per turn, instead of once.
 
 Additionally, choose two maneuvers you know. The chosen maneuvers count as general maneuvers for you. You can choose another maneuver at 5th, 9th, 13th, and 17th level. Whenever you gain a level in this class, you can replace one of these maneuvers with another maneuver you know.
 
-### Know Your Enemy
+## Know Your Enemy
 _**Tactical Specialist:** 7th level_<br>
 If you spend at least 1 minute observing or interacting with another creature outside combat, you can learn certain information about its capabilities compared to your own. The GM tells you if the creature is your equal, superior, or inferior in regard to two of the following characteristics of your choice:
 
@@ -67,15 +67,15 @@ If you spend at least 1 minute observing or interacting with another creature ou
 - Fighter class levels (if any)
 
 
-### Maneuver Adept
+## Maneuver Adept
 _**Tactical Specialist:** 10th level_<br>
 Once per turn, your superiority dice rolls gain a minimum roll threshold, discussed in chapter 7.
 
-### Relentless
+## Relentless
 _**Tactical Specialist:** 15th level_<br>
 When you roll initiative and have no superiority dice remaining, you regain 1 superiority die.
 
-### Maneuver Mastery
+## Maneuver Mastery
 _**Tactical Specialist:** 18th level_<br>
 Once per round, when you would roll a superiority die, you can instead choose the maximum.
 

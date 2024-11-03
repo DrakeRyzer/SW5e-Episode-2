@@ -5,17 +5,17 @@ grand_parent: Classes
 has_children: true
 ---
 
-## Unstable Engineering
+# Unstable Engineering
 
 <img src='../../../../zzImages/Classes/engineer_experimental.png' style='float:right; width:400px;'>
 
 Those engineers who choose the Unstable Engineering discipline create and use untested combinations, resulting in powerful-and often unpredictable-effects.
 
-### Bonus Proficiencies
+## Bonus Proficiencies
 _**Unstable Engineering:** 3rd level_<br>
 You gain proficiency in your choice of artisan's implements. Additionally, when you engage in crafting with tinker's implements, the rate at which you craft doubles.
 
-### Modified Tinkercannon
+## Modified Tinkercannon
 _**Unstable Engineering:** 3rd, 9th, and 17th level_<br>
 You learn to enhance your tinker's implements with unstable science, modifying them into a harness with a cannon. Over the course of a long rest, you can modify your tinker's implements to create a tinkercannon. You must have tinker's implements in order to perform this modification.
 
@@ -23,7 +23,7 @@ Whenever you cast a tech power of 1st level or higher while wielding your tinker
 
 Additionally, your tinkercannon come equipped with four overrides, and they gain more at higher levels, as shown in the Modification Slots column of the engineer table. Each time you trigger an Unstable Engineering Surge, you can use an override to reroll the percentile dice. You must use the new result, you can only do this once per surge, and each time you do so in excess of your proficiency bonus (resetting on a long rest) your maximum tech points is reduced by 1 until you complete a long rest. You regain all expended overrides when you complete a long rest.
 
-### Unstable Volley
+## Unstable Volley
 _**Unstable Engineering:** 3rd, 9th, and 17th level_<br>
 While wielding your tinkercannon, as a bonus action you can expend one use of your Potent Aptitude to launch a volley of unstable energy at a surface located within 30 feet of you that you can see. This energy adheres to the surface for 1 minute, after which it erupts. As a part of this bonus action, or as a bonus action on a following turn, you can cause the energy to erupt early. Each creature within 5 feet of it must make a Dexterity saving throw against your tech save DC. A creature takes 1d6 lightning damage on a failed save, or half as much on a successful one. 
 
@@ -31,23 +31,23 @@ The range at which you can launch your volley increases to 60 feet at 9th level,
 
 This damage increases when you reach certain levels in this class, increasing to 2d6 at 5th level, 3d6 at 11th level, and 4d6 at 17th level.
 
-### Creative Destruction
+## Creative Destruction
 _**Unstable Engineering:** 6th level_<br>
 You can add your governing ability modifier (minimum of +1) to any damage you deal with tech powers and class features that don't already include that modifier. If the tech power or class feature would damage multiple creatures, you can only deal this additional damage to one of them.
 
 If you choose to deal this additional damage, your GM can have you roll on the Unstable Engineering Surge table.
 
-### Experimental Overrides 
+## Experimental Overrides 
 _**Unstable Engineering:** 14th level_<br>
 You gain a modicum of control over your surges. Whenever you roll on the Unstable Engineering Surge table and use one of your overrides, you can choose either total.
 
-### Engineering Bombardment
+## Engineering Bombardment
 _**Unstable Engineering:** 18th level_<br>
 The harmful energies of your tech powers and class features intensify. When you roll damage for a tech power or class feature and roll the highest number possible on any of the dice, you can roll it again and use both results. You can only use this ability once per tech power or class feature.
 
 ___
 
-## Unstable Engineering Surge
+# Unstable Engineering Surge
 
 
 |d100|Result|
