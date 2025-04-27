@@ -7,7 +7,7 @@ has_children: true
 
 # Kov'nyn Order
 
-<img src='../../../Images/Classes/KovnynOrder.png' style='float:right; width:350px;'>
+<img src='../../../zzImages/Classes/KovnynOrder.png' style='float:right; width:350px;'>
 
 Mandalorians, well known for their prowess in unarmed combat, were trained in Kov'nyn. A style which utilized the protection their armor afforded them in an offensive manner. Although they would train and spar without weapons, this unique style allowed them effective use of weapons, especially ones afixed to their arms and armor. 
 

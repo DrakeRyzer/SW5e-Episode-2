@@ -6,7 +6,7 @@ has_children: true
 
 ## The Mandalorians
 
-<img src='https://www.sideshow.com/storage/product-images/903944/mandalorian-skull-pewter-mini-sculpture_star-wars_silo.png' style='float:right; width:330px;'>
+<img src='https://www.sideshow.com/storage/product-zzImages/903944/mandalorian-skull-pewter-mini-sculpture_star-wars_silo.png' style='float:right; width:330px;'>
 
 The Mandalorians—known in Mando'a as the Mando'ade, or "Children of Mandalore"—were a nomadic group of clan-based people consisting of members from multiple species and multiple genders, all bound by a common culture.
 

@@ -82,8 +82,8 @@ Choose one from the following:
  - You can speak, read, and write Galactic Basic. You can also process and understand spoken and written Binary, but you can not speak it.
  - You can speak, read, and process Binary. You can also process and understand spoken and written Galactic Basic, but you can not speak it or additional languages you may learn.
 
-<img src='https://www.gmbinder.com/images/bodo2nf.png' style='float:right;top:32px;right:249px;width:118px;transform:scaleX(-1);z-index:1000' />
+<img src='https://www.gmbinder.com/zzImages/bodo2nf.png' style='float:right;top:32px;right:249px;width:118px;transform:scaleX(-1);z-index:1000' />
 
-<img src='https://www.gmbinder.com/images/KlA0JZ7.png' style='float:right;top:32px;right:62px;width:95px;z-index:1000' />
+<img src='https://www.gmbinder.com/zzImages/KlA0JZ7.png' style='float:right;top:32px;right:62px;width:95px;z-index:1000' />
 
-<img src='https://www.gmbinder.com/images/7ydbiHP.png' style='float:right;top:12px;right:159px;width:90px;z-index:1000' />
+<img src='https://www.gmbinder.com/zzImages/7ydbiHP.png' style='float:right;top:12px;right:159px;width:90px;z-index:1000' />

@@ -10,7 +10,7 @@ WORK IN PROGRESS
 # Tiny to Large Starship Weapons
 In this section there are various tables showing the various starship weapons that can be added to starships of *Tiny*, *Small*, *Medium*, or *Large* size. 
 
-<img src='../../../../Images/Starships/shiplasercannon1.png' style='width:600px;'>
+<img src='../../../../zzImages/Starships/shiplasercannon1.png' style='width:600px;'>
 
 ## Primary Starship Weapons
 

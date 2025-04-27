@@ -7,7 +7,7 @@ grand_parent: EC Mandalorian Codex
 # The Mask of Mandalore 
 ---
 
-<img src='../../../Images/maskofmandalore.png' style='float:right; width:450px;'>
+<img src='../../../zzImages/maskofmandalore.png' style='float:right; width:450px;'>
 
 *"You know what the Mask means to my people. Without it we are lost, vagabonds wandering the galaxy without a purpose. Recovering the Mask could be the key to restoring Mandalorian honor—and power. Whoever finds it will be hailed as the new leader of the clans. Mandalore will rise again, and the Mandalorians will follow."* <br>
 ―Canderous Ordo

@@ -5,7 +5,7 @@ grand_parent: Classes
 has_children: true
 ---
 
-<img src='../../../Images/Classes/Wingman.png' style='float:right; width:250px;'>
+<img src='../../../zzImages/Classes/Wingman.png' style='float:right; width:250px;'>
 
 # Wingman Practice
 

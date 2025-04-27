@@ -7,7 +7,7 @@ has_children: true
 
 # Ballistic Approach
 
-<img src='../../../../Images/Classes/' style='float:right; width:300px;'>
+<img src='../../../../zzImages/Classes/' style='float:right; width:300px;'>
 
 For many, rushing an opponent with guns blazing is a last resort. For Berserkers of the Ballistic Approach, this isn't a last resort; it's the primary plan. Leading up a melee charge with a blaster and pure unbridled rage, the berserker never lets an empty gun diminish their fury.
 

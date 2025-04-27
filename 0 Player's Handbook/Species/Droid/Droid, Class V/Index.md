@@ -83,8 +83,8 @@ As a class V droid, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write Binary. You can understand spoken and written Galactic Basic and one language of your choice, but you can not speak it.
 
-<img src='https://www.gmbinder.com/images/lEEiyee.png' style='float:right;top:47px;right:265px;width:118px;' />
+<img src='https://www.gmbinder.com/zzImages/lEEiyee.png' style='float:right;top:47px;right:265px;width:118px;' />
 
-<img src='https://www.gmbinder.com/images/edKQlhv.png' style='float:right;top:37px;right:65px;width:106px' />
+<img src='https://www.gmbinder.com/zzImages/edKQlhv.png' style='float:right;top:37px;right:65px;width:106px' />
 
-<img src='https://www.gmbinder.com/images/kaVdLRJ.png' style='float:right;top:43px;right:143px;width:160px;;' />
+<img src='https://www.gmbinder.com/zzImages/kaVdLRJ.png' style='float:right;top:43px;right:143px;width:160px;;' />

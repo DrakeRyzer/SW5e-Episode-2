@@ -12,7 +12,7 @@ Installing modifications into a Modifiable Item requires two key components: a m
 
 ### Types of Modifiable Items
 
-<img src='../../Images/modifiedmandalorian.png' style='float:right; width:400px; scaleX(1);' />
+<img src='../../zzImages/modifiedmandalorian.png' style='float:right; width:400px; scaleX(1);' />
 
 - [Armor]()
 - [Blasters]()
@@ -61,7 +61,7 @@ You cannot add more than two *Augment Slots* to an item. Additionally adding *Au
 
 ## Installing and Removing Modifications
 
-<img src='../../Images/modifiedblaster.png' style='float:right; bottom:40px; right:15px; width:430px; z-index:1000;  transform: rotate(-15deg) scaleX(-1);' />
+<img src='../../zzImages/modifiedblaster.png' style='float:right; bottom:40px; right:15px; width:430px; z-index:1000;  transform: rotate(-15deg) scaleX(-1);' />
 
 Installing or Removing a modification using a *Modifiable Item* takes one hour and requires an ability check with the appropriate tool, as shown in the *Item Specific Tools table* on page \_\_\_. The DC for the check is determined by the rarity of the modification being installed, as shown below in the [*Installation/Removal DC by Rarity*](https://drakeryzer.github.io/DrakeSW5E/Enhanced%20Items/Modifiable%20Items/#installationremoval-dc-by-rarity) table.
 
@@ -152,4 +152,4 @@ Once a player has made their forcecasting ability check to discover a lightweapo
 
 A player can choose the color crystal that is the result of their percentile dice rolled, or they can choose one that falls below it. For instance, if the player rolls a 91 and finds a viridian color crystal, they could instead choose a yellow color crystal, as if they had rolled a 63.
 
-<img src='../../Images/kybercrystalcave.png' style='float:; bottom:-5px; right:0px; width:1000px;'/>
+<img src='../../zzImages/kybercrystalcave.png' style='float:; bottom:-5px; right:0px; width:1000px;'/>

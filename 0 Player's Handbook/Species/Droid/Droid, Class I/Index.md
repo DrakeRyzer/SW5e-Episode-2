@@ -7,11 +7,11 @@ has_children: true
 
 # Droid, Class I
 
-<img src='https://www.gmbinder.com/images/Zey39J2.png' style='float:right; width:121px;' />
+<img src='https://www.gmbinder.com/zzImages/Zey39J2.png' style='float:right; width:121px;' />
 
-<img src='https://www.gmbinder.com/images/UREBv14.png' style='float:right; width:100px; transform:scalex(-1)' />
+<img src='https://www.gmbinder.com/zzImages/UREBv14.png' style='float:right; width:100px; transform:scalex(-1)' />
 
-<img src='https://www.gmbinder.com/images/BhiNZdX.png' style='float:right; width:97px; transform:scalex(-1)' />
+<img src='https://www.gmbinder.com/zzImages/BhiNZdX.png' style='float:right; width:97px; transform:scalex(-1)' />
 
 #### Characteristics
 ***Color Scheme:*** Typically metallic <br>

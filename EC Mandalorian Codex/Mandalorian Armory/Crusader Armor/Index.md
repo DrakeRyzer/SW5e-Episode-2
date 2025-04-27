@@ -7,7 +7,7 @@ grand_parent: EC Mandalorian Codex
 # Crusader Armor
 ---
 
-<img src='https://www.gmbinder.com/images/R4nGvSp.png' style='float:right; width:200px;'>
+<img src='https://www.gmbinder.com/zzImages/R4nGvSp.png' style='float:right; width:200px;'>
 
 ## Helmets
 ---

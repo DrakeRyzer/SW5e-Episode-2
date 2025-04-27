@@ -7,9 +7,9 @@ has_children: true
 
 # Droid, Class II
 
-<img src='https://www.gmbinder.com/images/lMZ4tex.png' style='float:right; width:150px;' />
+<img src='https://www.gmbinder.com/zzImages/lMZ4tex.png' style='float:right; width:150px;' />
 
-<img src='https://www.gmbinder.com/images/CufHu1B.png' style='float:right; width:120px;' />
+<img src='https://www.gmbinder.com/zzImages/CufHu1B.png' style='float:right; width:120px;' />
 
 #### Characteristics
 ***Color Scheme:*** Varies with a mixture of painted and metallic <br>

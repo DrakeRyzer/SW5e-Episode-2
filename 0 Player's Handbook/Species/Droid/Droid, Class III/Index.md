@@ -70,6 +70,6 @@ As a class III droid, you have the following special traits.
 
 ***Languages.*** You can speak, read, and write all registered languages.
 
-<img src='https://www.gmbinder.com/images/Odqa22U.png' style='float:right;top:27px;right:41px;width:145px;z-index:1000' />
+<img src='https://www.gmbinder.com/zzImages/Odqa22U.png' style='float:right;top:27px;right:41px;width:145px;z-index:1000' />
 
-<img src='https://www.gmbinder.com/images/V02q0aa.png' style='float:right;top:36px;right:145px;width:253px;z-index:1000' />
+<img src='https://www.gmbinder.com/zzImages/V02q0aa.png' style='float:right;top:36px;right:145px;width:253px;z-index:1000' />

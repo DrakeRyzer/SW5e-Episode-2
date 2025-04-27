@@ -11,7 +11,7 @@ CURRENTLY ONLY USING RULES FROM SW5E.COM
 
 ---
 
-<img src='../../../../../../Images/Starships/X-wing (1).png' style='float:right; width:400px;'>
+<img src='../../../../../../zzImages/Starships/X-wing (1).png' style='float:right; width:400px;'>
 
 The T-65B X-wing starfighter was a single-seat craft manufactured by Incom Corporation and used most famously by the Alliance to Restore the Republic during the Galactic Civil War. Renowned for its speed and maneuverability in battle, it became the backbone of the Rebel Alliance Starfighter Corps, being both harder hitting and tougher under fire than its main adversary, the mass-produced TIE/ln space superiority starfighter.
 

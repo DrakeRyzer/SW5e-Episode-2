@@ -50,4 +50,4 @@ Ammunition [(wrist launcher)](https://sw5e.com/loot/weapons/?search=Wrist%20laun
 A wrist launcher loaded with this ammunition locks on to one or more targets within range and expels a series of three small explosives. Each explosive hits a creature of your choice that you can see within normal range. An explosive deals 1d4 + 1 fire damage to its target. The explosives all strike simultaneously, and you can direct them to hit one creature or several.  
 
 These explosives are affected by tech powers as if they are the *homing rockets* tech power.
-<kbd><img src='../../../Images/Whistling birds-nooutline.png' style='float:right;'></kbd>
+<kbd><img src='../../../zzImages/Whistling birds-nooutline.png' style='float:right;'></kbd>

@@ -7,7 +7,7 @@ grand_parent: EC Mandalorian Codex
 # The Darksaber
 ---
 
-<img src='../../../Images/thedarksaber.png' style='float:right; width:100px;'>
+<img src='../../../zzImages/thedarksaber.png' style='float:right; width:100px;'>
 
 *"Anyone can hold the Darksaber. The trick is keeping it, along with your head."* <br>
 ―Ursa Wren to Sabine Wren
