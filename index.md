@@ -1,5 +1,5 @@
 ---
-title: SW5e Episode 2
+title: SW5e Decrypted Lore
 nav_exclude: true
 ---
 
