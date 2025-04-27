@@ -3,7 +3,7 @@ title: SW5e Decrypted Lore
 nav_exclude: true
 ---
 
-# <img src='zzImages/sw5e-logo.png' style= 'float:bottom; width:150px;'> SW5e's Decrypted Lore
+# <img src='zzImages/sw5e-logo.png' style= 'float:bottom; width:150px;'> Decrypted Lore
 
 SW5e's Decrypted Lore is the home for all content slated for possible release, much like D&D5e's "Unearthed Arcana", for play testing, discussion, and refining before being fully released to the main SW5e website.
 
