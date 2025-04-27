@@ -3,8 +3,8 @@ title: SW5e Decrypted Lore
 nav_exclude: true
 ---
 
-# <img src='zzImages/sw5e-logo.png' style= 'float:bottom; width:150px;'> Episode 2
+# <img src='zzImages/sw5e-logo.png' style= 'float:bottom; width:150px;'> SW5e's Decrypted Lore
 
-Home of future updates for the Star Wars 5th Edition system.
+SW5e's Decrypted Lore is the home for all content slated for possible release, much like D&D5e's "Unearthed Arcana", for play testing, discussion, and refining before being fully released to the main SW5e website.
 
-If you encounter any typos, bugs, or pages located in the wrong sections, please let DrakeRyzer know on the SW5e Discord <br>(please provide screenshots and links to the page you're encountering the issue).
+If you encounter any typos, bugs, or pages located in the wrong sections, please let DrakeRyzer know on the SW5e Discord in the **#dev-discussion** channel<br>(please provide screenshots and links to the page you're encountering the issue).
