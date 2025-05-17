@@ -9,9 +9,9 @@ grand_parent: Equipment
 ## Martial Blasters
 
 ### Heavy Blaster Cannon
-**Cost and Weight:** 4,050 credits - 20 lb <br>
+**Cost and Weight:** 4,050 credits | 20 lb <br>
 **Weapon Damage:** 3d4 energy <br>
-**Ammunition and Range:** Power Generator - 120/480 feet<br>
+**Ammunition and Range:** Power Generator | 120/480 feet<br>
 **Properties:** Auto, burst, rapid, special, strength 21, two-handed
 
 **Heavy Blaster Cannon Special Property** <br>
