@@ -10,19 +10,25 @@ grand_parent: Enhanced Items
 ## Appendage Droid Parts
 
 ### Siege Arms
-*Droid Customization (part), <font style="color:gray">standard</font>, minor*
+_**Droid Customization** (part), <font style="color:gray">standard</font>, minor_
 
 You modify your arms to create greater impacts and to be more effective against barriers. Your unarmed strikes deal 1d4 kinetic damage and deal double damage against objects and structures.
 
 #### Weapon integration
-_**Droid customization** (part), <font style="color:#4a5568">**standard**</font>_<br>
+_**Droid customization** (part), <font style="color:gray">**standard**</font>, minor_
+
 You can now integrate a single weapon that weighs no more than 8 lb. into your droid chassis. Over the course of a short or long rest, you can insert and integrate this weapon into your frame. While integrated, that weapon gains the hidden and fixed properties.
 
+### Heavy Weapons integration
+_**Droid customization** (part), <font style="color:fuchsia">**Advanced**</font>, major_
+<br>*Prerequisite: Droid Class IV or V, a Strength score of 19 or lower*
+
+You can integrate a single blaster into one of your arms. Over the course of a short or long rest, you can insert and integrate this blaster into your frame. While integrated, the weapon gains the fixed property and you ignore the two-handed property if it has it.
 
 ## Defensive Droid Parts
 
 ### Droid Capacitor Plating
-*Droid customization (part), <font style="color:red">artifact</font>, major*
+**Droid customization** (part), <font style="color:red">artifact</font>, major_
 <br>*Prerequisite: Proficiency with heavy armor*
 
 While you have no armor integrated, your AC becomes 21 (your Dexterity modifier does not affect this number) and you count as wearing heavy armor. You can use a shield and still gain this benefit.
