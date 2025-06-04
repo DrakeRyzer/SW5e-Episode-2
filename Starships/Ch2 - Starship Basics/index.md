@@ -81,10 +81,10 @@ For instance, to build a Light Fighter, with a workforce of 5, would take 10 day
 
 #### **Construction Workforce**
 The minimum workforce size is shown below on the **Construction Workforce** table.  Starship construction also has a maximum practical workforce, beyond which no time gains are made.
-<div style='column-count:1'>
 
-| Starship Size | Min. Workers | Max. Workers |
+|  |  |  |
 |:----|:----|:----|
+Starship Size | Min. Workers | Max. Workers
 | Tiny      | 3     | 15 |
 | Small     | 5     | 25 |
 | Medium    | 10    | 50 |
@@ -92,8 +92,6 @@ The minimum workforce size is shown below on the **Construction Workforce** tabl
 | Huge          | 1,000     | 5,000 |
 | Gargantuan    | 10,000    | 50,000 |
 | Colossal      | 100,000   | 500,000 |
-
-</div>
 
 ### Optional Construction Rules
 ```Put the rules for spliting parts of the cost based on what the party can provide themselves```
