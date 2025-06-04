@@ -56,7 +56,7 @@ If players elect to design or commission the construction of a starship themselv
 Example: A basic Light Fighter can be purchased for 10,000 credits from a ship dealer. If a player wanted to construct one, they would need to spend only 5,000 credits, which covers the raw materials, facilities, and the workforce needed to construct a basic Light Fighter.
 
 ### Constructiion Materials
-Each starship requires basic raw materials to contruct it such as metals, plastics, and other materials needed to construct the basic components of any starship. These materials can be purchased, scavenged from a junkyard, or stolen from a cargo ship.
+Each starship requires basic raw materials to contruct it such as metals, plastics, and other materials needed to construct the basic components of any starship. These materials can be purchased, scavenged from a junkyard, or stolen from a cargo ship but are utimately up to the Game Master to determine.
 
 ### Constructiion Facilities
 In order to construct a starship, a party needs the requisite facilities to do so. Usually this is a massive shipyard found in orbit of the more well established worlds such as Corellia or Mon Calamari. 
