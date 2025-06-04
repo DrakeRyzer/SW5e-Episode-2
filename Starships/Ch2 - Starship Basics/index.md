@@ -76,7 +76,7 @@ Multiply the size of the workforce by 500 and then divide the base Starship Clas
 **Starship Construction Formula**<br>
 "Starship Class Cost" / (500 x "size of workforce")= Days to construct
 
-For instance, to build a Light Fighter, with a workforce of 5, would take 10 days.
+For instance, to build a Light Fighter, with a workforce of 5, would take 4 days to construct.
 <br>(10,000  / [500 x 5]).
 
 #### **Construction Workforce**
