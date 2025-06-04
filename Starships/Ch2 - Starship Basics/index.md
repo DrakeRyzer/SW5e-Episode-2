@@ -119,7 +119,7 @@ More specific rules for how Upgrades and Equipment function as well as the optio
 ## Recharging and 
 
 
-# Optional Rules (needs reworking)
+# Optional Rules ```(needs reworking)```
 
 ## Record-Keeping vs. Upkeep
 The Saga Edition Core Rulebook gives basic costs for upkeep on a personal basis (see Services and Expenses). These costs can be applied to Starships and also serve as a simple way of keeping track of such expenses instead of the more detailed methods described below (see Docking, Fuel, and Maintenance, below). Generally, a Starship of Colossal or smaller size can be maintained in working condition (including Fuel, Maintenance, Docking, and Astrogation Updates) by any character with at least Comfortable Upkeep (2000 credits per month) instead of maintaining a residence. If you don't own your Starship and still make payments for it, the minimum Upkeep required is Wealthy (5000 credits per month) for at least five years.
