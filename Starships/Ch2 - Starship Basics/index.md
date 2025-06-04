@@ -49,7 +49,7 @@ The most common method of acquiring a starship is by purchasing. The cost of a b
 How the players afford the starship varies. They may be patient, earning the credits to make the purchase over time. Alternatively, they might seek a backer, or a loan through a financial institution or any other of the methods described earlier.
 
 ## Constructiion
-Constructing a starship is generally cheaper than buying it, however it requires raw materials, use of a shipyard, an appropritely sized workforce and time to physical construct it. 
+Constructing a starship is generally cheaper than buying it, however it requires raw materials, use of a shipyard, an appropritely sized workforce and time to physically construct it. 
 
 If players elect to design or commission the construction of a starship themselves, they choose a Starship Class to base it on, such as a Medium Fighter or a Light Freighter. Constructing a starship requires half the cost in credits of the finished starship, as noted on its respective Starship Class page; which is the combined total of the raw materials, facilities, and workforce needed to construct it. 
 
