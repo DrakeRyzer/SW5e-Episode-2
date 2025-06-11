@@ -98,6 +98,8 @@ Starship Size | Min. Workers | Max. Workers
 
 Addtionally, a party can have a Tiny, Small, or Medium starship constructed with a workforce up to one third of the minimum for that size (rounded up). When constructed in this way, a starship automatically gains the Used condition, as the party did not have the required workforce to do a thorough inspection.
 
+List what happens when you want to "reverse" a step (uninstall, etc)
+
 ### Stock Upgrades & Equipment
 As part of the construction of a starship, each Starship Class comes installed with a stock amount of Upgrades and Equipment, as listed on their respective page, and come at no additional cost or time to construct. 
 
