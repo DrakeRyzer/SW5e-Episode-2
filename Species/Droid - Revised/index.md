@@ -39,8 +39,8 @@ All classes of droids come with the following traits.
 ***Type.*** <br>
 Your creature type is droid in addition to having a specific class of droid, either a class I, II, III, IV, V, or Tracker.
 
-***Armor Integration.*** <br>
-You can not wear armor, but you can have the armor professionally integrated into your chassis over the course of a long rest. This work must be done by someone proficient with astrotech's implements. You must be proficient in armor in order to have it integrated. 
+***Droid Armor.*** <br>
+You can don only armor with which you have proficiency. To don or doff armor, you must be integrated into your chassis over the course of a long rest by someone proficient with astrotech's implements. You can rest while donning or doffing armor in this way. While you live, the armor integrated into your body cannot be removed against your will.
 
 Additionally you no longer require a tech focus or wristpad to cast tech powers.
 
@@ -54,7 +54,9 @@ You are vulnerable to ion damage. Additionally, you have disadvantage on saving 
 While droids can be manipulated by many force powers, they can not sense the Force. You can not use force powers or take levels in forcecasting classes.
 
 ***Maintenance Mode.*** <br>
-Rather than sleep, you must spend 3 hours performing routine maintenance during a long rest to gain its benefits, during which you have disadvantage on Wisdom (Perception) checks. Additionally, if your long rest would be interrupted, you only need to complete the long rest instead of restarting it.
+When you take a long rest, you must spend at least six hours performing routine maintenance, rather than sleeping. In this state, you appear inert, but it doesn't render you unconscious, and you can see and hear as normal however you have disadvantage on Wisdom (Perception) checks to see and hear.
+
+Additionally, if your long rest would be interrupted, you only need to complete the long rest instead of restarting it.
 
 ***Nonliving.*** <br>
 You do not need to eat, drink, or breathe; and while exposed to a low pressure environment, you can survive indefinitely.
