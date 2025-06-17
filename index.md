@@ -9,11 +9,14 @@ SW5e's Decrypted Lore is the home for all content slated for possible release, m
 
 If you encounter any typos, bugs, or pages located in the wrong sections, please let DrakeRyzer know on the SW5e Discord in the **#dev-discussion** channel<br>(please provide screenshots and links to the page you're encountering the issue).
 
-WORK IN PROGRESS CONTENT {: .label .label-red }
+WORK IN PROGRESS CONTENT
+{: .label .label-red }
 
-NEW CONTENT {: .label .label-green }
+NEW CONTENT
+{: .label .label-green }
 
-REWORKED CONTENT {: .label .label-blue }
+REWORKED CONTENT
+{: .label .label-blue }
 
 --List of Decrypted Lore Pages--
 Player's Handbook Rules
@@ -32,3 +35,4 @@ Community Resources
 Species
 Backgrounds
 Customization Options
+
