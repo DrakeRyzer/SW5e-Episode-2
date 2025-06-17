@@ -6,6 +6,10 @@ has_children: true
 ---
 
 # Droid
+
+REWORKED CONTENT
+{: .label .label-blue }
+
 These rules serve as a rework of the current Droid player character species.
 
 ## Players as Droids
@@ -67,10 +71,10 @@ You are built with internal repair mechanisms. As a bonus action, you can choose
 ***Languages.*** <br>
 All droids can read, write, and process both Galactic Basic and [Binary](https://swse.fandom.com/wiki/Binary). Your class determines if you can speak Galactic Basic or [Binary](https://swse.fandom.com/wiki/Binary), but not both. If you can only speak Binary, you also cannot speak additional languages learned from other sources.
 
-- *Droid Class I:* Can speak Galactic Basic or [Binary](https://swse.fandom.com/wiki/Binary)
+- *Droid Class I:* Can speak Galactic Basic and [Binary](https://swse.fandom.com/wiki/Binary)
 - *Droid Class II:* Can speak [Binary](https://swse.fandom.com/wiki/Binary)
-- *Droid Class III:* Can speak Galactic Basic
-- *Droid Class IV:* Can speak Galactic Basic or [Binary](https://swse.fandom.com/wiki/Binary)
+- *Droid Class III:* Can speak Galactic Basic and [Binary](https://swse.fandom.com/wiki/Binary)
+- *Droid Class IV:* Can speak Galactic Basic and [Binary](https://swse.fandom.com/wiki/Binary)
 - *Droid Class V:* Can speak [Binary](https://swse.fandom.com/wiki/Binary)
 
 ## Droid Size
@@ -78,8 +82,8 @@ You can choose to play a Medium, Small or Tiny Droid; dependent on your chosen D
 
 A Droid's size might influence its Ability Score modifiers or additional traits based on its class.
 
-## Droid Customization
-Some player's might want further customization for thier chosen class. Discuss with your GM, about replacing your Background feat the ***Customized Droid*** feat. 
+# Droid Customization
+Some player's might want further customization for thier chosen droid class. Discuss with your GM, about replacing your Background feat the ***Customized Droid*** feat. 
 
 ### Customized Droid
 You’ve been customized beyond other droids of the same model, granting the following benefits:
@@ -87,7 +91,7 @@ You’ve been customized beyond other droids of the same model, granting the fol
 - Increase an ability score of your choice by 1, to a maximum of 20.
 - Choose one *Droid Customization* of standard rarity. That customization is installed and doesn’t count against the maximum *Droid Customizations* you can support, but it does count towards your maximum parts or protocols, as appropriate.
 
-## Sharded Droid
+# Sharded Droid
 Additionally, some players might want to be Droids that can utilize The Force. Discuss with your GM, about replacing your Background feat ***Shard Modification*** feat if you want to play create a force wielding droid.
 
 ### Shard Modification
