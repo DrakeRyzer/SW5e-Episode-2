@@ -1,6 +1,6 @@
 ---
-title: Ch3 - Starship Upgrades
-parent: Starships
+title: Ch4 - Starship Upgrades
+parent: Starship Rules
 has_children: true
 ---
 

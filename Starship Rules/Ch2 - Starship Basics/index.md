@@ -1,6 +1,6 @@
 ---
 title: Ch2 - Starship Basics
-parent: Starships
+parent: Starship Rules
 has_children: true
 ---
 

@@ -1,6 +1,6 @@
----
+--- 
 title: Ch3 - Starship Classes
-parent: Starships
+parent: Starship Rules
 has_children: true
 ---
 

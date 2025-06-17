@@ -1,15 +1,14 @@
 ---
-title: Upgrades Suites
-parent: Ch3 - Starship Upgrades
-grand_parent: Starships
-has_children: true
+title: Suite Upgrades 
+parent: Ch4 - Starship Upgrades
+grand_parent: Starship Rules
 ---
 
-# Starship Upgrades
+# Starship Upgrades - Suites
 
 
 ## Starship Workshop
-*Modification Grade: 2*<br>
+*Suite: Modification Grade: 2*<br>
 *Prerequisites: Docking Bay*
 
 This suite comes with mounted fusion cutters, flood lamps, magnifying viewers, beam drills, tethers, power prybars, clamps, and an integrated mechanic’s kit that can be used to refit, upgrade, and install equipment as well as modifications to a housed starship. It takes 10 minutes to transfer a starship to and from a Starship Workshop to an installed Docking Bay.

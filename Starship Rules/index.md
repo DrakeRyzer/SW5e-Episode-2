@@ -1,5 +1,5 @@
 ---
-title: Starships
+title: Starship Rules
 has_children: true
 ---
 
