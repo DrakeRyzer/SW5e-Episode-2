@@ -1,6 +1,7 @@
 ---
 title: Stealth
 parent: Combat
+grand_parent: Player's Handbook Rules
 ---
 
 # Stealth

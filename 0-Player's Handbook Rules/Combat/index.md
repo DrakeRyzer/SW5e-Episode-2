@@ -1,5 +1,6 @@
 ---
 title: Combat
+parent: Player's Handbook Rules
 has_children: true
 ---
 

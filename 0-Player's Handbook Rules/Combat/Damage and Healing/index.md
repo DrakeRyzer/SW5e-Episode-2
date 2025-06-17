@@ -1,6 +1,7 @@
 ---
 title: Damage and Healing
 parent: Combat
+grand_parent: Player's Handbook Rules
 ---
 
 # Damage and Healing

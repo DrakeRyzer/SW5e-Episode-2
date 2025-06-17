@@ -1,6 +1,5 @@
 ---
-title: Species
+title: Template
 has_children: true
 ---
 
-## Species

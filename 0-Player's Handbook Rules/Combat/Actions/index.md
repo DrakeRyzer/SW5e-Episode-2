@@ -1,6 +1,7 @@
 ---
 title: Actions
 parent: Combat
+grand_parent: Player's Handbook Rules
 ---
 
 ## New Bonus Actions
