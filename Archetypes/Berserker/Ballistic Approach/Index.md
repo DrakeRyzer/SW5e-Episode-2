@@ -15,7 +15,8 @@ For many, rushing an opponent with guns blazing is a last resort. For Berserkers
 
 > **Bold Text** within features signifies a change
 
-REWORKED CONTENT {: .label .label-blue }
+REWORKED CONTENT
+{: .label .label-blue }
 
 ## Firestorm 
 ***Ballistic Approach:** 3rd level* <br>
@@ -25,10 +26,15 @@ You gain proficiency in martial blasters with the burst or rapid property. Addit
 - When you use a blaster as an improvised weapon, you are considered proficient with it.
 - **When affected by your Reckless Attack feature, you additionally cause creatures affected by a saving throw against the burst or rapid property of a weapon you control to have disadvantage against the saving throw.**
 
-REWORKED CONTENT {: .label .label-blue }
+REWORKED CONTENT
+{: .label .label-blue }
 
 ## Explosive
-***Ballistic Approach:** 3rd and 9th level* <br> REWORKED CONTENT {: .label .label-blue }
+
+REWORKED CONTENT
+{: .label .label-blue }
+
+***Ballistic Approach:** 3rd and 9th level* <br>
 While raging, you gain the following benefits:
 - **When you roll a 1 or 2 on a damage die for an attack made with a blaster weapon, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2.**
 - You add your rage damage to damage rolls from ranged weapon attacks using Strength. 
