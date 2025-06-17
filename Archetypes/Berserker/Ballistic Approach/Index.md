@@ -1,20 +1,22 @@
 ---
 title: Ballistic Approach
-parent: Berserker - Revised
-grand_parent: Archetypes - Revised
+parent: Berserker
+grand_parent: Archetypes
 has_children: true
 ---
 
+
+
 # Ballistic Approach
 
-<img src='../../../../zzImages/Classes/' style='float:right; width:300px;'>
+<img src='../../../../zzImages/Classes/berserker_ballistic.png' style='float:right; width:300px;'>
 
 For many, rushing an opponent with guns blazing is a last resort. For Berserkers of the Ballistic Approach, this isn't a last resort; it's the primary plan. Leading up a melee charge with a blaster and pure unbridled rage, the berserker never lets an empty gun diminish their fury.
 
-> **Bold Text** within features signifies a recent change
+> **Bold Text** within features signifies a change
 
-## Firestorm
-***Ballistic Approach:** 3rd level* <br>
+## Firestorm 
+***Ballistic Approach:** 3rd level* <br> REWORKED CONTENT {: .label .label-blue }
 You gain proficiency in martial blasters with the burst or rapid property. Additionally, you've learned to use ranged weapons with untold fury. While wielding a blaster with which you are proficient, you gain the following benefits:
 
 - You can use your choice of Strength or Dexterity modifier for the attack and damage rolls of blaster weapons against targets within 30 feet of you. You must use the same modifier for both rolls. **Additionally, at 9th level this range increases to within 60 feet of you and at 14th level this increases to within 90 feet of you.**
@@ -22,7 +24,7 @@ You gain proficiency in martial blasters with the burst or rapid property. Addit
 - **When affected by your Reckless Attack feature, you additionally cause creatures affected by a saving throw against the burst or rapid property of a weapon you control to have disadvantage against the saving throw.**
 
 ## Explosive
-***Ballistic Approach:** 3rd and 9th level* <br>
+***Ballistic Approach:** 3rd and 9th level* <br> REWORKED CONTENT {: .label .label-blue }
 While raging, you gain the following benefits:
 - **When you roll a 1 or 2 on a damage die for an attack made with a blaster weapon, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2.**
 - You add your rage damage to damage rolls from ranged weapon attacks using Strength. 

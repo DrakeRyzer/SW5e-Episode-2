@@ -1,7 +1,7 @@
 ---
 title: Kov'nyn Order
-parent: Monk - New
-grand_parent: Archetypes - New
+parent: Monk
+grand_parent: Archetypes
 has_children: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Wingman Practice
-parent: Operative - New
-grand_parent: Archetypes - New
+parent: Operative
+grand_parent: Archetypes
 has_children: true
 ---
 

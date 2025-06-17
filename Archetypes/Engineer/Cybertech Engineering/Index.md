@@ -1,7 +1,7 @@
 ---
 title: Cybertech Engineering
-parent: Engineer - Revised
-grand_parent: Archetypes - Revised
+parent: Engineer
+grand_parent: Archetypes
 has_children: true
 ---
 
