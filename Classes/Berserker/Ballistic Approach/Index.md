@@ -1,22 +1,21 @@
 ---
 title: Ballistic Approach
 parent: Berserker
-grand_parent: Archetypes
-has_children: true
+grand_parent: Classes
 ---
 
 
 
-# Ballistic Approach
+# Ballistic Approach 
 
-<img src='../../../../zzImages/Classes/berserker_ballistic.png' style='float:right; width:300px;'>
+REWORKED CONTENT
+{: .label .label-blue }
+
+<img src='../../../zzImages/Classes/berserker_ballistic.png' style='float:right; width:300px;'>
 
 For many, rushing an opponent with guns blazing is a last resort. For Berserkers of the Ballistic Approach, this isn't a last resort; it's the primary plan. Leading up a melee charge with a blaster and pure unbridled rage, the berserker never lets an empty gun diminish their fury.
 
 > **Bold Text** within features signifies a change
-
-REWORKED CONTENT
-{: .label .label-blue }
 
 ## Firestorm 
 ***Ballistic Approach:** 3rd level* <br>
@@ -26,14 +25,7 @@ You gain proficiency in martial blasters with the burst or rapid property. Addit
 - When you use a blaster as an improvised weapon, you are considered proficient with it.
 - **When affected by your Reckless Attack feature, you additionally cause creatures affected by a saving throw against the burst or rapid property of a weapon you control to have disadvantage against the saving throw.**
 
-REWORKED CONTENT
-{: .label .label-blue }
-
 ## Explosive
-
-REWORKED CONTENT
-{: .label .label-blue }
-
 ***Ballistic Approach:** 3rd and 9th level* <br>
 While raging, you gain the following benefits:
 - **When you roll a 1 or 2 on a damage die for an attack made with a blaster weapon, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2.**

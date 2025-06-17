@@ -1,6 +1,7 @@
 ---
 title: Scholar
 parent: Classes
+has_children: true
 ---
 
 ### Discoveries

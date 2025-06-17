@@ -1,15 +1,14 @@
 ---
 title: Cybertech Engineering
 parent: Engineer
-grand_parent: Archetypes
-has_children: true
+grand_parent: Classes
 ---
 
 > This version of Cybertech has some typo and minor fixes over the officially released one found [here](https://sw5e.com/characters/archetypes/Cybertech%20Engineering). The most major change is to the Explosive Amplifier Mk II and III modifications.
 
 # Cybertech Engineering
 
-<img src='../../../../zzImages/Classes/Cybertech.png' style='float:right; width:300px;'>
+<img src='../../../zzImages/Classes/Cybertech.png' style='float:right; width:300px;'>
 
 Those engineers who choose the Cybertech Engineering discipline focus on the ability to enhance their primary wristpad in order to augment and empower their techcasting abilities.
 

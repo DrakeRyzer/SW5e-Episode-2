@@ -1,11 +1,13 @@
 ---
 title: Kov'nyn Order
 parent: Monk
-grand_parent: Archetypes
-has_children: true
+grand_parent: Classes
 ---
 
 # Kov'nyn Order
+
+NEW CONTENT
+{: .label .label-green }
 
 <img src='../../../zzImages/Classes/KovnynOrder.png' style='float:right; width:350px;'>
 

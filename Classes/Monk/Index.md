@@ -1,6 +1,6 @@
 ---
 title: Monk
-parent: Archetypes
+parent: Classes
 has_children: true
 ---
 

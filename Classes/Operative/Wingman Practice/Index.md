@@ -1,15 +1,15 @@
 ---
 title: Wingman Practice
 parent: Operative
-grand_parent: Archetypes
-has_children: true
+grand_parent: Classes
 ---
 
 <img src='../../../zzImages/Classes/Wingman.png' style='float:right; width:250px;'>
 
-# **(STILL WIP)**
-
 # Wingman Practice
+
+WORK IN PROGRESS CONTENT
+{: .label .label-red }
 
 Those operatives who choose the Wingman Practice only feel truly alive in the cockpit of a starfighter or speeder, where they can pit themselves against their peers in a life-and-death contest to see who is the better pilot. For some Wingmen, being adept at flying in tight formations with your allies, working together with them to achieve your goals and using your vehicle to shield others from harm is enough. The best Wingmen learn to stop enemies without destroying them, but those Wingmen are rare, and their exploits are legendary.
 

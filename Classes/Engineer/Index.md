@@ -1,6 +1,6 @@
 ---
 title: Engineer
-parent: Archetypes
+parent: Classes
 has_children: true
 ---
 
