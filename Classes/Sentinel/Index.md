@@ -1,6 +1,6 @@
 ---
 title: Sentinel
-parent: Class Reworks
+parent: Classes
 ---
 
 ```The current Battle Readiness feature to be replaced with Iron Sentinel's current Follow Through feature (also to be replaced, as noted below) and renamed to Force Readiness.```

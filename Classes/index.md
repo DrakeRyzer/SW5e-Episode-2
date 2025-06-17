@@ -1,5 +1,5 @@
 ---
-title: Class Reworks
+title: Classes
 has_children: true
 ---
 

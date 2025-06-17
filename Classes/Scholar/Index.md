@@ -1,6 +1,6 @@
 ---
 title: Scholar
-parent: Class Reworks
+parent: Classes
 ---
 
 ### Discoveries
