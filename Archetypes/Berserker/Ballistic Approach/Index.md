@@ -15,13 +15,17 @@ For many, rushing an opponent with guns blazing is a last resort. For Berserkers
 
 > **Bold Text** within features signifies a change
 
+REWORKED CONTENT {: .label .label-blue }
+
 ## Firestorm 
-***Ballistic Approach:** 3rd level* <br> REWORKED CONTENT {: .label .label-blue }
+***Ballistic Approach:** 3rd level* <br>
 You gain proficiency in martial blasters with the burst or rapid property. Additionally, you've learned to use ranged weapons with untold fury. While wielding a blaster with which you are proficient, you gain the following benefits:
 
 - You can use your choice of Strength or Dexterity modifier for the attack and damage rolls of blaster weapons against targets within 30 feet of you. You must use the same modifier for both rolls. **Additionally, at 9th level this range increases to within 60 feet of you and at 14th level this increases to within 90 feet of you.**
 - When you use a blaster as an improvised weapon, you are considered proficient with it.
 - **When affected by your Reckless Attack feature, you additionally cause creatures affected by a saving throw against the burst or rapid property of a weapon you control to have disadvantage against the saving throw.**
+
+REWORKED CONTENT {: .label .label-blue }
 
 ## Explosive
 ***Ballistic Approach:** 3rd and 9th level* <br> REWORKED CONTENT {: .label .label-blue }
