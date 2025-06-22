@@ -1,5 +1,5 @@
 ---
-title: 1-Classes
+title: Classes
 has_children: true
 ---
 
