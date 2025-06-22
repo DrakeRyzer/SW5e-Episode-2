@@ -1,4 +1,5 @@
-title: TitleHere
+---
+title: Archetypes
 has_children: true
 nav_order: 0
 ---
