@@ -25,7 +25,7 @@ The attack is made with disadvantage, regardless of circumstance, and you consum
 If you attack with a Rapid weapon as part of the Attack action on your turn, you can use a bonus action immediately after to make a ranged attack with it. This attack deals damage equal on a hit, instead of 2d4.
 
 ### Double v1
-If you attack with a double weapon as part of the Attack action on your turn, you can use a bonus action immediately after to make another melee attack with it. ***The bonus action attack requires two hands to use and deals 1d4 damage on a hit, instead of its normal weapon damage die.***
+If you attack with a double weapon as part of the Attack action on your turn, you can use a bonus action immediately after to make another melee attack with it. ***The bonus action attack requires two hands to use and deals 1d4 damage on a hit, instead of its normal weapon damage die. You don’t add your ability modifier to the attack roll of the bonus attack, unless that modifier is negative.***
 
 ### Double v2
-If you attack with a double weapon as part of the Attack action on your turn, you can use a bonus action immediately after to make another melee attack with it. ***The bonus action attack requires two hands to use and is made with disadvantage, regardless of circumstance.***
+If you attack with a double weapon as part of the Attack action on your turn, you can use a bonus action immediately after to make another melee attack with it. ***The bonus action attack requires two hands to use and is made with disadvantage, regardless of circumstance. You don’t add your ability modifier to the attack roll of the bonus attack, unless that modifier is negative.***
