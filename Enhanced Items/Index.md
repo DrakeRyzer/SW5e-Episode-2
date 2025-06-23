@@ -20,6 +20,8 @@ If you're searching for Mandalorian themed items, check the [EC Mandalorian Code
 |<font style="color:orange">**Legendary**</font>|(Exceptional)|(Lethal)|(Master)|(Flawless)|(Mk V)|
 |<font style="color:red">**Artifact**</font>|(Champion)|(Devastating)|(Ancient)|(Perfect)|(Mk VI)|
 
+#### Suggested DCs
+
 |Rarity|Reusable DC|Consumable DC|
 |:--|:--:|:--:|
 |<font style="color:gray">**Standard**</font>|13|13|

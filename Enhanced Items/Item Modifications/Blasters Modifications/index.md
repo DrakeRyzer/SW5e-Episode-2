@@ -1,6 +1,6 @@
 ---
-title: Modifiable Blasters
-parent: Modifiable Items
+title: Blasters Modifications
+parent: Item Modifications
 grand_parent: Enhanced Items
 ---
 

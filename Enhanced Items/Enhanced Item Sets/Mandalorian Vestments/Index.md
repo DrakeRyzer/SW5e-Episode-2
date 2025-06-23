@@ -15,7 +15,7 @@ While you are attuned to and in contact with multiple Enhanced Items with this n
   - You gain advantage on Wisdom (Perception) checks that rely on sight within 60 feet. If you would already have this effect, increase the range to 120 feet. 
   - This set grants a +1 bonus to AC.
 - **3 Pieces: At least one item of <font style="color:cyan">prototype</font> rarity or rarer:**
-  - You gain an additional attunement slot as well as advantage on Intelligence (Investigation) checks within 5 feet.
+  - You gain an additional Attunement slot as well as advantage on Intelligence (Investigation) checks within 5 feet.
   - You have resistance to kinetic and energy damage from Unenhanced sources.
 - **4 Pieces: At least one item of <font style="color:fuchsia">advanced</font> rarity or rarer:**
   - Damage that you take from weapons is reduced by your proficiency bonus. If this would reduce the damage to 0, the damage is instead reduced to 1.

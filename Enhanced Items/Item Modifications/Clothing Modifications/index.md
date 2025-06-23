@@ -1,6 +1,6 @@
 ---
-title: Modifiable Clothing
-parent: Modifiable Items
+title: Clothing Modifications
+parent: Item Modifications
 grand_parent: Enhanced Items
 ---
 
@@ -8,7 +8,7 @@ grand_parent: Enhanced Items
 
 ### Cloak, Modifiable (Standard)
 *Clothing (shoulders), <font style="color:gray">standard</font>/<font style="color:lime">premium</font>/<font style="color:cyan">prototype</font>/<font style="color:fuchsia">advanced</font>/<font style="color:orange">legendary</font>/<font style="color:red">artifact</font>*
-<br> *Requires attunement*
+<br> *Requires Attunement*
 
 This modifiable clothing comes with four vacant Modification Slots for clothing modifications. It can house modifications of equal or lesser rarity. 
 
@@ -16,7 +16,7 @@ Addtionally, if the item is of prototype or advanced rarity it comes with a sing
 
 ### Pants, Modifiable (Standard)
 *Clothing (body), <font style="color:gray">standard</font>/<font style="color:lime">premium</font>/<font style="color:cyan">prototype</font>/<font style="color:fuchsia">advanced</font>/<font style="color:orange">legendary</font>/<font style="color:red">artifact</font>*
-<br> *Requires attunement*
+<br> *Requires Attunement*
 
 This modifiable clothing comes with four vacant Modification Slots for clothing modifications. It can house modifications of equal or lesser rarity. 
 
@@ -24,7 +24,7 @@ Addtionally, if the item is of prototype or advanced rarity it comes with a sing
 
 ### Tunic, Modifiable (Standard)
 *Clothing (legs), <font style="color:gray">standard</font>/<font style="color:lime">premium</font>/<font style="color:cyan">prototype</font>/<font style="color:fuchsia">advanced</font>/<font style="color:orange">legendary</font>/<font style="color:red">artifact</font>*
-<br> *Requires attunement*
+<br> *Requires Attunement*
 
 This modifiable clothing comes with four vacant Modification Slots for clothing modifications. It can house modifications of equal or lesser rarity. 
 
