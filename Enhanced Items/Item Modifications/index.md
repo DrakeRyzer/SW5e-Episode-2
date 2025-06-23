@@ -4,6 +4,9 @@ parent: Enhanced Items
 has_children: true
 ---
 
+WORK IN PROGRESS CONTENT
+{: .label .label-red }
+
 # Item Modifications
 While many Enhanced Items come with fixed effects. Other Enhanced Items, called Item Modifications, allow you to customize other items you find on your adventures. 
 
@@ -31,17 +34,11 @@ There are also special kinds of Item Modifications called Augments, detailed [he
 
 Every Item can install up to two Item Modifications, determined by its type, in addition to Augments. Additionaly, installing an Item Modification into an item causes that item to require Attunement if it didn't already.
 
+```Item Modifications are no longer restricted by Rarity, allowing any Rarity of Item Modification to be installed into any Rarity of item (including unenhanced)```
 
+When two or more modifications with the same effects are installed into an item, only the most potent effects apply. For example, if modification A adds +1 to damage and modification B adds +2 to damage, only the +2 to damage applies, giving the weapon +2 bonus to damage rolls rather than +3. Additionally, if modification A instead has +1 to damage and keen 1, it would still apply keen 1 to the item. 
 
-
-
-A Modifiable Item only requires Attunement and is considered enhanced if it has at least one modification installed.
-
-A *Modifiable Item* can only include modifications of the same rarity or a lesser rarity. For instance, if you have a prototype *Modifiable Item*, you can modify it with standard, premium, and prototype modifications. However, the item's nature does not allow it to support higher rarity modifications.
-
-Additionally, when two or more modifications with the same effects are installed into a *Modifiable Item*, only the most potent effects apply. For example, if modification A adds +1 to damage and modification B adds +2 to damage, only the +2 to damage applies, giving the weapon +2 bonus to damage rolls rather than +3. Additionally, if modification A has +1 to damage and keen 1, it would still apply keen 1 to the item. 
-
-However, negative bonuses are still applied, for instance: if modification A has -1 to damage and +1 to attack rolls, the -1 to damage still applies, resulting in +0 to damage with the weapon.
+However, negative bonuses are always applied. For instance: if modification A instead has -1 to damage and +1 to attack rolls and modification B adds +2 to damage, the -1 to damage still applies, resulting in only +1 to damage with the weapon.
 
 ## Installing and Removing Modifications
 
@@ -59,11 +56,6 @@ Installing or Removing an Item Modification takes one hour and requires an abili
 |<font style="color:gray">Standard</font>|10|<font style="color:fuchsia">Advanced</font>|22|
 |<font style="color:lime">Premium</font>|14|<font style="color:orange">Legendary</font>|26|
 |<font style="color:cyan">Prototype</font>|18|<font style="color:red">Artifact</font>|30|
-
-### Upgrading Modifiable Items
-*Modifiable items* can have their rarity upgraded over time. An item can only be upgraded by someone proficient with the appropriate tools, and it can only be upgraded one rarity step at a time. Upgrading a *Modifiable item* takes eight hours and requires an ability check with the appropriate tool. The DC for the check is determined by the rarity to which the *Modifiable item* is being upgraded, as shown in the [*Installation/Removal DC by Rarity*](https://drakeryzer.github.io/DrakeSW5E/Enhanced%20Items/Modifiable%20Items/#installationremoval-dc-by-rarity) table. Additionally, upgrading the rarity of a *Modifiable item* requires an appropriate rare material, as discussed in the *Crafting* downtime activity. Upgrading a *Modifiable item* has no effect on any Item Modifications currently installed in the *Modifiable item*.
-
-On a success, the *Modifiable item* is upgraded to the new rarity. On a failure, the *Modifiable item* is not upgraded, you must wait 24 hours before you can try again, and you must roll a d20. If you roll a 1 on the d20, one currently installed Item Modification is destroyed. If the *Modifiable Item* has more than one Item Modification installed, the GM should determine which Item Modification is destroyed randomly.
 
 ### Variant Rule: Common Modifications
 Modifying equipment is a common expectation of adventurers foraying through the worlds of *Star Wars*. 

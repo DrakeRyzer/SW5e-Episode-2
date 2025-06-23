@@ -50,7 +50,7 @@ Below are all Weapon Groups by Category and Subcategories:
 
 ### Exotic Weapons
 
-Exotic weapons are being removed as a mechanic and instead current exotic weapons will be made into Enhanced items, with Modal being a new type of enhanced item. This includes the Exotic Weapon Training feat.
+Exotic weapons are being removed as a mechanic and instead current exotic weapons will be made into Enhanced items, with Multi-Weapon being a new type of enhanced item. This includes the Exotic Weapon Training feat.
 
 ## Weapon Focus and Weapon Supremacy
 

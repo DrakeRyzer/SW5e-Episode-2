@@ -80,4 +80,4 @@ Type should be whatever item type followed by modification, e.g. Lightweapon mod
 Shield subtype should be specific shield (light shield generator). If valid for any shield, should be (any).
 
 ### Weapons
-Weapon subtype should either be a specific weapon (lightsaber) or category (any blaster). If valid for any weapon, should be (any).
+Weapon subtype should either be a specific weapon (lightsaber) or category (any blaster). If valid for any weapon, should be (any)

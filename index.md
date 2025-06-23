@@ -18,6 +18,9 @@ NEW CONTENT
 REWORKED CONTENT
 {: .label .label-blue }
 
+PLACEHOLDER
+{: .label .label-orange }
+
 --List of Decrypted Lore Pages--
 Player's Handbook Rules
 Archetypes
