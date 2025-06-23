@@ -5,4 +5,4 @@ has_children: true
 # Vehicle Rules
 
 PLACEHOLDER
-{: .label .label-orange }
+{: .label .label-purple }

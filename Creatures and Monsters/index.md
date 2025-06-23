@@ -5,4 +5,4 @@ has_children: true
 # Creatures and Monsters
 
 PLACEHOLDER
-{: .label .label-orange }
+{: .label .label-purple }

@@ -19,7 +19,7 @@ REWORKED CONTENT
 {: .label .label-blue }
 
 PLACEHOLDER
-{: .label .label-orange }
+{: .label .label-purple }
 
 --List of Decrypted Lore Pages--
 Player's Handbook Rules

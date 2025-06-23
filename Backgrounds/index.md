@@ -5,4 +5,4 @@ has_children: true
 # Backgrounds
 
 PLACEHOLDER
-{: .label .label-orange }
+{: .label .label-purple }
