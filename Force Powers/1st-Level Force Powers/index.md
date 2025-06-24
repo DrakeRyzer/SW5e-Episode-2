@@ -56,6 +56,5 @@ You lash out against a creature within range with continual jolts of Force light
 
 <details>
 <summary>What's different?</summary>
-<br>
 Upcasting the power can now increase the damage dealt on subsequent turns instead of just the first turn.
 </details>
