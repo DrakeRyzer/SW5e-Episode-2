@@ -6,11 +6,14 @@ has_children: true
 ---
 # 6th-Level Force Powers
 
-### Serenity	
-6th-level light power
-<br>*Casting Time:* 1 action
-<br>Target: Self
-<br>*Duration:* Up to 10 minutes (Concentration)
+NEW CONTENT
+{: .label .label-green }
+
+## Serenity	
+*6th-level light power*
+<br>**Casting Time:** 1 action
+<br>**Target**: Self
+<br>**Duration:** Up to 10 minutes (Concentration)
 
 You endow yourself with endurance and martial serenity fueled by the Force. Until the power ends, you gain the following benefits:
 
@@ -24,12 +27,16 @@ You endow yourself with endurance and martial serenity fueled by the Force. Unti
 
 Immediately after the power ends, you must succeed on a DC 15 Constitution saving throw or suffer one level of exhaustion.
 
+REWORKED CONTENT
+{: .label .label-blue }
 
-### Rage (revised)	
-6th-level dark power
-<br>*Casting Time:* 1 action
-<br>Target: Self
-<br>*Duration:* Up to 10 minutes (Concentration)
+<div style="margin-top:-30px;"></div>
+
+## Rage
+*6th-level dark power*
+<br>**Casting Time:** 1 action
+<br>**Target:** Self
+<br>**Duration:** Up to 10 minutes (Concentration)
 
 You endow yourself with endurance and martial prowess fueled by the Force. Until the power ends, you can only cast at-will powers, and you gain the following benefits:
 
