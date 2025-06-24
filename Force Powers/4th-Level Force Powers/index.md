@@ -6,9 +6,9 @@ has_children: true
 ---
 # 4th-Level Force Powers
 
-### name	
+## name	
 *4th-level xxx power*
-<br>*Prerequiste:* 
-<br>*Casting Time:* 
-<br>*Range:* 
-<br>*Duration:* 
+<br>**Prerequiste:** 
+<br>**Casting Time:** 
+<br>**Range:** 
+<br>**Duration:** 
