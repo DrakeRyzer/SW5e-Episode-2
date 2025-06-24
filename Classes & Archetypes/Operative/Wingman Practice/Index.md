@@ -1,7 +1,7 @@
 ---
 title: Wingman Practice
 parent: Operative
-grand_parent: Classes
+grand_parent: Classes & Archetypes
 ---
 
 <img src='../../../zzImages/Classes/Wingman.png' style='float:right; width:250px;'>

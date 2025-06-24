@@ -1,7 +1,7 @@
 ---
 title: Cybertech Engineering
 parent: Engineer
-grand_parent: Classes
+grand_parent: Classes & Archetypes
 ---
 
 > This version of Cybertech has some typo and minor fixes over the officially released one found [here](https://sw5e.com/characters/archetypes/Cybertech%20Engineering). The most major change is to the Explosive Amplifier Mk II and III modifications.

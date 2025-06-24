@@ -1,7 +1,7 @@
 ---
 title: Ballistic Approach
 parent: Berserker
-grand_parent: Classes
+grand_parent: Classes & Archetypes
 ---
 
 

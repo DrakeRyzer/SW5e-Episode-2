@@ -1,6 +1,6 @@
 ---
 title: Berserker
-parent: Classes
+parent: Classes & Archetypes
 has_children: true
 ---
 

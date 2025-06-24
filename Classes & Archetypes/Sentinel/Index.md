@@ -1,6 +1,6 @@
 ---
 title: Sentinel
-parent: Classes
+parent: Classes & Archetypes
 has_children: true
 ---
 

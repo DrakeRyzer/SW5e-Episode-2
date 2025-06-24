@@ -1,6 +1,6 @@
 ---
 title: Operative
-parent: Classes
+parent: Classes & Archetypes
 has_children: true
 ---
 

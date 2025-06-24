@@ -1,7 +1,7 @@
 ---
 title: Kov'nyn Order
 parent: Monk
-grand_parent: Classes
+grand_parent: Classes & Archetypes
 ---
 
 # Kov'nyn Order
