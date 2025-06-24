@@ -1,7 +1,7 @@
 ---
 title: At-will Force Powers
 parent: Force Powers
-
+nav_order: 1
 has_children: true
 ---
 # At-will Force Powers
