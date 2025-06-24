@@ -43,5 +43,12 @@ Guided by the Force, you make one attack with a lightweapon or vibroweapon you a
 
 <details>
 <summary><font style="color:red">Dev Comments</font></summary>
+{: .note }
+Taken from the DND2024's True Strike.
+
+</details>
+
+<details>
+<summary><font style="color:red">Dev Comments</font></summary>
 Taken from the DND2024's True Strike.
 </details>
