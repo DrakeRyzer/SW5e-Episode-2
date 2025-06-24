@@ -22,8 +22,6 @@ In response to being attacked, you attempt to deflect the attack with the Force.
 
 **Force Potency.** When you cast this power using a force slot of 2nd level or higher, the damage reduction increases by 1d10 for each slot level above 1st.
 
-# At-will Force Powers
-
 NEW CONTENT
 {: .label .label-green }
 
@@ -45,7 +43,7 @@ REWORKED CONTENT
 
 <div style="margin-top:-30px;"></div>
 
-### Sustained Lightning (rework)	
+### Sustained Lightning
 *1st-level dark power*
 <br>*Prerequiste:* Shock
 <br>*Casting Time:* 1 action
