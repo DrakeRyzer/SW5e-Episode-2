@@ -52,7 +52,7 @@ REWORKED CONTENT
 
 You lash out against a creature within range with continual jolts of Force lightning. Make a ranged force attack against that creature. On a hit, the target takes 1d12 lightning damage, and on each of your turns for the duration, you can use your action to deal 1d12 lightning damage to the target automatically. The power ends if you use your action to do anything else. The power also ends if the target ends its turn outside the power’s range or if it has total cover from you.
 
-<span style="background-color: #2869E6">**Force Potency.** When you cast this power with a force slot of 3rd level or higher, the initial and subsequent damage increases by 1d12 for every two slot levels above 1st.</span>
+**Force Potency.** When you cast this power with a force slot of 3rd level or higher, the initial and subsequent damage increases by 1d12 for every two slot levels above 1st.
 
 <details>
 <summary><font style="color:red">Dev Comments</font></summary>
