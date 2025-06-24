@@ -5,9 +5,11 @@ has_children: true
 
 # Variant Rules
 
-## Malleable Species ASIs 
 NEW CONTENT
 {: .label .label-green }
+
+## Malleable Species ASIs 
+
 
 The Ability Score Increase trait in a species reflects an archetypal bit of excellence in the adventurers of this kind in the Star Wars universe. For example, if you’re a zabrak, your Constitution increases by 2, because zabrak heroes in Star Wars are often exceptionally tough. This increase doesn’t apply to every zabrak, just to zabrak adventurers, and it exists to reinforce an archetype. That reinforcement is appropriate if you want to lean into the archetype, but it’s unhelpful if your character doesn’t conform to the archetype.
 
