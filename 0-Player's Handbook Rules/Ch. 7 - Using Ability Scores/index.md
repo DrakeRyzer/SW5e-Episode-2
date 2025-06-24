@@ -19,5 +19,5 @@ REWORKED CONTENT
 
 <details>
 <summary><font style="color:red">Dev Comments</font></summary>
-The "Minimum Roll Threshold" rule is being removed.  All features that cite this rule will be adjusted on a case-by-case basis.
+The "Minimum Roll Threshold" rule is being removed from the base game, treated now as a [Variant Rule]().  All features that cite this rule will be adjusted on a case-by-case basis.
 </details>
