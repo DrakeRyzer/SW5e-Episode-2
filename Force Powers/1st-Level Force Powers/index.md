@@ -55,6 +55,6 @@ You lash out against a creature within range with continual jolts of Force light
 **Force Potency.** When you cast this power with a force slot of 3rd level or higher, the initial and subsequent damage increases by 1d12 for every two slot levels above 1st.
 
 <details>
-<summary><font style="color:gray">*Dev Comments*</font></summary>
+<summary><font style="color:grey">Dev Comments</font></summary>
 Upcasting the power can now increase the damage dealt on subsequent turns instead of just the first turn.
 </details>
