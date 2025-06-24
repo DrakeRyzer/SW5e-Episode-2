@@ -9,7 +9,7 @@ has_children: true
 REWORKED CONTENT
 {: .label .label-blue }
 
-<div style="margin-top:-40px;"></div>
+<div style="margin-top:-30px;"></div>
 
 ### Force Reflect	
 *1st-level universal power*
@@ -27,7 +27,7 @@ In response to being attacked, you attempt to deflect the attack with the Force.
 NEW CONTENT
 {: .label .label-green }
 
-<div style="margin-top:-40px;"></div>
+<div style="margin-top:-30px;"></div>
 
 ### Force Returning
 *1st-level universal power*
@@ -43,7 +43,7 @@ You touch can up to two lightweapons or vibroweapons you are wielding. For the d
 REWORKED CONTENT
 {: .label .label-blue }
 
-<div style="margin-top:-40px;"></div>
+<div style="margin-top:-30px;"></div>
 
 ### Sustained Lightning (rework)	
 *1st-level dark power*
