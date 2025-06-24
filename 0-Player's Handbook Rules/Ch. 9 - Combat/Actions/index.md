@@ -1,5 +1,5 @@
 ---
-title: Actions
+title: Ch. 9 - Combat
 parent: Combat
 grand_parent: Player's Handbook Rules
 ---
