@@ -6,9 +6,9 @@ has_children: true
 ---
 # 2nd-Level Force Powers
 
-### name	
+## name	
 *2nd-level xxx power*
-<br>*Prerequiste:* 
-<br>*Casting Time:* 
-<br>*Range:* 
-<br>*Duration:* 
+<br>**Prerequiste:** 
+<br>**Casting Time:** 
+<br>**Range:** 
+<br>**Duration:** 
