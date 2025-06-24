@@ -1,6 +1,6 @@
 ---
-title: Ch. 9 - Combat
-parent: Combat
+title: Actions
+parent: Ch. 9 - Combat
 grand_parent: Player's Handbook Rules
 ---
 
