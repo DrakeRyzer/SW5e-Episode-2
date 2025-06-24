@@ -6,6 +6,11 @@ has_children: true
 ---
 # 1st-Level Force Powers
 
+REWORKED CONTENT
+{: .label .label-blue }
+
+<div style="margin-top:-40px;"></div>
+
 ### Force Reflect	
 *1st-level universal power*
 <br>*Prerequiste:* Saber Reflect
@@ -19,6 +24,11 @@ In response to being attacked, you attempt to deflect the attack with the Force.
 
 # At-will Force Powers
 
+NEW CONTENT
+{: .label .label-green }
+
+<div style="margin-top:-40px;"></div>
+
 ### Force Returning
 *1st-level universal power*
 <br>*Prerequisite:* Saber Throw
@@ -29,6 +39,11 @@ In response to being attacked, you attempt to deflect the attack with the Force.
 You touch can up to two lightweapons or vibroweapons you are wielding. For the duration, the weapons have the returning and thrown (30/90) properties for you.
 
 **Force Potency.** When you cast this power using a force slot of 2nd level or higher, the thrown property's range increases by 30/90 feet for each slot level above 1st.
+
+REWORKED CONTENT
+{: .label .label-blue }
+
+<div style="margin-top:-40px;"></div>
 
 ### Sustained Lightning (rework)	
 *1st-level dark power*
