@@ -31,7 +31,7 @@ REWORKED CONTENT
 
 <div style="margin-top:-30px;"></div>
 
-## True Strike (Rework)	
+## True Strike
 *At-will universal power*
 <br>**Casting Time:** 1 action
 <br>**Range:** Self
