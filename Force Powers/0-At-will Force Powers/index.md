@@ -11,6 +11,24 @@ REWORKED CONTENT
 
 <div style="margin-top:-30px;"></div>
 
+## Guidance
+*At-will light power*
+<br>**Casting Time:** 1 action
+<br>**Range:** Touch
+<br>**Duration:** Concentration, up to 1 minute
+
+You touch one willing creature. Once before the power ends, the target can roll a d4 and add the number rolled to one ability check of its choice. The power then ends.
+
+<details>
+<summary><font style="color:red">Dev Comments</font></summary>
+Removed guidance's scaling at higher levels.
+</details>
+
+REWORKED CONTENT
+{: .label .label-blue }
+
+<div style="margin-top:-30px;"></div>
+
 ## Saber Throw
 *At-will universal power*
 <br>**Casting Time:** 1 action
