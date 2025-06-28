@@ -9,8 +9,7 @@ SW5e's Decrypted Lore is the home for all content slated for possible release, m
 
 If you encounter any typos, bugs, or pages located in the wrong sections, please let DrakeRyzer know on the SW5e Discord in the **#dev-discussion** channel<br>(please provide screenshots and links to the page you're encountering the issue).
 
-WORK IN PROGRESS CONTENT
-{: .label .label-red }
+The following labels tell you if the content is new, reworked, is a word in progress, or if it's a placeholder for future content.
 
 NEW CONTENT
 {: .label .label-green }
@@ -18,24 +17,17 @@ NEW CONTENT
 REWORKED CONTENT
 {: .label .label-blue }
 
+WORK IN PROGRESS CONTENT
+{: .label .label-red }
+
 PLACEHOLDER
 {: .label .label-purple }
 
---List of Decrypted Lore Pages--
-Player's Handbook Rules
-Archetypes
-Classes
-Tech Powers
-Force Powers
-Manuvers
-Equipment 
-Enhanced Items
-Starship Rules
-Starship Premades
-Variant Rules
-Creatures and Monsters
-Community Resources
-Species
-Backgrounds
-Customization Options
+# New Content & Changes
 
+The following items are new to Decrypted Lore.
+
+- Everything
+- 
+- 
+- 
