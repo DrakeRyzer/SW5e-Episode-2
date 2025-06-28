@@ -1,6 +1,6 @@
 ---
 title: Damage and Healing
-parent: Combat
+parent: Ch. 9 - Combat
 grand_parent: Player's Handbook Rules
 ---
 

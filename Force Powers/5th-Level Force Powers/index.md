@@ -6,12 +6,17 @@ has_children: true
 ---
 # 5th-Level Force Powers
 
-### Telekinesis (rework)	
+REWORKED CONTENT
+{: .label .label-blue }
+
+<div style="margin-top:-30px;"></div>
+
+## Telekinesis
 *5th-level universal power*
-<br>*Prerequiste:* Force Throw
-<br>*Casting Time:* 1 action
-<br>*Range:* 90 feet
-<br>*Duration:* Concentration, up to 10 minutes
+<br>**Prerequiste:** Force Throw
+<br>**Casting Time:** 1 action
+<br>**Range:** 90 feet
+<br>**Duration:** Concentration, up to 10 minutes
 
 You gain the ability to move or manipulate creatures, vehicles and objects with the Force. When you cast this power, and as your action each round for the duration, you can exert your will on one creature, vehicle and object that you can see within range. You can affect the same target round after round, or choose a new one at any time. If you switch targets, the prior target is no longer affected by the power.
 
