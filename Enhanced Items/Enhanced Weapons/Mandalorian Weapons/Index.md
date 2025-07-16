@@ -26,7 +26,7 @@ This weapon gains the Defensive 1 property. Additionally, if an attack would be 
 
 *Capable of firing yellow or blue bolts of plasma, the WESTAR-35 was the favored weapon of numerous Mandalorians.*
 
-You gain a +1 bonus to attack and damage rolls with this Enhanced weapon, and when you hit a creature with a ranged weapon attack using this weapon, it deals an extra 1d6 energy damage.
+You gain a +1 bonus to attack and damage rolls with this Enhanced weapon, and when you hit a creature with a ranged weapon attack using this weapon, it deals an extra 1d4 energy damage.
 
 ### Supercommando Vambrace
 *Weapon [(wrist launcher)](https://sw5e.com/loot/weapons/?search=Wrist%20launcher), <font style="color:fuchsia">advanced</font>, [Mandalorian Vestments](https://drakeryzer.github.io/DrakeSW5E/Mandalorian%20Codex/Mandalorian%20Equipment/Index.html#mandalorian-vestments)*
