@@ -73,8 +73,8 @@ Focus subtypes include the following.
 ### Genetic Mutations
 Genetic mutations do not exist yet, I am sorry
 
-### Item Modifications
-Type should be whatever item type followed by modification, e.g. Lightweapon modification, Armor modification, etc. Item modification for augments. Subtype subtype should be the slot it fills, such as (lens) or (augment).
+### Item Mods
+Type should be whatever item type followed by Mod, e.g. Lightweapon Mod, Armor Mod, etc. Item Mod for augments. Subtype subtype should be the slot it fills, such as (lens) or (augment).
 
 ### Shields
 Shield subtype should be specific shield (light shield generator). If valid for any shield, should be (any).

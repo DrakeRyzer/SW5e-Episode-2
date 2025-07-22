@@ -22,6 +22,6 @@ While you are attuned to and in contact with multiple Enhanced Items with this n
   - You have resistance to kinetic and energy damage from Enhanced sources.
 
 ### Mandalorian Vestments Augmentation
-*Item Modification (Augment), <font style="color:lime">premium</font> <br> Requires Attunement*
+*Item Mod (Augment), <font style="color:lime">premium</font> <br> Requires Attunement*
 
 This augment adds the [Mandalorian Vestments](https://drakeryzer.github.io/DrakeSW5E/Mandalorian%20Codex/Mandalorian%20Equipment/Index.html#mandalorian-vestments) property to the installed item. The item is treated as its rarity for the purpose of meeting the requirements of [Mandalorian Vestments](https://drakeryzer.github.io/DrakeSW5E/Mandalorian%20Codex/Mandalorian%20Equipment/Index.html#mandalorian-vestments) effects.

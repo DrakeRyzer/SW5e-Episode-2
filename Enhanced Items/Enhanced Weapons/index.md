@@ -16,4 +16,4 @@ Additionally, once on your turn (no action required), the next attack you make b
 
 You gain a +1 bonus to attack and damage rolls with this Enhanced weapon, and when you hit a creature with a ranged weapon attack using this weapon, it deals an extra 1d8 energy damage.
 
-This weapon also comes with two vacant modification slots for blaster modifications of advanced rarity or lower.
+This weapon also comes with two vacant Mod slots for blaster Mods of advanced rarity or lower.

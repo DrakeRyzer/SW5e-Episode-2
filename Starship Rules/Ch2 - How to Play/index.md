@@ -1,4 +1,12 @@
-## Facing (needs rewording)
+---
+title: Ch2 - How to Play
+parent: Starship Rules
+has_children: true
+nav_order: 2
+---
+
+WORK IN PROGRESS CONTENT
+{: .label .label-red }## Starship Facing (needs rewording)
 If you want the precision of knowing which way a creature is facing, consider using this optional rule. Whenever a creature ends its move, it can change its facing. Each creature has a front arc (the direction it faces), left and right side arcs, and a rear arc. A creature can also change its facing as a reaction when any other creature moves.
 
 A creature can normally target only creatures in its front or side arcs. It can't see into its rear arc. This means an attacker in the creature's rear arc makes attack rolls against it with advantage.
@@ -10,5 +18,3 @@ Feel free to determine that not all creatures have every type of arc. For exampl
 On hexes, determining the front, rear, and side arcs requires more judgment. Pick one side of the creature's space and create a wedge shape expanding out from there for the front arc, and another on the opposite side of the creature for the rear arc. The remaining spaces to either side of the creature are its side arcs.
 
 A square or hex might be in more than one arc, depending on how you draw the lines from a creature's space. If more than half of a square or hex lies in one arc, it is in that arc. If it is split exactly down the middle, use this rule: if half of it lies in the front arc, it's in that arc. If half of it is in a side arc and the rear arc, it's in the side arc.
-
-Source: DMG, page 252

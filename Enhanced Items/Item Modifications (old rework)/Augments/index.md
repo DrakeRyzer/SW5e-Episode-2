@@ -1,14 +1,14 @@
 ---
-title: Augments
-parent: Item Mods
+title: Augments (old rework)
+parent: Item Modifications (old rework)
 grand_parent: Enhanced Items
 ---
 
 # Augments
 
-Augments are a special kind of Mod, intended to confer universal features and effects across all items, such as an increase to an ability score or augmenting a class feature.
+Augments are a special kind of modification, intended to confer universal features and effects across all items, such as an increase to an ability score or augmenting a class feature.
 
-You can install up to two Augments into any item, in addition to other Item Mods, and installing an augment into an item causes that item to require Attunement if it didn't already. Additionally, you cannot have two of the same augment in a single item, but you can have multiples of an augment affecting you from different items.
+You can install up to two Augments into any item, in addition to other Item Modifications, and installing an augment into an item causes that item to require Attunement if it didn't already. Additionally, you cannot have two of the same augment in a single item, but you can have multiples of an augment affecting you from different items.
 
 #### Augment Slots by Rarity
 

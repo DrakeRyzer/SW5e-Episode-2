@@ -66,3 +66,12 @@ Removing a cybernetic takes half the time and credits it would to install, and r
 On a success, the cybernetic is removed and salvaged. On a failure, the cybernetic is removed but destroyed.
 
 Additionally, when removing a replacement cybernetic, the recipient loses the ability to use the missing part until it receives another suitable replacement.
+
+## Biotech Engineers
+A Biotech Engineering Engineer uses the following rules when using Enhanced Cybernetics:
+- *Enhanced Cybernetics* can be installed past your *Cybernetic Limit* (as described under *Cybernetics*) using your *Total Mods* for this archetype.
+- *Enhanced Cybernetics* still count towards the *Cybernetic Side Effects table*.
+- *Biotech Engineering Cybernetics* do not count towards the *Cybernetic Side Effects table*.
+- Biotech Enginners can apply the effects of both their *Biotech Engineering Cybernetics* as well as *Enhanced Cybernetics* from this book, to a maximum bonus of 3.
+
+A Biotech Engineer using the *Variant: Droids* rule from their archetype, would instead replace Enhanced Cybernetics with Enhanced Droid Customizations for the above rules.

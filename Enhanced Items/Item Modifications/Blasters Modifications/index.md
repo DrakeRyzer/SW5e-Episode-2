@@ -1,14 +1,14 @@
 ---
-title: Blasters Modifications
-parent: Item Modifications
+title: Blasters Mods
+parent: Item Mods
 grand_parent: Enhanced Items
 ---
 
 
 
-## Blaster Modifications
+## Blaster Mods
 
 ### Lightweight Frame
-*Item Modification (blaster), <font style="color:gray">standard</font>*
+*Item Mod (blaster), <font style="color:gray">standard</font>*
 
 The weapon's weight is reduced by half.
