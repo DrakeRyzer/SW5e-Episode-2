@@ -1,5 +1,5 @@
 ---
-title: Item Mods
+title: Item Modifications
 parent: Enhanced Items
 has_children: true
 ---
@@ -7,35 +7,44 @@ has_children: true
 WORK IN PROGRESS CONTENT
 {: .label .label-red }
 
-> **AUTHOR'S NOTE:** For anyone using the old/current Modifiable Items rules, the major change is the removal of Modifiable Items/Chassis'. Instead Mods are items that can just be popped into a matching Item type. Such as an Adegan Crystal (Chipped) can be installed into any lightweapon, rather than specifically only those considered "Modifiable. The rules here go further in-depth, but that is the gist.
+> **AUTHOR'S NOTE:** For anyone using the old/current Modifiable Items rules, the major change is the removal of Modifiable Items/Chassis'. Instead Item Modifications are items that can just be popped into a matching Item type. As an example: an Adegan Crystal (Chipped) can be installed into any lightweapon, rather than specifically only those considered "Modifiable. The rules here go further in-depth, but that is the gist.
 
-# Item Mods
-While many Enhanced Items come with fixed effects. Certain Enhanced Items, called Item Mods, allow you to customize specific types of equipment you find on your adventures such as weapons and armor. 
+# Item Modifications
+While many Unenhanced and Enhanced Items come with fixed effects. Certain Enhanced Items, called Item Modifications, allow you to customize specific types of items you find on your adventures such as weapons and armor. 
 
-## Modifiying Equipment
-Installing an Item Mod requires three things: an Item Mod to install, an item matching its type, and the appropriate tools for those items. An item can only be modified by someone proficient with appropriate tools, as shown in the *Types of Item Mods* table.
+## Modifiying an Item
+In general, all items, mundane or enhanced, come with four Item Modification Slots; some items might have less and will say so in their text. The type of Item Modifications an item has slots for varies by item type, described under Types of Item Modifications.
 
-For example: to install an Accuracy Focus Mk II you require a blaster/ranged weapon as well as Armstech's Implements to install it into.
+Modifying an item requires three things: an Item Modification to install, an item matching its type, and the appropriate tools for those items.
 
-### Types of Item Mods
+An item can only be modified by someone proficient with the appropriate tools, as shown in the *Types of Item Modifications* table.
+
+For example: to install an Accuracy Focus Mk II you require a Blaster Rifle and a set of Armstech's Implements.
+
+### Types of Item Modifications
+The following section details not only the types of Item Modifications but also the Item Modification Slots each item type has.
 
 <img src='../../zzImages/modifiedmandalorian.png' style='float:right; width:400px; scaleX(1);' />
 
-- [Armor]() - Armormech's Implements
-- [Blasters]() - Armstech's Implements
-- [Clothing]() - Synthweaver's Implements
-- [Focus Generators]() - Artificer's Implements
-- [Lightweapons]() - Artificer's Implements
-- [Shields]() - Armormech's Implements
-- [Vibroweapons]() - Armstech's Implements
-- [Wristpads]() - Cybertech's Implements
+- [Armor]() - requires Armormech's Implements
+  - **Overlay Slot:** Improves an armor's general defenses such as increased Armor Class or granting Damage Reduction.
+  - **Underlay Slot:** Improves an armor's  special defenses such as resistance to fire damage or granting a bonus to your Maximum Hit Points.
+  - **Reinforcement Slot:** Grants special effects to the wearer of the armor such as increased movement speed or giving them Darkvision.
+  - **Universal Slot:** Can be used for a single Overlay, Underlay, or Reinforcement Modification.
+- [Ranged Weapons]() - requires Armstech's Implements
+- [Clothing]() - requires Synthweaver's Implements
+- [Focus Generators]() - requires Artificer's Implements
+- [Lightweapons]() - requires Artificer's Implements
+- [Shields]() - requires Armormech's Implements
+- [Vibroweapons]() - requires Armstech's Implements
+- [Wristpads]() - requires Cybertech's Implements
 
-There are also special kinds of Item Mods called Augments, detailed [here]().
+There are also special kinds of Item Modifications called Augments, detailed [here]().
 
 ## Modifiable Item slots
 
 Mods by item type
-The Mods available varies for each individual item type. For instance, a blaster always has four Mod slots—targeting, barrel, core, and attachment and up to two augment slots, determined by its rarity. Augments are universal across all modifiable items, while targeting, barrel, core, and attachment are unique to blasters.
+The Item Modifications available vary for each individual item type. For instance, a Blaster Rifle always has four Item Modification slots—targeting, barrel, core, and attachment and up to two augment slots, determined by its rarity. Augments are universal across all modifiable items, while targeting, barrel, core, and attachment are unique to blasters.
 
 armor Mods
 Armor shares three of their Mod slots with shields, while one is unique.
