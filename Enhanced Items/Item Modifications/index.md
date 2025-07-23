@@ -22,22 +22,50 @@ An item can only be modified by someone proficient with the appropriate tools, a
 For example: to install an Accuracy Focus Mk II you require a Blaster Rifle and a set of Armstech's Implements.
 
 ### Types of Item Modifications
-The following section details not only the types of Item Modifications but also the Item Modification Slots each item type has.
+Item Modifications can be found as mundane or enhanced items. The following section details not only the types of Item Modifications but also the Item Modification Slots each item type has.
 
 <img src='../../zzImages/modifiedmandalorian.png' style='float:right; width:400px; scaleX(1);' />
 
-- [Armor]() - requires Armormech's Implements
+- [Armor Modifications]() - requires Armormech's Implements
   - **Overlay Slot:** Improves an armor's general defenses such as increased Armor Class or granting Damage Reduction.
   - **Underlay Slot:** Improves an armor's  special defenses such as resistance to fire damage or granting a bonus to your Maximum Hit Points.
-  - **Reinforcement Slot:** Grants special effects to the wearer of the armor such as increased movement speed or giving them Darkvision.
-  - **Universal Slot:** Can be used for a single Overlay, Underlay, or Reinforcement Modification.
-- [Ranged Weapons]() - requires Armstech's Implements
-- [Clothing]() - requires Synthweaver's Implements
-- [Focus Generators]() - requires Artificer's Implements
-- [Lightweapons]() - requires Artificer's Implements
-- [Shields]() - requires Armormech's Implements
-- [Vibroweapons]() - requires Armstech's Implements
-- [Wristpads]() - requires Cybertech's Implements
+  - **Reinforcement Slot:** Grants special effects to the wearer of the armor such as increased movement speed or Darkvision.
+  - **Universal Slot:** Can be used for a single Overlay, Underlay or Reinforcement Modification.
+- [Ranged Weapon Modifications]() - requires Armstech's Implements
+  - **Targeting Slot:** Improves a ranged weapon's accuracy such as a bonus to weapon attack rolls.
+  - **Chamber Slot:** Improves a ranged weapon's damage such as a bonus to damage or adding additional damage dice.
+  - **Attachment Slot:** Grants special effects or properties to a ranged weapon such as attaching a glowrod or granting the Rapid property.
+  - **Universal Slot:** Can be used for a single Targeting, Chamber or Attachment Modification.
+- [Clothing Modifications]() - requires Synthweaver's Implements
+  - ** Slot:** Improves a 
+  - ** Slot:** Improves a 
+  - ** Slot:** Grants special effects or properties to a 
+  - **Universal Slot:** Can be used for a single ,  or  Modification.
+- [Focus Generator Modifications]() - requires Artificer's Implements
+  - ** Slot:** Improves 
+  - ** Slot:** Improves 
+  - ** Slot:** Grants 
+  - **Universal Slot:** Can be used for a single ,  or  Modification.
+- [Lightweapon Modifications]() - requires Artificer's Implements
+  - ** Slot:** Improves a lightweapon's accuracy such as a bonus to weapon attack rolls.
+  - ** Slot:** Improves a lightweapon's damage such as a +1 bonus to damage or adding additional damage die.
+  - ** Slot:** Grants special effects or properties to a 
+  - **Universal Slot:** Can be used for a single Targeting, Chamber, or Attachment Modification.
+- [Shield Modifications]() - requires Armormech's Implements
+  - **Targeting Slot:** Improves a ranged weapon's accuracy such as a bonus to attack rolls.
+  - **Chamber Slot:** Improves a ranged weapon's damage such as a +1 bonus to damage or adding additional damage die.
+  - **Attachment Slot:** Grants special effects or properties to a ranged weapon such as attaching a glowrod or granting the Rapid property.
+  - **Universal Slot:** Can be used for a single Targeting, Chamber, or Attachment Modification.
+- [Vibroweapon Modifications]() - requires Armstech's Implements
+  - **Targeting Slot:** Improves a ranged weapon's accuracy such as a bonus to attack rolls.
+  - **Chamber Slot:** Improves a ranged weapon's damage such as a +1 bonus to damage or adding additional damage die.
+  - **Attachment Slot:** Grants special effects or properties to a ranged weapon such as attaching a glowrod or granting the Rapid property.
+  - **Universal Slot:** Can be used for a single Targeting, Chamber, or Attachment Modification.
+- [Wristpad Modifications]() - requires Cybertech's Implements
+  - **Targeting Slot:** Improves a ranged weapon's accuracy such as a bonus to attack rolls.
+  - **Chamber Slot:** Improves a ranged weapon's damage such as a +1 bonus to damage or adding additional damage die.
+  - **Attachment Slot:** Grants special effects or properties to a ranged weapon such as attaching a glowrod or granting the Rapid property.
+  - **Universal Slot:** Can be used for a single Targeting, Chamber, or Attachment Modification.
 
 There are also special kinds of Item Modifications called Augments, detailed [here]().
 
