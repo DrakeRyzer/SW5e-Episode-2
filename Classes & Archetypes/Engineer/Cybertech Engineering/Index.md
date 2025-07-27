@@ -299,9 +299,9 @@ You can use Seeking Subroutine even if you have already used a different Subrout
 
 <div style="margin-top:-10px;"></div>
 
-Once per round when you take cold, fire, or lightning damage from a force or tech power, you gain temporary hit points equal to twice the power's level to potentially absorb the damage (minimum of 1). These points last until the end of your next turn.
+Once per round after you take cold, fire, or lightning damage, you gain temporary hit points equal to twice the power's level (minimum of 1). These points last until the end of your next turn.
 
-If the Mk II upgrade of the affecting amplifier is installed, the temporary hit points gained increase by an amount equal to your Intelligence modifier (minimum of 1).
+Additionally, if you have one of the following modifications installed you gain an additional benefit based on the damage dealt to you. Cryo Amplifier Mk II for cold damage, Electrical Amplifier Mk II for lightning damage and Explosive Amplifier Mk II for fire damage; the temporary hit points gained increase by an amount equal to your Intelligence modifier (minimum of 1).  
 
 ### Twinned Subroutine
 
