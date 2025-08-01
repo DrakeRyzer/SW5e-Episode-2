@@ -38,7 +38,7 @@ You gain a +1 bonus to attack and damage rolls with this Enhanced weapon, and wh
   - When you reload this weapon, you can reload any number of: darts, flechette clips, missiles, or projector canisters, up to the weapon’s reload number as a part of the same action. It can have different ammunition types loaded simultaneously, and you can choose which ammunition you're using as you fire it (no action required). 
 
 - **Charges:** This vambrace has a maximum of 5 charges and regains 1d3 + 2 expended charges after a long rest. While wearing and attuned to them, you can use an action or a reaction to expend 0 or more of its charges to activate one of the following powers or effects, using +8 on tech attack rolls and a tech save DC of 16. A creature with techcasting can use their own bonus to tech attack rolls and tech save DC.
-  - ***Powers:*** *wire line* or *repulser* (0 charges), *energy shield* (1 charges), *greater energy shield* or *wire tow* (2 charges).
+  - ***Tech Powers:*** *wire line* or *repulser* (0 charges), *energy shield* (1 charges), *greater energy shield* or *wire tow* (2 charges).
 
 ## Ammunition
 ---
