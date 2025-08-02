@@ -9,6 +9,16 @@ If you're searching for Mandalorian themed items, check the [EC Mandalorian Code
 
 # Enhanced Item Formatting Guide
 
+While most Enhanced Items have a singular Rarity. Some Enhanced Items, such as Item Modifications, have improved versions at higher rarities that a Game Master can add into their campaign. These items will list their respective rarities as well as the additional effects they might recieve at those rarities. Below is an example Item Modification using this formatting.
+
+### +1 Weapon
+*Generic variant (any weapon, <font style="color:lime">premium</font>/<font style="color:cyan">prototype</font>/<font style="color:fuchsia">advanced</font>*
+<br> *Requires attunement*
+
+You have a +1 bonus to attack and damage rolls made with this enhanced weapon.
+
+**Higher Rarities:** The weapon’s bonus increases to +2 at protoype rarity and +3 at advanced rarity.
+
 #### Naming Conventions
 
 |Rarity|Suffix 1|Suffix 2|Suffix 3|Suffix 4|Suffix 5|
