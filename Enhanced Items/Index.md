@@ -7,17 +7,9 @@ has_children: true
 
 If you're searching for Mandalorian themed items, check the [EC Mandalorian Codex](<../EC Mandalorian Codex>) under [Mandalorian Armory](<../EC Mandalorian Codex/Mandalorian Armory>)
 
-# Enhanced Item Formatting Guide
+## Enhanced Item Formatting Guide
 
-While most Enhanced Items have a singular Rarity. Some Enhanced Items, such as Item Modifications, have improved versions at higher rarities that a Game Master can add into their campaign. These items will list their respective rarities as well as the additional effects they might recieve at those rarities. Below is an example Item Modification using this formatting.
-
-### +1 Weapon
-*Generic variant (any mundane weapon), <font style="color:lime">premium</font>/<font style="color:cyan">prototype</font>/<font style="color:fuchsia">advanced</font>*
-<br> *Requires attunement*
-
-You have a +1 bonus to attack and damage rolls made with this enhanced weapon.
-
-**Higher Rarities:** The weapon’s bonus increases to +2 at protoype rarity (+2 Weapon) and +3 at advanced rarity (+3 Weapon).
+The following table lists the various Suffixes Enhanced Items might use based on their rarity. (Generally only for items with Multiple Rarities, as described below)
 
 #### Naming Conventions
 
@@ -30,6 +22,8 @@ You have a +1 bonus to attack and damage rolls made with this enhanced weapon.
 |<font style="color:orange">**Legendary**</font>|(Exceptional)|(Lethal)|(Master)|(Flawless)|(Mk V)|
 |<font style="color:red">**Artifact**</font>|(Champion)|(Devastating)|(Ancient)|(Perfect)|(Mk VI)|
 
+The following Suggested DCs table shows a Game Master what Saving Throw or Ability Check DC an Enhanced Item might have based on its Rarity. This is only a general rule as some effects might have a higher or lower DC if its effect is weaker or stronger than other items. 
+
 #### Suggested DCs
 
 |Rarity|Reusable DC|Consumable DC|
@@ -40,6 +34,17 @@ You have a +1 bonus to attack and damage rolls made with this enhanced weapon.
 |<font style="color:fuchsia">**Advanced**</font>|16|19|
 |<font style="color:orange">**Legendary**</font>|17|21|
 |<font style="color:red">**Artifact**</font>|18|23|
+
+### Items With Multiple Rarities 
+While most Enhanced Items have a singular Rarity. Some Enhanced Items, such as Item Modifications, have improved versions at higher rarities that a Game Master can add into their campaign. These items will list their respective rarities as well as the additional effects they might recieve at those rarities. Below is an example Item Modification using this Multiple Rarties formatting.
+
+> ### +1 Weapon
+> *Generic variant (any mundane weapon), <font style="color:lime">premium</font>/<font style="color:cyan">prototype</font>/<font style="color:fuchsia">advanced</font>*
+> 
+> You have a +1 bonus to attack and damage rolls made with this enhanced weapon.
+> 
+> **Higher Rarities:** The weapon’s bonus increases to +2 at protoype rarity (+2 Weapon) and +3 at advanced rarity (+3 Weapon).
+
 
 ## Item Type/Subtype
 Subtypes vary based on the item type.
