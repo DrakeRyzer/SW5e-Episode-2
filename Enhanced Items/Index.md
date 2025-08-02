@@ -17,7 +17,7 @@ While most Enhanced Items have a singular Rarity. Some Enhanced Items, such as I
 
 You have a +1 bonus to attack and damage rolls made with this enhanced weapon.
 
-**Higher Rarities:** The weapon’s bonus increases to +2 at protoype rarity and +3 at advanced rarity.
+**Higher Rarities:** The weapon’s bonus increases to +2 at protoype rarity (+2 Weapon) and +3 at advanced rarity (+3 Weapon).
 
 #### Naming Conventions
 
