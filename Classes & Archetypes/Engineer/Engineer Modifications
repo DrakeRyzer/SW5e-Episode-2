@@ -1,1 +1,26 @@
+---
+title: Engineer Modifications
+parent: Engineer
+grand_parent: Classes & Archetypes
+has_children: true
+---
 
+# Engineer Modifications
+
+The following Engineer Modifications are presented in alphabetical order for use with an Engineer's *Infuse Items* feature.
+
+# Modified Defense
+**Prerequisite:* 5th level Engineer*
+**Required Item: A mundane suit of armor or shield*
+
+A creature gains a +1 bonus to Armor Class while wearing (armor) or wielding (shield) this modified item.
+
+This bonus increases to +2 at 9th level and +3 at 13th level. If the modified item already has an Item Modification installed that increases Armor Class, your bonus to AC cannot exceed +3.
+
+# Modified Weapon
+**Prerequisite:* 5th level Engineer*
+**Required Item: A mundane suit of armor or shield*
+
+This enhanced weapon grants a +1 bonus to attack and damage rolls made with it.
+
+This bonus increases to +2 at 9th level and +3 at 13th level. If the modified item already has an Item Modification installed that increases ARMOR CLASS, your bonus to AC cannot exceed +3.
