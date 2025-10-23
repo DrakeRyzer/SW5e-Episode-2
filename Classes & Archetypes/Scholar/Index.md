@@ -5,7 +5,7 @@ has_children: true
 ---
 
 ### Critical Analysis
-***Scholar:** 1st level* <br>
+***1st level Scholar:*** <br>
 You are able to analyze a creature, develop a plan on how to best overcome any potential obstacle, and execute that plan with ruthless efficiency.
 
 **Critical Analysis Modifier:** You use your choice of Intelligence, Wisdom or Charisma for your Critical Analysis ability. You use the chosen ability modifier whenever a feature refers to your Critical Analysis ability. Additionally, you use the chosen ability modifier when making an attack with a Critical Analysis feature or setting the saving throw DC for one.
