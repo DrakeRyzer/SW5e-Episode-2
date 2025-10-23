@@ -23,3 +23,8 @@ Additionally, as a bonus action on your turn, you can analyze a creature you can
 ~~You only need 3 hours of sleep during a long rest to gain its benefits, instead of 6. Additionally, if your long rest would be interrupted, you only need to complete the long rest instead of restarting it to gain its benefits. Lastly, you have advantage on saving throws against exhaustion.~~
 
 ```Running on Fumes is just bad, replace it with X```
+
+#### ~~Rancor's Discipline~~
+~~You can substitute Wisdom or Charisma (chosen when you study this discipline) for Intelligence for your scholar class features, except for other discoveries and Academic Pursuit features.~~
+
+```Rancor's Discipline is being rolled into Critical Analysis itself```
