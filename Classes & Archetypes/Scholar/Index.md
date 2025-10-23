@@ -14,8 +14,8 @@ You are able to analyze a creature, develop a plan on how to best overcome any p
 
 - **Critical Analysis attack modifier** = your proficiency bonus + your Intelligence, Wisdom or Charisma modifier (your choice.
 
-Additionally, as a bonus action on your turn, you can analyze a creature you can see within 60 feet of you. For the next minute, or until you analyze another target, you gain the following benefits:
-- **Analyze Enemy:** When you analyze a hostile creature, your attack and damage rolls made with weapons with the finesse property or blaster weapons against that target may use your Critical Analysis ability modifier instead of Strength or Dexterity. You must use the same modifier for both rolls.
+Additionally, as a bonus action on your turn, you can analyze a creature you can see within 60 feet of you. For the next minute, or until you analyze another target, you gain one of the following benefits:
+- **Analyze Hoatile:** When you analyze a hostile creature, your attack and damage rolls made with weapons with the finesse property or blaster weapons against that target may use your Critical Analysis ability modifier instead of Strength or Dexterity. You must use the same modifier for both rolls.
 - **Analyze Friendly:** When you analyze a friendly creature, the target can end your Critical Analysis on them (no action required) to add your Critical Analysis ability modifier to one attack roll, ability check, or saving throw. Once a friendly creature has benefited from this ability, they can not do so again until they complete a short or long rest.
 
 ### Discoveries
