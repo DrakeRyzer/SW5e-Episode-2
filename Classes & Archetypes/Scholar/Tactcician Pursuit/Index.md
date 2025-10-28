@@ -1,6 +1,5 @@
-
 ---
-title: 
+title: Tactcician Pursuit
 parent: Scholar
 grand_parent: Classes & Archetypes
 has_children: true
