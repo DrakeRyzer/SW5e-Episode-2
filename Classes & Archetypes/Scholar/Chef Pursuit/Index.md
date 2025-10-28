@@ -5,7 +5,6 @@ grand_parent: Classes & Archetypes
 has_children: true
 ---
 
-
 # Chef Pursuit
 
 Without it empires fall, armies dissolve into nothingness, and species are forgotten with the passage of time. A favored tool of assassins, crime lords, and moguls: food. Those scholars who choose the Chef Pursuit know the importance and power that food carries.
