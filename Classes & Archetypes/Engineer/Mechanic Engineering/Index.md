@@ -59,10 +59,8 @@ You have learned to fabricate a customizable vehicle out of various pieces of sc
 When you assemble the vehicle, you determine its appearance and choose one of the following vehicle locomotions. Each vehicle form provides you with a base speed based on your chosen locomotion. When mounted, you use them in place of your own speeds.
 
 ***Vehicle Locomotions***
-- *Aquatic:* 30 feet of movement speed and 60 feet of swimming speed.
-- *Repulsorlift:* 60 feet of movement speed and you ignore difficult terrain.
+- *Repulsorlift:* 50 feet of movement speed and you ignore difficult terrain.
 - *Tracked:* 30 feet of movement speed, you ignore Difficult terrain and take half damage when ramming creatures and objects at least one size smaller than you.
-- *Walker:* 40 feet of movement speed, you ignore objects and creatures at least one size smaller than you when moving and you can jump three times the normal distance, though you can't jump farther than your remaining movement would allow.
 - *Wheeled:* 60 feet of movement speed
 
 Your Custom Vehicle is enhanced, requires attunement, can only be used by you, and counts as a tech focus for your tech powers while you are attuned to it. Your Custom Vehicle has 4 modification slots to which you can install modifications (located at the end of this Archetype), and it gains more at higher levels, as shown in the Modification Slots column of the engineer table. For each modification installed in excess of your proficiency bonus, your tech point maximum is reduced by 1. Over the course of a long rest, you can install, replace, or remove a number of modifications up to your Intelligence modifier (minimum of one).
