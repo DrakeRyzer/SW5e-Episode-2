@@ -8,16 +8,19 @@ has_children: true
 
 ## Force Readiness
 ***Sentinel:** 10th level*<br>
-*You hav learned how to meld your physical self with the Force.* 
+*You have learned how to better intertwine the Force with your martial abilities.* 
 
 When you take the Attack action on your turn, you can spend 2 force points and forgo one of your attacks to cast an at-will force power which requires you to make a melee weapon attack.
 
 ```The current Battle Readiness feature will instead become a new Ideal.```
-### Ideal of the Zealous
-Whenever you take the Attack action on your turn, you can spend 2 force points to cast an at-will power as a bonus action.
 
-Additionally, as a bonus action, you can manifest this ideal in a brief surge of energy. For the next minute, when you take the Dodge or Disengage actions, or use your action to cast a force power, you can make one weapon attack as a bonus action.
+### Ideal of the Zealous
+***Sentinel Ideal***<br>
+Whenever you take the Attack action on your turn, you can spend 2 force points to cast an at-will force power as a bonus action.
+
+Additionally, you can manifest this ideal on your turn in a brief surge of energy (no action required). For the next minute, when you take the Dodge or Disengage actions, or use your action to cast a force power, you can make one weapon attack as a bonus action.
 
 ```Iron Sentinel's current Follow Through feature will be replaced with the following.```
+
 ### Follow Through
 ***Path of Iron:** 13th level*
